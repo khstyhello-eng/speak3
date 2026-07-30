@@ -36,3 +36,15 @@ test('export/import 왕복', () => {
 test('importJson: version 없는 JSON은 거부', () => {
   assert.throws(() => importJson('{"foo":1}'));
 });
+
+test('mergeState: local이 더 최신이면 local의 settings 승리', () => {
+  const local = { ...defaultState(), updatedAt: '2026-07-30T12:00:00Z', settings: { newPerDay: 7 } };
+  const remote = { ...defaultState(), updatedAt: '2026-07-30T09:00:00Z', settings: { newPerDay: 3 } };
+  const m = mergeState(local, remote);
+  assert.equal(m.settings.newPerDay, 7);
+  assert.equal(m.updatedAt, '2026-07-30T12:00:00Z');
+});
+
+test('importJson: records:null는 거부', () => {
+  assert.throws(() => importJson('{"version":1,"records":null}'));
+});

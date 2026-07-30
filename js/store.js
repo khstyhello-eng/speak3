@@ -56,6 +56,6 @@ export function exportJson(state) { return JSON.stringify(state, null, 2); }
 
 export function importJson(text) {
   const s = JSON.parse(text);
-  if (s.version !== 1 || typeof s.records !== 'object') throw new Error('speak3 진도 파일이 아닙니다');
+  if (s.version !== 1 || typeof s.records !== 'object' || s.records === null) throw new Error('speak3 진도 파일이 아닙니다');
   return { ...defaultState(), ...s };
 }
