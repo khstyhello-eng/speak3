@@ -51,3 +51,7 @@ test('normalize: she\'ll 확장', () => {
 test('bestScore: 빈 배열 처리', () => {
   assert.equal(bestScore('anything', []), 0);
 });
+
+test('normalize: constructor 프로토타입 오염 방지', () => {
+  assert.equal(normalize('He is the constructor of the deal.'), 'he is the constructor of the deal');
+});

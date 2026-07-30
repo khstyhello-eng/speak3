@@ -1,6 +1,6 @@
 export const PASS_THRESHOLD = 0.8;
 
-const CONTRACTIONS_MAP = {
+const CONTRACTIONS_MAP = Object.assign(Object.create(null), {
   "i'm": 'i am',
   "it's": 'it is',
   "that's": 'that is',
@@ -38,7 +38,7 @@ const CONTRACTIONS_MAP = {
   'gonna': 'going to',
   'wanna': 'want to',
   'gotta': 'got to',
-};
+});
 
 const SKIP = new Set(['a', 'an', 'the', 'uh', 'um', 'oh', 'ah', 'hey', 'well']);
 
