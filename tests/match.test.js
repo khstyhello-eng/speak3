@@ -35,3 +35,19 @@ test('bestScore: 대안 중 최고 점수', () => {
 });
 
 test('PASS_THRESHOLD는 0.8', () => { assert.equal(PASS_THRESHOLD, 0.8); });
+
+test('normalize: wannabe 보존 (부분문자열 버그 회피)', () => {
+  assert.equal(normalize('He is a corporate wannabe lawyer.'), 'he is a corporate wannabe lawyer');
+});
+
+test('normalize: she\'s 확장', () => {
+  assert.equal(normalize("She's a lawyer."), 'she is a lawyer');
+});
+
+test('normalize: she\'ll 확장', () => {
+  assert.equal(normalize("She'll win."), 'she will win');
+});
+
+test('bestScore: 빈 배열 처리', () => {
+  assert.equal(bestScore('anything', []), 0);
+});
