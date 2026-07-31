@@ -4,6 +4,11 @@
       "id": "drama",
       "title": "미드",
       "sources": ["drama-suits-s01e01", "drama-suits-s01e02"]
+    },
+    {
+      "id": "speech",
+      "title": "연설문",
+      "sources": ["speech-obama-farewell2017", "speech-obama-dnc2004", "speech-watson-heforshe", "speech-queen-covid"]
     }
   ]
 }

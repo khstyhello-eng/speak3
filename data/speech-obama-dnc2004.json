@@ -1,0 +1,359 @@
+{
+  "id": "speech-obama-dnc2004",
+  "sectionId": "speech",
+  "title": "오바마 DNC 기조연설 (2004)",
+  "sentences": [
+    {
+      "id": "speech-obama-dnc2004-001",
+      "en": "On behalf of the great state of Illinois, crossroads of a nation, Land of Lincoln, let me express my deepest gratitude for the privilege of addressing this convention.",
+      "ko": "국가의 교차로이자 링컨의 땅인 위대한 일리노이 주를 대표해, 이 대회에서 연설하게 된 영광에 깊은 감사를 표합니다.",
+      "note": "On behalf of ~로 소속을 밝히고, let me express my deepest gratitude for the privilege of ~ing로 감사를 얹는 공식 행사 인사말의 표준 골격이다.",
+      "contextBefore": "",
+      "contextAfter": "Tonight is a particular honor for me because, let's face it, my presence on this stage is pretty unlikely.",
+      "situationCue": "소속을 대표해 큰 행사의 연단에 처음 섰을 때, 첫 문장으로?",
+      "speaker": "Barack Obama",
+      "tags": [
+        "스몰토크"
+      ],
+      "curated": true
+    },
+    {
+      "id": "speech-obama-dnc2004-002",
+      "en": "Tonight is a particular honor for me because, let's face it, my presence on this stage is pretty unlikely.",
+      "ko": "오늘 밤은 제게 특별한 영광입니다. 솔직히 말해, 제가 이 무대에 서 있다는 것 자체가 좀처럼 있기 어려운 일이니까요.",
+      "note": "Tonight is a particular honor for me는 의례적 인사를 한 단계 올린 표현. let's face it은 \"솔직히 인정하고 넘어가자\"며 청중을 자기편으로 끌어들이는 삽입구다.",
+      "contextBefore": "On behalf of the great state of Illinois, crossroads of a nation, Land of Lincoln, let me express my deepest gratitude for the privilege of addressing this convention.",
+      "contextAfter": "My father was a foreign student, born and raised in a small village in Kenya.",
+      "situationCue": "뜻밖의 자리에 연사로 서게 되어, 그 사실부터 겸손하게 인정하며 시작할 때?",
+      "speaker": "Barack Obama",
+      "tags": [
+        "스몰토크",
+        "자기주장"
+      ],
+      "curated": true
+    },
+    {
+      "id": "speech-obama-dnc2004-003",
+      "en": "But my grandfather had larger dreams for his son.",
+      "ko": "그러나 제 할아버지는 아들에게 더 큰 꿈을 품고 있었습니다.",
+      "note": "have larger dreams for ~는 \"누군가를 위해 더 큰 그림을 그리다\"라는 뜻. 자기소개나 연혁 설명에서 앞 세대의 포부를 꺼낼 때 쓰는 서사 문장이다.",
+      "contextBefore": "His father -- my grandfather -- was a cook, a domestic servant to the British.",
+      "contextAfter": "Through hard work and perseverance my father got a scholarship to study in a magical place, America, that shone as a beacon of freedom and opportunity to so many who had come before.",
+      "situationCue": "자기소개나 회사 연혁을 이야기하며 앞 세대가 품었던 포부를 꺼낼 때?",
+      "speaker": "Barack Obama",
+      "tags": [
+        "스몰토크"
+      ],
+      "curated": true
+    },
+    {
+      "id": "speech-obama-dnc2004-004",
+      "en": "While studying here, my father met my mother.",
+      "ko": "여기서 공부하던 중에 아버지는 어머니를 만났습니다.",
+      "note": "주어가 같을 때 While studying here처럼 분사구문으로 줄이면 이야기가 간결해진다. 자기소개에서 시기와 사건을 한 문장으로 묶는 압축 방식이다.",
+      "contextBefore": "Through hard work and perseverance my father got a scholarship to study in a magical place, America, that shone as a beacon of freedom and opportunity to so many who had come before.",
+      "contextAfter": "She was born in a town on the other side of the world, in Kansas.",
+      "situationCue": "자기소개에서 시기와 사건을 한 문장으로 묶어 짧게 넘어갈 때?",
+      "speaker": "Barack Obama",
+      "tags": [
+        "스몰토크"
+      ],
+      "curated": true
+    },
+    {
+      "id": "speech-obama-dnc2004-005",
+      "en": "My parents shared not only an improbable love, they shared an abiding faith in the possibilities of this nation.",
+      "ko": "제 부모님이 나눈 것은 있을 법하지 않은 사랑만이 아니었습니다. 이 나라의 가능성에 대한 변함없는 믿음도 함께 나눴습니다.",
+      "note": "not only A, (they) B로 이어 붙이는 열거는 뒤에 오는 것을 더 크게 들리게 한다. abiding faith(변함없는 믿음)는 격식 연설의 단골 짝이다.",
+      "contextBefore": "A common dream, born of two continents.",
+      "contextAfter": "They would give me an African name, Barack, or \"blessed,\" believing that in a tolerant America your name is no barrier to success.",
+      "situationCue": "두 사람이 공유한 것을 둘로 나누어, 뒤엣것에 무게를 실어 말할 때?",
+      "speaker": "Barack Obama",
+      "tags": [
+        "설득",
+        "스몰토크"
+      ],
+      "curated": true
+    },
+    {
+      "id": "speech-obama-dnc2004-006",
+      "en": "And yet, I know that on this night they look down on me with great pride.",
+      "ko": "그럼에도 저는 압니다. 오늘 밤 그분들이 큰 자부심으로 저를 내려다보고 계시다는 것을요.",
+      "note": "look down on은 보통 \"얕보다\"지만, 세상을 떠난 이가 주어면 \"하늘에서 지켜보다\"가 된다. And yet은 앞의 상실을 받아 뒤집는 전환어다.",
+      "contextBefore": "They're both passed away now.",
+      "contextAfter": "They stand here, and I stand here today, grateful for the diversity of my heritage, aware that my parents' dreams live on in my two precious daughters.",
+      "situationCue": "먼저 세상을 떠난 분을 기리며, 그분이 지금 지켜보고 계실 거라고 말할 때?",
+      "speaker": "Barack Obama",
+      "tags": [
+        "스몰토크"
+      ],
+      "curated": true
+    },
+    {
+      "id": "speech-obama-dnc2004-007",
+      "en": "Tonight, we gather to affirm the greatness of our Nation -- not because of the height of our skyscrapers, or the power of our military, or the size of our economy.",
+      "ko": "오늘 밤 우리는 이 나라의 위대함을 확인하려 모였습니다. 마천루의 높이나 군사력, 경제 규모 때문이 아니라 말입니다.",
+      "note": "we gather to V는 행사의 목적을 선언하는 개회사 정형구. 뒤에 not because of A, or B, or C를 붙여 흔한 이유부터 걷어 내는 것이 이 문장의 설계다.",
+      "contextBefore": "I stand here knowing that my story is part of the larger American story, that I owe a debt to all of those who came before me, and that, in no other country on earth, is my story even possible.",
+      "contextAfter": "Our pride is based on a very simple premise, summed up in a declaration made over two hundred years ago: We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain inalienable rights, that among these are Life, Liberty and the pursuit of Happiness.",
+      "situationCue": "개회사에서 오늘 모인 목적을 밝히며, 뻔한 이유부터 하나씩 지워 나갈 때?",
+      "speaker": "Barack Obama",
+      "tags": [
+        "설득",
+        "스몰토크"
+      ],
+      "curated": true
+    },
+    {
+      "id": "speech-obama-dnc2004-008",
+      "en": "Now, don't get me wrong.",
+      "ko": "자, 오해하지는 마십시오.",
+      "note": "앞말이 지나치게 들렸을까 봐 곧바로 단서를 다는 구어 표지. 상대와 다른 견해를 꺼내기 직전에 완충재로 쓴다.",
+      "contextBefore": "And fellow Americans, Democrats, Republicans, Independents, I say to you tonight: We have more work to do -- more work to do for the workers I met in Galesburg, Illinois, who are losing their union jobs at the Maytag plant that's moving to Mexico, and now are having to compete with their own children for jobs that pay seven bucks an hour; more to do for the father that I met who was losing his job and choking back the tears, wondering how he would pay 4500 dollars a month for the drugs his son needs without the health benefits that he counted on; more to do for the young woman in East St. Louis, and thousands more like her, who has the grades, has the drive, has the will, but doesn't have the money to go to college.",
+      "contextAfter": "The people I meet -- in small towns and big cities, in diners and office parks -- they don't expect government to solve all their problems.",
+      "situationCue": "방금 한 말이 오해를 살 것 같아 곧바로 단서를 달고 싶을 때?",
+      "speaker": "Barack Obama",
+      "tags": [
+        "반박",
+        "자기주장"
+      ],
+      "curated": true
+    },
+    {
+      "id": "speech-obama-dnc2004-009",
+      "en": "They know they have to work hard to get ahead, and they want to.",
+      "ko": "그들은 앞서 나가려면 열심히 일해야 한다는 걸 알고, 또 그러기를 원합니다.",
+      "note": "get ahead는 \"남보다 앞서 나가다, 성공하다\". 문장 끝의 and they want to는 반복을 피해 to만 남긴 대부정사로, 회화에서 매우 흔하다.",
+      "contextBefore": "The people I meet -- in small towns and big cities, in diners and office parks -- they don't expect government to solve all their problems.",
+      "contextAfter": "Go into the collar counties around Chicago, and people will tell you they don't want their tax money wasted, by a welfare agency or by the Pentagon.",
+      "situationCue": "상대 집단이 노력할 의지가 없다는 편견을 조용히 뒤집을 때?",
+      "speaker": "Barack Obama",
+      "tags": [
+        "반박",
+        "설득"
+      ],
+      "curated": true
+    },
+    {
+      "id": "speech-obama-dnc2004-010",
+      "en": "They know we can do better.",
+      "ko": "그들은 우리가 더 잘할 수 있다는 걸 압니다.",
+      "note": "can do better는 \"지금보다 나을 수 있다\"는 완곡한 질책이자 기대. 상대를 깎아내리지 않으면서 변화를 요구할 때 쓴다.",
+      "contextBefore": "But they sense, deep in their bones, that with just a slight change in priorities, we can make sure that every child in America has a decent shot at life, and that the doors of opportunity remain open to all.",
+      "contextAfter": "And they want that choice.",
+      "situationCue": "현 상태를 대놓고 비난하지 않으면서도 더 나아지라고 압박할 때?",
+      "speaker": "Barack Obama",
+      "tags": [
+        "압박",
+        "설득"
+      ],
+      "curated": true
+    },
+    {
+      "id": "speech-obama-dnc2004-011",
+      "en": "Our Party has chosen a man to lead us who embodies the best this country has to offer.",
+      "ko": "우리 당은 이 나라가 내놓을 수 있는 최고를 그대로 구현한 사람을 지도자로 택했습니다.",
+      "note": "embody the best X has to offer는 인물 소개나 시상식에서 쓰는 최상급 찬사. a man ... who로 관계절이 뒤로 밀린 어순에 주목할 것.",
+      "contextBefore": "In this election, we offer that choice.",
+      "contextAfter": "And that man is John Kerry.",
+      "situationCue": "행사에서 오늘의 주인공을 최고의 찬사로 소개할 때?",
+      "speaker": "Barack Obama",
+      "tags": [
+        "스몰토크",
+        "설득"
+      ],
+      "curated": true
+    },
+    {
+      "id": "speech-obama-dnc2004-012",
+      "en": "And that man is John Kerry.",
+      "ko": "그리고 그 사람은 바로 존 케리입니다.",
+      "note": "인물을 길게 묘사한 뒤 이름을 마지막에 던지는 소개 기법. 진행자가 무대로 사람을 부를 때 이름만 바꿔 그대로 쓸 수 있다.",
+      "contextBefore": "Our Party has chosen a man to lead us who embodies the best this country has to offer.",
+      "contextAfter": "John Kerry understands the ideals of community, faith, and service because they've defined his life.",
+      "situationCue": "인물을 한참 소개한 뒤 마지막에 이름을 공개하며 무대로 부를 때?",
+      "speaker": "Barack Obama",
+      "tags": [
+        "스몰토크"
+      ],
+      "curated": true
+    },
+    {
+      "id": "speech-obama-dnc2004-013",
+      "en": "Again and again, we've seen him make tough choices when easier ones were available.",
+      "ko": "더 쉬운 길이 있는데도 그가 어려운 선택을 하는 모습을, 우리는 몇 번이고 보아 왔습니다.",
+      "note": "Again and again은 \"한두 번이 아니라\"는 강조. see + 목적어 + 동사원형으로 목격을 진술하는, 추천사에서 근거를 대는 전형적인 문장이다.",
+      "contextBefore": "From his heroic service to Vietnam, to his years as a prosecutor and lieutenant governor, through two decades in the United States Senate, he's devoted himself to this country.",
+      "contextAfter": "His values and his record affirm what is best in us.",
+      "situationCue": "추천사에서 그 사람의 인품을 직접 본 사례로 증언할 때?",
+      "speaker": "Barack Obama",
+      "tags": [
+        "설득",
+        "스몰토크"
+      ],
+      "curated": true
+    },
+    {
+      "id": "speech-obama-dnc2004-014",
+      "en": "His values and his record affirm what is best in us.",
+      "ko": "그의 가치관과 이력은 우리 안의 가장 좋은 것을 확인해 줍니다.",
+      "note": "record는 \"이력·실적\", affirm은 \"옳음을 확인해 주다\"라는 격식 동사. 한 사람을 칭찬하되 그 공을 청중에게 되돌리는 구조다.",
+      "contextBefore": "Again and again, we've seen him make tough choices when easier ones were available.",
+      "contextAfter": "John Kerry believes in an America where hard work is rewarded; so instead of offering tax breaks to companies shipping jobs overseas, he offers them to companies creating jobs here at home.",
+      "situationCue": "누군가를 칭찬하면서 그 미덕이 우리 모두의 것이기도 하다고 말할 때?",
+      "speaker": "Barack Obama",
+      "tags": [
+        "설득"
+      ],
+      "curated": true
+    },
+    {
+      "id": "speech-obama-dnc2004-015",
+      "en": "And John Kerry believes that in a dangerous world war must be an option sometimes, but it should never be the first option.",
+      "ko": "그리고 존 케리는 위험한 세상에서 전쟁이 때로는 하나의 선택지여야 하지만, 결코 첫 번째 선택지가 되어서는 안 된다고 믿습니다.",
+      "note": "must be an option ... but never the first option은 강경책을 배제하지 않으면서 순서를 못 박는 협상 화법. must와 should의 강도 차이가 그대로 논리가 된다.",
+      "contextBefore": "John Kerry believes in the Constitutional freedoms that have made our country the envy of the world, and he will never sacrifice our basic liberties, nor use faith as a wedge to divide us.",
+      "contextAfter": "You know, a while back -- awhile back I met a young man named Shamus in a V.F.W. Hall in East Moline, Illinois.",
+      "situationCue": "강경한 수단을 완전히 접지는 않되 마지막 카드로 미뤄 두자고 말할 때?",
+      "speaker": "Barack Obama",
+      "tags": [
+        "협상",
+        "자기주장"
+      ],
+      "curated": true
+    },
+    {
+      "id": "speech-obama-dnc2004-016",
+      "en": "Let me be clear.",
+      "ko": "분명히 말씀드리겠습니다.",
+      "note": "오해의 소지를 없애고 핵심을 못 박기 직전에 쓰는 신호탄. 뒤에 짧고 단정적인 문장을 붙여야 효과가 산다.",
+      "contextBefore": "Now -- Now let me be clear.",
+      "contextAfter": "We have real enemies in the world.",
+      "situationCue": "말이 흐려졌다고 느껴, 지금부터 핵심을 분명히 못 박겠다고 예고할 때?",
+      "speaker": "Barack Obama",
+      "tags": [
+        "자기주장",
+        "지시"
+      ],
+      "curated": true
+    },
+    {
+      "id": "speech-obama-dnc2004-017",
+      "en": "If there is a child on the south side of Chicago who can't read, that matters to me, even if it's not my child.",
+      "ko": "시카고 남부에 글을 못 읽는 아이가 있다면, 그건 제 아이가 아니어도 제게 중요한 문제입니다.",
+      "note": "If there is X ..., that matters to me, even if ...는 남의 일을 내 일로 끌어오는 연대 논증의 틀. even if 절이 \"네 일도 아니잖냐\"는 반론을 미리 막는다.",
+      "contextBefore": "And he knows that it's not enough for just some of us to prosper -- for alongside our famous individualism, there's another ingredient in the American saga, a belief that we're all connected as one people.",
+      "contextAfter": "If there is a senior citizen somewhere who can't pay for their prescription drugs, and having to choose between medicine and the rent, that makes my life poorer, even if it's not my grandparent.",
+      "situationCue": "남의 부서 일이라며 선을 긋는 사람들 앞에서, 왜 우리 모두의 문제인지 말할 때?",
+      "speaker": "Barack Obama",
+      "tags": [
+        "설득",
+        "자기주장"
+      ],
+      "curated": true
+    },
+    {
+      "id": "speech-obama-dnc2004-018",
+      "en": "It's what allows us to pursue our individual dreams and yet still come together as one American family.",
+      "ko": "그것이 있기에 우리는 각자의 꿈을 좇으면서도 하나의 미국 가족으로 모일 수 있습니다.",
+      "note": "It's what allows us to ~는 앞서 말한 가치의 효용을 설명하는 강조 구문. and yet still은 상반돼 보이는 두 가지가 동시에 가능함을 드러낸다.",
+      "contextBefore": "I am my sister's keeper -- that makes this country work.",
+      "contextAfter": "E pluribus unum: \"Out of many, one.\"",
+      "situationCue": "개인의 목표와 팀의 결속이 서로 부딪히지 않는다고 설득할 때?",
+      "speaker": "Barack Obama",
+      "tags": [
+        "설득"
+      ],
+      "curated": true
+    },
+    {
+      "id": "speech-obama-dnc2004-019",
+      "en": "Well, I say to them tonight, there is not a liberal America and a conservative America -- there is the United States of America.",
+      "ko": "그래서 저는 오늘 밤 그들에게 말합니다. 진보의 미국과 보수의 미국이 따로 있는 게 아니라, 미합중국이 있을 뿐이라고요.",
+      "note": "there is not A and B -- there is C는 갈라진 구도를 지우고 하나로 묶는 대구법. I say to them tonight으로 반박 대상을 먼저 세우는 것이 이 화법의 출발이다.",
+      "contextBefore": "Now even as we speak, there are those who are preparing to divide us -- the spin masters, the negative ad peddlers who embrace the politics of \"anything goes.\"",
+      "contextAfter": "There is not a Black America and a White America and Latino America and Asian America -- there's the United States of America.",
+      "situationCue": "편을 갈라 놓으려는 시도에 맞서, 우리는 결국 하나라고 선언할 때?",
+      "speaker": "Barack Obama",
+      "tags": [
+        "반박",
+        "설득"
+      ],
+      "curated": true
+    },
+    {
+      "id": "speech-obama-dnc2004-020",
+      "en": "But I've got news for them, too.",
+      "ko": "하지만 그들에게도 알려 줄 소식이 있습니다.",
+      "note": "I've got news for ~는 \"당신이 모르는 사실을 알려 주겠다\"는 뉘앙스로, 상대의 전제를 뒤집기 직전에 쓴다. 가벼운 도발이 섞인 반박 표지다.",
+      "contextBefore": "The pundits, the pundits like to slice-and-dice our country into red states and blue states; red states for Republicans, blue states for Democrats.",
+      "contextAfter": "We worship an awesome God in the blue states, and we don't like federal agents poking around in our libraries in the red states.",
+      "situationCue": "상대가 당연하게 여기는 전제를 뒤집기 직전에 한마디 던진다면?",
+      "speaker": "Barack Obama",
+      "tags": [
+        "반박",
+        "압박"
+      ],
+      "curated": true
+    },
+    {
+      "id": "speech-obama-dnc2004-021",
+      "en": "Do we participate in a politics of cynicism or do we participate in a politics of hope?",
+      "ko": "우리는 냉소의 정치에 참여합니까, 아니면 희망의 정치에 참여합니까?",
+      "note": "같은 구조를 or로 맞세운 수사 의문문. 청중이 마음속으로 답을 고르게 만들어 다음 논지로 몰아가는 장치다.",
+      "contextBefore": "In the end -- In the end -- In the end, that's what this election is about.",
+      "contextAfter": "John Kerry calls on us to hope.",
+      "situationCue": "청중에게 두 갈래 길을 제시하고 스스로 고르게 만들 때?",
+      "speaker": "Barack Obama",
+      "tags": [
+        "설득"
+      ],
+      "curated": true
+    },
+    {
+      "id": "speech-obama-dnc2004-022",
+      "en": "That's not what I'm talking about.",
+      "ko": "제가 말하는 건 그런 게 아닙니다.",
+      "note": "내 말이 좁게 오해됐을 때 즉시 선을 긋는 표현. 뒤에 무엇을 말하는지 곧바로 이어 붙여야 방어적으로 들리지 않는다.",
+      "contextBefore": "I'm not talking about blind optimism here -- the almost willful ignorance that thinks unemployment will go away if we just don't think about it, or the health care crisis will solve itself if we just ignore it.",
+      "contextAfter": "I'm talking about something more substantial.",
+      "situationCue": "내 주장이 엉뚱하게 해석되고 있을 때, 곧바로 바로잡는다면?",
+      "speaker": "Barack Obama",
+      "tags": [
+        "반박",
+        "자기주장"
+      ],
+      "curated": true
+    },
+    {
+      "id": "speech-obama-dnc2004-023",
+      "en": "I'm talking about something more substantial.",
+      "ko": "제가 말하는 건 그보다 훨씬 실질적인 것입니다.",
+      "note": "substantial은 \"내용이 실한, 실질적인\". 앞 문장에서 오해를 부정하고 이 문장으로 진짜 논점을 세우는 2단 구성이다.",
+      "contextBefore": "That's not what I'm talking about.",
+      "contextAfter": "It's the hope of slaves sitting around a fire singing freedom songs; the hope of immigrants setting out for distant shores; the hope of a young naval lieutenant bravely patrolling the Mekong Delta; the hope of a millworker's son who dares to defy the odds; the hope of a skinny kid with a funny name who believes that America has a place for him, too.",
+      "situationCue": "오해를 걷어 낸 다음, 내가 말하려던 진짜 논점을 세울 때?",
+      "speaker": "Barack Obama",
+      "tags": [
+        "자기주장",
+        "설득"
+      ],
+      "curated": true
+    },
+    {
+      "id": "speech-obama-dnc2004-024",
+      "en": "I believe we can provide jobs to the jobless, homes to the homeless, and reclaim young people in cities across America from violence and despair.",
+      "ko": "저는 우리가 일자리 없는 이에게 일자리를, 집 없는 이에게 집을 줄 수 있다고 믿습니다. 도시의 젊은이들을 폭력과 절망에서 되찾아 올 수 있다고도 믿습니다.",
+      "note": "jobs to the jobless, homes to the homeless처럼 어근이 같은 말을 짝지어 리듬을 만든다. the + 형용사가 \"~한 사람들\"을 뜻하는 용법도 함께 익혀 둘 것.",
+      "contextBefore": "I believe that we can give our middle class relief and provide working families with a road to opportunity.",
+      "contextAfter": "I believe that we have a righteous wind at our backs and that as we stand on the crossroads of history, we can make the right choices, and meet the challenges that face us.",
+      "situationCue": "우리가 무엇을 해낼 수 있는지 리듬감 있게 나열하며 다짐할 때?",
+      "speaker": "Barack Obama",
+      "tags": [
+        "설득",
+        "자기주장"
+      ],
+      "curated": true
+    }
+  ]
+}
