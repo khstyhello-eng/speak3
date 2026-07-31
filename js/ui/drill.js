@@ -6,13 +6,16 @@ import { koOriginalKey, koCueKey, koVariationKey } from '../audioKeys.js';
 const START_WINDOW_MS = 3000;
 const REC_FAILS_TO_SELF_ASSESS = 3;
 const VARIATION_MIN_INTERVAL = 15; // home.js의 MY_SENTENCE_MIN과 동일한 "내 문장" 기준
+const CIRCLED = ['①', '②', '③', '④', '⑤', '⑥', '⑦', '⑧', '⑨', '⑩'];
 
 // 화면을 벗어났다가 #drill로 돌아왔을 때 이전 recognizeOnce 콜백이 새 아이템을
-// 건드리지 않도록 하는 세대 카운터. renderDrill/runItem 진입마다 증가시키고,
-// runRecognition은 진입 시점 값을 캡처해 await 이후·onSpeechStart 안에서 비교한다.
-// 한국어 큐 음성 재생(playCueAudio)도 동일한 세대 값을 캡처해, 재생이 끝난 뒤
-// 카운트다운·마이크를 시작하기 직전에 다시 검사한다 — 오디오 재생이라는 새 비동기
-// 단계가 늘어난 만큼 이 가드를 그 경로에도 반드시 적용해야 한다.
+// 건드리지 않도록 하는 세대 카운터. renderDrill(세션 선택 화면 진입)·runItem(세션 내
+// 아이템 진행/이연)마다 증가시키고, runRecognition은 진입 시점 값을 캡처해 await 이후·
+// onSpeechStart 안에서 비교한다. 한국어 큐 음성 재생(playCueAudio)도 동일한 세대 값을
+// 캡처해, 재생이 끝난 뒤 카운트다운·마이크를 시작하기 직전에 다시 검사한다 — 오디오
+// 재생이라는 새 비동기 단계가 늘어난 만큼 이 가드를 그 경로에도 반드시 적용해야 한다.
+// "나중에"(defer)로 같은 아이템 인덱스를 재사용해 runItem을 다시 부를 때도 이 카운터가
+// 자동으로 올라가므로, 화면 이탈과 동일한 방식으로 직전 아이템의 잔류 콜백이 무해해진다.
 let generation = 0;
 
 // 마이크 권한 거부(not-allowed)/서비스 차단(service-not-allowed) 등 세션 내내 반복될
@@ -23,20 +26,84 @@ let sessionSelfAssess = false;
 export function renderDrill(el, ctx) {
   generation += 1;
   sessionSelfAssess = false;
-  const queue = buildQueue(ctx);
-  if (!queue.length) {
+  renderPicker(el, ctx);
+}
+
+// due 문장을 소스별로 묶고 chunkSize 단위(기본 10)로 자른다. due 필터·정렬 규칙은 예전
+// buildQueue(전체 큐)와 동일 — dueIdsSorted를 공유한다. 그룹 순서는 content.sections에
+// 나열된 순서(섹션→소스)를 따르며, due가 하나도 없는 소스는 결과에서 제외한다.
+// 순수 함수라 node 테스트 가능.
+export function buildSessions(records, content, todayStr, chunkSize = 10) {
+  const dueIds = dueIdsSorted(records, content, todayStr);
+  const bySource = new Map();
+  for (const id of dueIds) {
+    const srcId = content.sourceOfSentence[id];
+    if (!bySource.has(srcId)) bySource.set(srcId, []);
+    bySource.get(srcId).push(id);
+  }
+  const sessions = [];
+  for (const sec of content.sections) {
+    for (const sourceId of sec.sources) {
+      const ids = bySource.get(sourceId);
+      if (!ids || !ids.length) continue;
+      const chunks = [];
+      for (let i = 0; i < ids.length; i += chunkSize) chunks.push(ids.slice(i, i + chunkSize));
+      sessions.push({ sourceId, title: content.sourcesById[sourceId].title, chunks });
+    }
+  }
+  return sessions;
+}
+
+function dueIdsSorted(records, content, todayStr) {
+  return Object.entries(records)
+    .filter(([id, r]) => r.due <= todayStr && content.sentenceById[id])
+    .sort((a, b) => a[1].due.localeCompare(b[1].due))
+    .map(([id]) => id);
+}
+
+// "전체 시작"용 평탄 큐 — 소스로 묶기 전, due 순서 그대로.
+function buildQueue(ctx) {
+  return dueIdsSorted(ctx.state.records, ctx.content, ctx.todayStr());
+}
+
+function chunkLabel(n) {
+  return n <= 10 ? `복습 ${CIRCLED[n - 1]}` : `복습 ${n}`;
+}
+
+// 세션 선택 화면(구 renderDrill의 자리). due가 없으면 기존 빈 카드 그대로, 있으면
+// "전체 시작" 카드 + 소스별 청크 버튼 카드들을 그린다.
+function renderPicker(el, ctx) {
+  const sessions = buildSessions(ctx.state.records, ctx.content, ctx.todayStr());
+  const total = sessions.reduce((n, s) => n + s.chunks.reduce((m, c) => m + c.length, 0), 0);
+  if (!total) {
     el.innerHTML = `<section class="card"><p class="big">오늘 발화할 문장이 없어요 🎉</p><div class="row"><a class="btn" href="#learn">새 문장 학습하기</a></div></section>`;
     return;
   }
-  runItem(el, ctx, queue, 0);
+  const groupsHtml = sessions.map((s, si) => {
+    const buttons = s.chunks.map((chunk, ci) =>
+      `<button class="chunk-btn" data-si="${si}" data-ci="${ci}">${chunkLabel(ci + 1)} (${chunk.length}문장)</button>`
+    ).join('');
+    return `<section class="card"><p class="big">${s.title}</p><div class="row">${buttons}</div></section>`;
+  }).join('');
+  el.innerHTML = `<section class="card">
+      <p class="sub">오늘 복습 ${total}문장</p>
+      <div class="row"><button id="start-all">전체 시작</button></div>
+    </section>${groupsHtml}`;
+  el.querySelector('#start-all').onclick = () => startSession(el, ctx, buildQueue(ctx));
+  el.querySelectorAll('.chunk-btn').forEach((btn) => {
+    btn.onclick = () => {
+      const s = sessions[Number(btn.dataset.si)];
+      startSession(el, ctx, s.chunks[Number(btn.dataset.ci)]);
+    };
+  });
 }
 
-function buildQueue(ctx) {
-  const today = ctx.todayStr();
-  return Object.entries(ctx.state.records)
-    .filter(([id, r]) => r.due <= today && ctx.content.sentenceById[id])
-    .sort((a, b) => a[1].due.localeCompare(b[1].due))
-    .map(([id]) => id);
+// 선택된 id 목록으로 세션 하나를 시작한다. 큐를 얕은 복사해 두는 이유: "나중에"(defer)가
+// 이 배열 자체를 splice/push로 재배열하므로, picker가 sessions 계산 시 들고 있던 원본
+// chunk 배열(및 buildQueue가 새로 만든 배열)을 세션이 끝날 때까지 자유롭게 변형해도
+// 다른 상태에 영향이 없도록 한다.
+function startSession(el, ctx, ids) {
+  runItem(el, ctx, [...ids], 0);
 }
 
 // 변형 로테이션 — 순수 함수(node 테스트 가능). record.interval>=15 && sentence.variations
@@ -74,7 +141,14 @@ function playAnswerAudio(sentence, cue) {
 function runItem(el, ctx, queue, i) {
   generation += 1;
   if (i >= queue.length) {
-    el.innerHTML = `<section class="card"><p class="big">오늘 세션 끝! ${queue.length}문장 완료 💪</p><div class="row"><a class="btn" href="#home">홈으로</a></div></section>`;
+    el.innerHTML = `<section class="card"><p class="big">세션 끝! ${queue.length}문장 완료 💪</p>
+      <div class="row"><button id="back-to-list">목록으로</button><a class="btn ghost" href="#home">홈으로</a></div></section>`;
+    // "목록으로"는 #drill 라우트 안에 그대로 머무는 이동이라 location.hash가 바뀌지 않는다
+    // (해시 변경이 없으면 hashchange 이벤트가 안 뜨므로 <a href="#drill">로는 재렌더가 안 됨) —
+    // renderDrill을 직접 다시 호출해 picker를 그린다. 이때 방금 review()로 갱신된
+    // ctx.state.records를 buildSessions가 다시 읽으므로, 이번 세션에서 끝낸 문장은 due가
+    // 미래로 밀려나 있으면(대부분 pass/hard) 카운트에서 자연히 빠진다.
+    el.querySelector('#back-to-list').onclick = () => renderDrill(el, ctx);
     return;
   }
   const id = queue[i];
@@ -85,16 +159,35 @@ function runItem(el, ctx, queue, i) {
   else runRecognition(el, ctx, queue, i, sentence, record, cue);
 }
 
+// "나중에" — 현재 아이템을 큐 맨 뒤로 미룬다. review()를 적용하지 않고(진도 변화 없음),
+// splice+push로 같은 배열을 제자리에서 재배열한 뒤 같은 인덱스 i로 runItem을 다시 부른다.
+// runItem이 진입 즉시 generation을 올리므로, 이 호출 하나로 직전 아이템의 재생 중이던
+// 오디오 onDone/진행 중이던 recognizeOnce가 화면 이탈 때와 동일하게 무해해진다(아래 cueHtml/
+// bindDefer 주석 참고). 남은 아이템이 1개뿐이면(자기 자신만 미룰 대상) 버튼 자체를 숨긴다.
+function deferCurrent(el, ctx, queue, i) {
+  const [id] = queue.splice(i, 1);
+  queue.push(id);
+  runItem(el, ctx, queue, i);
+}
+
+function bindDefer(el, ctx, queue, i) {
+  const btn = el.querySelector('#defer');
+  if (btn) btn.onclick = () => deferCurrent(el, ctx, queue, i);
+}
+
 // hideCueText가 true면 큐 텍스트를 가리고 한국어 음성만으로 큐를 준다. #countdown 칸은
 // 오디오 재생 중엔 🔊로 표시해두고, 재생이 끝난 뒤(playCueAudio의 onDone)에야 '3'으로
 // 바꾸고 실제 카운트다운을 시작한다 — 듣는 시간이 3초를 깎아먹지 않도록 하는 핵심 장치.
-function cueHtml(ctx, cue, i, total) {
+// canDefer가 true일 때만 "나중에" 버튼을 심는다(남은 아이템이 2개 이상일 때만 — 마지막
+// 하나 남았을 때 미루면 자기 자신만 도로 만나게 되므로 그 경우엔 숨긴다).
+function cueHtml(ctx, cue, i, total, canDefer) {
   const hide = ctx.state.settings.hideCueText;
   const displayText = hide ? '🔊 듣고 3초 안에 발화' : cue.text;
   return `<section class="card">
     <p class="sub">${i + 1} / ${total} · ${cue.label}</p>
     <p class="big" style="margin:16px 0">${displayText}</p>
     <p class="count" id="countdown">🔊</p>
+    ${canDefer ? '<div class="row"><button id="defer" class="ghost">나중에</button></div>' : ''}
   </section>`;
 }
 
@@ -118,7 +211,13 @@ function startCountdown(el, onExpire) {
 //    mp3 시도를 건너뛰고 곧장 브라우저 ko-KR TTS로 큐를 들려준다.
 // 이 함수 자체는 세대 검사를 하지 않는다 — 호출자(runRecognition/runSelfAssess)가
 // onDone 안에서 myGen을 검사해, 화면을 벗어났다 돌아온 뒤 도착한 콜백이 새 아이템의
-// 카운트다운·마이크를 건드리지 못하게 막는다.
+// 카운트다운·마이크를 건드리지 못하게 막는다. "나중에"로 아이템이 이연된 경우도 이
+// 검사 하나로 동일하게 걸러진다 — deferCurrent가 runItem을 다시 부르며 generation을
+// 올려두므로, 미뤄진 아이템의 재생이 나중에 실제로 끝나 onDone이 불려도 myGen이 이미
+// 낡은 값이라 카운트다운/마이크를 시작하지 않고 조용히 리턴한다. 오디오 자체를 강제로
+// 멈추지는 않지만(이 프로젝트의 기존 규율과 동일 — speech.js의 stopSpeech는 다음 재생
+// 호출 시점이나 hashchange에만 물린다), 다음 아이템도 대개 자체 큐 음성을 재생하므로
+// 그 speakKorean 호출이 곧바로 stopSpeech()를 태워 잔여 재생을 끊는다.
 function playCueAudio(ctx, cue, onDone) {
   if (!cue.audioKey) {
     if (ctx.state.settings.hideCueText) { speakKorean(cue.text, null, onDone); return; }
@@ -130,7 +229,9 @@ function playCueAudio(ctx, cue, onDone) {
 
 async function runRecognition(el, ctx, queue, i, sentence, record, cue) {
   const myGen = generation;
-  el.innerHTML = cueHtml(ctx, cue, i, queue.length) + `<p class="sub" id="mic-status">🔊 듣는 중…</p>`;
+  const canDefer = queue.length - i > 1;
+  el.innerHTML = cueHtml(ctx, cue, i, queue.length, canDefer) + `<p class="sub" id="mic-status">🔊 듣는 중…</p>`;
+  bindDefer(el, ctx, queue, i);
   playCueAudio(ctx, cue, () => {
     if (myGen !== generation) return; // 다른 아이템/화면으로 넘어간 뒤 도착한 콜백
     if (!el.querySelector('#mic-status')) return; // 화면 이탈 — 방어적 이중 체크(기존 패턴과 동일)
@@ -216,7 +317,9 @@ function showVerdict(el, ctx, queue, i, sentence, record, cue, v) {
 
 function runSelfAssess(el, ctx, queue, i, sentence, record, cue) {
   const myGen = generation;
-  el.innerHTML = cueHtml(ctx, cue, i, queue.length) + `<div class="row"><button id="reveal" disabled>🔊 듣는 중…</button></div>`;
+  const canDefer = queue.length - i > 1;
+  el.innerHTML = cueHtml(ctx, cue, i, queue.length, canDefer) + `<div class="row"><button id="reveal" disabled>🔊 듣는 중…</button></div>`;
+  bindDefer(el, ctx, queue, i);
   playCueAudio(ctx, cue, () => {
     if (myGen !== generation) return; // 다른 아이템/화면으로 넘어간 뒤 도착한 콜백
     const revealBtn = el.querySelector('#reveal');
