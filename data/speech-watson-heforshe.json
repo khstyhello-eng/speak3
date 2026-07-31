@@ -1,0 +1,319 @@
+{
+  "id": "speech-watson-heforshe",
+  "sectionId": "speech",
+  "title": "엠마 왓슨 UN HeForShe (2014)",
+  "sentences": [
+    {
+      "id": "speech-watson-heforshe-001",
+      "en": "I am reaching out to you because I need your help.",
+      "ko": "제가 여러분께 손을 내미는 것은 여러분의 도움이 필요해서입니다.",
+      "note": "reach out to는 \"먼저 연락하다·손을 내밀다\"로, 도움을 청하면서도 비굴하게 들리지 않는다. 요청 뒤에 because로 이유를 바로 붙여 목적을 분명히 했다.",
+      "contextBefore": "Today we are launching a campaign called \"HeForShe.\"",
+      "contextAfter": "We want to end gender inequality--and to do that we need everyone to be involved.",
+      "situationCue": "행사나 공식 메일에서 상대에게 협조를 정식으로 요청하며 말문을 열 때?",
+      "speaker": "Emma Watson",
+      "tags": [
+        "요청",
+        "설득"
+      ],
+      "curated": true
+    },
+    {
+      "id": "speech-watson-heforshe-002",
+      "en": "And we don't just want to talk about it, but make sure it is tangible.",
+      "ko": "그리고 우리는 말만 하고 끝낼 생각이 아니라, 그것이 손에 잡히게 만들려 합니다.",
+      "note": "not just talk about it, but make it tangible은 \"말이 아니라 실물로\"라는 실행 강조. tangible은 성과가 눈에 보인다는 뜻으로 보고서에서도 그대로 쓴다.",
+      "contextBefore": "This is the first campaign of its kind at the UN: we want to try and galvanize as many men and boys as possible to be advocates for gender equality.",
+      "contextAfter": "I was appointed six months ago and the more I have spoken about feminism the more I have realized that fighting for women's rights has too often become synonymous with man-hating.",
+      "situationCue": "구호에 그치지 않고 눈에 보이는 성과를 내겠다고 약속할 때?",
+      "speaker": "Emma Watson",
+      "tags": [
+        "자기주장",
+        "설득"
+      ],
+      "curated": true
+    },
+    {
+      "id": "speech-watson-heforshe-003",
+      "en": "If there is one thing I know for certain, it is that this has to stop.",
+      "ko": "제가 확실히 아는 것이 하나 있다면, 이것은 반드시 멈춰야 한다는 사실입니다.",
+      "note": "If there is one thing I know for certain, it is that ...은 나머지를 다 접어 두고 하나만 세우는 강조 구문. it is that 뒤에 핵심 주장을 넣는다.",
+      "contextBefore": "I was appointed six months ago and the more I have spoken about feminism the more I have realized that fighting for women's rights has too often become synonymous with man-hating.",
+      "contextAfter": "For the record, feminism by definition is: \"The belief that men and women should have equal rights and opportunities.",
+      "situationCue": "여러 말을 접어 두고 딱 하나만은 분명하다고 못 박을 때?",
+      "speaker": "Emma Watson",
+      "tags": [
+        "자기주장",
+        "설득"
+      ],
+      "curated": true
+    },
+    {
+      "id": "speech-watson-heforshe-004",
+      "en": "I think it is right that socially I am afforded the same respect as men.",
+      "ko": "사회적으로도 제가 남성과 똑같은 존중을 받는 것이 옳다고 생각합니다.",
+      "note": "be afforded는 \"(권리·대우를) 받다\"라는 격식 수동태로 be given보다 무게가 있다. I think it is right that ~은 당연한 요구를 부드럽게 눌러 담는 틀.",
+      "contextBefore": "I think it is right that women be involved on my behalf in the policies and decision-making of my country.",
+      "contextAfter": "But sadly I can say that there is no one country in the world where all women can expect to receive these rights.",
+      "situationCue": "당연한 권리를 요구하면서도 공격적으로 들리지 않게 말할 때?",
+      "speaker": "Emma Watson",
+      "tags": [
+        "자기주장",
+        "설득"
+      ],
+      "curated": true
+    },
+    {
+      "id": "speech-watson-heforshe-005",
+      "en": "These rights I consider to be human rights but I am one of the lucky ones.",
+      "ko": "저는 이 권리들을 인권이라고 봅니다만, 저는 운이 좋은 축에 속합니다.",
+      "note": "목적어 These rights를 문장 맨 앞으로 빼면 \"다른 건 몰라도 이것만은\"이라는 강조가 생긴다. one of the lucky ones는 자기 처지를 낮춰 문제를 남의 일로 돌리지 않게 한다.",
+      "contextBefore": "No country in the world can yet say they have achieved gender equality.",
+      "contextAfter": "My life is a sheer privilege because my parents didn't love me less because I was born a daughter.",
+      "situationCue": "내 주장을 펴면서도 내가 유리한 위치에 있음을 스스로 인정할 때?",
+      "speaker": "Emma Watson",
+      "tags": [
+        "자기주장"
+      ],
+      "curated": true
+    },
+    {
+      "id": "speech-watson-heforshe-006",
+      "en": "These influencers were the gender equality ambassadors that made me who I am today.",
+      "ko": "그분들이 바로 오늘의 저를 만들어 준 성평등의 대사들이었습니다.",
+      "note": "make me who I am today는 \"지금의 나를 만들다\"라는 감사 표현의 정형구. 수상 소감이나 은사에게 드리는 인사에 그대로 옮겨 쓸 수 있다.",
+      "contextBefore": "My mentors didn't assume I would go less far because I might give birth to a child one day.",
+      "contextAfter": "They may not know it, but they are the inadvertent feminists who are changing the world today.",
+      "situationCue": "수상 소감에서 지금의 나를 만들어 준 사람들을 언급할 때?",
+      "speaker": "Emma Watson",
+      "tags": [
+        "스몰토크",
+        "설득"
+      ],
+      "curated": true
+    },
+    {
+      "id": "speech-watson-heforshe-007",
+      "en": "They may not know it, but they are the inadvertent feminists who are changing the world today.",
+      "ko": "본인들은 모를지 몰라도, 그분들이야말로 오늘 세상을 바꾸고 있는 뜻밖의 페미니스트입니다.",
+      "note": "They may not know it, but ~은 상대가 자각하지 못한 공로를 짚어 주는 칭찬 틀. inadvertent는 \"의도치 않은, 본인도 모르게 그렇게 된\"이라는 뜻이다.",
+      "contextBefore": "These influencers were the gender equality ambassadors that made me who I am today.",
+      "contextAfter": "And we need more of those.",
+      "situationCue": "스스로는 대단한 일이라 여기지 않는 사람의 기여를 공개적으로 짚어 줄 때?",
+      "speaker": "Emma Watson",
+      "tags": [
+        "스몰토크",
+        "설득"
+      ],
+      "curated": true
+    },
+    {
+      "id": "speech-watson-heforshe-008",
+      "en": "And if you still hate the word--it is not the word that is important but the idea and the ambition behind it.",
+      "ko": "그래도 그 단어가 싫으시다면 말씀드립니다. 중요한 건 단어가 아니라 그 뒤에 있는 생각과 포부입니다.",
+      "note": "It is not A that is important but B는 It is ... that 강조 구문에 대조를 얹은 형태. 용어를 둘러싼 소모적 논쟁을 본질 논의로 되돌릴 때 쓴다.",
+      "contextBefore": "And we need more of those.",
+      "contextAfter": "Because not all women have been afforded the same rights that I have.",
+      "situationCue": "명칭을 두고 반발이 이어질 때, 논점을 본질로 되돌릴 때?",
+      "speaker": "Emma Watson",
+      "tags": [
+        "반박",
+        "설득"
+      ],
+      "curated": true
+    },
+    {
+      "id": "speech-watson-heforshe-009",
+      "en": "But what stood out for me the most was that only 30 per cent of her audience were male.",
+      "ko": "그런데 제게 가장 인상 깊었던 것은 그 연설의 청중 가운데 30퍼센트만이 남성이었다는 사실입니다.",
+      "note": "What stood out for me the most was that ~은 여러 인상 중 하나를 골라 무게를 싣는 강조 구문. 출장 보고나 행사 후기에 바로 쓸 수 있다.",
+      "contextBefore": "Sadly many of the things she wanted to change are still a reality today.",
+      "contextAfter": "How can we affect change in the world when only half of it is invited or feel welcome to participate in the conversation?",
+      "situationCue": "여러 인상 중 가장 마음에 남은 한 가지를 골라 보고할 때?",
+      "speaker": "Emma Watson",
+      "tags": [
+        "자기주장",
+        "설득"
+      ],
+      "curated": true
+    },
+    {
+      "id": "speech-watson-heforshe-010",
+      "en": "How can we affect change in the world when only half of it is invited or feel welcome to participate in the conversation?",
+      "ko": "세상의 절반만이 초대받거나, 대화에 참여해도 환영받는다고 느끼는데, 어떻게 세상에 변화를 이뤄 낼 수 있겠습니까?",
+      "note": "How can we ... when ...?은 앞뒤의 모순을 드러내 답을 청중에게 떠넘기는 수사 의문문. 다만 \"변화를 이뤄 내다\"의 표준형은 effect change이고, 원문의 affect change는 흔히 오용으로 지적된다는 점은 알아 둘 것.",
+      "contextBefore": "But what stood out for me the most was that only 30 per cent of her audience were male.",
+      "contextAfter": "Men--I would like to take this opportunity to extend your formal invitation.",
+      "situationCue": "일부만 참여시켜 놓고 성과를 기대하는 상황의 모순을 짚을 때?",
+      "speaker": "Emma Watson",
+      "tags": [
+        "반박",
+        "설득"
+      ],
+      "curated": true
+    },
+    {
+      "id": "speech-watson-heforshe-011",
+      "en": "Men--I would like to take this opportunity to extend your formal invitation.",
+      "ko": "남성 여러분, 이 자리를 빌려 여러분께 공식적으로 초대의 말씀을 드리고 싶습니다.",
+      "note": "I would like to take this opportunity to ~는 \"이 자리를 빌려 ~하겠다\"는 격식 표현. 다만 초대는 보통 extend an invitation to you 어순으로 쓴다는 점은 알아 둘 것.",
+      "contextBefore": "How can we affect change in the world when only half of it is invited or feel welcome to participate in the conversation?",
+      "contextAfter": "Gender equality is your issue too.",
+      "situationCue": "행사 도중 이 자리를 빌려 상대에게 공식적으로 무언가를 제안할 때?",
+      "speaker": "Emma Watson",
+      "tags": [
+        "요청",
+        "스몰토크"
+      ],
+      "curated": true
+    },
+    {
+      "id": "speech-watson-heforshe-012",
+      "en": "Gender equality is your issue too.",
+      "ko": "성평등은 여러분의 문제이기도 합니다.",
+      "note": "X is your issue too는 \"남의 일이 아니다\"라며 선을 지우는 짧은 설득 문장. 문미의 too가 상대를 당사자 안으로 끌어들인다.",
+      "contextBefore": "Men--I would like to take this opportunity to extend your formal invitation.",
+      "contextAfter": "Because to date, I've seen my father's role as a parent being valued less by society despite my needing his presence as a child as much as my mother's.",
+      "situationCue": "자기와 상관없는 일이라 여기는 상대를 당사자로 끌어들일 때?",
+      "speaker": "Emma Watson",
+      "tags": [
+        "설득",
+        "자기주장"
+      ],
+      "curated": true
+    },
+    {
+      "id": "speech-watson-heforshe-013",
+      "en": "If men don't have to be aggressive in order to be accepted women won't feel compelled to be submissive.",
+      "ko": "남성이 인정받으려고 공격적일 필요가 없어지면, 여성도 순종적이어야 한다는 압박을 느끼지 않게 됩니다.",
+      "note": "feel compelled to V는 \"~해야 한다는 압박을 느끼다\"로, 강요한 주체를 굳이 지목하지 않고 상황을 묘사할 때 쓴다. 조건절과 짝을 이루는 대구가 이 문장의 뼈대다.",
+      "contextBefore": "We don't often talk about men being imprisoned by gender stereotypes but I can see that that they are and that when they are free, things will change for women as a natural consequence.",
+      "contextAfter": "If men don't have to control, women won't have to be controlled.",
+      "situationCue": "한쪽의 부담이 풀리면 다른 쪽의 부담도 함께 풀린다고 설명할 때?",
+      "speaker": "Emma Watson",
+      "tags": [
+        "설득"
+      ],
+      "curated": true
+    },
+    {
+      "id": "speech-watson-heforshe-014",
+      "en": "It is time that we all perceive gender on a spectrum not as two opposing sets of ideals.",
+      "ko": "이제는 우리 모두가 젠더를 대립하는 두 축이 아니라 하나의 스펙트럼으로 볼 때입니다.",
+      "note": "It is time that + 주어 + 동사는 \"이제 ~할 때다\"라는 촉구 구문. perceive A as B의 as 자리가 not 뒤로 밀린 어순에 유의할 것.",
+      "contextBefore": "Both men and women should feel free to be strong...",
+      "contextAfter": "If we stop defining each other by what we are not and start defining ourselves by what we are--we can all be freer and this is what HeForShe is about.",
+      "situationCue": "낡은 이분법을 접고 관점을 바꿀 때가 됐다고 촉구할 때?",
+      "speaker": "Emma Watson",
+      "tags": [
+        "설득",
+        "조언"
+      ],
+      "curated": true
+    },
+    {
+      "id": "speech-watson-heforshe-015",
+      "en": "I want men to take up this mantle.",
+      "ko": "저는 남성들이 이 역할을 이어받기를 바랍니다.",
+      "note": "take up the mantle은 \"앞사람이 지던 역할·책임을 넘겨받다\"라는 관용구. 인수인계나 캠페인 동참을 청할 때 격식 있게 들린다.",
+      "contextBefore": "It's about freedom.",
+      "contextAfter": "So their daughters, sisters and mothers can be free from prejudice but also so that their sons have permission to be vulnerable and human too--reclaim those parts of themselves they abandoned and in doing so be a more true and complete version of themselves.",
+      "situationCue": "지금까지 한쪽이 져 온 책임을 이제 상대가 이어받아 달라고 청할 때?",
+      "speaker": "Emma Watson",
+      "tags": [
+        "요청",
+        "설득"
+      ],
+      "curated": true
+    },
+    {
+      "id": "speech-watson-heforshe-016",
+      "en": "It's a good question and trust me, I have been asking myself the same thing.",
+      "ko": "좋은 질문입니다. 그리고 솔직히 저도 스스로에게 같은 질문을 해 왔습니다.",
+      "note": "날 선 질문을 방어 대신 공감으로 받아내는 화법. It's a good question으로 한 박자 벌고 trust me로 진심을 얹는 순서를 통째로 익혀 둘 것.",
+      "contextBefore": "And what is she doing up on stage at the UN.",
+      "contextAfter": "I don't know if I am qualified to be here.",
+      "situationCue": "질의응답에서 뼈아픈 질문을 받고, 방어하지 않고 솔직하게 받을 때?",
+      "speaker": "Emma Watson",
+      "tags": [
+        "스몰토크",
+        "자기주장"
+      ],
+      "curated": true
+    },
+    {
+      "id": "speech-watson-heforshe-017",
+      "en": "All I know is that I care about this problem.",
+      "ko": "제가 아는 건 제가 이 문제에 마음을 쓰고 있다는 것뿐입니다.",
+      "note": "All I know is that ~은 아는 바를 하나로 좁혀 진정성을 드러내는 겸손한 강조. 자격 시비 앞에서 특히 잘 듣는다.",
+      "contextBefore": "I don't know if I am qualified to be here.",
+      "contextAfter": "And I want to make it better.",
+      "situationCue": "전문가가 아니라는 지적 앞에서, 그래도 이 일을 하는 이유를 말할 때?",
+      "speaker": "Emma Watson",
+      "tags": [
+        "자기주장",
+        "설득"
+      ],
+      "curated": true
+    },
+    {
+      "id": "speech-watson-heforshe-018",
+      "en": "And having seen what I've seen--and given the chance--I feel it is my duty to say something.",
+      "ko": "제가 본 것을 본 이상, 그리고 기회를 받은 이상, 무언가 말하는 것이 제 의무라고 느낍니다.",
+      "note": "having seen ...은 이유를 나타내는 완료 분사구문. I feel it is my duty to V는 나서는 이유를 의무로 돌려, 주제넘게 들리지 않게 한다.",
+      "contextBefore": "And I want to make it better.",
+      "contextAfter": "English Statesman Edmund Burke said: \"All that is needed for the forces of evil to triumph is for enough good men and women to do nothing.\"",
+      "situationCue": "괜히 나선다는 시선을 무릅쓰고 발언하는 이유를 밝힐 때?",
+      "speaker": "Emma Watson",
+      "tags": [
+        "자기주장",
+        "설득"
+      ],
+      "curated": true
+    },
+    {
+      "id": "speech-watson-heforshe-019",
+      "en": "And for this I applaud you.",
+      "ko": "그리고 이 점에 대해 저는 여러분께 박수를 보냅니다.",
+      "note": "for this를 문장 앞으로 빼 \"바로 이 점에 대해\"를 강조한 격식 칭찬. applaud는 실제로 박수를 치지 않아도 \"높이 평가한다\"는 뜻으로 쓴다.",
+      "contextBefore": "If you believe in equality, you might be one of those inadvertent feminists I spoke of earlier.",
+      "contextAfter": "We are struggling for a uniting word but the good news is we have a uniting movement.",
+      "situationCue": "상대의 태도 가운데 한 가지를 콕 집어 공식적으로 치하할 때?",
+      "speaker": "Emma Watson",
+      "tags": [
+        "스몰토크"
+      ],
+      "curated": true
+    },
+    {
+      "id": "speech-watson-heforshe-020",
+      "en": "I am inviting you to step forward, to be seen to speak up, to be the \"he\" for \"she\".",
+      "ko": "저는 여러분께 앞으로 나서 달라고, 드러나게 목소리를 내 달라고, 그녀를 위한 그가 되어 달라고 청합니다.",
+      "note": "to부정사 세 개를 나란히 놓아 요청을 점층시키는 구조. step forward(나서다), speak up(목소리를 내다)은 캠페인·모금 연설의 단골 짝이다.",
+      "contextBefore": "It is called HeForShe.",
+      "contextAfter": "And to ask yourself if not me, who?",
+      "situationCue": "청중에게 구체적인 행동 세 가지를 나란히 요청하며 마무리할 때?",
+      "speaker": "Emma Watson",
+      "tags": [
+        "요청",
+        "설득"
+      ],
+      "curated": true
+    },
+    {
+      "id": "speech-watson-heforshe-021",
+      "en": "If not now, when?",
+      "ko": "지금이 아니면 언제겠습니까?",
+      "note": "앞의 If not me, who?와 짝을 이루는 수사 의문문. 생략을 극단까지 밀어붙여 결단을 재촉하는 마무리 화법이다.",
+      "contextBefore": "And to ask yourself if not me, who?",
+      "contextAfter": "Thank you.",
+      "situationCue": "자꾸 미루려는 상대에게 결단을 재촉하는 마지막 한마디는?",
+      "speaker": "Emma Watson",
+      "tags": [
+        "압박",
+        "설득"
+      ],
+      "curated": true
+    }
+  ]
+}

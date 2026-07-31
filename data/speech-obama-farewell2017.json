@@ -1,0 +1,562 @@
+{
+  "id": "speech-obama-farewell2017",
+  "sectionId": "speech",
+  "title": "오바마 고별연설 (2017)",
+  "sentences": [
+    {
+      "id": "speech-obama-farewell2017-001",
+      "en": "It's good to be home!",
+      "ko": "고향에 돌아오니 참 좋습니다!",
+      "note": "home은 집만이 아니라 \"내가 속한 곳\"을 뜻한다. 오래 떠나 있던 고향이나 옛 조직으로 돌아왔을 때의 첫인사이며, 잠깐 자리를 비웠다 온 거라면 It's good to be back.을 쓴다.",
+      "contextBefore": "Hello, Chicago!",
+      "contextAfter": "Thank you, everybody.",
+      "situationCue": "오래 떠나 있던 고향이나 옛 직장 행사에 연사로 다시 섰을 때, 첫 인사로?",
+      "speaker": "Barack Obama",
+      "tags": [
+        "스몰토크"
+      ],
+      "curated": true
+    },
+    {
+      "id": "speech-obama-farewell2017-002",
+      "en": "Everybody have a seat.",
+      "ko": "다들 자리에 앉아 주십시오.",
+      "note": "형태는 명령문이지만 have a seat는 sit down보다 부드럽고 정중하다. 웅성거리는 청중을 앉힐 때 진행자가 쓰는 표준 표현이다.",
+      "contextBefore": "You can tell that I'm a lame duck because nobody is following instructions.",
+      "contextAfter": "My fellow Americans -- Michelle and I have been so touched by all the well wishes that we've received over the past few weeks.",
+      "situationCue": "행사 시작 전 청중이 계속 서 있어 진행이 늦어질 때, 자리를 권한다면?",
+      "speaker": "Barack Obama",
+      "tags": [
+        "지시",
+        "요청"
+      ],
+      "curated": true
+    },
+    {
+      "id": "speech-obama-farewell2017-003",
+      "en": "But tonight, it's my turn to say thanks.",
+      "ko": "하지만 오늘 밤은 제가 감사를 전할 차례입니다.",
+      "note": "it's my turn to ~는 \"이번엔 제 차례\"라는 자연스러운 전환. 늘 축하와 응원을 받던 쪽이 감사를 돌려줄 때 쓰면 겸손하게 들린다.",
+      "contextBefore": "My fellow Americans -- Michelle and I have been so touched by all the well wishes that we've received over the past few weeks.",
+      "contextAfter": "Whether we have seen eye-to-eye or rarely agreed at all, my conversations with you, the American people, in living rooms and in schools, at farms, on factory floors, at diners and on distant military outposts -- those conversations are what have kept me honest, and kept me inspired, and kept me going.",
+      "situationCue": "그동안 응원과 축하를 받아 온 사람이, 이제 자기가 고마움을 표할 차례라고 말문을 열 때?",
+      "speaker": "Barack Obama",
+      "tags": [
+        "스몰토크"
+      ],
+      "curated": true
+    },
+    {
+      "id": "speech-obama-farewell2017-004",
+      "en": "And every day, I have learned from you.",
+      "ko": "그리고 저는 날마다 여러분에게서 배웠습니다.",
+      "note": "감사 연설에서 상대를 높이는 정석 문장. learn from you는 윗사람이 아랫사람에게 써도 자연스러워, 이임사에서 공을 돌릴 때 특히 잘 듣는다.",
+      "contextBefore": "Whether we have seen eye-to-eye or rarely agreed at all, my conversations with you, the American people, in living rooms and in schools, at farms, on factory floors, at diners and on distant military outposts -- those conversations are what have kept me honest, and kept me inspired, and kept me going.",
+      "contextAfter": "You made me a better President, and you made me a better man.",
+      "situationCue": "떠나는 자리에서 함께 일한 사람들에게 공을 돌리며 인사할 때?",
+      "speaker": "Barack Obama",
+      "tags": [
+        "스몰토크"
+      ],
+      "curated": true
+    },
+    {
+      "id": "speech-obama-farewell2017-005",
+      "en": "You made me a better President, and you made me a better man.",
+      "ko": "여러분이 저를 더 나은 대통령으로, 그리고 더 나은 사람으로 만들었습니다.",
+      "note": "같은 구조를 두 번 반복하되 뒤에 더 큰 말을 얹는 대구법. 직함 자리만 바꾸면 어떤 이임사에도 그대로 옮겨 쓸 수 있다.",
+      "contextBefore": "And every day, I have learned from you.",
+      "contextAfter": "So I first came to Chicago when I was in my early 20s.",
+      "situationCue": "이임식에서 함께한 사람들 덕분에 직업인으로도 인간으로도 성장했다고 말한다면?",
+      "speaker": "Barack Obama",
+      "tags": [
+        "스몰토크",
+        "설득"
+      ],
+      "curated": true
+    },
+    {
+      "id": "speech-obama-farewell2017-006",
+      "en": "After eight years as your President, I still believe that.",
+      "ko": "여러분의 대통령으로 8년을 보낸 지금도, 저는 그 말을 믿습니다.",
+      "note": "After X years as your Y, I still believe that.은 오랜 경험 뒤에도 신념이 그대로임을 못 박는 틀. that은 바로 앞에서 한 말을 통째로 받는다.",
+      "contextBefore": "This is where I learned that change only happens when ordinary people get involved and they get engaged, and they come together to demand it.",
+      "contextAfter": "And it's not just my belief.",
+      "situationCue": "그 일을 오래 해 온 사람이, 처음의 신념이 지금도 변함없다고 못 박을 때?",
+      "speaker": "Barack Obama",
+      "tags": [
+        "자기주장"
+      ],
+      "curated": true
+    },
+    {
+      "id": "speech-obama-farewell2017-007",
+      "en": "What a radical idea.",
+      "ko": "얼마나 파격적인 생각입니까.",
+      "note": "What a + 형용사 + 명사로 만드는 감탄 구문. 방금 설명한 원리를 한 문장으로 되짚어 청중이 곱씹게 만드는 수사다.",
+      "contextBefore": "It's the insistence that these rights, while self-evident, have never been self-executing; that We, the People, through the instrument of our democracy, can form a more perfect union.",
+      "contextAfter": "A great gift that our Founders gave to us: The freedom to chase our individual dreams through our sweat and toil and imagination, and the imperative to strive together, as well, to achieve a common good, a greater good.",
+      "situationCue": "방금 소개한 원칙이 얼마나 대담한 발상인지 청중이 곱씹게 만들 때?",
+      "speaker": "Barack Obama",
+      "tags": [
+        "설득"
+      ],
+      "curated": true
+    },
+    {
+      "id": "speech-obama-farewell2017-008",
+      "en": "Yes, our progress has been uneven.",
+      "ko": "그렇습니다, 우리의 진전은 고르지 못했습니다.",
+      "note": "uneven은 \"잘된 데도 있고 못된 데도 있다\"를 한 단어로 인정하는 완곡어. 비판을 먼저 받아들이고 반론을 펴는 자리에서 쓴다.",
+      "contextBefore": "So that's what we mean when we say America is exceptional -- not that our nation has been flawless from the start, but that we have shown the capacity to change and make life better for those who follow.",
+      "contextAfter": "The work of democracy has always been hard.",
+      "situationCue": "성과를 자랑하기 전에 부진했던 부분부터 솔직히 인정할 때?",
+      "speaker": "Barack Obama",
+      "tags": [
+        "자기주장",
+        "설득"
+      ],
+      "curated": true
+    },
+    {
+      "id": "speech-obama-farewell2017-009",
+      "en": "The work of democracy has always been hard.",
+      "ko": "민주주의라는 일은 언제나 고된 일이었습니다.",
+      "note": "The work of X는 \"X를 해내는 일\"이라는 뜻으로 추상 명사를 주어로 세우는 격식체. 지금의 어려움을 누구의 잘못이 아니라 일 자체의 속성으로 돌려 준다.",
+      "contextBefore": "Yes, our progress has been uneven.",
+      "contextAfter": "It's always been contentious.",
+      "situationCue": "지금 겪는 어려움이 우리만의 문제가 아니라 이 일의 본래 속성이라고 말할 때?",
+      "speaker": "Barack Obama",
+      "tags": [
+        "조언",
+        "설득"
+      ],
+      "curated": true
+    },
+    {
+      "id": "speech-obama-farewell2017-010",
+      "en": "For every two steps forward, it often feels we take one step back.",
+      "ko": "두 걸음 나아가면 한 걸음 물러나는 것처럼 느껴질 때가 많습니다.",
+      "note": "진전과 후퇴가 되풀이되는 상황을 그리는 관용 표현. it often feels (that)을 앞에 두면 단정 대신 체감으로 말해 한결 부드러워진다.",
+      "contextBefore": "Sometimes it's been bloody.",
+      "contextAfter": "But the long sweep of America has been defined by forward motion, a constant widening of our founding creed to embrace all and not just some.",
+      "situationCue": "일이 나아가다가도 자꾸 뒤로 밀리는 답답함을 팀 앞에서 담담히 짚을 때?",
+      "speaker": "Barack Obama",
+      "tags": [
+        "조언"
+      ],
+      "curated": true
+    },
+    {
+      "id": "speech-obama-farewell2017-011",
+      "en": "You answered people's hopes, and because of you, by almost every measure, America is a better, stronger place than it was when we started.",
+      "ko": "여러분이 사람들의 기대에 응답했고, 여러분 덕분에 거의 모든 지표에서 이 나라는 우리가 시작할 때보다 더 낫고 더 강한 곳이 되었습니다.",
+      "note": "by almost every measure(거의 모든 지표로 봐도)는 성과를 과장 없이 크게 말하는 격식 표현. 공을 청자에게 돌리는 because of you와 짝으로 익혀 둘 것.",
+      "contextBefore": "You were the change.",
+      "contextAfter": "In 10 days, the world will witness a hallmark of our democracy.",
+      "situationCue": "임기를 마치며 성과의 공을 전부 구성원에게 돌릴 때?",
+      "speaker": "Barack Obama",
+      "tags": [
+        "스몰토크",
+        "설득"
+      ],
+      "curated": true
+    },
+    {
+      "id": "speech-obama-farewell2017-012",
+      "en": "Because it's up to all of us to make sure our government can help us meet the many challenges we still face.",
+      "ko": "우리 정부가 남은 과제를 감당할 수 있게 만드는 일은 결국 우리 모두에게 달려 있으니까요.",
+      "note": "it's up to all of us to ~는 책임을 특정인이 아니라 전원에게 넘기는 촉구 표현. meet a challenge(과제에 대응하다)는 고정된 짝이다.",
+      "contextBefore": "I committed to President-elect Trump that my administration would ensure the smoothest possible transition, just as President Bush did for me.",
+      "contextAfter": "We have what we need to do so.",
+      "situationCue": "남은 과제를 특정 부서가 아니라 우리 모두의 몫이라고 못 박을 때?",
+      "speaker": "Barack Obama",
+      "tags": [
+        "설득",
+        "요청"
+      ],
+      "curated": true
+    },
+    {
+      "id": "speech-obama-farewell2017-013",
+      "en": "We have everything we need to meet those challenges.",
+      "ko": "그 과제들을 감당하는 데 필요한 것은 우리에게 이미 다 있습니다.",
+      "note": "자원과 역량이 충분하다고 못 박아 사기를 올리는 문장. have everything we need to V 형태로 통째 외워 두면 회의 마무리에 바로 쓸 수 있다.",
+      "contextBefore": "We have what we need to do so.",
+      "contextAfter": "After all, we remain the wealthiest, most powerful, and most respected nation on Earth.",
+      "situationCue": "큰 과제를 앞두고 불안해하는 팀에게, 필요한 건 이미 다 갖췄다고 말할 때?",
+      "speaker": "Barack Obama",
+      "tags": [
+        "조언",
+        "설득"
+      ],
+      "curated": true
+    },
+    {
+      "id": "speech-obama-farewell2017-014",
+      "en": "But that potential will only be realized if our democracy works.",
+      "ko": "다만 그 잠재력은 우리 민주주의가 제대로 작동해야만 실현될 것입니다.",
+      "note": "only ... if는 조건을 강하게 제한하는 구조. 밝은 전망을 말한 직후 단서를 다는 자리에 쓰면 낙관이 헛말로 들리지 않는다.",
+      "contextBefore": "Our youth, our drive, our diversity and openness, our boundless capacity for risk and reinvention means that the future should be ours.",
+      "contextAfter": "Only if our politics better reflects the decency of our people.",
+      "situationCue": "밝은 전망을 말한 직후, 그건 조건이 충족될 때만 가능하다고 단서를 달 때?",
+      "speaker": "Barack Obama",
+      "tags": [
+        "설득",
+        "자기주장"
+      ],
+      "curated": true
+    },
+    {
+      "id": "speech-obama-farewell2017-015",
+      "en": "That's what I want to focus on tonight: The state of our democracy.",
+      "ko": "오늘 밤 제가 집중하고 싶은 것이 바로 그것입니다. 우리 민주주의의 현주소 말입니다.",
+      "note": "앞의 이야기를 받아 본론 주제를 선언하는 발표 전환구. 콜론 뒤에 주제를 명사구로 얹는 것이 연설과 프레젠테이션의 정석이다.",
+      "contextBefore": "Only if all of us, regardless of party affiliation or particular interests, help restore the sense of common purpose that we so badly need right now.",
+      "contextAfter": "Understand, democracy does not require uniformity.",
+      "situationCue": "서두를 마치고 오늘 다룰 핵심 주제를 선언할 때?",
+      "speaker": "Barack Obama",
+      "tags": [
+        "설득"
+      ],
+      "curated": true
+    },
+    {
+      "id": "speech-obama-farewell2017-016",
+      "en": "To begin with, our democracy won't work without a sense that everyone has economic opportunity.",
+      "ko": "우선, 모두에게 경제적 기회가 열려 있다는 감각 없이는 우리 민주주의가 작동하지 않습니다.",
+      "note": "To begin with는 여러 논점 중 첫째를 꺼내는 표지. won't work without ~는 \"~ 없이는 굴러가지 않는다\"는 강한 조건 표현이다.",
+      "contextBefore": "In other words, it will determine our future.",
+      "contextAfter": "And the good news is that today the economy is growing again.",
+      "situationCue": "여러 논점 중 첫 번째를 꺼내며, 이것이 없으면 전체가 굴러가지 않는다고 말할 때?",
+      "speaker": "Barack Obama",
+      "tags": [
+        "설득",
+        "자기주장"
+      ],
+      "curated": true
+    },
+    {
+      "id": "speech-obama-farewell2017-017",
+      "en": "Because that, after all, is why we serve.",
+      "ko": "따지고 보면 그것이 바로 우리가 이 일을 하는 이유이기 때문입니다.",
+      "note": "after all을 문장 가운데 끼워 \"따지고 보면\"이라는 뉘앙스를 준다. serve는 공직이나 봉사직에서 \"일하다\"를 뜻하는 격식 동사다.",
+      "contextBefore": "And I've said and I mean it -- if anyone can put together a plan that is demonstrably better than the improvements we've made to our health care system and that covers as many people at less cost, I will publicly support it.",
+      "contextAfter": "Not to score points or take credit, but to make people's lives better.",
+      "situationCue": "실적 수치를 늘어놓다가, 우리가 이 일을 하는 진짜 목적을 되짚을 때?",
+      "speaker": "Barack Obama",
+      "tags": [
+        "설득"
+      ],
+      "curated": true
+    },
+    {
+      "id": "speech-obama-farewell2017-018",
+      "en": "Not to score points or take credit, but to make people's lives better.",
+      "ko": "점수를 따거나 공을 챙기려는 게 아니라, 사람들의 삶을 낫게 만들려는 것입니다.",
+      "note": "Not to A, but to B는 목적을 부정과 긍정으로 나란히 놓는 대구법. score points(점수 따기), take credit(공을 챙기기)은 그대로 굳어진 표현이다.",
+      "contextBefore": "Because that, after all, is why we serve.",
+      "contextAfter": "But for all the real progress that we've made, we know it's not enough.",
+      "situationCue": "우리가 이 일을 하는 목적이 생색이나 실적이 아니라고 분명히 선을 그을 때?",
+      "speaker": "Barack Obama",
+      "tags": [
+        "자기주장",
+        "설득"
+      ],
+      "curated": true
+    },
+    {
+      "id": "speech-obama-farewell2017-019",
+      "en": "But for all the real progress that we've made, we know it's not enough.",
+      "ko": "그러나 실질적인 진전을 이뤘음에도, 우리는 그것으로 충분하지 않다는 걸 압니다.",
+      "note": "for all X는 \"~에도 불구하고\"라는 뜻의 격식 양보 표현(= despite). 성과를 인정한 뒤 곧바로 과제를 꺼내는 보고의 정석 흐름이다.",
+      "contextBefore": "Not to score points or take credit, but to make people's lives better.",
+      "contextAfter": "Our economy doesn't work as well or grow as fast when a few prosper at the expense of a growing middle class and ladders for folks who want to get into the middle class.",
+      "situationCue": "성과 보고 뒤에 아직 부족하다는 말을 이어 붙일 때?",
+      "speaker": "Barack Obama",
+      "tags": [
+        "자기주장",
+        "설득"
+      ],
+      "curated": true
+    },
+    {
+      "id": "speech-obama-farewell2017-020",
+      "en": "But there are no quick fixes to this long-term trend.",
+      "ko": "그러나 이 장기적인 흐름에 손쉬운 해법은 없습니다.",
+      "note": "quick fix는 \"임시방편, 손쉬운 해결책\"을 뜻하는 굳은 표현으로 주로 부정문에 쓴다. 성급한 대책을 요구받을 때 방어선을 긋는 문장이다.",
+      "contextBefore": "While the top one percent has amassed a bigger share of wealth and income, too many families, in inner cities and in rural counties, have been left behind -- the laid-off factory worker; the waitress or health care worker who's just barely getting by and struggling to pay the bills -- convinced that the game is fixed against them, that their government only serves the interests of the powerful -- that's a recipe for more cynicism and polarization in our politics.",
+      "contextAfter": "I agree, our trade should be fair and not just free.",
+      "situationCue": "당장 해결책을 내놓으라는 압박에, 이 문제엔 단기 처방이 없다고 답할 때?",
+      "speaker": "Barack Obama",
+      "tags": [
+        "반박",
+        "자기주장"
+      ],
+      "curated": true
+    },
+    {
+      "id": "speech-obama-farewell2017-021",
+      "en": "But we can't be complacent about the goals themselves.",
+      "ko": "그러나 목표 자체에 대해서까지 안이해져서는 안 됩니다.",
+      "note": "complacent는 \"이만하면 됐다\"며 긴장을 놓는 태도를 가리킨다. be complacent about ~ 형태로 쓰며, 방법론 논쟁과 목표 자체를 갈라놓을 때 유용하다.",
+      "contextBefore": "We can argue about how to best achieve these goals.",
+      "contextAfter": "For if we don't create opportunity for all people, the disaffection and division that has stalled our progress will only sharpen in years to come.",
+      "situationCue": "방법은 얼마든지 토론하되 목표까지 느슨해지면 안 된다고 못 박을 때?",
+      "speaker": "Barack Obama",
+      "tags": [
+        "자기주장",
+        "조언"
+      ],
+      "curated": true
+    },
+    {
+      "id": "speech-obama-farewell2017-022",
+      "en": "But we're not where we need to be.",
+      "ko": "그러나 우리는 아직 있어야 할 자리에 이르지 못했습니다.",
+      "note": "현 위치를 목표 지점과 견주는 간결한 표현. 개선을 인정하면서도 만족하지 않는다는 뜻을 한 문장에 담는다.",
+      "contextBefore": "You can see it not just in statistics, you see it in the attitudes of young Americans across the political spectrum.",
+      "contextAfter": "And all of us have more work to do.",
+      "situationCue": "지표는 나아졌지만 아직 목표에는 못 미친다고 냉정하게 말할 때?",
+      "speaker": "Barack Obama",
+      "tags": [
+        "자기주장"
+      ],
+      "curated": true
+    },
+    {
+      "id": "speech-obama-farewell2017-023",
+      "en": "But laws alone won't be enough.",
+      "ko": "그러나 법만으로는 충분하지 않을 것입니다.",
+      "note": "명사 뒤에 붙는 alone은 \"그것만으로는\"이라는 뜻의 후치 수식. 제도만으로는 안 되고 태도가 바뀌어야 한다는 논지로 넘어가는 다리 역할을 한다.",
+      "contextBefore": "That is what our Constitution and our highest ideals require.",
+      "contextAfter": "Hearts must change.",
+      "situationCue": "규정을 만드는 것만으로는 문제가 풀리지 않는다고 짚을 때?",
+      "speaker": "Barack Obama",
+      "tags": [
+        "자기주장",
+        "설득"
+      ],
+      "curated": true
+    },
+    {
+      "id": "speech-obama-farewell2017-024",
+      "en": "It won't change overnight.",
+      "ko": "하루아침에 바뀌지는 않을 겁니다.",
+      "note": "overnight는 \"하룻밤 사이에\", 곧 \"순식간에\"라는 뜻으로 변화의 속도를 낮춰 말할 때 쓴다. 약속과 함께 기대치를 관리하는 문장이다.",
+      "contextBefore": "Hearts must change.",
+      "contextAfter": "Social attitudes oftentimes take generations to change.",
+      "situationCue": "개선을 약속하면서도 당장 달라지진 않는다고 기대치를 조절할 때?",
+      "speaker": "Barack Obama",
+      "tags": [
+        "조언",
+        "자기주장"
+      ],
+      "curated": true
+    },
+    {
+      "id": "speech-obama-farewell2017-025",
+      "en": "Because, as my mother used to tell me, reality has a way of catching up with you.",
+      "ko": "어머니가 늘 하시던 말씀처럼, 현실은 언젠가 반드시 따라잡기 마련이니까요.",
+      "note": "X has a way of ~ing는 \"결국 ~하기 마련이다\"라는 관용 틀. as로 인용을 끼워 넣으면 훈계가 한결 부드러워진다.",
+      "contextBefore": "It's not just dishonest, this selective sorting of the facts; it's self-defeating.",
+      "contextAfter": "Take the challenge of climate change.",
+      "situationCue": "불편한 사실을 계속 외면하는 상대에게, 결국 대가를 치른다고 부드럽게 경고할 때?",
+      "speaker": "Barack Obama",
+      "tags": [
+        "조언",
+        "압박"
+      ],
+      "curated": true
+    },
+    {
+      "id": "speech-obama-farewell2017-026",
+      "en": "Take the challenge of climate change.",
+      "ko": "기후 변화라는 과제를 예로 들어 보겠습니다.",
+      "note": "명령문 Take X는 \"예를 들어 X를 보자\"라는 예시 도입 표지. for example보다 힘 있게 화제를 옮긴다.",
+      "contextBefore": "Because, as my mother used to tell me, reality has a way of catching up with you.",
+      "contextAfter": "In just eight years, we've halved our dependence on foreign oil; we've doubled our renewable energy; we've led the world to an agreement that has the promise to save this planet.",
+      "situationCue": "추상적인 원칙을 말하다가 구체적인 사례 하나로 넘어갈 때?",
+      "speaker": "Barack Obama",
+      "tags": [
+        "설득"
+      ],
+      "curated": true
+    },
+    {
+      "id": "speech-obama-farewell2017-027",
+      "en": "Now, we can and should argue about the best approach to solve the problem.",
+      "ko": "물론 최선의 해법을 두고는 얼마든지 논쟁할 수 있고, 또 해야 합니다.",
+      "note": "can and should를 겹쳐 쓰면 \"가능할 뿐 아니라 마땅히 그래야 한다\"는 뜻이 된다. 이견을 막지 않으면서 논의의 범위를 정해 주는 문장이다.",
+      "contextBefore": "They'll be busy dealing with its effects: more environmental disasters, more economic disruptions, waves of climate refugees seeking sanctuary.",
+      "contextAfter": "But to simply deny the problem not only betrays future generations, it betrays the essential spirit of this country -- the essential spirit of innovation and practical problem-solving that guided our Founders.",
+      "situationCue": "이견을 인정하되 논쟁의 범위를 방법론으로 한정하고 싶을 때?",
+      "speaker": "Barack Obama",
+      "tags": [
+        "설득",
+        "협상"
+      ],
+      "curated": true
+    },
+    {
+      "id": "speech-obama-farewell2017-028",
+      "en": "And we all owe you a deep debt of gratitude.",
+      "ko": "그리고 우리 모두는 여러분에게 큰 빚을 지고 있습니다.",
+      "note": "owe A a debt of gratitude는 \"감사의 빚을 지다\"라는 격식 관용구. 단순한 thank you보다 무게가 실려 공식 치하에 어울린다.",
+      "contextBefore": "And to all who serve or have served, it has been the honor of my lifetime to be your Commander-in-Chief.",
+      "contextAfter": "But protecting our way of life, that's not just the job of our military.",
+      "situationCue": "수고한 팀이나 협력사에 가장 격식 있게 감사를 표할 때?",
+      "speaker": "Barack Obama",
+      "tags": [
+        "스몰토크"
+      ],
+      "curated": true
+    },
+    {
+      "id": "speech-obama-farewell2017-029",
+      "en": "So let's be vigilant, but not afraid.",
+      "ko": "그러니 경계는 하되, 두려워하지는 맙시다.",
+      "note": "형용사 둘을 but으로 맞세워 태도의 균형을 잡는 대구. vigilant는 \"경계를 늦추지 않는\"이라는 격식어다.",
+      "contextBefore": "If the scope of freedom and respect for the rule of law shrinks around the world, the likelihood of war within and between nations increases, and our own freedoms will eventually be threatened.",
+      "contextAfter": "ISIL will try to kill innocent people.",
+      "situationCue": "위기 상황에서 팀에게 긴장은 유지하되 겁먹지는 말자고 당부할 때?",
+      "speaker": "Barack Obama",
+      "tags": [
+        "조언",
+        "설득"
+      ],
+      "curated": true
+    },
+    {
+      "id": "speech-obama-farewell2017-030",
+      "en": "Which brings me to my final point: Our democracy is threatened whenever we take it for granted.",
+      "ko": "그래서 마지막 요점으로 넘어갑니다. 우리 민주주의는 그것을 당연하게 여기는 순간마다 위협받는다는 것입니다.",
+      "note": "Which brings me to ~는 앞 내용을 받아 다음 항목으로 넘어가는 발표 전환구. take it for granted(당연시하다)와 함께 통째로 익혀 둘 것.",
+      "contextBefore": "Rivals like Russia or China cannot match our influence around the world -- unless we give up what we stand for -- and turn ourselves into just another big country that bullies smaller neighbors.",
+      "contextAfter": "All of us, regardless of party, should be throwing ourselves into the task of rebuilding our democratic institutions.",
+      "situationCue": "발표에서 앞 내용을 자연스럽게 받아 마지막 항목으로 넘어갈 때?",
+      "speaker": "Barack Obama",
+      "tags": [
+        "설득"
+      ],
+      "curated": true
+    },
+    {
+      "id": "speech-obama-farewell2017-031",
+      "en": "But remember, none of this happens on its own.",
+      "ko": "다만 기억하십시오. 이 중 어느 것도 저절로 이루어지지는 않습니다.",
+      "note": "on its own은 \"저절로, 알아서\"라는 뜻. But remember로 시작해 실행의 책임을 청중에게 넘기는 전형적인 마무리 화법이다.",
+      "contextBefore": "When Congress is dysfunctional, we should draw our congressional districts to encourage politicians to cater to common sense and not rigid extremes.",
+      "contextAfter": "All of this depends on our participation; on each of us accepting the responsibility of citizenship, regardless of which way the pendulum of power happens to be swinging.",
+      "situationCue": "좋은 계획을 다 설명한 뒤, 저절로 되는 일은 없다고 못 박을 때?",
+      "speaker": "Barack Obama",
+      "tags": [
+        "조언",
+        "설득"
+      ],
+      "curated": true
+    },
+    {
+      "id": "speech-obama-farewell2017-032",
+      "en": "If you're tired of arguing with strangers on the Internet, try talking with one of them in real life.",
+      "ko": "인터넷에서 낯선 사람과 말다툼하는 데 지쳤다면, 그중 한 명과 실제로 만나 이야기해 보십시오.",
+      "note": "If you're tired of ~ing, try ~ing는 불만을 행동 제안으로 바꾸는 조언 틀. 상대를 탓하지 않고 다음 행동만 제시한다.",
+      "contextBefore": "Not just when there's an election, not just when your own narrow interest is at stake, but over the full span of a lifetime.",
+      "contextAfter": "If something needs fixing, then lace up your shoes and do some organizing.",
+      "situationCue": "불평만 되풀이하는 사람에게 다음에 해 볼 행동을 부드럽게 권할 때?",
+      "speaker": "Barack Obama",
+      "tags": [
+        "조언",
+        "설득"
+      ],
+      "curated": true
+    },
+    {
+      "id": "speech-obama-farewell2017-033",
+      "en": "You took on a role you didn't ask for and you made it your own, with grace and with grit and with style and good humor.",
+      "ko": "원해서 맡은 자리가 아니었는데도 당신은 그 자리를 온전히 당신의 것으로 만들었습니다. 품위와 근성, 멋과 유머까지 갖춰서 말이지요.",
+      "note": "make it your own은 \"남이 준 역할을 자기 색으로 소화하다\"라는 칭찬. with를 반복해 자질을 나열하는 리듬이 축사에 잘 어울린다.",
+      "contextBefore": "Michelle -- Michelle LaVaughn Robinson, girl of the South Side -- for the past 25 years, you have not only been my wife and mother of my children, you have been my best friend.",
+      "contextAfter": "You made the White House a place that belongs to everybody.",
+      "situationCue": "떠맡다시피 한 역할을 훌륭히 해낸 동료를 공개 석상에서 치하할 때?",
+      "speaker": "Barack Obama",
+      "tags": [
+        "스몰토크"
+      ],
+      "curated": true
+    },
+    {
+      "id": "speech-obama-farewell2017-034",
+      "en": "And the new generation sets its sights higher because it has you as a role model.",
+      "ko": "그리고 새로운 세대는 당신을 본보기로 두었기에 더 높은 곳을 바라봅니다.",
+      "note": "set one's sights higher는 \"목표를 더 높이 잡다\"라는 관용구. 칭찬의 근거를 상대의 영향력으로 돌려 주는 축사 표현이다.",
+      "contextBefore": "You made the White House a place that belongs to everybody.",
+      "contextAfter": "So you have made me proud.",
+      "situationCue": "후배들에게 본보기가 된 사람을 공식적으로 칭찬할 때?",
+      "speaker": "Barack Obama",
+      "tags": [
+        "스몰토크"
+      ],
+      "curated": true
+    },
+    {
+      "id": "speech-obama-farewell2017-035",
+      "en": "And that's why I leave this stage tonight even more optimistic about this country than when we started.",
+      "ko": "그래서 저는 우리가 시작할 때보다 더 큰 낙관을 품고 오늘 이 무대를 내려갑니다.",
+      "note": "leave this stage는 자리를 내려놓는다는 뜻의 은유. even more ... than when we started로 처음과 지금을 견주는 것이 이임사 마무리의 공식이다.",
+      "contextBefore": "You did.",
+      "contextAfter": "Because I know our work has not only helped so many Americans, it has inspired so many Americans -- especially so many young people out there -- to believe that you can make a difference -- to hitch your wagon to something bigger than yourselves.",
+      "situationCue": "임기를 마무리하는 연설의 끝에서, 시작할 때보다 더 희망적이라고 말할 때?",
+      "speaker": "Barack Obama",
+      "tags": [
+        "스몰토크",
+        "설득"
+      ],
+      "curated": true
+    },
+    {
+      "id": "speech-obama-farewell2017-036",
+      "en": "You'll soon outnumber all of us, and I believe as a result the future is in good hands.",
+      "ko": "머지않아 여러분이 우리보다 많아질 것이고, 그래서 저는 미래가 든든한 손에 맡겨졌다고 믿습니다.",
+      "note": "be in good hands는 \"믿을 만한 사람에게 맡겨져 있다\"는 관용구로, 인수인계나 후임 소개에 그대로 쓴다.",
+      "contextBefore": "You are willing to carry this hard work of democracy forward.",
+      "contextAfter": "My fellow Americans, it has been the honor of my life to serve you.",
+      "situationCue": "후임이나 젊은 세대에게 일을 넘기며 안심해도 된다고 말할 때?",
+      "speaker": "Barack Obama",
+      "tags": [
+        "스몰토크",
+        "조언"
+      ],
+      "curated": true
+    },
+    {
+      "id": "speech-obama-farewell2017-037",
+      "en": "My fellow Americans, it has been the honor of my life to serve you.",
+      "ko": "친애하는 국민 여러분, 여러분을 위해 일한 것은 제 인생의 영광이었습니다.",
+      "note": "it has been the honor of my life to V는 이임사의 정형구. My fellow ~는 청중을 동료로 부르는 격식 호칭이다.",
+      "contextBefore": "You'll soon outnumber all of us, and I believe as a result the future is in good hands.",
+      "contextAfter": "I won't stop.",
+      "situationCue": "오래 몸담은 조직을 떠나며 마지막 인사를 할 때?",
+      "speaker": "Barack Obama",
+      "tags": [
+        "스몰토크"
+      ],
+      "curated": true
+    },
+    {
+      "id": "speech-obama-farewell2017-038",
+      "en": "I'm asking you to believe.",
+      "ko": "저는 여러분께 믿어 달라고 부탁드립니다.",
+      "note": "ask you to V는 명령이 아니라 부탁의 형태로 행동을 요구한다. 무엇을 믿으라는 것인지는 바로 뒤에 대구로 이어 붙이는 것이 이 화법의 핵심.",
+      "contextBefore": "But for now, whether you are young or whether you're young at heart, I do have one final ask of you as your President -- the same thing I asked when you took a chance on me eight years ago.",
+      "contextAfter": "Not in my ability to bring about change -- but in yours.",
+      "situationCue": "마지막으로 청중에게 명령이 아닌 부탁의 형태로 한 가지를 요청할 때?",
+      "speaker": "Barack Obama",
+      "tags": [
+        "요청",
+        "설득"
+      ],
+      "curated": true
+    }
+  ]
+}
