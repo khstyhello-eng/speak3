@@ -32,13 +32,60 @@ if (typeof window !== 'undefined' && 'speechSynthesis' in window) {
 }
 
 let currentAudio = null;
-export function speakSentence(sentence) {
+
+// 새 오디오(영어 mp3든 한국어 mp3든) 재생 전 이전 오디오를 반드시 pause한다.
+// speakSentence/speakVariation/speakKorean이 모두 이 규율을 공유하므로, 어느 경로로
+// 재생을 시작하든 직전 재생은 자동으로 끊긴다 (화면 이탈 후 재진입 시에도 다음
+// 재생 호출 시점에 이전 오디오가 끊기는 것으로 정지가 보장됨 — drill.js 세대 카운터와 별개 방어선).
+export function stopSpeech() {
   if (currentAudio) { currentAudio.pause(); currentAudio = null; }
   if (support.tts) speechSynthesis.cancel();
-  const audio = new Audio(`data/audio/${sentence.id}.mp3`);
+}
+
+function playAudioOrFallback(path, fallbackText) {
+  stopSpeech();
+  const audio = new Audio(path);
   currentAudio = audio;
-  audio.onerror = () => { if (currentAudio === audio) { currentAudio = null; speak(sentence.en); } };
-  audio.play().catch(() => { if (currentAudio === audio) { currentAudio = null; speak(sentence.en); } });
+  audio.onerror = () => { if (currentAudio === audio) { currentAudio = null; speak(fallbackText); } };
+  audio.play().catch(() => { if (currentAudio === audio) { currentAudio = null; speak(fallbackText); } });
+}
+
+export function speakSentence(sentence) {
+  playAudioOrFallback(`data/audio/${sentence.id}.mp3`, sentence.en);
+}
+
+// 변형 문장(sentence.variations[idx])의 영어 음성. mp3 우선(data/audio/<id>-v<idx+1>.mp3),
+// 실패 시 브라우저 TTS로 v.en을 읽는다 (speakSentence와 동일한 정지/폴백 규율 공유).
+export function speakVariation(sentence, idx) {
+  const v = sentence.variations[idx];
+  playAudioOrFallback(`data/audio/${sentence.id}-v${idx + 1}.mp3`, v.en);
+}
+
+// 한국어 큐 음성. data/audio/ko/<audioKey>.mp3 우선 → 실패 시 브라우저 TTS(ko-KR) →
+// TTS도 없으면 즉시 onDone. onDone은 settled 플래그로 정확히 1회만 호출된다.
+// (audio의 onerror와 play().catch()가 같은 실패에 대해 둘 다 발화할 수 있으므로
+// fallback 시작 자체도 별도 플래그로 한 번만 트리거되도록 이중 방어한다.)
+export function speakKorean(text, audioKey, onDone) {
+  stopSpeech();
+  let settled = false;
+  const finish = () => { if (settled) return; settled = true; onDone?.(); };
+  let fallbackStarted = false;
+  const toFallback = () => {
+    if (fallbackStarted) return;
+    fallbackStarted = true;
+    if (!support.tts) { finish(); return; }
+    speechSynthesis.cancel();
+    const u = new SpeechSynthesisUtterance(text);
+    u.lang = 'ko-KR';
+    u.onend = () => finish();
+    u.onerror = () => finish();
+    speechSynthesis.speak(u);
+  };
+  const audio = new Audio(`data/audio/ko/${audioKey}.mp3`);
+  currentAudio = audio;
+  audio.onended = () => { if (currentAudio === audio) currentAudio = null; finish(); };
+  audio.onerror = () => { if (currentAudio === audio) currentAudio = null; toFallback(); };
+  audio.play().catch(() => { if (currentAudio === audio) currentAudio = null; toFallback(); });
 }
 
 export function recognizeOnce({ onSpeechStart } = {}) {

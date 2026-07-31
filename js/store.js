@@ -3,7 +3,7 @@ const DEVICE_KEY = 'speak3.device';
 const LS = typeof localStorage !== 'undefined' ? localStorage : null;
 
 export function defaultState() {
-  return { version: 1, records: {}, custom: {}, settings: { newPerDay: 5 }, updatedAt: '', skipped: {} };
+  return { version: 1, records: {}, custom: {}, settings: { newPerDay: 5, hideCueText: false }, updatedAt: '', skipped: {} };
 }
 
 export function mergeRecords(a, b) {

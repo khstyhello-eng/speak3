@@ -18,6 +18,10 @@ export function renderSettings(el, ctx) {
     <p class="big">학습 설정</p>
     <p class="sub" style="margin:8px 0">하루 새 문장 개수</p>
     <input id="new-per-day" type="number" min="1" max="50" value="${ctx.state.settings.newPerDay}">
+    <label class="row" style="align-items:center; gap:8px">
+      <input id="hide-cue-text" type="checkbox" ${ctx.state.settings.hideCueText ? 'checked' : ''}>
+      <span class="sub">듣기 전용 모드 — 드릴 큐 텍스트를 가리고 한국어 음성만으로 큐를 줍니다</span>
+    </label>
   </section>
   <section class="card">
     <p class="big">백업</p>
@@ -53,6 +57,10 @@ export function renderSettings(el, ctx) {
     const clamped = Math.min(50, Math.max(1, Number(e.target.value) || 5));
     ctx.state.settings.newPerDay = clamped;
     e.target.value = String(clamped);
+    ctx.save();
+  };
+  el.querySelector('#hide-cue-text').onchange = (e) => {
+    ctx.state.settings.hideCueText = e.target.checked;
     ctx.save();
   };
   el.querySelector('#export').onclick = () => {
