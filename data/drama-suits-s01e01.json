@@ -115,7 +115,7 @@
       "id": "suits-s01e01-005",
       "en": "Because a charging bull always looks at the red cape, not at the man with the sword.",
       "ko": "돌진하는 소는 칼을 든 사람이 아니라 늘 빨간 천만 보거든요.",
-      "core": "looks at the red cape, not at the man",
+      "core": "looks at the red cape, not at the man with the sword",
       "coreKo": "칼 든 사람이 아니라 빨간 천만 본다",
       "note": "상대의 시선을 엉뚱한 곳으로 돌려 놓았다는 비유. 협상에서 '왜 통했냐'는 질문에 원리를 비유로 답하면 설득력이 올라간다.",
       "contextBefore": "How did you know Gerald wouldn't look at that memo?",
@@ -805,8 +805,8 @@
           "ko": "경비 보고서로 잔꾀 부리는 일은 이제 그만합시다."
         },
         {
-          "en": "No more surprises in front of the client.",
-          "ko": "고객 앞에서 갑자기 일을 터뜨리는 건 이제 그만."
+          "en": "I want no more shenanigans in front of the client.",
+          "ko": "고객 앞에서 잔꾀 부리는 일은 이제 없었으면 합니다."
         }
       ],
       "curated": true
