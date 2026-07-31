@@ -6,7 +6,7 @@
     {
       "id": "suits-s01e01-001",
       "en": "And you're telling me I'm going to get screwed?",
-      "ko": "그런데 지금 나더러 손해를 보게 됐다는 겁니까?",
+      "ko": "그런데 지금 내가 당하게 될 거라는 말씀입니까?",
       "note": "돈을 지불한 쪽이 불리한 상황을 통보받았을 때 쓰는 강한 항의. get screwed는 '뒤통수 맞다·당하다'는 뜻의 구어로, 격식 자리에선 get a bad deal로 바꿔 쓸 수 있다.",
       "contextBefore": "I'm paying you millions.",
       "contextAfter": "He's our best closer.",
@@ -189,7 +189,7 @@
       "note": "자기 기여를 내세우며 상대와 대비시키는 전형적인 승진 어필. instead of -ing로 비교 대상을 붙이면 주장이 훨씬 선명해진다.",
       "contextBefore": "My billables destroy his.",
       "contextAfter": "I must admit, he does make me sound very swan-like.",
-      "situationCue": "내 성과가 밀렸다고 느낄 때, 얼마나 헌신했는지 상사 앞에서 주장한다면?",
+      "situationCue": "승진에서 밀렸다고 느낄 때, 내가 얼마나 헌신했는지 상사 앞에서 주장한다면?",
       "speaker": "Louis",
       "tags": [
         "자기주장",
@@ -323,7 +323,7 @@
       "note": "just because A does not mean B는 '~라고 해서 ~인 건 아니다'라는 반박 구문의 정석. 직급과 권한을 구분해 말하는 성숙한 태도를 보여 준다.",
       "contextBefore": "I answer to Harvey and Louis Litt, and judging by the way you responded to my questions, I should admire Harvey and I should fear Louis.",
       "contextAfter": "Oh.",
-      "situationCue": "직급 차이를 앞세워 무리한 협조를 요구받았다고 오해받을 때, 선을 정리한다면?",
+      "situationCue": "직급이 높으니 당연히 협조해야 한다는 식으로 오해받았을 때, 선을 정리한다면?",
       "speaker": "Mike",
       "tags": [
         "자기주장",
@@ -409,7 +409,7 @@
     {
       "id": "suits-s01e01-028",
       "en": "And you know, Gerald might have forgiven the lying had you not humiliated him.",
-      "ko": "거짓말은 넘어갔을지도 몰라요. 망신만 안 줬으면요.",
+      "ko": "제럴드도 거짓말은 용서했을지 몰라요. 망신만 주지 않았다면요.",
       "note": "had you not humiliated him은 if you hadn't...의 도치형으로 문어체·격식 화법에서 자주 등장한다. 상대의 결정적 실수를 짚는 조언이다.",
       "contextBefore": "Companies aren't exactly lining up to spend money on attorneys right now.",
       "contextAfter": "But you did and you need to accept that.",
@@ -693,7 +693,7 @@
     {
       "id": "suits-s01e01-047",
       "en": "Did you think they wouldn't fight back?",
-      "ko": "상대가 가만있을 거라고 생각했어요?",
+      "ko": "저쪽이 반격하지 않을 거라고 생각했어요?",
       "note": "fight back은 '반격하다'. 상대의 반발을 당연한 전개로 받아들이라는 조언을 반문 형태로 던지는 방식이다.",
       "contextBefore": "You're looking in the right place.",
       "contextAfter": "Oh.",

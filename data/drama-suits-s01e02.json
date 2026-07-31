@@ -100,7 +100,7 @@
       "note": "합의한 조건을 그대로 지키라고 못 박는 관용 표현. 상대가 사정을 봐 달라고 할 때 단호하게 거절하는 근거가 된다.",
       "contextBefore": "Sorry, Golden Boy.",
       "contextAfter": "What do you think you're doing? Uh, I'm proofing briefs.",
-      "situationCue": "사정이 생겼으니 봐 달라는 상대에게, 합의는 합의라고 자를 때?",
+      "situationCue": "사정이 생겼으니 봐 달라는 상대에게, 정한 건 정한 거라고 딱 자를 때?",
       "speaker": "Gregory",
       "tags": [
         "거절",
@@ -156,7 +156,7 @@
     {
       "id": "suits-s01e02-011",
       "en": "No, someone beat you to it.",
-      "ko": "아니, 자네가 당한 거지.",
+      "ko": "아니, 누가 자네보다 먼저 낸 거지.",
       "note": "beat someone to it은 '먼저 해 버리다·선수 치다'. us를 you로 바꿔 말하며 책임 소재를 정확히 상대에게 돌리는 한 방이다.",
       "contextBefore": "Wait.",
       "contextAfter": "They filed less than 24 hours ago, which means you filed a day later than you said you would.",
@@ -549,7 +549,7 @@
       "contextBefore": "That's half what we spent developing the prototype.",
       "contextAfter": "Yeah, well, winds can change.",
       "situationCue": "상대의 제안 금액이 오히려 과분하다는 뉘앙스로 받아칠 때?",
-      "speaker": "Harvey",
+      "speaker": "George",
       "tags": [
         "협상",
         "압박"
@@ -679,7 +679,7 @@
     {
       "id": "suits-s01e02-046",
       "en": "So if Louis asks you to do something like that, you come to me first.",
-      "ko": "그러니까 다음에 그런 요구를 받으면 나한테 먼저 와요.",
+      "ko": "그러니까 루이스가 그런 걸 시키면 나한테 먼저 와요.",
       "note": "you come to me first처럼 평서문 형태로 내리는 지시는 명령문보다 오히려 무겁게 들린다. 보고 체계를 정리해 줄 때 그대로 쓸 수 있다.",
       "contextBefore": "Yeah, I hired you, and I expect your loyalty.",
       "contextAfter": "Oh, right.",
@@ -739,7 +739,7 @@
     {
       "id": "suits-s01e02-050",
       "en": "People will promise you the world.",
-      "ko": "사람들은 세상 전부를 주겠다는 식으로 약속하죠.",
+      "ko": "사람들은 뭐든 다 해 주겠다고 약속하죠.",
       "note": "promise someone the world는 '온갖 걸 다 해 주겠다고 큰소리치다'. 말뿐인 약속을 경계하라는 조언에 자주 등장한다.",
       "contextBefore": "New business is hard.",
       "contextAfter": "But until they sign that engagement letter, it means nothing.",
