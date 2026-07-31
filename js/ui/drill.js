@@ -1,6 +1,7 @@
 import { review } from '../srs.js';
 import { bestScore, PASS_THRESHOLD } from '../match.js';
 import { support, speakSentence, speakVariation, speakKorean, recognizeOnce } from '../speech.js';
+import { koOriginalKey, koCueKey, koVariationKey } from '../audioKeys.js';
 
 const START_WINDOW_MS = 3000;
 const REC_FAILS_TO_SELF_ASSESS = 3;
@@ -24,7 +25,7 @@ export function renderDrill(el, ctx) {
   sessionSelfAssess = false;
   const queue = buildQueue(ctx);
   if (!queue.length) {
-    el.innerHTML = `<section class="card"><p class="big">오늘 발화할 문장이 없어요 🎉</p><div class="row"><a class="btn" href="#home">홈으로</a></div></section>`;
+    el.innerHTML = `<section class="card"><p class="big">오늘 발화할 문장이 없어요 🎉</p><div class="row"><a class="btn" href="#learn">새 문장 학습하기</a></div></section>`;
     return;
   }
   runItem(el, ctx, queue, 0);
@@ -54,10 +55,10 @@ export function pickVariation(record, sentence) {
 // 문장(situationCue가 항상 '')이 stage 2+ 로 승급했을 때만 실제로 닿는 드문 경로다.
 function cueFor(sentence, record) {
   const pv = pickVariation(record, sentence);
-  if (pv) return { label: '응용해서 말해보세요', text: pv.v.ko, audioKey: `ko-${sentence.id}-v${pv.idx + 1}`, pv };
-  if (record.stage >= 2 && sentence.situationCue) return { label: '이런 상황이라면?', text: sentence.situationCue, audioKey: `cue-${sentence.id}` };
+  if (pv) return { label: '응용해서 말해보세요', text: pv.v.ko, audioKey: koVariationKey(sentence.id, pv.idx), pv };
+  if (record.stage >= 2 && sentence.situationCue) return { label: '이런 상황이라면?', text: sentence.situationCue, audioKey: koCueKey(sentence.id) };
   if (record.stage >= 2 && sentence.contextBefore) return { label: '상대방이 이렇게 말했다:', text: sentence.contextBefore, audioKey: null };
-  return { label: '3초 안에 영어로!', text: sentence.ko, audioKey: `ko-${sentence.id}` };
+  return { label: '3초 안에 영어로!', text: sentence.ko, audioKey: koOriginalKey(sentence.id) };
 }
 
 // 변형 모드면 채점/표시 대상은 sentence 자체가 아니라 골라둔 변형(en/ko)이다.
@@ -110,19 +111,27 @@ function startCountdown(el, onExpire) {
 }
 
 // 한국어 큐 음성을 재생하고, 끝나면 onDone을 부른다. audioKey가 없는 드문 분기
-// (contextBefore 폴백)는 재생할 한국어 음성이 없으므로 onDone을 즉시 호출한다.
+// (contextBefore 폴백, 한국어 mp3 자체가 없음)는:
+//  - hideCueText가 꺼져 있으면 큐 텍스트가 이미 화면에 보이므로 onDone을 즉시 호출.
+//  - hideCueText가 켜져 있으면 텍스트가 가려져 있어 음성마저 없으면 사용자에게 아무 큐도
+//    주어지지 않는 채로 카운트다운만 도는 상황이 된다 — speakKorean(text, null, onDone)으로
+//    mp3 시도를 건너뛰고 곧장 브라우저 ko-KR TTS로 큐를 들려준다.
 // 이 함수 자체는 세대 검사를 하지 않는다 — 호출자(runRecognition/runSelfAssess)가
 // onDone 안에서 myGen을 검사해, 화면을 벗어났다 돌아온 뒤 도착한 콜백이 새 아이템의
 // 카운트다운·마이크를 건드리지 못하게 막는다.
-function playCueAudio(cue, onDone) {
-  if (!cue.audioKey) { onDone(); return; }
+function playCueAudio(ctx, cue, onDone) {
+  if (!cue.audioKey) {
+    if (ctx.state.settings.hideCueText) { speakKorean(cue.text, null, onDone); return; }
+    onDone();
+    return;
+  }
   speakKorean(cue.text, cue.audioKey, onDone);
 }
 
 async function runRecognition(el, ctx, queue, i, sentence, record, cue) {
   const myGen = generation;
   el.innerHTML = cueHtml(ctx, cue, i, queue.length) + `<p class="sub" id="mic-status">🔊 듣는 중…</p>`;
-  playCueAudio(cue, () => {
+  playCueAudio(ctx, cue, () => {
     if (myGen !== generation) return; // 다른 아이템/화면으로 넘어간 뒤 도착한 콜백
     if (!el.querySelector('#mic-status')) return; // 화면 이탈 — 방어적 이중 체크(기존 패턴과 동일)
     startListening(el, ctx, queue, i, sentence, record, cue, myGen);
@@ -208,7 +217,7 @@ function showVerdict(el, ctx, queue, i, sentence, record, cue, v) {
 function runSelfAssess(el, ctx, queue, i, sentence, record, cue) {
   const myGen = generation;
   el.innerHTML = cueHtml(ctx, cue, i, queue.length) + `<div class="row"><button id="reveal" disabled>🔊 듣는 중…</button></div>`;
-  playCueAudio(cue, () => {
+  playCueAudio(ctx, cue, () => {
     if (myGen !== generation) return; // 다른 아이템/화면으로 넘어간 뒤 도착한 콜백
     const revealBtn = el.querySelector('#reveal');
     if (!revealBtn) return; // 화면 이탈 — 방어적 이중 체크
