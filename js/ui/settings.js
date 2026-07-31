@@ -32,7 +32,8 @@ export function renderSettings(el, ctx) {
     <div class="row">
       <button id="reset-selfassess" class="ghost">음성인식 다시 시도</button>
     </div>
-  </section>`;
+  </section>
+  ${skippedCardHtml(ctx)}`;
 
   el.querySelector('#connect').onclick = async () => {
     const token = el.querySelector('#token').value.trim();
@@ -82,4 +83,30 @@ export function renderSettings(el, ctx) {
     ctx.save();
     alert(`${count}개 문장을 음성인식 모드로 되돌렸어요`);
   };
+  el.querySelectorAll('[data-restore]').forEach((b) => {
+    b.onclick = () => {
+      delete ctx.state.skipped[b.dataset.restore];
+      ctx.save();
+      renderSettings(el, ctx);
+    };
+  });
+}
+
+// 스킵한 문장 카드. skipped가 비어있으면 아무것도 렌더링하지 않는다.
+function skippedCardHtml(ctx) {
+  const ids = Object.keys(ctx.state.skipped);
+  if (!ids.length) return '';
+  const rows = ids.map((id) => {
+    const s = ctx.content.sentenceById[id];
+    const label = s ? s.en.slice(0, 40) : id;
+    return `<div class="row" style="justify-content:space-between; align-items:center">
+      <span class="sub">${label}</span>
+      <button class="ghost" data-restore="${id}">복원</button>
+    </div>`;
+  }).join('');
+  return `<section class="card">
+    <p class="big">스킵한 문장</p>
+    <p class="sub" style="margin:8px 0">${ids.length}개</p>
+    ${rows}
+  </section>`;
 }

@@ -48,3 +48,20 @@ test('mergeState: local이 더 최신이면 local의 settings 승리', () => {
 test('importJson: records:null는 거부', () => {
   assert.throws(() => importJson('{"version":1,"records":null}'));
 });
+
+test('defaultState: skipped는 빈 객체', () => {
+  assert.deepEqual(defaultState().skipped, {});
+});
+
+test('mergeState: skipped는 id 기준 합집합, 충돌 시 최신 timestamp 승리', () => {
+  const local = { ...defaultState(), updatedAt: '2026-07-30T10:00:00Z', skipped: { s1: '2026-07-30T09:00:00Z', s2: '2026-07-30T08:00:00Z' } };
+  const remote = { ...defaultState(), updatedAt: '2026-07-30T11:00:00Z', skipped: { s1: '2026-07-30T12:00:00Z', s3: '2026-07-30T07:00:00Z' } };
+  const m = mergeState(local, remote);
+  assert.deepEqual(m.skipped, { s1: '2026-07-30T12:00:00Z', s2: '2026-07-30T08:00:00Z', s3: '2026-07-30T07:00:00Z' });
+});
+
+test('export/import 왕복: skipped 보존', () => {
+  const s = { ...defaultState(), skipped: { s1: '2026-07-30T10:00:00Z' } };
+  const back = importJson(exportJson(s));
+  assert.deepEqual(back, s);
+});

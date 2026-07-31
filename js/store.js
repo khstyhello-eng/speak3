@@ -3,7 +3,7 @@ const DEVICE_KEY = 'speak3.device';
 const LS = typeof localStorage !== 'undefined' ? localStorage : null;
 
 export function defaultState() {
-  return { version: 1, records: {}, custom: {}, settings: { newPerDay: 5 }, updatedAt: '' };
+  return { version: 1, records: {}, custom: {}, settings: { newPerDay: 5 }, updatedAt: '', skipped: {} };
 }
 
 export function mergeRecords(a, b) {
@@ -25,12 +25,23 @@ export function mergeState(local, remote) {
     }
     custom[src] = [...seen.values()];
   }
+  // skipped는 id별 최신 timestamp 승리로 합집합. 주의: 한쪽에서 복원(삭제)해도 다른 쪽이 아직
+  // 그 id를 skipped로 갖고 있으면 병합 시 되살아날 수 있음(v1에서는 허용, 해결 안 함).
+  const localSkipped = local.skipped || {};
+  const remoteSkipped = remote.skipped || {};
+  const skipped = { ...localSkipped, ...remoteSkipped };
+  for (const id of Object.keys(skipped)) {
+    const l = localSkipped[id];
+    const r = remoteSkipped[id];
+    if (l && r) skipped[id] = l > r ? l : r;
+  }
   return {
     version: 1,
     records: mergeRecords(local.records, remote.records),
     custom,
     settings: { ...newer.settings },
     updatedAt: newer.updatedAt,
+    skipped,
   };
 }
 

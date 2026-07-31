@@ -15,7 +15,7 @@ export function renderLearn(el, ctx) {
   const candidates = [];
   for (const sec of sections) for (const srcId of sec.sources) {
     for (const s of ctx.content.sourcesById[srcId].sentences) {
-      if (!ctx.state.records[s.id]) candidates.push(s);
+      if (!ctx.state.records[s.id] && !ctx.state.skipped[s.id]) candidates.push(s);
     }
   }
   if (!candidates.length) {
@@ -65,6 +65,7 @@ function showCard(el, ctx, filter, s, remaining) {
     <div class="row">
       <button id="listen" class="ghost">🔊 듣기</button>
       <button id="done">학습 완료 → 오늘 발화 목록에 추가</button>
+      <button id="skip" class="ghost">스킵</button>
     </div>
   </section>`;
   bindChips(el, ctx);
@@ -74,5 +75,10 @@ function showCard(el, ctx, filter, s, remaining) {
     ctx.state.records[s.id] = newRecord(ctx.todayStr(), ctx.nowIso());
     ctx.save();
     renderLearn(el, ctx); // 다음 후보 or 완료 화면(→발화 연습 링크)
+  };
+  el.querySelector('#skip').onclick = () => {
+    ctx.state.skipped[s.id] = ctx.nowIso();
+    ctx.save();
+    renderLearn(el, ctx); // records를 건드리지 않으므로 오늘 학습량은 그대로, 다음 후보가 바로 나온다
   };
 }
