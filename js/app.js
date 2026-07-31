@@ -5,7 +5,7 @@ import { renderLearn } from './ui/learn.js';
 import { renderDrill } from './ui/drill.js';
 import { renderBrowser } from './ui/browser.js';
 import { renderSettings } from './ui/settings.js';
-// import { autoSync, schedulePush } from './sync.js';   // Task 9에서 해제
+import { autoSync, schedulePush } from './sync.js';
 
 const routes = { home: renderHome, learn: renderLearn, drill: renderDrill, browser: renderBrowser, settings: renderSettings };
 
@@ -22,7 +22,7 @@ export const ctx = {
   save() {
     this.state.updatedAt = this.nowIso();
     saveState(this.state);
-    // schedulePush(this);                               // Task 9에서 해제
+    schedulePush(this);
   },
   refreshContent() { this.content = withCustom(this.baseContent, this.state.custom); },
   go(route) { location.hash = '#' + route; },
@@ -41,7 +41,7 @@ async function boot() {
   ctx.refreshContent();
   window.addEventListener('hashchange', render);
   render();
-  // autoSync(ctx).then(() => render()).catch(() => {}); // Task 9에서 해제
+  autoSync(ctx).then(() => render()).catch(() => {});
 }
 
 boot();
