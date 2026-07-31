@@ -1,850 +1,5938 @@
 {
+  "cue-speech-obama-dnc2004-001": {
+    "sha1": "b77ce88ca993f7052ed9e0bc443fa6f96ce2b384",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-speech-obama-dnc2004-002": {
+    "sha1": "43dbed1b433da9fcc35030343ca2209c5d198251",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-speech-obama-dnc2004-003": {
+    "sha1": "3c338a506e380d2bbb20c63358ff56ef7af4b639",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-speech-obama-dnc2004-004": {
+    "sha1": "da74cf927c1a893cde9dfeaa16955b3eae5110d6",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-speech-obama-dnc2004-005": {
+    "sha1": "d9c842c35285a5c79bea95a3ed6186f76ebbb4d3",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-speech-obama-dnc2004-006": {
+    "sha1": "ef7f2e3c6d2d43e508522fed8672b5b4df0f95e8",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-speech-obama-dnc2004-007": {
+    "sha1": "f67d3e04d37280687e1a3dd421f14850504608ea",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-speech-obama-dnc2004-008": {
+    "sha1": "e4d3fce60b7f6fe4881ad7e12c9b7141783f2b72",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-speech-obama-dnc2004-009": {
+    "sha1": "b2aea0ef37b83e27b3676e2a324d87de8c5a3246",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-speech-obama-dnc2004-010": {
+    "sha1": "a7b9fb251f3878ce95dbc3767a6c480bc7b517d6",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-speech-obama-dnc2004-011": {
+    "sha1": "8df4e73d2845c9db7c9fd6ff55ddac6ef39d3fea",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-speech-obama-dnc2004-012": {
+    "sha1": "285086d187088b16cb6feefe48b03c3a511ab745",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-speech-obama-dnc2004-013": {
+    "sha1": "3b8d13bd4d4dc705a902a0943484c116acaa1b03",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-speech-obama-dnc2004-014": {
+    "sha1": "f4153145989c764d6ff68cc364307a727b4de029",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-speech-obama-dnc2004-015": {
+    "sha1": "b3a774a73cea104bc449e3dc416f6ab1ec90bb59",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-speech-obama-dnc2004-016": {
+    "sha1": "7b4e5deb66614190debdf30cd35f7e8b5c51bb08",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-speech-obama-dnc2004-017": {
+    "sha1": "cf256b56e9eb2f237c41a65b156e4441b6ecc742",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-speech-obama-dnc2004-018": {
+    "sha1": "c9aa0dfc4dee2fd6c36d99fc0047a1a22b938513",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-speech-obama-dnc2004-019": {
+    "sha1": "365c3b04e2df939e0a9fd8ae11e1286efea4aa9d",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-speech-obama-dnc2004-020": {
+    "sha1": "216d18ccce1caafbffaad38307d0f9b28f66dadd",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-speech-obama-dnc2004-021": {
+    "sha1": "f4dda1a36046ec7e84f9766d2602ef8355ecabc5",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-speech-obama-dnc2004-022": {
+    "sha1": "513bfe5dae0a4c9063095d5fd8cca95bdf5d5b3f",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-speech-obama-dnc2004-023": {
+    "sha1": "bd4727a60be676ad15cbc7d7cd2aa95299dffad0",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-speech-obama-dnc2004-024": {
+    "sha1": "b9854f535858b6880f500374f29f35511f6a127a",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-speech-obama-farewell2017-001": {
+    "sha1": "68a45c730f1f14a7f9788b88076c1786b69e3de0",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-speech-obama-farewell2017-002": {
+    "sha1": "52c9a1092b879271c3623528b4f6221094acc6cb",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-speech-obama-farewell2017-003": {
+    "sha1": "3b3c34f65a877dfd6a9b6d3c88d51181e44f77a7",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-speech-obama-farewell2017-004": {
+    "sha1": "9d4cb62778075095bade99272bdb061fa8a5be92",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-speech-obama-farewell2017-005": {
+    "sha1": "c76f58c9c0633757c534048d18dca0e381dbac36",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-speech-obama-farewell2017-006": {
+    "sha1": "21ce81bcae132f4d0bfb4716431f5f794c8b334f",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-speech-obama-farewell2017-007": {
+    "sha1": "b9cbd1e091c9aa931242d0d0e39077d61abb0e62",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-speech-obama-farewell2017-008": {
+    "sha1": "bb89d64b469bd1ec310661fced9cae7562aa9928",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-speech-obama-farewell2017-009": {
+    "sha1": "92060df2f1c19a13a3dd75e0ab8d434d0113949c",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-speech-obama-farewell2017-010": {
+    "sha1": "160e4a08f3d8b9996e3e4448e18c9c30350319a6",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-speech-obama-farewell2017-011": {
+    "sha1": "aa911e71fe9ae771ed5cd28f02b24bd779857c36",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-speech-obama-farewell2017-012": {
+    "sha1": "c6bd1cf320105ebc58eaaf410175fc6c3942733d",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-speech-obama-farewell2017-013": {
+    "sha1": "5751654a16867b66f26efb66c5be1b48e6fba3cb",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-speech-obama-farewell2017-014": {
+    "sha1": "53ce30bf38699c3f74c13296dac5a4a847d5fb40",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-speech-obama-farewell2017-015": {
+    "sha1": "c725afd9e6603a6df3247930266be1ae42f27326",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-speech-obama-farewell2017-016": {
+    "sha1": "4fc650bb63cbf1ee0ddf7b076e1288f75585a879",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-speech-obama-farewell2017-017": {
+    "sha1": "c4eb894fea41ea66e64656179cb265c70185f4cb",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-speech-obama-farewell2017-018": {
+    "sha1": "e6be653b5c1019b328694bf4315df3b648d5889b",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-speech-obama-farewell2017-019": {
+    "sha1": "145ce8c96c5795f7cb8b5e0e93da6fdbdd4dea67",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-speech-obama-farewell2017-020": {
+    "sha1": "725d491406bf88e8aa63d882df8632ed09202732",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-speech-obama-farewell2017-021": {
+    "sha1": "fee5d2a20281f7f63b8dc901e30c41ccac7bb6b4",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-speech-obama-farewell2017-022": {
+    "sha1": "21fc95a05fa0cac81eaa7d06fd0b189520708191",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-speech-obama-farewell2017-023": {
+    "sha1": "3f7c27209b5672c52eea9368435b3fb542677376",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-speech-obama-farewell2017-024": {
+    "sha1": "f426b458bd0042aa388395f2ffae142c69b37ee5",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-speech-obama-farewell2017-025": {
+    "sha1": "0073bdf7077f8bc243cc1f416e22a483b747cbde",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-speech-obama-farewell2017-026": {
+    "sha1": "cb5effccf40d1f5ce1b69ecc1554d2dab86da4dd",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-speech-obama-farewell2017-027": {
+    "sha1": "a3a72a5b1c7fac9bc9720e044a65302053ac1a74",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-speech-obama-farewell2017-028": {
+    "sha1": "e5666f64069f572aebe5aaf50f4272b936adecfd",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-speech-obama-farewell2017-029": {
+    "sha1": "2038a515e884622b48116a340784dc7d1f1d0056",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-speech-obama-farewell2017-030": {
+    "sha1": "977ef342ad38c183a898ab18ec9a335d9256d0af",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-speech-obama-farewell2017-031": {
+    "sha1": "d5c54b9db05eea583144ca9e4a217b6caaa27464",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-speech-obama-farewell2017-032": {
+    "sha1": "c257a29faf04f10fdfd144d14ee570653418ae28",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-speech-obama-farewell2017-033": {
+    "sha1": "f26fc8b7d0a6141a4be78b7d9a636b0fb827673b",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-speech-obama-farewell2017-034": {
+    "sha1": "99f3880f66161683ab7ef6d34291d55f8f749f1f",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-speech-obama-farewell2017-035": {
+    "sha1": "9f3dae55c29f9d96582c9f7ac42ea53581fbf20c",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-speech-obama-farewell2017-036": {
+    "sha1": "59102aa652c325504f2398767ce8cdfbc5e4de4a",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-speech-obama-farewell2017-037": {
+    "sha1": "f391c4dee0023e433205acfe24c4c4e224f8d69d",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-speech-obama-farewell2017-038": {
+    "sha1": "d3ef8ce6cbfb828400f81d7599c59c5290631e75",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-speech-queen-covid-001": {
+    "sha1": "96c18b7639b706e187e624c2c74fdeb7000b4fb0",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-speech-queen-covid-002": {
+    "sha1": "1d0e516a69758c8fb5cba6637dc0a8910d2e45cb",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-speech-queen-covid-003": {
+    "sha1": "d4a82074e5c0ac2a7c776719139133ac597082f8",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-speech-queen-covid-004": {
+    "sha1": "c7ff236d715b54ac7e90ff3dd899dc184580ffac",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-speech-queen-covid-005": {
+    "sha1": "fea1eb6fb8b2af18cf4d409e3c27b9df7cc22fc4",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-speech-queen-covid-006": {
+    "sha1": "ceb6b111091fa0aea0cee04fc79d699bbdffcbb0",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-speech-queen-covid-007": {
+    "sha1": "06c6347e20b7d5ebb9c485b36ff76b8d474aa1e8",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-speech-queen-covid-008": {
+    "sha1": "9ad32c5179da578f664a069bb65e9671a3d84696",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-speech-queen-covid-009": {
+    "sha1": "6eb5b3e866c2f1337f4a12ca0e5334504792e2a6",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-speech-queen-covid-010": {
+    "sha1": "c294f42d44922623607494536f2aa590c4555f96",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-speech-queen-covid-011": {
+    "sha1": "0ab5f9bb4406a0301e3803c3e3fb35a8cf33523d",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-speech-queen-covid-012": {
+    "sha1": "37226fdae2d6a06efec3ddb76f428d94b265f2f8",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-speech-queen-covid-013": {
+    "sha1": "d613ea7087529ddfbfddf72817e08e7c64bdb347",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-speech-watson-heforshe-001": {
+    "sha1": "ed699c9ddac5809705789af3396cc421951f1313",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-speech-watson-heforshe-002": {
+    "sha1": "bdf52c5f18cd0fab4ae50c7017663af4330b5362",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-speech-watson-heforshe-003": {
+    "sha1": "0e7ad80a8c087786ef425e8eda5dae261014d0e4",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-speech-watson-heforshe-004": {
+    "sha1": "bb1de6a059404983ba20b9370474263eec787fc1",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-speech-watson-heforshe-005": {
+    "sha1": "618d3894f7ae6191af0c055e44ab34890f33e829",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-speech-watson-heforshe-006": {
+    "sha1": "1693ae499044c2027813a57d84560bf0ffd8a71e",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-speech-watson-heforshe-007": {
+    "sha1": "6bc275ad19b3c3d52351774aad9dbacafa55690e",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-speech-watson-heforshe-008": {
+    "sha1": "9a9ef5b9d72d86ddb757204f6865bc5e45301de4",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-speech-watson-heforshe-009": {
+    "sha1": "3e5e85ab0a434679b23d07ba6f3897d578a29425",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-speech-watson-heforshe-010": {
+    "sha1": "e2bd0425f26725e161616aa1260ca7321c3bed82",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-speech-watson-heforshe-011": {
+    "sha1": "060906b3cfdb0d19725a45de556e1bf7f7303e22",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-speech-watson-heforshe-012": {
+    "sha1": "bd13ebb0e432f43c2f6d548bb21f162fb438b847",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-speech-watson-heforshe-013": {
+    "sha1": "508ac6d3c4b94d0b866d247b59fe2b561dfede21",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-speech-watson-heforshe-014": {
+    "sha1": "c71ed738850ff96076c470519e72188b0cc41f30",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-speech-watson-heforshe-015": {
+    "sha1": "d20a9fc83290a120019da076376fc2af0307d1ee",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-speech-watson-heforshe-016": {
+    "sha1": "b681b04685735b3e12639e64449b17abaa6ca239",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-speech-watson-heforshe-017": {
+    "sha1": "9ddbd27c8d5e1093b4c2ef8e0d355d9263eebeed",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-speech-watson-heforshe-018": {
+    "sha1": "5a34c286a65ada38ce1307b9d8da94faed7b3e52",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-speech-watson-heforshe-019": {
+    "sha1": "5dfbfd29dedc6b822917123b49f20e3a1d02c698",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-speech-watson-heforshe-020": {
+    "sha1": "79769c3b692d8d171c28f9cdff5f51f26f987b25",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-speech-watson-heforshe-021": {
+    "sha1": "a78e889f7f5c44a3bac0f3bed18ef378e4ba9cd4",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e01-001": {
+    "sha1": "9cc012372af43f34866d281f00fc084897b7f15f",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e01-002": {
+    "sha1": "06e7ab52d8fcff8b873d5675ee89988662a65126",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e01-003": {
+    "sha1": "d615e18276b0fb6da6a1e398f889c6c1bed3d4f7",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e01-004": {
+    "sha1": "3f43969c54fbf8d3c7a4338b3f9ef8109979a53c",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e01-005": {
+    "sha1": "9f98469303769c8d821f4c838c868f52e24df07c",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e01-006": {
+    "sha1": "0e424366d40005bc69fcbf102f7c60ad3339778d",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e01-007": {
+    "sha1": "66a3f2774a292957f722997f62d3aa78366548ca",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e01-008": {
+    "sha1": "891e62b3e5fa6ab7888abef81cba2740cb127f0a",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e01-009": {
+    "sha1": "97cacaf9bdc998112d72966ca3c291b354b81b95",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e01-010": {
+    "sha1": "0d51fdbe826da1d35badf5c5e5df734bf0a3afca",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e01-011": {
+    "sha1": "a292b78e4046f660f8ee185356121c24993b9c78",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e01-012": {
+    "sha1": "16e5fe97f2657e2d98aae3bcafcbf39e8a06d655",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e01-013": {
+    "sha1": "d8dccb7ad0e607de545cac7f0118f5cd21fb3487",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e01-014": {
+    "sha1": "54e9b5fc8d0775d5b0c96d7b18544551a949f9cd",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e01-015": {
+    "sha1": "eadaf4c1b79be8afd759e4a6f6d364d3597019e9",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e01-016": {
+    "sha1": "0f7c36e89898eda2501bcbf063337cb24cdbbc41",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e01-017": {
+    "sha1": "c922d389c60d6bc02ce345f59d6f2c42dfc5a087",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e01-018": {
+    "sha1": "8e1160864f40469ade96d9ca96c208bee1da0db5",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e01-019": {
+    "sha1": "3622b25ed148bd7fd83f9f0e72b86da23dd00aab",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e01-020": {
+    "sha1": "46a59fabb956bda559f20f1a1f3698fe9e8779ea",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e01-021": {
+    "sha1": "965973ecc609d84a771d3a74eaf46aa8437ce6af",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e01-022": {
+    "sha1": "ffea93a7cd8edc3feccc9a36049eb1429120cb4f",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e01-023": {
+    "sha1": "806cca89c6b3f5a3cf4b4de0133a41e2d745163f",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e01-024": {
+    "sha1": "e834d421adb9131530c1a8d9e6a3ee7be0b1d728",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e01-025": {
+    "sha1": "b464a5c6d28b66430a7d801deecf8d17ddda145d",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e01-026": {
+    "sha1": "1148d527bc2139486c1fa19bfc771d15c03c9153",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e01-027": {
+    "sha1": "4bcaa96083bf3425e3dea5b35c4e94817a44bc8e",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e01-028": {
+    "sha1": "3b21c0dd549912b260bc91a89b5128d24af6dde0",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e01-029": {
+    "sha1": "008209e8d44cb918fd08dc370949b8d763fcc04b",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e01-030": {
+    "sha1": "b827bd224b6d4628923a95f8f7dd14d65dd09948",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e01-031": {
+    "sha1": "0b8506919e277de8a7b0b92faf74b21a3e061515",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e01-032": {
+    "sha1": "afbda1482bd91b06cfcd0fc828a9bf55e077de14",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e01-033": {
+    "sha1": "1d8971137ed5eede7f3c4c5082822c077fec5d2a",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e01-034": {
+    "sha1": "ac1d6c6e4162e48bc24422e82286c9fe75b458ea",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e01-035": {
+    "sha1": "7135e984f5cddb2d98c00f810e91acd61752d04e",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e01-036": {
+    "sha1": "f309e56c9cea5aaf375d514942df4d57f81a5726",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e01-037": {
+    "sha1": "7765b42c468475d9f0618b9f9060ec9e9a53656e",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e01-038": {
+    "sha1": "58790bf0f24382f3e3bccb100952a0dc00e0e226",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e01-039": {
+    "sha1": "c59ad6b37d0e31f9a9f8829d42ed7e02c2b2708b",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e01-040": {
+    "sha1": "5c442c0b34a47044590d49bf520178f6c83c69f1",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e01-041": {
+    "sha1": "04e50b6c4f75c351509f8050bd40a507cc7cb6ad",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e01-042": {
+    "sha1": "71d8363f71e79ce6cd687d4fcd09d4242f624eb8",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e01-043": {
+    "sha1": "c549493421f23e28be72e273e25cb753f50ac2f1",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e01-044": {
+    "sha1": "572a3b264f468788683a2d2450cfb58513e7b1d4",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e01-045": {
+    "sha1": "bd4b650f934a499886c4d52862a3a07dabf2a831",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e01-046": {
+    "sha1": "8024d770fb8b80e0e6789f0a0089e25697eb5de2",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e01-047": {
+    "sha1": "ce2dfa802bf81606981d11037b6f6786afd1237e",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e01-048": {
+    "sha1": "e14c92dd870e21393db7d7e0f1f5112e1e7a7514",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e01-049": {
+    "sha1": "1e07757472b01f3c2fc42a09cb25fe5c62fee793",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e01-050": {
+    "sha1": "2360db62108ebe1788799d5d5a4a28d2e178c915",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e01-051": {
+    "sha1": "833897b2a10faba2099e0e70626a17b48abb3a3d",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e01-052": {
+    "sha1": "c0afdf1f398fe1f727c471be16569b9eb73530f0",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e01-053": {
+    "sha1": "ea4cc986358ce1e2d3e4a49110aa2c6f5bb4d817",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e01-054": {
+    "sha1": "ff5865096993ab7ff9e71c4cc262ace6ed55804d",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e01-055": {
+    "sha1": "11de0d2df2c11ade0dc974ff599679f9a53080af",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e01-056": {
+    "sha1": "af26932a3f41ba49c1bf000151b797f1375b7506",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e01-057": {
+    "sha1": "8cbf3a4ce87d74f29ebff59663e660df58254bcf",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e01-058": {
+    "sha1": "909112c9804310f71a9aeb50f36abb2a3632fb2c",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e02-001": {
+    "sha1": "5efdfa49184380ab7f0c3e5ef91eb33bf40851e9",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e02-002": {
+    "sha1": "d657947c8929295ef20ae766d3295131d9aca631",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e02-003": {
+    "sha1": "c8888684e927485090c78c1841da2bd247714d5b",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e02-004": {
+    "sha1": "81afc7565d66fe20edb047bf3133fe0b8e96af8f",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e02-005": {
+    "sha1": "caf72ecbf0d976c4edad7b074361a034d494fe5d",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e02-006": {
+    "sha1": "ad820d3086523982dcbbf4be1100c2d1c9d053fc",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e02-007": {
+    "sha1": "84df316694cc16aced30478eb161630cd972a132",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e02-008": {
+    "sha1": "2ecb5ad118b004561040cadb884b9f028b653c08",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e02-009": {
+    "sha1": "8883b74e25de0b3f7aee40a1d399de94a6de1586",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e02-010": {
+    "sha1": "f2f4d72dfa7c77525bbdc72563dbf7c19b188e24",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e02-011": {
+    "sha1": "348884c514383679ce82c0fd4b212c565ac59b73",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e02-012": {
+    "sha1": "0f18f3f56f3083a2c124bc949839f972a766316a",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e02-013": {
+    "sha1": "6c4f31bee5492508fb59fdd5322ffeb16ac9adee",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e02-014": {
+    "sha1": "1b629ed421d766dc33393a0bf51f4f1a14b6e32e",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e02-015": {
+    "sha1": "f485b8f32c16a1dd9a00edf6009d0279b0b2e24f",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e02-016": {
+    "sha1": "c3ee339f76db4429fe0a4de4a282e97ece79bf75",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e02-017": {
+    "sha1": "8d144002f0207bf1b98b09016380c25341790ef2",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e02-018": {
+    "sha1": "c7e88ef6b2ef7fdeabe831a202ea90436a2f5034",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e02-019": {
+    "sha1": "3b75cb677ca3dccf95195eb93dcde9995f0a4588",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e02-020": {
+    "sha1": "21078dc0efc477f60de98ae53cd7e32684d3929b",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e02-021": {
+    "sha1": "a731e4a942d7c883c8d0ba5e47f14b9adb2989c5",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e02-022": {
+    "sha1": "399a519f45afd09d02aa015700cb8ac465099f61",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e02-023": {
+    "sha1": "aa776d277945080bffc3780a74618b91cae3afda",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e02-024": {
+    "sha1": "07ace62e460855d8c13e9fd217386e975be5613b",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e02-025": {
+    "sha1": "9fd9f3f8a420b2f5e57e35de917dcd536af275d6",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e02-026": {
+    "sha1": "58682b42da94fe218c9009ceb3096cfe32eb850f",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e02-027": {
+    "sha1": "1ace572428b12a21142cd74fb137dfc7bf3d3a6d",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e02-028": {
+    "sha1": "94bea26b166561c3f1529c5a6d22d36dd0981bee",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e02-029": {
+    "sha1": "fbfcdb5c6d36d1d42b3e2b9d7bbc58673dc5cceb",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e02-030": {
+    "sha1": "a8308f98e6fac967ad8a0bb47f161e7d99183faf",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e02-031": {
+    "sha1": "22b789910fa8db3a2c566ff02fa5e680a3ea67e3",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e02-032": {
+    "sha1": "1a1f5af9a643e606239774ab12f9509f5198b938",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e02-033": {
+    "sha1": "17a1502fc974b30d156be6dff3c0f79f72184005",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e02-034": {
+    "sha1": "03ab6f564990514b1ec2c9fc41d45086897efc3f",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e02-035": {
+    "sha1": "e98e3f2596c6c658333f5ca8845e584a76ebac18",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e02-036": {
+    "sha1": "5b5e241dec5b2604eceb2d982fa83f67b18b9e31",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e02-037": {
+    "sha1": "23e8c0b948178a1e0f763176a631b77a5567908b",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e02-038": {
+    "sha1": "f25d7aef52421ef129e41d0331bf9631889fe73f",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e02-039": {
+    "sha1": "00e752f7e7af0082f7c888b063234146af96af82",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e02-040": {
+    "sha1": "2ffb571b217fb640a60893818f2d554d42ead660",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e02-041": {
+    "sha1": "e6f4d1f0ae72397b212d739b1a70fdb715d79d98",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e02-042": {
+    "sha1": "ffc261e1e0874f572e6f710f201302810fe2edc4",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e02-043": {
+    "sha1": "95d4df809893f6cb04abc1aa0259bd91450d962b",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e02-044": {
+    "sha1": "fb72eefae577d3f727b230057ad6d62304b04e89",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e02-045": {
+    "sha1": "6b9ef87a134bf3762d553e2b7974d38689c6347f",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e02-046": {
+    "sha1": "3f859af6e7f2e2f616dbc60d20e00a2e7515820b",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e02-047": {
+    "sha1": "b1f097a8b3608c4d9cc0194d6d0fee16d6199810",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e02-048": {
+    "sha1": "39e19f4ecf7ce918b94d8b038db150f00ff57f7a",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e02-049": {
+    "sha1": "6093a84a267a73b5067d5dc179557035a9b0d65d",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e02-050": {
+    "sha1": "5ef3e2a24a5451fb63419bbc9dd905d18629038c",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e02-051": {
+    "sha1": "eb8ebbb2b45e5ff770f1981ef04d996769ac47d7",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e02-052": {
+    "sha1": "5b000f9480b8db00a217144bf3d7af560ae02e06",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e02-053": {
+    "sha1": "a9f7f1c3cdbfc93d95d57704bf0febecf97e69eb",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e02-054": {
+    "sha1": "78b341b53776db777ac5f340ff961b09327d6c92",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e02-055": {
+    "sha1": "95dad29d36f6bbd4a2a3b88b050dd28b917773a6",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e02-056": {
+    "sha1": "88c3175be940bf6c5582851b2f4db5deae220542",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e02-057": {
+    "sha1": "c906b16f8272fbc2d71f3edeab5e989cd3467b46",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "cue-suits-s01e02-058": {
+    "sha1": "20b38843204c048b8fb8662135fe65b177481977",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-dnc2004-001": {
+    "sha1": "a2ddcd8bb1c3ceb7c10d795a964291b03515f76a",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-dnc2004-001-v1": {
+    "sha1": "bd4f8e69d74f3875129097caf9ca03a059b71984",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-dnc2004-001-v2": {
+    "sha1": "819dd00a6a937fc55b750b64d159f18a7f1ede91",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-dnc2004-002": {
+    "sha1": "f3f506e0b9845a1aa332c628f30ff9b8d0a4bc8e",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-dnc2004-002-v1": {
+    "sha1": "1460b2d86fae2e02f888d8d91459d3d91b9df390",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-dnc2004-002-v2": {
+    "sha1": "34e235955dd597cea71af4d4c8c7acf95a3071ad",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-dnc2004-003": {
+    "sha1": "e8af447e3dff6a08e08265e7bec010d503c5eac0",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-dnc2004-003-v1": {
+    "sha1": "da2ff214efb82fae5ec350fd5c7f60dd32bbe44d",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-dnc2004-003-v2": {
+    "sha1": "698d3503f7046c0fd735e9799978a8d964bd0927",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-dnc2004-004": {
+    "sha1": "c918655d21f7ff87e511fc0341a1221e13b6d699",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-dnc2004-004-v1": {
+    "sha1": "2358b67500a50f680605135865aaa8d33f97fda1",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-dnc2004-004-v2": {
+    "sha1": "32fc85950aa53d77e6b601bd904c3e4888622cf1",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-dnc2004-005": {
+    "sha1": "a95c65144bd0be146b93e4038ba67be7a027802d",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-dnc2004-005-v1": {
+    "sha1": "e88b96cda54f0f2cc26bed6c7938be2f3263f951",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-dnc2004-005-v2": {
+    "sha1": "ec0d8436135eab8a53a49bc89eb9da447bddfe84",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-dnc2004-006": {
+    "sha1": "13a6b329b1963aa8d92d6e518bfbf41950466bf4",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-dnc2004-006-v1": {
+    "sha1": "d07c9b01b4acdb46e7fcc7ffa8cc822f7cf0c032",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-dnc2004-006-v2": {
+    "sha1": "f0395d7e26afad3fc3094b28d0d0cbd915188c2e",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-dnc2004-007": {
+    "sha1": "e9aeb27e76fbfd68342b8d8694e2dfafef7e2dbb",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-dnc2004-007-v1": {
+    "sha1": "4d1ad193511c5092e85868e2da58a767f6b4ae64",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-dnc2004-007-v2": {
+    "sha1": "f8b827fac7c0af1cb27c992c69d98d4744e9c8e2",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-dnc2004-008": {
+    "sha1": "337f02b20cd3fceda4a346192e4093961d746c6d",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-dnc2004-008-v1": {
+    "sha1": "d6ff7a557035aa0bdb8b773903d772e3ff57affa",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-dnc2004-008-v2": {
+    "sha1": "73aec7adc594488bde19d120e7e1f97bf7a532e2",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-dnc2004-009": {
+    "sha1": "3a6f152acb39b1b3e95f983ae6d7b2bc755e4048",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-dnc2004-009-v1": {
+    "sha1": "0ca7c56c6d087126e935c3a606029781c3cc89db",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-dnc2004-009-v2": {
+    "sha1": "1ac3b739a45fa7ab6f54b5ca40658d94ab60bcf1",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-dnc2004-010": {
+    "sha1": "21311163df8194cb05ac7ec4f0f94c2f214c4bbe",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-dnc2004-010-v1": {
+    "sha1": "50f5efbdf11509c19f7ef4fe86735546c16a181d",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-dnc2004-010-v2": {
+    "sha1": "a5ca0fe00d10498b46c7ece016a71e5d634dcdf8",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-dnc2004-011": {
+    "sha1": "4071243f0109b182b31baa0262ce9533a324298a",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-dnc2004-011-v1": {
+    "sha1": "359804a7d9f62cd2d81fcf5c93136b25ef73b0e8",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-dnc2004-011-v2": {
+    "sha1": "516b00fbb2b7bb6880f3e5a4d5f8fec81636bfc6",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-dnc2004-012": {
+    "sha1": "b3c493ed25892b10c1128b0728a8fda64c6c9834",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-dnc2004-012-v1": {
+    "sha1": "405005ac75a20234fa5a29cfc1702332c975bf33",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-dnc2004-012-v2": {
+    "sha1": "02bbbb11915bb1f17075d0365769b2e42457d707",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-dnc2004-013": {
+    "sha1": "9d4f72399626cd37195c8dc5fcbff7005e79f2d2",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-dnc2004-013-v1": {
+    "sha1": "7bee3f04a0c9304e94bc2a063e3869113e2a0520",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-dnc2004-013-v2": {
+    "sha1": "0d6a5be76fe6771b4d7f99327393be635940ab33",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-dnc2004-014": {
+    "sha1": "fb1dd51222219236101278d8a1ba58ad591fa63d",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-dnc2004-014-v1": {
+    "sha1": "404211721c77ffb12891e3aaea0d69290c238a9a",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-dnc2004-014-v2": {
+    "sha1": "ec60e07f40136defb0d3187c37472ebe03e6c52b",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-dnc2004-015": {
+    "sha1": "7701679ff481d612abbd0b2f78650c7b0fd4336f",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-dnc2004-015-v1": {
+    "sha1": "0b38e9b50fe8d294ca32f3aa810861e4c9373071",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-dnc2004-015-v2": {
+    "sha1": "bc499d3b05b61bf4891e1097ec186ef0b7b4ebf5",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-dnc2004-016": {
+    "sha1": "5467ff06a84b09948cf0c3ec6719232502578388",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-dnc2004-016-v1": {
+    "sha1": "3d7d3728d6052045c3c683f1653fb3820c094ccf",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-dnc2004-016-v2": {
+    "sha1": "b669bac4bcf6bef36df685e99371d74e14e25b8d",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-dnc2004-017": {
+    "sha1": "3eaf805aad5940fc452d73e85467f0fe18b77afc",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-dnc2004-017-v1": {
+    "sha1": "dc43a73c3681c706e277ee2cc1c7906216bf5ed2",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-dnc2004-017-v2": {
+    "sha1": "edd0dcf4a42ca46c2b5bedf7edbed94f43aa5b6c",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-dnc2004-018": {
+    "sha1": "91b42373e03f6dcaa02c3d10be203c138bfaca04",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-dnc2004-018-v1": {
+    "sha1": "37fab984414cc26bf2a710f61b38c0238ffd0f9b",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-dnc2004-018-v2": {
+    "sha1": "1da735805f9c87deecc964fd83e3054361cd86b4",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-dnc2004-019": {
+    "sha1": "b76f4f8042898e75df058d049fb694c24e0cbd20",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-dnc2004-019-v1": {
+    "sha1": "556b94915df28a36939f05d7652a4b3c58e242e3",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-dnc2004-019-v2": {
+    "sha1": "2975db801ac6bdeaefdbc6d2f0b697520eb95757",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-dnc2004-020": {
+    "sha1": "ac2002b7e6b65f31c5278fff0f8afab619444b86",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-dnc2004-020-v1": {
+    "sha1": "8a9195ac3ef929cdc48c97ab760e40d827715423",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-dnc2004-020-v2": {
+    "sha1": "7b0bcddeb4fbd4a82aeb5b03d43ce3e2dc5a4d4e",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-dnc2004-021": {
+    "sha1": "b9d4bd22cb9ef1d67b45341f9182d9b3f13d5102",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-dnc2004-021-v1": {
+    "sha1": "c04afe9068e79a1a921bac7b02ad98a386a50c00",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-dnc2004-021-v2": {
+    "sha1": "50fa66b55b6654ad19a2b4bacc2686ca8084d0f0",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-dnc2004-022": {
+    "sha1": "c17e8e12f4a34ea0767dd69057d5801761bcbb62",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-dnc2004-022-v1": {
+    "sha1": "780a301ae073e4a9450da8ac93ff105be27af3d2",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-dnc2004-022-v2": {
+    "sha1": "3a9bf3bcad4c4c317aa1733fcc3fa977f56188bb",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-dnc2004-023": {
+    "sha1": "718ec8796f3d9083c723c795388d6a1aee8f958e",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-dnc2004-023-v1": {
+    "sha1": "6b60c5e76823f6966184c1133b72883d7745a95d",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-dnc2004-023-v2": {
+    "sha1": "9cb20ffa0162618b6e9b53e1d3fcd4cada8f4f54",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-dnc2004-024": {
+    "sha1": "0c5079c67ccf4ea326a654b35bd923faadedf6ec",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-dnc2004-024-v1": {
+    "sha1": "8cd3cbc3717aae5ced4a29cce19c79c860901473",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-dnc2004-024-v2": {
+    "sha1": "150f070d082cb9fb78f6c509df439359e8e93e31",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-001": {
+    "sha1": "059abe6f97478f9a9061f5c5971662c08722335d",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-001-v1": {
+    "sha1": "b17f6b58b37019a742c78084a17b0c4b4ebe1ee9",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-001-v2": {
+    "sha1": "3eb14a4f93fe01a307fee766e38379f4dfbafc4b",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-002": {
+    "sha1": "340ab36a346df544374731d13d21f85582a3f2df",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-002-v1": {
+    "sha1": "218afe2efabbe16c428e281f6f306f8774091cad",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-002-v2": {
+    "sha1": "b75a1256b964008abd75fbd95df8af9a0d4a70ac",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-003": {
+    "sha1": "753dbcda489a1be55c32e747653e1fbe363682f7",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-003-v1": {
+    "sha1": "d0bc41afb71f270e002166cb50b255e97763cdd0",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-003-v2": {
+    "sha1": "7c9f102361573f14c7dcbb854763789bad509c2c",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-004": {
+    "sha1": "874018d2798d3d02a0cd111d5da35bc567c0f876",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-004-v1": {
+    "sha1": "dd54bddc323bf6abc24da5e52f4709cbdbe9f3ea",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-004-v2": {
+    "sha1": "e25991686c0265e21d9ce3b01767119ef6068ef9",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-005": {
+    "sha1": "d44c792f5a018c4a735842f98cff50982ba99264",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-005-v1": {
+    "sha1": "393db0950bc013be2ba6a1e347e71ebb0fb7b7dd",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-005-v2": {
+    "sha1": "fb5232700f9d4d78ed8406cc60ddd64fbe7520ac",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-006": {
+    "sha1": "0b88914c9ae876a056c4f82f5d47e1f7ebc36925",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-006-v1": {
+    "sha1": "d2c0dd53d2d94921b019ae737231ba22b1edfeaa",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-006-v2": {
+    "sha1": "b5eb6a7d0143da37fd0e8a88121dc814eacda2ab",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-007": {
+    "sha1": "a951cbcfe92f62d249ba7ce5cd210089564d0e11",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-007-v1": {
+    "sha1": "aae1f4790784bd652ceec4e1f5927f2da2a7ffdd",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-007-v2": {
+    "sha1": "b7074a62e387da981e01e17cc8fac1867621630b",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-008": {
+    "sha1": "85ea79d6597305589963b95165a6e56f0a048734",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-008-v1": {
+    "sha1": "0d269f0bca7202a14931206fe71da4d7317c6d41",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-008-v2": {
+    "sha1": "a0e1c9752818d0022ab149e8eb6f3b65416c666a",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-009": {
+    "sha1": "84eeda319e4ec3296bf41d2c15598d4778a8664a",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-009-v1": {
+    "sha1": "fd828f9376252429edbd100fb75d0bdec2207161",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-009-v2": {
+    "sha1": "a9d6d8aa9a3e6199d0b2102de43cd1ed531f2423",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-010": {
+    "sha1": "a8f9d1b28bedfce0888ae59e469b0d10da4725cf",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-010-v1": {
+    "sha1": "8a7d3b3766d13b3f4dc493bc266dbdb5700deb31",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-010-v2": {
+    "sha1": "7b196c90a46ee17d3980e40ce769a2c067fc2a77",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-011": {
+    "sha1": "93fbe32bde7bc7df79fd886c576b2ae1008d206e",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-011-v1": {
+    "sha1": "110e0665fd38c2a86c045e21d6ed3177901b76b0",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-011-v2": {
+    "sha1": "3b6a136cace1d00bc4e2c505afb7c8a77dcd5c46",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-012": {
+    "sha1": "8e7d60a7078e965133f88f0edae8774ca820b778",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-012-v1": {
+    "sha1": "de17151ac7124e9d7ef763adbdcbc29cc014d606",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-012-v2": {
+    "sha1": "a5a7313b5e955a0cd7164ac395dcc3e40ff888d7",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-013": {
+    "sha1": "5d5b32cc87a2b6cf9660eed71e84494aaaf4d70b",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-013-v1": {
+    "sha1": "7cf99db8850ec78e28d23929cbd57cefa5e13994",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-013-v2": {
+    "sha1": "2cb8cf0685c95cf9ac7d10f5deaec3b9283d8fd1",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-014": {
+    "sha1": "10aaece3b5c1842590e00ee98afe31a78cb92ec7",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-014-v1": {
+    "sha1": "fb470a1f987f5053001c6056fe376447fb43ed1b",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-014-v2": {
+    "sha1": "6e4c26ee38932f0786176ecb5509401550b4e96e",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-015": {
+    "sha1": "0ca90ac0829b14831a5e5a42d4df515f70d765d2",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-015-v1": {
+    "sha1": "ac2d0a363a3d5e28a0727841fa3803a4ae58205e",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-015-v2": {
+    "sha1": "5b30bd8b415b55431411c9e5be20cc64b92c4a50",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-016": {
+    "sha1": "372975db5302ad0aa42f6388182dc4fb39580f8c",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-016-v1": {
+    "sha1": "3be40213df50d65f68cd0a3861e06b5a890e0498",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-016-v2": {
+    "sha1": "eaf91c2c146523d0417925057f94a1f44f99a70e",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-017": {
+    "sha1": "3c67a9f81e440f24aa727756d190c9a81cd0e0dd",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-017-v1": {
+    "sha1": "366b124a7f65c98cb8edb2fd41eaef41c98bfc20",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-017-v2": {
+    "sha1": "a8264abea4c3528e4e060a8f1c243fe9cfe62e77",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-018": {
+    "sha1": "5ebe263e0fa86fe015bdc3ae5837872a9ecc019e",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-018-v1": {
+    "sha1": "bd6c69dd895588e7e6c12b4eb81d0b00e4d27ee6",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-018-v2": {
+    "sha1": "c3a54e22da9868a201db9f1c220741600ca48d0e",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-019": {
+    "sha1": "0dc622c44bf666035b897314ea4d52f2dfec8fbf",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-019-v1": {
+    "sha1": "7a89a371bb731bc9cbe880b468a0d9a8d6745a53",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-019-v2": {
+    "sha1": "e058a71b4dfb28dcd643abff0bd5ddefc5c8a261",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-020": {
+    "sha1": "7cc5b46882c4a855a0edd3a25cf35c62d25075ce",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-020-v1": {
+    "sha1": "9c4b5537d1f258b65babb8c86c77287ba994ea1d",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-020-v2": {
+    "sha1": "da96246077f3b21f14fc47fc7f5fc7030d87fb88",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-021": {
+    "sha1": "3a17a24fbaa26f13241f2719353ac5922759619b",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-021-v1": {
+    "sha1": "50c63eaeb8fef409505b823c71d69984be58b6fd",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-021-v2": {
+    "sha1": "83a0a401bcf907a93fb0f358e0cee730fba79fe8",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-022": {
+    "sha1": "7f5c89e4a4a0058b4ac96a1a04457a4e2e1e264d",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-022-v1": {
+    "sha1": "17b08680525edee3a0fe0e1cf6b82191828db97f",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-022-v2": {
+    "sha1": "203f889f69a759fe57b4d88177f9090b8e45560b",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-023": {
+    "sha1": "0d02afb27765e5d3bcf83339d3df2279b3a15104",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-023-v1": {
+    "sha1": "c389321ae6a80353e2c3e3d9e0021e95c761036f",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-023-v2": {
+    "sha1": "0546d21c999c602ae5f46a3ff0d24c480db843c3",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-024": {
+    "sha1": "6e1bf2c5261d0bfa89e14d69d54a559be6522658",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-024-v1": {
+    "sha1": "f37d9313685e4cb14fdaa85719caa976cb1ec67d",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-024-v2": {
+    "sha1": "0058dcbfc9d85fce4294d5d6aeb2e6422dd68cc8",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-025": {
+    "sha1": "1a060522f4399a405d660bbe81baae6031e29941",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-025-v1": {
+    "sha1": "4aac7b7f9ef5cb006c87f5dbb66a8e8165e3fe4f",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-025-v2": {
+    "sha1": "81631ff900dee0a452c922c3115fc6515c325649",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-026": {
+    "sha1": "fd5d1ed11df056f253a70c7c1178de73eb1192c1",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-026-v1": {
+    "sha1": "0c7f7470fe79cf0e505b1145a39e381f371faec7",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-026-v2": {
+    "sha1": "d0f9be803023230ab5e4f541f35747556df931ef",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-027": {
+    "sha1": "682d44d5d4a68988da362a09b5b875750d0a9504",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-027-v1": {
+    "sha1": "f03a43e1618bf61a4607769bc88cb85ed66017f8",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-027-v2": {
+    "sha1": "9352eca4275ac66a79ed95c887f64254a2a3a8d9",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-028": {
+    "sha1": "ea9e9af1973c81fcbed174ca2bd92071adb13416",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-028-v1": {
+    "sha1": "1dd4dea5d753796dd5f15307e53c77687ed61830",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-028-v2": {
+    "sha1": "a3a3346dd477cbe7f6a8d02ca6c3b0acb324bdd2",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-029": {
+    "sha1": "610795788deb63a100c1ab3197d1a1084b167a63",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-029-v1": {
+    "sha1": "d049202ab4cecf40bf0b0e881c009bad9c3ebfe4",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-029-v2": {
+    "sha1": "3123de0adc14a5e1f84d04a2aae9dfdaab028089",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-030": {
+    "sha1": "ddcb68c835a0d53ea335452cd168c71db88d7b56",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-030-v1": {
+    "sha1": "23b45ed23d2588db847f1021d314dcb0ecf45588",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-030-v2": {
+    "sha1": "e260e92b1863367fb3bcbd968da68ea01546842e",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-031": {
+    "sha1": "1883f8673abab69bd93990e96b23269e8ad6c1b2",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-031-v1": {
+    "sha1": "2394c8623a385fb7729fb66d222eaa03910f8383",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-031-v2": {
+    "sha1": "f4097bdd69e9bf2930efffd3925a23e204761e04",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-032": {
+    "sha1": "968b55520942e23c0f4418ae3b912d2ee51943f2",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-032-v1": {
+    "sha1": "81e3b2984a4c91e251510598d784cc83b3e15743",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-032-v2": {
+    "sha1": "3af0624cbe5265478992de7e5b1e19c055339477",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-033": {
+    "sha1": "fbd21d4867db6dcd9289a727bc54ad5a760be364",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-033-v1": {
+    "sha1": "acddc5df6a952ab8391d3373480ac9d58c9936ab",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-033-v2": {
+    "sha1": "e1ed97a939a465719ce8123d631a37010d881e5d",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-034": {
+    "sha1": "d4c6489c192f7da3e7b0c849de482297994f639d",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-034-v1": {
+    "sha1": "bd391d2ea96ed5946979d5a275597859a47d1b1e",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-034-v2": {
+    "sha1": "2da50e0733f6a4e7b2f7f7d79ba3cba77f5ed4d4",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-035": {
+    "sha1": "f863e1618d4d08d490c292c9148a670d8dbd2c1c",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-035-v1": {
+    "sha1": "58fde53c6c3c664bc84f1ced7db054b9fa2eff7f",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-035-v2": {
+    "sha1": "09b25145770f77a30d793073f176059ebd48e8ae",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-036": {
+    "sha1": "db064437f5d9be7a1c8305f2f7a03b61efe6c920",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-036-v1": {
+    "sha1": "000ff89a8616b1743d0ba6e920342fdf0d6ea026",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-036-v2": {
+    "sha1": "cd1b0e2c951463af4664a88fc1863a52db7ac934",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-037": {
+    "sha1": "4869f9fef7929960612447f5ad0e7d4e6e3d43dd",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-037-v1": {
+    "sha1": "932a21971fd2e897a71c777d5088ed58d360ffe7",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-037-v2": {
+    "sha1": "00f7944cb4b161af25bd94fa4798523f26369efe",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-038": {
+    "sha1": "ae0131355a8e8b04c9faaf8281288696af3c0189",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-038-v1": {
+    "sha1": "4c30b74410aac3bbd528856bd8303104ae04f7a6",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-obama-farewell2017-038-v2": {
+    "sha1": "3850e5e77d50e4a610aefbcb494d71b09367aa23",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-queen-covid-001": {
+    "sha1": "45248d4c21069c9407be873ac2cb719095c0c613",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-queen-covid-001-v1": {
+    "sha1": "3c96ce34dba58be90a9185405aff7b0cd9afd1bf",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-queen-covid-001-v2": {
+    "sha1": "0715d468d6b171da7aa5ed32a8c6abc0272fc96d",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-queen-covid-002": {
+    "sha1": "332329665b4941720c87fa9bef12e4315edd0efa",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-queen-covid-002-v1": {
+    "sha1": "3e7cace4cce24555cca67ae606de8d040709ca65",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-queen-covid-002-v2": {
+    "sha1": "fc00bba977764e45eee5e9b025324a0d1cda6058",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-queen-covid-003": {
+    "sha1": "631d4c3cf8e08c6fad0002ecc12119e50acc14fc",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-queen-covid-003-v1": {
+    "sha1": "5bb86240b12e69432828367030af3427c032469b",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-queen-covid-003-v2": {
+    "sha1": "bba0e79e41ba285dba43409186c195b5f7151632",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-queen-covid-004": {
+    "sha1": "5d1139f0609027a8924d9b74b8d4f076213566b5",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-queen-covid-004-v1": {
+    "sha1": "e1f0e2f2b0769c3d0f8bc2fc96a6a8cf87c90c16",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-queen-covid-004-v2": {
+    "sha1": "3f47592f1f98bfde31c636ffdc69785342092765",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-queen-covid-005": {
+    "sha1": "96bb045cca3e63f05e0b21a048b4ee61a77d6f20",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-queen-covid-005-v1": {
+    "sha1": "e85adf19437803b61e5df3747b2daa793e37538b",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-queen-covid-005-v2": {
+    "sha1": "cc1016db5bc9d1507260df83a1e8e51500c672d7",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-queen-covid-006": {
+    "sha1": "9f4cf76db2937ff3d9e089132d0514367dbd7019",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-queen-covid-006-v1": {
+    "sha1": "9d43e76ec820d4fb3408ccd84dc01057d2d069f6",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-queen-covid-006-v2": {
+    "sha1": "018c549d18a5bafdb19e5c664c256e92fc6a3acc",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-queen-covid-007": {
+    "sha1": "6edc4d99f1bce9e118a7cd361a79326493600a08",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-queen-covid-007-v1": {
+    "sha1": "d97a4ea230acbbc8160c350da7a9e5e76e169eeb",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-queen-covid-007-v2": {
+    "sha1": "c8532fd27fabd2298cd66b471b3d62aa269560f9",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-queen-covid-008": {
+    "sha1": "a95bf9dbc1fd0df20cad43d305ec1e3016a377be",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-queen-covid-008-v1": {
+    "sha1": "33a35748d422ea172b0fdcf889df7ab2de671ee8",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-queen-covid-008-v2": {
+    "sha1": "aae34dca497ba9708a857750b7d780953a75d8a6",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-queen-covid-009": {
+    "sha1": "28359e00d91020754d90eca8a367886b18f9d743",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-queen-covid-009-v1": {
+    "sha1": "97dc7d167925a6208aec1eb1dd6b873a10e79e0f",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-queen-covid-009-v2": {
+    "sha1": "5b65b189327cae8f9da880db6b0f721c78a1e687",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-queen-covid-010": {
+    "sha1": "afb30bf2f26574da2eec943fef867d10e775a16d",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-queen-covid-010-v1": {
+    "sha1": "deecbb4f657241a19c4ac32f208c83d9bc95002d",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-queen-covid-010-v2": {
+    "sha1": "e3d582ca7b6cccfed87c202848eda5e36ed92441",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-queen-covid-011": {
+    "sha1": "6924234a2756419c18af810e8472868e49e42f8d",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-queen-covid-011-v1": {
+    "sha1": "9789176780ee10469e6c1da073ed37327f2db35f",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-queen-covid-011-v2": {
+    "sha1": "9a172435d770af2165140998100fc617e350788a",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-queen-covid-012": {
+    "sha1": "2911b222a21d07ab64ed680af2ab84db5b5402f8",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-queen-covid-012-v1": {
+    "sha1": "6a7e67109efa0ab7cd3e931800b45a967a7028ab",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-queen-covid-012-v2": {
+    "sha1": "bf937a2a3cf42ef137fbbba3d86620362dc4c336",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-queen-covid-013": {
+    "sha1": "fe0a0ed50f186be001384c5b9b9d45598df84be5",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-queen-covid-013-v1": {
+    "sha1": "d8ecfc28d4802061016156932dce5eefebea3620",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-queen-covid-013-v2": {
+    "sha1": "1baf9da33f051f0f7463936b8386948d7465e0a7",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-watson-heforshe-001": {
+    "sha1": "13964b86709b287f4ccfb1a43b35298655ee0c0d",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-watson-heforshe-001-v1": {
+    "sha1": "4eb14fc4cdae7a475bc07eb52ced6d654e43f0b9",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-watson-heforshe-001-v2": {
+    "sha1": "9217322c5fbac99045897f1f5cfb5e82874a9964",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-watson-heforshe-002": {
+    "sha1": "1f561a2d5bf54a083755f77238f619a67fe057ca",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-watson-heforshe-002-v1": {
+    "sha1": "6f1d305987545a8ccb2c7065d52e42d26e75b1dd",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-watson-heforshe-002-v2": {
+    "sha1": "a36cb3de25047992032f69ac5ca8f016fbd65912",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-watson-heforshe-003": {
+    "sha1": "11d22204c38703eb699f94972c954b6402e093c4",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-watson-heforshe-003-v1": {
+    "sha1": "78e5aa9d22546b39e37a850cdf25c1171f2fb071",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-watson-heforshe-003-v2": {
+    "sha1": "8fffaee1be16c6391464ac7f6d8dff749388d050",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-watson-heforshe-004": {
+    "sha1": "c4ed82549822b332f8f9a7becabb1e0c7954e13d",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-watson-heforshe-004-v1": {
+    "sha1": "8b720dfede4f49148ef78c191ac7f773ac3fc833",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-watson-heforshe-004-v2": {
+    "sha1": "d4ac196ba48dcc82a1820858b8a1b82472e64683",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-watson-heforshe-005": {
+    "sha1": "e6383f02e0a2721d314b39b1d0fdb6326ee177b6",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-watson-heforshe-005-v1": {
+    "sha1": "f6806b0b0c55893a4f6fe4e9c57b35daf5bb7f03",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-watson-heforshe-005-v2": {
+    "sha1": "f8d5216dd518458f0c938a5706fdc1fc47c279d9",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-watson-heforshe-006": {
+    "sha1": "3207a5c586ad64559c4e6960ce035390242b4dfd",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-watson-heforshe-006-v1": {
+    "sha1": "4606789a03010d604c1c4bfe07a31ebca37de60f",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-watson-heforshe-006-v2": {
+    "sha1": "3d5365e303a6aa589317798ce382e473ba3296c7",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-watson-heforshe-007": {
+    "sha1": "b364ee0b79e16c67156a5c2da61f39aa2cff601e",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-watson-heforshe-007-v1": {
+    "sha1": "ebaab566bcf2707b218ef03f736b402e005bd09f",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-watson-heforshe-007-v2": {
+    "sha1": "80e34e77bd2b4e145298423f4b9bc95f25573b7f",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-watson-heforshe-008": {
+    "sha1": "134d541ec09a99a0f3786b9ac3d037ec96951532",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-watson-heforshe-008-v1": {
+    "sha1": "cacf5607309f0e3f4f811dd61c7d8c707fe1bea8",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-watson-heforshe-008-v2": {
+    "sha1": "8becfdde306f7807cb3f8d320f5ebe948d5e8717",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-watson-heforshe-009": {
+    "sha1": "9549a318f75116146c3802a185e224b5514e4da1",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-watson-heforshe-009-v1": {
+    "sha1": "784df290830ef5d1c75f0b8be1f453cae3c74a11",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-watson-heforshe-009-v2": {
+    "sha1": "94b2daebcc3e1af4a4a2dd4b1331d83c86e9a12d",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-watson-heforshe-010": {
+    "sha1": "ecd3abbcb52a955957878852850ca286882dad54",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-watson-heforshe-010-v1": {
+    "sha1": "2ad0ce97374512e1ce4d62ff84f381ff800a9004",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-watson-heforshe-010-v2": {
+    "sha1": "2f0d810e86aef8b637292e4a9d23f810d9da4e15",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-watson-heforshe-011": {
+    "sha1": "06d7eb5f9a3c5d6567eca7025e4177e74fb83fee",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-watson-heforshe-011-v1": {
+    "sha1": "bb3afad8bb3fbd755d161dfd534f324665f8237a",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-watson-heforshe-011-v2": {
+    "sha1": "a2a3dedd85c551332a873c4d3630ce8151e220ec",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-watson-heforshe-012": {
+    "sha1": "6a79040491b6e37aee64df5031dfac04fbae0b72",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-watson-heforshe-012-v1": {
+    "sha1": "963b77d8a197d7744c4a5978204acb91e95b1f35",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-watson-heforshe-012-v2": {
+    "sha1": "0e913dc759ca6fb1d2542b94371e3854c3d7aff1",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-watson-heforshe-013": {
+    "sha1": "330ebb712223a13e2315704a4682600c5f1cda1f",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-watson-heforshe-013-v1": {
+    "sha1": "aad105f68319761c12c168116355ca66519b51e2",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-watson-heforshe-013-v2": {
+    "sha1": "0b0dc0d16fa752a918482d1b526d6876e7950bfe",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-watson-heforshe-014": {
+    "sha1": "89130f315864dfd475dd90af8be02011526e8a42",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-watson-heforshe-014-v1": {
+    "sha1": "ff67a02631dba22f0b307d3353a3da71838a7db5",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-watson-heforshe-014-v2": {
+    "sha1": "c74234c527174320ceee9ea353af42c4f18694de",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-watson-heforshe-015": {
+    "sha1": "2f31ddb4aa28469459a3aca6e8605aab501edcf3",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-watson-heforshe-015-v1": {
+    "sha1": "a1dc524fd0c46b06524286cd5a7a4176c9ef5247",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-watson-heforshe-015-v2": {
+    "sha1": "3ef0a8ba829d90f024aa11636be05e1920be3955",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-watson-heforshe-016": {
+    "sha1": "9a8d6dfff2cac2bf441025d3d72bc48876b16718",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-watson-heforshe-016-v1": {
+    "sha1": "a8e41ad0f1e7a9b6f96627091264e99a1a55c993",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-watson-heforshe-016-v2": {
+    "sha1": "0b0f88b2066b1c267e841dcf7bcef5039f2183f6",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-watson-heforshe-017": {
+    "sha1": "12ccbbe69b00525085848039b4a33a3973264af3",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-watson-heforshe-017-v1": {
+    "sha1": "88f2b67950ee145e022f0c92c1ac18e7a6c7dafa",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-watson-heforshe-017-v2": {
+    "sha1": "9c779d9bb292a922ff5fe9579d300fbaf3b5d0bc",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-watson-heforshe-018": {
+    "sha1": "994908f938ab9c59f46ff1939d086fab786e3e86",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-watson-heforshe-018-v1": {
+    "sha1": "fb7bb712064573d51fb94eb5d3680376fc61c743",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-watson-heforshe-018-v2": {
+    "sha1": "a24e1d0b3fa33b7602f4e9c43c69e5ef97a312ca",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-watson-heforshe-019": {
+    "sha1": "b81c12c55d8ce6b1b1c0e3c98dbd28631a54391e",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-watson-heforshe-019-v1": {
+    "sha1": "260e4f97b9c2c44180f4d470691b4777ac49c9c0",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-watson-heforshe-019-v2": {
+    "sha1": "591cf0e5b062989af63e55e522eebcd94f63addb",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-watson-heforshe-020": {
+    "sha1": "3ac50289d81768a3617a0d4c6a0a731eb6ae3b00",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-watson-heforshe-020-v1": {
+    "sha1": "bcdf0fc99afaa3f286738a5d9d5c225ec1770c8f",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-watson-heforshe-020-v2": {
+    "sha1": "e15c9605a420620b4777b1d5696979b49da08d27",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-watson-heforshe-021": {
+    "sha1": "e66ff08c2c2d42895a2a8038351fbfe3a6883d59",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-watson-heforshe-021-v1": {
+    "sha1": "56c48c9855a5453d04c5436d29e2ef746c1eb193",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-speech-watson-heforshe-021-v2": {
+    "sha1": "0be9d2193e9efc697e52ed31977059f27f68c500",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-001": {
+    "sha1": "ced143e45caffe9671ddabdbefe487218b99e2c4",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-001-v1": {
+    "sha1": "80af3d0e6e81ba61af53e133d847d4ae164768d3",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-001-v2": {
+    "sha1": "9650393af2e60758289296fb772b9f960816ed29",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-002": {
+    "sha1": "1b20854d38597ba37d1907806280b3d9c662e904",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-002-v1": {
+    "sha1": "8a5408179cf368f8ba7ac5957091a99afda45b7b",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-002-v2": {
+    "sha1": "9fc4f09945a5e32179e4b753f6b439703e6ea086",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-003": {
+    "sha1": "745a74c24bf2ea7b9a229fb94e88488c2894dd1f",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-003-v1": {
+    "sha1": "eb643f062440193ebd837878409f53257e2466a2",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-003-v2": {
+    "sha1": "8c38f3bdf1938d537dcff49964356dd38d73143a",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-004": {
+    "sha1": "ded5e94c34e1cfaf027cde6414722fe887b1cf3c",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-004-v1": {
+    "sha1": "f7497c177d3e8e6deddf568be2a171f918c3e262",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-004-v2": {
+    "sha1": "ea89e1877895c4af48b0219f60fb0ebb8784a09f",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-005": {
+    "sha1": "cdf83e76d0abe5713fde439d9ad1294c7819927b",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-005-v1": {
+    "sha1": "b199a0e2e3481fcac9fdd9e7f9ea0c3433cc7578",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-005-v2": {
+    "sha1": "f51e0ef4b0cedda6a28dabd9d55a3f48e18059fa",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-006": {
+    "sha1": "572d0dc99933007eb61f7706f315cfc38a7037e2",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-006-v1": {
+    "sha1": "ea13f316f2b1f3663382a26cf6009af7ecc1e9ac",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-006-v2": {
+    "sha1": "56d4759cac3ca2199962e0d362eb6ccef19313e2",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-007": {
+    "sha1": "fd4e5d6d8e52306acc290c4312e67bb794990c23",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-007-v1": {
+    "sha1": "11f184e37c085fe67f286d12b578530ba2ac0797",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-007-v2": {
+    "sha1": "4664d5c99a489f925dbe7e049e8bb185fba5dacf",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-008": {
+    "sha1": "8553daea97ae8a23c885455f899ad41af1a8ba1f",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-008-v1": {
+    "sha1": "9ead5297c8a154f8704c6161b62684e5ea2e95b7",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-008-v2": {
+    "sha1": "ba7be9236adb45dfcc46547e7f56d023f0c32ed0",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-009": {
+    "sha1": "680bde2da429083a9696922cec9b6645829f1efe",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-009-v1": {
+    "sha1": "c355d8f64ed5898572e1e82b8400d2846a78828e",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-009-v2": {
+    "sha1": "49642373b46a38abb31c842ace164e7bcdf11b13",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-010": {
+    "sha1": "a444eeaf6677ad062a73ee5e64f45b8a4e210d73",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-010-v1": {
+    "sha1": "2f4706fc37157c7fcc653096626daf7f2994b96e",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-010-v2": {
+    "sha1": "b2d882ea52f78b37c7bc253607ffa809907e4546",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-011": {
+    "sha1": "7208728b7533f34e1a3bbf0d11f5131bbf5d9108",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-011-v1": {
+    "sha1": "5eb6aea511e685a9d2dd9cca749b06d3dbf4734e",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-011-v2": {
+    "sha1": "ed7d15ecb28ba45395d41a3ada3c823bb53a1a1f",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-012": {
+    "sha1": "c0ba07f588c564ded49b1b18870a52976cb93aab",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-012-v1": {
+    "sha1": "e2eb1e0be9e5d07f1920bce6c0c92a3dddc20864",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-012-v2": {
+    "sha1": "68f46e257889febf0488b97ac45f54ae0834b869",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-013": {
+    "sha1": "3f708d8b39930d3e11426f71f3bdbc20483929b5",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-013-v1": {
+    "sha1": "be4d24da85731ea15bc01aa439c6a4e80ab0446e",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-013-v2": {
+    "sha1": "7e83692a9619a48d50530b5db65c915d7b98cb4e",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-014": {
+    "sha1": "a85cf117028abd1ad7ae017ab5423757aeecd515",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-014-v1": {
+    "sha1": "f1f0e9030ee4bc2bc1227a8586ff41ef2a5f6a69",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-014-v2": {
+    "sha1": "ed56e9baf3f20227decb51aa312f8c82c42b2472",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-015": {
+    "sha1": "9a7359c8b6d4caec7d99cb9760d354bd10b97dc3",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-015-v1": {
+    "sha1": "19915eadcd5a64797305055937f6957b9212737e",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-015-v2": {
+    "sha1": "dd64f313747053e83d430ec88475c868d5cce736",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-016": {
+    "sha1": "35a26a8c20baa5a8e7b113842afa8e489140e2b3",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-016-v1": {
+    "sha1": "f28e8057a209d39fd0bb9fd7ca29f78a52b5d7f1",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-016-v2": {
+    "sha1": "1d55bb8e5dcb4d8b1efc1fbde878e009aa5ef34e",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-017": {
+    "sha1": "854439b6ba3d8887e2f863cd7b4775dc8f302073",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-017-v1": {
+    "sha1": "1101ac8cb2d771bae790e52f89a352d0d460c1e9",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-017-v2": {
+    "sha1": "c431f64babf08dab16e7a22d24bca945a61f2a8b",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-018": {
+    "sha1": "00403d51a2184bcb6f0afdb1c53b75be8a2b5770",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-018-v1": {
+    "sha1": "8bffaaefaaeff37f4eccc142de7525854af6ecdb",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-018-v2": {
+    "sha1": "7f494f911453e270eb6bc6f93c080c8032dfc742",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-019": {
+    "sha1": "dd2abd98f80a081d1a0c7c4c5ee17a4ed4c09b1b",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-019-v1": {
+    "sha1": "14459b3446ea6a1193d863f7a105d31438adb255",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-019-v2": {
+    "sha1": "9079e88ac849f8620ef30c6591292464c96fa09a",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-020": {
+    "sha1": "930f439acac9eeb66c055060ad22fc39aac71d25",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-020-v1": {
+    "sha1": "3b03c315e232e123dba6434dcd7b108a6ce27ee3",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-020-v2": {
+    "sha1": "10a4c0744fc470328b9bf55d8bebde3e42dcb2f8",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-021": {
+    "sha1": "69acb864587f4ba0c104f87f2fc12b57162efe8b",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-021-v1": {
+    "sha1": "5d62dbf4231eed593f6e5200aae7c294d64c5e1e",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-021-v2": {
+    "sha1": "47a8e16c93489af5b1cc1d3e37097c16344dcd33",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-022": {
+    "sha1": "68af9fe55a99c67240767f578b92c3aab0989b50",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-022-v1": {
+    "sha1": "0a6068119c8692497febd70f429941a995cc59a5",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-022-v2": {
+    "sha1": "079ee46b02f0f1765c1fa03022348dfb5d3991e3",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-023": {
+    "sha1": "177b16859b8f3a86c3052ed60e158008fcb5d39b",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-023-v1": {
+    "sha1": "f610b6491514f2ebacd178a6ca2ddc893a635725",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-023-v2": {
+    "sha1": "56348d8eb924ab4950a552ccefb5cd9083062dde",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-024": {
+    "sha1": "b84a52bdedd950e5b2f36e7a7c37f0932b5cc09a",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-024-v1": {
+    "sha1": "ad9490ebbb84efbdcc3aa5478c2d7e3968556c8f",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-024-v2": {
+    "sha1": "1f6210596884a6774585f371ea71611ea79891c2",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-025": {
+    "sha1": "693b2d1e239c0093dbbb942f6d76564992101e96",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-025-v1": {
+    "sha1": "f5415d360da1880906412b5decb7f903ec672fe1",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-025-v2": {
+    "sha1": "4717bccdb23bcdca7ba61b77657b9ad50ddd72a3",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-026": {
+    "sha1": "27f3cd9af56e1d6a8aed7ecc79d1986bef6be8e5",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-026-v1": {
+    "sha1": "d49e1aa81d16285a98af1221c1b88a5db6e0d44d",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-026-v2": {
+    "sha1": "8387679dbb46bec174d5f15c0648c37cd18efbf8",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-027": {
+    "sha1": "5abf51133da401d837fbc2f3f7caf1e0108f3899",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-027-v1": {
+    "sha1": "d61487dbd07da8738c8a240a027b814f772b6c1e",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-027-v2": {
+    "sha1": "36d63aae4cc1ed09e135e1d47844d137765ab906",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-028": {
+    "sha1": "49b20a87116d615d3a7c8590dc9dcd0bff10174a",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-028-v1": {
+    "sha1": "fa12f72e83992326ff81247bd76c700224a4cd3c",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-028-v2": {
+    "sha1": "86fed2d831c2fbba69dd19b71ac478fb31529574",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-029": {
+    "sha1": "49f190685d2f9d3da19b562c1d80f24a746fcb21",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-029-v1": {
+    "sha1": "efbd4f6819ec07e3f1032192b8ca136844060f26",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-029-v2": {
+    "sha1": "c3b2b6b53c6a2d41c24a54be89d86f5e7096475e",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-030": {
+    "sha1": "40dfdf728712835ac9fb7fd0ebfeabc606bc24f8",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-030-v1": {
+    "sha1": "03f1461f56ec41fbdbb832c4b7181dde8c6e4600",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-030-v2": {
+    "sha1": "3bd3e12e2b087c6753ba8e8aeb758975567adc14",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-031": {
+    "sha1": "79aa8b11bf8ff90fc321bc19fc3f05215e2e1a29",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-031-v1": {
+    "sha1": "a4cf133f1429cde3148d252313c954c72c4ca056",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-031-v2": {
+    "sha1": "c73c9c4f1fca105a4a41a394f38ff23a5cb06593",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-032": {
+    "sha1": "9a738aa4e77407148d9d1f161fca270a0e196af3",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-032-v1": {
+    "sha1": "c3e297b6b2e0cc3d69c5f8b915d6530da9bc502a",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-032-v2": {
+    "sha1": "a20cf48df5f9b3c438e1410ce39da369627a11e0",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-033": {
+    "sha1": "46917995bdfbf4d284145282dd0c90d3d8837cd6",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-033-v1": {
+    "sha1": "67333610135875c201205f5bb473caff122eb30d",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-033-v2": {
+    "sha1": "40aac7c0ebe1b141813d383a2023f0f60daacebc",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-034": {
+    "sha1": "536bcc1589c9382bf5fe25c7b2c68e9548438dba",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-034-v1": {
+    "sha1": "930486bc4525aa16318dd9c82a40a2f07550badc",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-034-v2": {
+    "sha1": "c7ca8c41fd8a32305211512389b872eb683ebb19",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-035": {
+    "sha1": "70f440a51cf35e0197a250aace2657eb6349a033",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-035-v1": {
+    "sha1": "3011a52f15552acb1cd10d620ac6fb84907d1a82",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-035-v2": {
+    "sha1": "444319836e23672036d0d8debef97436a8e4399f",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-036": {
+    "sha1": "111968fcc35531cbb4fe15256dcb99c5a8a81fed",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-036-v1": {
+    "sha1": "29c7f7ffc4661d084146d5f720b7ef30001533a9",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-036-v2": {
+    "sha1": "ade7b11f07d6c4fe7cda21e44dc3693f322f9ac0",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-037": {
+    "sha1": "ca78b70f786decdde9f5a02d6a0e4337e30ec79f",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-037-v1": {
+    "sha1": "e131b73b9cdcfe1d1291314fb45c52385e5eae60",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-037-v2": {
+    "sha1": "c7c3572bc0672960b3b8e5db8d2279cf3c2db488",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-038": {
+    "sha1": "01872c3222dc5a9d1f7b4f7a55a1ed3b75285919",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-038-v1": {
+    "sha1": "1240d29bd2c84d9a6d749e7526be0b3773f641aa",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-038-v2": {
+    "sha1": "e291b7f8383ba23407c7068f8e754bd17c3796e8",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-039": {
+    "sha1": "75dd89e4021994dbffc7bdc19e57c1e5d3327e2b",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-039-v1": {
+    "sha1": "1e73c8bebbb680ff01d6b3b1f35c941cafdeea9f",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-039-v2": {
+    "sha1": "f68c255a10f94f2ae50abf7b1a51bf327ed6590a",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-040": {
+    "sha1": "4c492cd61b61b16e544a41cb22e2b4c964b44e5f",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-040-v1": {
+    "sha1": "c3e7c67ef42b74b4ef38ffdd48361cedee9b5252",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-040-v2": {
+    "sha1": "76df917de9edf2cbafc7522c565f920b313b3f1d",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-041": {
+    "sha1": "69b6aec03f8f5afc83649debab3471a00ff43e4e",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-041-v1": {
+    "sha1": "0aa7277538c9f5f7fe79c1e7467fe761177445c6",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-041-v2": {
+    "sha1": "ea43c6f80fc4919d0d66a7e7534200b263b53602",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-042": {
+    "sha1": "8c0da55a016b3c7f4284c24115f075fa4adb69b1",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-042-v1": {
+    "sha1": "7fc1429479769e55158c23e781a2725da978e080",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-042-v2": {
+    "sha1": "6adc79be4ddc054e465f76280d52962f7c63d7e4",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-043": {
+    "sha1": "462e5e9eea12584ed6f90b104f07391b3e1c3d94",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-043-v1": {
+    "sha1": "08c1e1051fc5917855f4fd03499bf7b36613256e",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-043-v2": {
+    "sha1": "87778c57c6644ddc873b504db93826b2fb1f19c9",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-044": {
+    "sha1": "4cb3755b91403e6d68b7ed9ab062708d73128245",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-044-v1": {
+    "sha1": "105fcdfce311df04e897d01707f2820d74f7a293",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-044-v2": {
+    "sha1": "0801cd3f5b58717debc62bcdbb1a5efe727ffc48",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-045": {
+    "sha1": "0f722b438f34270254a236dcdaa34254a8a33a1b",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-045-v1": {
+    "sha1": "07e0b1296aac1252e6695a6eea090ef43fbd2add",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-045-v2": {
+    "sha1": "8b2f6c0092541376d585cc39e7bbd3375791daf1",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-046": {
+    "sha1": "5982c4079294b128eda4c508f4bff1ca0e68d6fe",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-046-v1": {
+    "sha1": "cd1c58ee05be7d7b9d46a22d538dc68281dd022b",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-046-v2": {
+    "sha1": "ee1688cfbb83ba8e59d2bd6d1e3ef3220dee7303",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-047": {
+    "sha1": "c2549755ca62b2d8f13e7664d13c5b6778d582e0",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-047-v1": {
+    "sha1": "9b560691734e9ddc8e3e296c4279a4cb9a80a125",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-047-v2": {
+    "sha1": "158922e6e822c4fc6017fda4a20925fc18cbe1e7",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-048": {
+    "sha1": "02547d6b34658bc80b007d5fe02e58ee418b8d2b",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-048-v1": {
+    "sha1": "ef61565bacd0fceca7904d68336c7a988faf8259",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-048-v2": {
+    "sha1": "9fc82d63918afa49c86342b1472bf0bb1973d1e9",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-049": {
+    "sha1": "cc0ad988eb51fba497b1f6c486d5b29aaf329ffa",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-049-v1": {
+    "sha1": "db9abdbaa9fcee5498327d08a9ba9498a566c2e1",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-049-v2": {
+    "sha1": "62cd21b3895f486034e4fdde7ead744106366d6a",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-050": {
+    "sha1": "261c2670d376ddb61fd89d24a2669d4775540d45",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-050-v1": {
+    "sha1": "09a2396e5cde11ba71d87a11e64dce2c1c2d82ca",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-050-v2": {
+    "sha1": "f6d108a2a7bc801ecd087603373da84fefd58a39",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-051": {
+    "sha1": "51ac0c2abb8f05b0db0f07e1b180415a35a4ccdf",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-051-v1": {
+    "sha1": "3f8d867ad659845d279332f041c39c18eb3a770f",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-051-v2": {
+    "sha1": "5b824164fd9fde42eacf0cdffb390494036b69ea",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-052": {
+    "sha1": "19687d0879c0d862a0264dba575283187487be0a",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-052-v1": {
+    "sha1": "c38197551ced93edab0f33803c66eec4d9004866",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-052-v2": {
+    "sha1": "061fe3c78d749e56921baf8d98a84f4f9631acb9",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-053": {
+    "sha1": "687b940d8ebfc3fc71e39b3ab55a0c1985526565",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-053-v1": {
+    "sha1": "9bfafa2abd1bb45a71ea19dd61f77d9168a91b79",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-053-v2": {
+    "sha1": "6ce1dc0a0f0b928398ee22b75698f7a083f72b8b",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-054": {
+    "sha1": "bd90c222f567e56ca035fa2246ea9bdc7e950a08",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-054-v1": {
+    "sha1": "1b64524e785942aafd296f97f04fe84627baa9ec",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-054-v2": {
+    "sha1": "56dadc3455ccb7ca75ffa50690ed8954d4fec20d",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-055": {
+    "sha1": "c832a05e637b1ee077ea52d2f3402f83fb39d021",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-055-v1": {
+    "sha1": "8d1bf82db2dac6f87b4040ce46b7f0d0d9370346",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-055-v2": {
+    "sha1": "081a09fd4274a8bb238351223228b644e49a8c26",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-056": {
+    "sha1": "8f9cbfd1d2bc8717d230d67119a3bfb44ff88ccd",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-056-v1": {
+    "sha1": "932b19d57e8ced63091027e30d19fe4d160bdbe4",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-056-v2": {
+    "sha1": "2488b67772d8ba7df4778484db2018d00523b66a",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-057": {
+    "sha1": "1e582d0bda118cf15abbe6955e3e9155e58e54bb",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-057-v1": {
+    "sha1": "996916dd594d718a232bf73b32d007691e7c5f1f",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-057-v2": {
+    "sha1": "d1f14a7be54e933b5f72e0d3583ab088555c82d9",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-058": {
+    "sha1": "1ab3287eb3671af50212d69430164646926cda11",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-058-v1": {
+    "sha1": "f5e65ed600a55891f9239ae2b6eb574aea73ddf4",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e01-058-v2": {
+    "sha1": "10eb54b2d7692650214bded17d9cb7ad46281be1",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-001": {
+    "sha1": "bfb570b8ffbeb2f42ca49e001d47830d09dad375",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-001-v1": {
+    "sha1": "44de886415c3faafdb3afb88c886f8d6a17622e7",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-001-v2": {
+    "sha1": "34172989a9275222e7017ac658fede7f78274b59",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-002": {
+    "sha1": "b0cb8d77fd513cab0acf23ef2abe8f7965e174f1",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-002-v1": {
+    "sha1": "6ede00bccb523dd7da37943bdb3a518de256a1cd",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-002-v2": {
+    "sha1": "126389ec9121ef98e4f7ad80cbffb7e08e110bcf",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-003": {
+    "sha1": "458764a3915125358240bbd7601af88648951437",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-003-v1": {
+    "sha1": "22e291f55e636fa88458d0457d4576f2aba7dbeb",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-003-v2": {
+    "sha1": "1855091d5343379bc3d7e3203b0e77fdb5eedc90",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-004": {
+    "sha1": "26f1fd3397ed4f916908a1afc6cc7f91440c1fbd",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-004-v1": {
+    "sha1": "8d0879d3146c4d99484071af5d5b1ba97abaa82a",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-004-v2": {
+    "sha1": "1f99ca2e5a621b535342e798ed81c812bf13a0b3",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-005": {
+    "sha1": "22e322a03ba20c39eb9f82245787961f3982f603",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-005-v1": {
+    "sha1": "858661782b93f6678ee0b27f34d537b324bcb393",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-005-v2": {
+    "sha1": "a9257bb2bb919e51bff6d00c403ce7490d1f4266",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-006": {
+    "sha1": "808023cc73a140dcdcada8e3ce675f9128450f29",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-006-v1": {
+    "sha1": "51591ea302515b541be20f15a2bccfe094ef4ea4",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-006-v2": {
+    "sha1": "feff82d047fe94847951a79b36d2664e995289b0",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-007": {
+    "sha1": "ec31065d10700d3876044c23c4066252dd5ff4de",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-007-v1": {
+    "sha1": "d1c92e581d619a178daac030e9a12923faaf210e",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-007-v2": {
+    "sha1": "73f9085f6a7a29fdd1ca9c94bfd04a78e30b1c52",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-008": {
+    "sha1": "43c9eb630b02d1e4b19122f0b77851a7f9ccebe1",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-008-v1": {
+    "sha1": "99facc1a7f4ef982a489ee9627ed1e885a960a59",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-008-v2": {
+    "sha1": "334bd9098375852977824d854f5d6bc3ee77a8a7",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-009": {
+    "sha1": "d399324ede2fc7a83bf5392876e3b2dce9e70b4c",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-009-v1": {
+    "sha1": "a113a561f77ee394688ae894d5faeaf181c898ac",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-009-v2": {
+    "sha1": "01fa0746605ae86ca6ae92466ddd07336a89552e",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-010": {
+    "sha1": "1662d4048afac3609169c13a6dac1eaedf8c209e",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-010-v1": {
+    "sha1": "b61158fb492af7dbd55a93ce2a279093a50fed0a",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-010-v2": {
+    "sha1": "ede56eb5cb46c3450cb62aa10949d6b5c4dca18f",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-011": {
+    "sha1": "d0241eb4907f9d3c296a5baaaa3bebbdab7e96cd",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-011-v1": {
+    "sha1": "d085e1ee5a9351ee1462dd539107cbb170296df1",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-011-v2": {
+    "sha1": "b4743fcb2aefdba45ada52597ebe42f7e185ab0a",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-012": {
+    "sha1": "88022d8404dc7fb8fc7fa6b80b1e03736b0bc7b0",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-012-v1": {
+    "sha1": "6416532ecaf4478194775bfeb1aeee6b5e4c3f64",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-012-v2": {
+    "sha1": "858e7efc1b6d1c564f2492633a3c4f62eb68e499",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-013": {
+    "sha1": "99299b7edf7629c19d161185efc500094e7bda2e",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-013-v1": {
+    "sha1": "a278e9dfdec67b409ce69149b4d23a49d23e056d",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-013-v2": {
+    "sha1": "27eabcb80842ef9053ba6c408a7715bc96b95898",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-014": {
+    "sha1": "14a65dc4a9ed97437a6b49d94aa0aebe41716152",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-014-v1": {
+    "sha1": "b2a003156f441899e0c8d7f872870f0f05456d96",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-014-v2": {
+    "sha1": "b2dc580cfb7eae918d62d1e041f2984522fa6805",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-015": {
+    "sha1": "b12b9fc1e9e0eecea96a34555902059a74577639",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-015-v1": {
+    "sha1": "9ad702c1c9bab234fa1ddbc92f68efe054f26687",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-015-v2": {
+    "sha1": "0fc63ee94d82bfdde33349de570fa679ae97083b",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-016": {
+    "sha1": "020a6bb44cf04212684c5d9421edffc85eb5ba78",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-016-v1": {
+    "sha1": "1bf26edc85f3372c17a3b69ba5569cb1cafb3939",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-016-v2": {
+    "sha1": "d9fb2108bab15d3ba21615419ebe130a303e05e5",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-017": {
+    "sha1": "5036243e7dcc474f277f27fd2dbbc6e434c1e510",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-017-v1": {
+    "sha1": "67e5885f3ca672a877f2e6f77cdce81434d2dc91",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-017-v2": {
+    "sha1": "a66257fb986973e343e9b55d4c9eab07ffb09a1f",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-018": {
+    "sha1": "14043d71c14fd3b7f16584dd48ace3594b8e145f",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-018-v1": {
+    "sha1": "56dc29ad667fbee1b8e0b6bf776a60cc0a813a84",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-018-v2": {
+    "sha1": "cac4c9534d70420ff4354d3ef8f8b80e2f013793",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-019": {
+    "sha1": "4e5322a00a69ae4360db3c3cae435b5d29da4a33",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-019-v1": {
+    "sha1": "60726e9579851722100d6b4ec125726997d54eae",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-019-v2": {
+    "sha1": "f9a4e9a67fe1395203899bd2062d4f6d71409a29",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-020": {
+    "sha1": "e8eaa1a6a764e681f9e2386fcc459fe96b49f0c2",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-020-v1": {
+    "sha1": "987e9da940fab258fcf57911ee5286aefccf81bc",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-020-v2": {
+    "sha1": "7902ccb100d25e15f221e963de012dc5813ed990",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-021": {
+    "sha1": "cbc4b0c8a78a63d6f19fda02202798a90d23f9e3",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-021-v1": {
+    "sha1": "0c36c34491f77e9e05363d0eaf5eb1decbdb9f3a",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-021-v2": {
+    "sha1": "4a28a8291a9f173ce328c62cc888fd8f3850d1d8",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-022": {
+    "sha1": "bbab98e6e88b581b9fd5b5c1d39ef6f23d748240",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-022-v1": {
+    "sha1": "1f1e8fe78733ab63f350e802eef0227836e759f5",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-022-v2": {
+    "sha1": "1dc291f57e2471600023bce93f8a45888779a5c4",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-023": {
+    "sha1": "d0b846a951c599516b13a23b1042c734ed78d39a",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-023-v1": {
+    "sha1": "47f866e0652758c6410d7932c817e4af118cfe68",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-023-v2": {
+    "sha1": "07349af7801fd48502274058784e035b41209cad",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-024": {
+    "sha1": "096e48f862672d6c5a5695d869b46e740207a77a",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-024-v1": {
+    "sha1": "fdd1bd81da79f3284ec96abf3cbdba90c7976be3",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-024-v2": {
+    "sha1": "133d54a43bb9a1bc43f5c794a10fb0d09ae53758",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-025": {
+    "sha1": "d800ed8c49fbee653cf1b18662cae86580670932",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-025-v1": {
+    "sha1": "56f0bbfa5da658b037a5b0af33bc242284b09c10",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-025-v2": {
+    "sha1": "6fbe9e2c403c224009ebb966c54758848de821ab",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-026": {
+    "sha1": "16d27dee8ba211c6fe333f2705f72d7efcfff014",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-026-v1": {
+    "sha1": "3e489bffebfbe789fc86ade905364d8464fda781",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-026-v2": {
+    "sha1": "077a86b6559d0f57f8ddf582b8e76d294af1b4fc",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-027": {
+    "sha1": "522ace2c453c1006d130872712f471f7639e17f6",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-027-v1": {
+    "sha1": "73b63549424091ea87b0dab5cd78a496dae55e56",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-027-v2": {
+    "sha1": "e0730d3f2e04c00eb1cea73fd4e672cfeb2dc932",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-028": {
+    "sha1": "4bb5cbaee23aadd4b7c3373ae9b1938e555ab21a",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-028-v1": {
+    "sha1": "c2b4dedfa4769723c5c904d06cc427b07732b2ed",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-028-v2": {
+    "sha1": "b3689f87e0d65508dc22037b04186f572f246872",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-029": {
+    "sha1": "872080db590db7c3d29c61b376dba88c90208a35",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-029-v1": {
+    "sha1": "f4e5a20f9e101b7c8539f8edf585a2ec06735a63",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-029-v2": {
+    "sha1": "bcf923322d36fcf54de7188d39d8dfdde8b6ff64",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-030": {
+    "sha1": "5a8c729f8567e29422a0aef3ff39265967786705",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-030-v1": {
+    "sha1": "d907d4551bd5b5434d4a4b87c1e69065f41d37d4",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-030-v2": {
+    "sha1": "de986921ff16c680eeba62f090bdf8f6400ec212",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-031": {
+    "sha1": "13b6e492a8f4bc7b667c4410a32b0a52017f4b5d",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-031-v1": {
+    "sha1": "9730cc40813fe79c1ccf68e581c62d7874aaac56",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-031-v2": {
+    "sha1": "0e4ea8a7cd6b96597627cc614cbb4739e66f959c",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-032": {
+    "sha1": "75cc29f37202bc09136b28dbb18da4df5fec4228",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-032-v1": {
+    "sha1": "7ad3c3cfdc624b326a7accd3f82f5c872c934c6c",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-032-v2": {
+    "sha1": "ffed5f4aa622eb4e7117e0323d08a251182a692a",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-033": {
+    "sha1": "72e146dc20c7e6aa085fc56d83b8cdeec3081487",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-033-v1": {
+    "sha1": "86e87c2eb779397e835bc4edbc0929b4e1bee4c1",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-033-v2": {
+    "sha1": "7f53452f34af45aa21335752c47771bf09a3b2aa",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-034": {
+    "sha1": "3bf0389f6b52868f0eb9cd63b17be5a14ded9591",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-034-v1": {
+    "sha1": "224e0f86335bc5bb447e3ba62ce674b2ec6bf183",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-034-v2": {
+    "sha1": "cd0f5b89a0e688ce043a980653934504ae31bd1f",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-035": {
+    "sha1": "87c694b1cc5a45e523aa69999ca76b2a32283cf2",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-035-v1": {
+    "sha1": "d2baf981411ee6da354a55b64b789461806f6e1d",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-035-v2": {
+    "sha1": "09387b73d35d9a057141a94ee05784c7e9778b0e",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-036": {
+    "sha1": "6ea055d234c3bfb1b04efba364e1361edba38390",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-036-v1": {
+    "sha1": "b3e4872879fdfe6829f04b654dc9313802186cc3",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-036-v2": {
+    "sha1": "fe1a1fa5b2ad4f24a835b96872430b2cb13c00b1",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-037": {
+    "sha1": "d440d91c9580028274d43d3a04d48626ebefd924",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-037-v1": {
+    "sha1": "367f6b32dd863fadd677e00a7c2cc34a33f5d9a4",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-037-v2": {
+    "sha1": "cdec66cbd38191cb715b356437294dc97e762459",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-038": {
+    "sha1": "00df11c1772f0b3f726f98d86b77e8f4339c59f9",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-038-v1": {
+    "sha1": "f2f546f14c63ca9b594db90ea4cd3d1a9aec1b2f",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-038-v2": {
+    "sha1": "46fcd4e4f58e89d4c527af04d1ce2cb6950237d5",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-039": {
+    "sha1": "d2afb6d86c8755fc16f4d2e8ab23151ab84ccbd3",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-039-v1": {
+    "sha1": "87d3fe46adfc4c152541d2088e74d70fad90c353",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-039-v2": {
+    "sha1": "34a4f48a4d985f10f1199e61867967d8fdc5f134",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-040": {
+    "sha1": "d50282890e33ee6ae04addac853c2648b7f80e4e",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-040-v1": {
+    "sha1": "9e827312bff3512e96819377ec9367d7cb5daaaf",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-040-v2": {
+    "sha1": "c1d45d46e228964bd6864a31c88432b0c27f4c48",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-041": {
+    "sha1": "3d942f79b7a4fd98b736e347e86098cc99f53db2",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-041-v1": {
+    "sha1": "0b71cf602b7085a70608361838070a79fcf85a17",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-041-v2": {
+    "sha1": "dd87008083cd02f66b153e98df5622799f161ed9",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-042": {
+    "sha1": "856399e00faa27ce26f945fc53a52bafe1f4fe33",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-042-v1": {
+    "sha1": "653e0092d7a81931a4c5863b7c03a52c415c9641",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-042-v2": {
+    "sha1": "e07f774a99da18d2577e410441e764757b4fdd1c",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-043": {
+    "sha1": "0acf242fa3afdfc19e061e872febcf99264d7714",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-043-v1": {
+    "sha1": "c34a35befcb61e7ce2575b83cfffeb5893570ce9",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-043-v2": {
+    "sha1": "7d26f85a1f73ad9eed2996f6d8b1158a8048364d",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-044": {
+    "sha1": "36734caaf4d0b6328c7690db26f9143efbdc3f15",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-044-v1": {
+    "sha1": "63a9ba6879c97fdedc231c2ce0214a3cddb26af2",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-044-v2": {
+    "sha1": "e57a50b57a4abb49981152b2db583918284789b0",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-045": {
+    "sha1": "a811c067a35ed57346ccbaf4d0caf0978d2bfdf1",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-045-v1": {
+    "sha1": "a406cac8a48d1e65b146a321643c1c101336af21",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-045-v2": {
+    "sha1": "9b024d5aac36e21d8952345b0bf243a3016e9017",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-046": {
+    "sha1": "6ac8e91088ed698bb9c9065b2dd68f1d16d0737d",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-046-v1": {
+    "sha1": "eed8e0f303eee60f725c4a0228be8e47766acab8",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-046-v2": {
+    "sha1": "7d9393c5891744268f69f036e448272e0cfae620",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-047": {
+    "sha1": "37aed8d4092f0cb1d8e6857bb40e40fe35e1ee39",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-047-v1": {
+    "sha1": "56e352586e7cf751a2f4ee90b6881d5cf4b1134f",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-047-v2": {
+    "sha1": "2f180341a0d5762c8e870ab4c1d425a5360aa804",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-048": {
+    "sha1": "7e214b0f64da532de0ad1d7b05468bc8988596c7",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-048-v1": {
+    "sha1": "84dabcc44c22f33b7d94d4a663e0761eba2d2458",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-048-v2": {
+    "sha1": "b88b14bac9363a1969c98e21ab91c0340f845bb2",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-049": {
+    "sha1": "20737f9900d7c58b057fa7a917df2cd3517bf15d",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-049-v1": {
+    "sha1": "8c68be371ce1f901a2e4802f64d082417ed24045",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-049-v2": {
+    "sha1": "5e5af629bc9a2ae29ceb25c95c0a19b31cab0ae0",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-050": {
+    "sha1": "7059b7f1c7214ec0a4db0e38c1996e1298b27d2f",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-050-v1": {
+    "sha1": "315d74babdbbf45010c0f1ec223561a6571b03c5",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-050-v2": {
+    "sha1": "6178372efff6e266ad7cf6afacba073c21e2d388",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-051": {
+    "sha1": "2fe24c99653e19a031b953db8bad7310e512283d",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-051-v1": {
+    "sha1": "c25df960e07c70f8eb0554d8e54c0ed4c153d4e6",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-051-v2": {
+    "sha1": "e7accd7965b53d45584e2c26a2831a87c60d718a",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-052": {
+    "sha1": "5e96bba2b8e805d015de55d46b4f273ec2779712",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-052-v1": {
+    "sha1": "88a0b35f8ec04a44a63ff0e8332380ce863b5563",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-052-v2": {
+    "sha1": "c7098ba384202269351878fa2d5331246d76561e",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-053": {
+    "sha1": "8f3a0416d882977329e77aa2140f1228ca9c92b3",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-053-v1": {
+    "sha1": "03babca59661f73dd8556fc86d5f6ffbd8a63c57",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-053-v2": {
+    "sha1": "267b86c81e8fa23d2f072b9bced4e561fd4f1881",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-054": {
+    "sha1": "1c974b48b6b72a2f6d53eab05d4146c848f2f865",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-054-v1": {
+    "sha1": "85f07a6d337056cbc5c964068bebfd3f94d58f70",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-054-v2": {
+    "sha1": "b120532771b7e3f444767a2518906bad4c4d15bd",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-055": {
+    "sha1": "571583fc63014d16535c39c2459cce51bf45dabd",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-055-v1": {
+    "sha1": "d021b04716e686adfa81807e5d0459d4bb10762d",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-055-v2": {
+    "sha1": "e7f2dbc27507b0a9d829b9418d6ddf56041c5a30",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-056": {
+    "sha1": "506b5cf51d079efb79c03f82fc9f8af78e26576c",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-056-v1": {
+    "sha1": "a3aaa8336588c3f92d900eb45efc4d89e8ea25aa",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-056-v2": {
+    "sha1": "52fd5909768c2ca84a4ad926063f6aeb80f0fe59",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-057": {
+    "sha1": "563ee79bd0d066e07691f91707bc470d4752cbfe",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-057-v1": {
+    "sha1": "d88f55ed06ff4cb357306ec903432f1444a082e5",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-057-v2": {
+    "sha1": "e11ae920022abfd13935ff2070316cbfc5f6cfb7",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-058": {
+    "sha1": "de0bf2c48d3170ebe1b0ad21a239410f847b6899",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-058-v1": {
+    "sha1": "9c2e6ed5f371ecfdd07df2944fd61fe783c310d9",
+    "voice": "ko-KR-SunHiNeural"
+  },
+  "ko-suits-s01e02-058-v2": {
+    "sha1": "ace3ef5ce8c9a54392fcded6a63f637dbfff65ca",
+    "voice": "ko-KR-SunHiNeural"
+  },
   "speech-obama-dnc2004-001": {
     "sha1": "9fa7dbee86a3aa6240ab8fcc7b12f1eb8f4d6557",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-dnc2004-001-v1": {
+    "sha1": "dc56d9ebfb4f9c46a26835bd4deaedab82114f47",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-dnc2004-001-v2": {
+    "sha1": "9e4d52d05b76259364dcbeb215dec42b173ab8c1",
     "voice": "en-US-GuyNeural"
   },
   "speech-obama-dnc2004-002": {
     "sha1": "3006b10ca5866bcde7babbd689dd64ce4f96bf3f",
     "voice": "en-US-GuyNeural"
   },
+  "speech-obama-dnc2004-002-v1": {
+    "sha1": "190dd1db75f3390437a88db06814ddfeadc0c9a6",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-dnc2004-002-v2": {
+    "sha1": "9297a0c598b3dd62fa0cbdbce403a2b8efa64a09",
+    "voice": "en-US-GuyNeural"
+  },
   "speech-obama-dnc2004-003": {
     "sha1": "1e1fa15a0d4ccdfa4e986a1740df2aaf191ea7e3",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-dnc2004-003-v1": {
+    "sha1": "430db2e475b5fed64f0e0c8a15d471c07a9233bf",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-dnc2004-003-v2": {
+    "sha1": "dc59cfb5b7f8bc6f4eecaa4d39457b14359bcbda",
     "voice": "en-US-GuyNeural"
   },
   "speech-obama-dnc2004-004": {
     "sha1": "3fd555f524a1cc6be4bd5a5a1b69c557fb39972c",
     "voice": "en-US-GuyNeural"
   },
+  "speech-obama-dnc2004-004-v1": {
+    "sha1": "5fa9dfc5c3efa88b51d1a77721241f4daac89161",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-dnc2004-004-v2": {
+    "sha1": "27076943b6b3f9553b396c8aac950d731ee92030",
+    "voice": "en-US-GuyNeural"
+  },
   "speech-obama-dnc2004-005": {
     "sha1": "fe06a88b76ff1a89651cbb3b19d3ce6b1a81cad9",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-dnc2004-005-v1": {
+    "sha1": "8e345c74083e1bdaea9e3bd3e3cd565cebafe5d0",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-dnc2004-005-v2": {
+    "sha1": "2003c7afc35bb808a0efbf4dd568d954de980bea",
     "voice": "en-US-GuyNeural"
   },
   "speech-obama-dnc2004-006": {
     "sha1": "240505f2e0b83c93c42a40bbe4d67667430d2854",
     "voice": "en-US-GuyNeural"
   },
+  "speech-obama-dnc2004-006-v1": {
+    "sha1": "d22e48eb65eb7e1cb76f0fca8781ade94687812f",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-dnc2004-006-v2": {
+    "sha1": "f606c296e7ee5c372a66d37ca47e8132802c5a4a",
+    "voice": "en-US-GuyNeural"
+  },
   "speech-obama-dnc2004-007": {
     "sha1": "9e48cee1afb979d704f875e66803c5e2587e95de",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-dnc2004-007-v1": {
+    "sha1": "c81bc04e7df783ac7a1a30eb2db8a1f5c92254a2",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-dnc2004-007-v2": {
+    "sha1": "996de1b7bfe406590e884edcd271a1948ea089c0",
     "voice": "en-US-GuyNeural"
   },
   "speech-obama-dnc2004-008": {
     "sha1": "80627e4cfdf750f624255fd30b83e68a2d049742",
     "voice": "en-US-GuyNeural"
   },
+  "speech-obama-dnc2004-008-v1": {
+    "sha1": "2b9ef8ee3cd2cf46bf123c7c3382b5438cc15290",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-dnc2004-008-v2": {
+    "sha1": "de21a4134a4ca8e73cd4c4d97c2fb56e30709cfc",
+    "voice": "en-US-GuyNeural"
+  },
   "speech-obama-dnc2004-009": {
     "sha1": "3754d7bb2ed9563783ef99e81e68742b631c2ba2",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-dnc2004-009-v1": {
+    "sha1": "711da894f79d9fb43a2b977927ac20572bb3ef0e",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-dnc2004-009-v2": {
+    "sha1": "228cba4c21a2b5341e0a1e1b3fc020be1ec118d4",
     "voice": "en-US-GuyNeural"
   },
   "speech-obama-dnc2004-010": {
     "sha1": "087055ee3d07f85d7c7676a720fa27889f2d3a25",
     "voice": "en-US-GuyNeural"
   },
+  "speech-obama-dnc2004-010-v1": {
+    "sha1": "97ac193bfdc1aab00d901c3067960b267090c160",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-dnc2004-010-v2": {
+    "sha1": "33b5656e231f52e5dc7390ae0855cf02b9ba7562",
+    "voice": "en-US-GuyNeural"
+  },
   "speech-obama-dnc2004-011": {
     "sha1": "36fc5fadaafc3c62d0960feeeac9fde59269e589",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-dnc2004-011-v1": {
+    "sha1": "3159b8a6057879e805e5de99e9c7b900070b8d65",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-dnc2004-011-v2": {
+    "sha1": "6395d189696597a05fd90873c0af2bfe6f718f27",
     "voice": "en-US-GuyNeural"
   },
   "speech-obama-dnc2004-012": {
     "sha1": "039f520368d9e3e2fa63a8ab74df44bb47554b97",
     "voice": "en-US-GuyNeural"
   },
+  "speech-obama-dnc2004-012-v1": {
+    "sha1": "57424300dc465384bf3cdfca9c8b38793b7b00b2",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-dnc2004-012-v2": {
+    "sha1": "fbfd4e073e522bacff68cfdbef11dbfb0d3eed08",
+    "voice": "en-US-GuyNeural"
+  },
   "speech-obama-dnc2004-013": {
     "sha1": "ca653c56b0f78918405f37debf02934f51c96141",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-dnc2004-013-v1": {
+    "sha1": "e86f6b488b413e3a83c6f20a39682593b40040a4",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-dnc2004-013-v2": {
+    "sha1": "c08385d47a2b05bae254d3306680ffc12632278e",
     "voice": "en-US-GuyNeural"
   },
   "speech-obama-dnc2004-014": {
     "sha1": "8ccfdb0f7bcccfa36f2a08dd3125c8e01a3f3c84",
     "voice": "en-US-GuyNeural"
   },
+  "speech-obama-dnc2004-014-v1": {
+    "sha1": "d2a5a4e65ee5085c597d857d98ec9ed0fb29eaeb",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-dnc2004-014-v2": {
+    "sha1": "f5be9b894780af9db4cf016006c86e0d4e8083f8",
+    "voice": "en-US-GuyNeural"
+  },
   "speech-obama-dnc2004-015": {
     "sha1": "6388a6786997b059d5a0c079a2e4290ec6fcdb9a",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-dnc2004-015-v1": {
+    "sha1": "62e7414cdaafa8f6f0aeebeaf0b2ad0a7e3150af",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-dnc2004-015-v2": {
+    "sha1": "7f36dcf57c5c3790c4365ca76567f79f92c79b04",
     "voice": "en-US-GuyNeural"
   },
   "speech-obama-dnc2004-016": {
     "sha1": "fcc6c93dea4bf999eb4ce47055b4347ef157ef17",
     "voice": "en-US-GuyNeural"
   },
+  "speech-obama-dnc2004-016-v1": {
+    "sha1": "8990bff7c70d793b3ff51c3bfafbaaa7849e641d",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-dnc2004-016-v2": {
+    "sha1": "cceba70a36254f56e010fa19ae1172b73dc0171b",
+    "voice": "en-US-GuyNeural"
+  },
   "speech-obama-dnc2004-017": {
     "sha1": "d61f70204793d3a23110dce8e8624bf0575a9761",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-dnc2004-017-v1": {
+    "sha1": "280f18287700cff75d53b87851b16b9dd0a53b0e",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-dnc2004-017-v2": {
+    "sha1": "28a714406001732af3f62692170b4837310855ba",
     "voice": "en-US-GuyNeural"
   },
   "speech-obama-dnc2004-018": {
     "sha1": "2fdefd088bd95e0533d8aaa8fa93906af3c2b695",
     "voice": "en-US-GuyNeural"
   },
+  "speech-obama-dnc2004-018-v1": {
+    "sha1": "d7ae3acb93ddd8917099d11aabd327a0decf5f7e",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-dnc2004-018-v2": {
+    "sha1": "524926da2bf2bb633faf66146a2db396a529fa71",
+    "voice": "en-US-GuyNeural"
+  },
   "speech-obama-dnc2004-019": {
     "sha1": "dfe8d37aefe234ff1be9bcced438bc0e536779e8",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-dnc2004-019-v1": {
+    "sha1": "de22e8b1ce57458aeb0c9764ea5243b0d7220712",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-dnc2004-019-v2": {
+    "sha1": "141001bb0a34190f9c35c778913d282466283059",
     "voice": "en-US-GuyNeural"
   },
   "speech-obama-dnc2004-020": {
     "sha1": "6b2e431050da6260b279f3e486d10b81760ff82e",
     "voice": "en-US-GuyNeural"
   },
+  "speech-obama-dnc2004-020-v1": {
+    "sha1": "61598e6e2e66a570b205ff60eba4fea4d020a818",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-dnc2004-020-v2": {
+    "sha1": "05c1785a8746bb759183d0fc94d440b8749f55f8",
+    "voice": "en-US-GuyNeural"
+  },
   "speech-obama-dnc2004-021": {
     "sha1": "2e41f1f8a8a7d3b87c0ca33e28220284f8d01ddf",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-dnc2004-021-v1": {
+    "sha1": "3bb9d13aa9b88573a99fc1776367f16dc4b20466",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-dnc2004-021-v2": {
+    "sha1": "2a7df0e6d24abcc057202eae6a0fe627667a8995",
     "voice": "en-US-GuyNeural"
   },
   "speech-obama-dnc2004-022": {
     "sha1": "9dea09715f5f4843ccaa6f8e17df4f04dd8cadad",
     "voice": "en-US-GuyNeural"
   },
+  "speech-obama-dnc2004-022-v1": {
+    "sha1": "5018ec7f8f3d0ca40466e0414f92d7ebac971945",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-dnc2004-022-v2": {
+    "sha1": "f52ab27596b40b21dae017a9c96c5b72057ca7f4",
+    "voice": "en-US-GuyNeural"
+  },
   "speech-obama-dnc2004-023": {
     "sha1": "ba48a88a0c5c314b3677fed75aa1e21c9aaa7f5d",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-dnc2004-023-v1": {
+    "sha1": "015d66088c5016a03f39e2193b473e7774f05c2d",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-dnc2004-023-v2": {
+    "sha1": "ab6b557c4a7b0665463fc6a5b0132d23245fe0fc",
     "voice": "en-US-GuyNeural"
   },
   "speech-obama-dnc2004-024": {
     "sha1": "7efb91e94665fd85eb00eeee56757680baeb95f8",
     "voice": "en-US-GuyNeural"
   },
+  "speech-obama-dnc2004-024-v1": {
+    "sha1": "7d8d88dc5d70234a663c76715267b13bc9073fb3",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-dnc2004-024-v2": {
+    "sha1": "4055c7bb3bbd0f4b55623a43cb700991118f3bda",
+    "voice": "en-US-GuyNeural"
+  },
   "speech-obama-farewell2017-001": {
     "sha1": "0a499e63ade3b9df7769858368e0f41f5b05ea8f",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-farewell2017-001-v1": {
+    "sha1": "fe05a9b6928f7f1e722cd134994d2c3633cd9cad",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-farewell2017-001-v2": {
+    "sha1": "526a92542a270b4e4f67d20a298bcba922c1a7a3",
     "voice": "en-US-GuyNeural"
   },
   "speech-obama-farewell2017-002": {
     "sha1": "dd479bc5e949c424ef8b02bf01eef049069317d8",
     "voice": "en-US-GuyNeural"
   },
+  "speech-obama-farewell2017-002-v1": {
+    "sha1": "c7b731cc2ef2c58cffd622b8e4fabf37badb32c1",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-farewell2017-002-v2": {
+    "sha1": "d02994e6c34b5de19d51a632163bcc345ca58d90",
+    "voice": "en-US-GuyNeural"
+  },
   "speech-obama-farewell2017-003": {
     "sha1": "60a823155c66fd6c24e0f13b9a0be11c4302aece",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-farewell2017-003-v1": {
+    "sha1": "7280e16fd6b07f3c56d93f66d3842be27586ec12",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-farewell2017-003-v2": {
+    "sha1": "73c53de33bb910a38b13331d370dc5e61f5976c1",
     "voice": "en-US-GuyNeural"
   },
   "speech-obama-farewell2017-004": {
     "sha1": "492543fa664be6d0d258dae6a08ef3673522ac3f",
     "voice": "en-US-GuyNeural"
   },
+  "speech-obama-farewell2017-004-v1": {
+    "sha1": "d13c283a111d368e3e4b5f526577a4b2cf13d209",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-farewell2017-004-v2": {
+    "sha1": "8ffe83d8a652bfabb809044bc6529bf86d684a71",
+    "voice": "en-US-GuyNeural"
+  },
   "speech-obama-farewell2017-005": {
     "sha1": "aa4c649d69e8ca3378b7528f52df9435a1f34434",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-farewell2017-005-v1": {
+    "sha1": "790d28d77a7ba4c22a9c6d83b8ee02653ed99f60",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-farewell2017-005-v2": {
+    "sha1": "10e76f61a02419745b62bf23d2bb314a8b6f0d5f",
     "voice": "en-US-GuyNeural"
   },
   "speech-obama-farewell2017-006": {
     "sha1": "67ab9ac3ee4fe84c2d5f1e8291f0e3089dc95e7b",
     "voice": "en-US-GuyNeural"
   },
+  "speech-obama-farewell2017-006-v1": {
+    "sha1": "ecd9640d7528360c871449ea6fb8914e9c85623e",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-farewell2017-006-v2": {
+    "sha1": "34c73eb68d3cb720344ed93b488710925e08be7a",
+    "voice": "en-US-GuyNeural"
+  },
   "speech-obama-farewell2017-007": {
     "sha1": "28709fbbd179f78dc34da88f7c048076d86fdac3",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-farewell2017-007-v1": {
+    "sha1": "f942da194eec3aa03d7196119cbbe5225d1448ba",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-farewell2017-007-v2": {
+    "sha1": "0a71b19f226f8ed86429e8d4b1bbafd17eef43bc",
     "voice": "en-US-GuyNeural"
   },
   "speech-obama-farewell2017-008": {
     "sha1": "9658c2bd87329bfd66738253a46d8ffa9bdb13f7",
     "voice": "en-US-GuyNeural"
   },
+  "speech-obama-farewell2017-008-v1": {
+    "sha1": "7525709652aa6986dcf7e642398767de1ae60eff",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-farewell2017-008-v2": {
+    "sha1": "ae25fd2285ea34c3d9949c58519587dae91dae0e",
+    "voice": "en-US-GuyNeural"
+  },
   "speech-obama-farewell2017-009": {
     "sha1": "a8a4878371994c921ecc43d726d12a46d9f0bd24",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-farewell2017-009-v1": {
+    "sha1": "e4ddfb6dec7e798f1546f4ba1182916146ad4a9b",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-farewell2017-009-v2": {
+    "sha1": "4a3d11e1a05a846c554f487c5d463411bd05fc20",
     "voice": "en-US-GuyNeural"
   },
   "speech-obama-farewell2017-010": {
     "sha1": "e65baca214c70440d245a9adf519d76828ce3d59",
     "voice": "en-US-GuyNeural"
   },
+  "speech-obama-farewell2017-010-v1": {
+    "sha1": "42634406164639fc4e65d5bafeed030b6d5a55ea",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-farewell2017-010-v2": {
+    "sha1": "34b51059c175626d3c03272395e17ee16b688723",
+    "voice": "en-US-GuyNeural"
+  },
   "speech-obama-farewell2017-011": {
     "sha1": "be4775ae8f89bb1b3290c35da8d0c72ec639f947",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-farewell2017-011-v1": {
+    "sha1": "a37b2717c281e3e0a0ec2d92d8573431dd3739f1",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-farewell2017-011-v2": {
+    "sha1": "ad4b4c2a56e81d01f1e69cc51912b05ed3ddc693",
     "voice": "en-US-GuyNeural"
   },
   "speech-obama-farewell2017-012": {
     "sha1": "85cc846458905a0ddea09dd5d7a312cc333af0f9",
     "voice": "en-US-GuyNeural"
   },
+  "speech-obama-farewell2017-012-v1": {
+    "sha1": "586b41fcc426ab2d17b2c54b4f271e3cdd1f0719",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-farewell2017-012-v2": {
+    "sha1": "4056e54af27059c044005ccfddf664d86411d712",
+    "voice": "en-US-GuyNeural"
+  },
   "speech-obama-farewell2017-013": {
     "sha1": "e6c1ca9f78bb8deec2ff1b34a4dc23db4d97e59b",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-farewell2017-013-v1": {
+    "sha1": "e560baca8b66caf621647f75fdbd2b3899d6d261",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-farewell2017-013-v2": {
+    "sha1": "c25491ab0951cc5e97dbd6ec31d1b287aaea1b63",
     "voice": "en-US-GuyNeural"
   },
   "speech-obama-farewell2017-014": {
     "sha1": "e8eaa287071f309f3d363fb0ba50ccc6b21b0919",
     "voice": "en-US-GuyNeural"
   },
+  "speech-obama-farewell2017-014-v1": {
+    "sha1": "ab2a25b7890925a81b09e6aa2ee896dc565ae381",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-farewell2017-014-v2": {
+    "sha1": "a0f2ec78c2e6b5b1e4b19f1a919b9a1ee970d617",
+    "voice": "en-US-GuyNeural"
+  },
   "speech-obama-farewell2017-015": {
     "sha1": "fca79274a44d46e604beba8e90e1d78cf0135866",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-farewell2017-015-v1": {
+    "sha1": "3e61013aeb14a52041830f4d7cc3af3bb2b88abb",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-farewell2017-015-v2": {
+    "sha1": "8debbae119383364bd2c3022ac04142d1eca6961",
     "voice": "en-US-GuyNeural"
   },
   "speech-obama-farewell2017-016": {
     "sha1": "3face42acdfe5846d1d8fd3ee1ca2e180b692efc",
     "voice": "en-US-GuyNeural"
   },
+  "speech-obama-farewell2017-016-v1": {
+    "sha1": "2725d4695df405bb141e6f572b276d5910014d1a",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-farewell2017-016-v2": {
+    "sha1": "528a912ec4f7f7ffa5815bdaa8c83034143d44c8",
+    "voice": "en-US-GuyNeural"
+  },
   "speech-obama-farewell2017-017": {
     "sha1": "d24425c74432bc06905d247ad539027905e3e0f2",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-farewell2017-017-v1": {
+    "sha1": "f9d266c6153ec14c79195de98265751a9db5cb17",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-farewell2017-017-v2": {
+    "sha1": "5c319a85afd0871997a4dc2aafb6d9b289b0e266",
     "voice": "en-US-GuyNeural"
   },
   "speech-obama-farewell2017-018": {
     "sha1": "3d69917fffcde4b1268a4836af2013f220690a0e",
     "voice": "en-US-GuyNeural"
   },
+  "speech-obama-farewell2017-018-v1": {
+    "sha1": "f391c4ef00cbd579e3ca22941484afdee3131aa2",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-farewell2017-018-v2": {
+    "sha1": "f7566bca52e6d128839e5d5ab4e288fecad36b5b",
+    "voice": "en-US-GuyNeural"
+  },
   "speech-obama-farewell2017-019": {
     "sha1": "10a5ae7dd0345e2f77f2be28dff0e5c8aa7a3490",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-farewell2017-019-v1": {
+    "sha1": "677e836dc75378164d2eb28f0986f1705689e345",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-farewell2017-019-v2": {
+    "sha1": "0895512da4d241cbc5a38855f170b0f1c80a10e4",
     "voice": "en-US-GuyNeural"
   },
   "speech-obama-farewell2017-020": {
     "sha1": "64485cbcd05245e53de50ebc3ff5556cbf501122",
     "voice": "en-US-GuyNeural"
   },
+  "speech-obama-farewell2017-020-v1": {
+    "sha1": "f9e9d8e758ea06615c745a8dc61d479799351e7f",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-farewell2017-020-v2": {
+    "sha1": "633d3bbf0d6f5c375d46eb9fc0e4edc1ad1aff2d",
+    "voice": "en-US-GuyNeural"
+  },
   "speech-obama-farewell2017-021": {
     "sha1": "f0fc433ec13e5008c9042bacd6ce57e07e517594",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-farewell2017-021-v1": {
+    "sha1": "34345b25565bdfc09da2c2c02a87809d0fbf7ee5",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-farewell2017-021-v2": {
+    "sha1": "a071a7cec56e8dc5db2f2cd512997e16655d4355",
     "voice": "en-US-GuyNeural"
   },
   "speech-obama-farewell2017-022": {
     "sha1": "3b44df0e5a14719713ef83f01b9052abe50510ff",
     "voice": "en-US-GuyNeural"
   },
+  "speech-obama-farewell2017-022-v1": {
+    "sha1": "182f5d1518307332f90ece7cba05804945dc91c0",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-farewell2017-022-v2": {
+    "sha1": "4c7ccfa7e3bd7ca2b4eb0584f785bcf36eae7734",
+    "voice": "en-US-GuyNeural"
+  },
   "speech-obama-farewell2017-023": {
     "sha1": "21d563bc892998d0e45b0300395e186cef77a3f6",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-farewell2017-023-v1": {
+    "sha1": "d14ad55eda91f5678a9b39e44e0bad828b58439d",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-farewell2017-023-v2": {
+    "sha1": "30939f60f7a69e9fc4f4e88052cabe86b971d14b",
     "voice": "en-US-GuyNeural"
   },
   "speech-obama-farewell2017-024": {
     "sha1": "b8ced1189afe93465eaf7182dc3dad24ac5416cb",
     "voice": "en-US-GuyNeural"
   },
+  "speech-obama-farewell2017-024-v1": {
+    "sha1": "4c3a8cf8dd0d5199f19a6afedb030c0ec54cf6d5",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-farewell2017-024-v2": {
+    "sha1": "7a28213191d4d9fa22399db2a5c6c14c5f5e2a84",
+    "voice": "en-US-GuyNeural"
+  },
   "speech-obama-farewell2017-025": {
     "sha1": "c410ef2f7e695851df37431bcf7ac202bfab52fc",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-farewell2017-025-v1": {
+    "sha1": "4e06a676fcfa615120642bcc810538c3b044c506",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-farewell2017-025-v2": {
+    "sha1": "44463feba50d6cd6c50a779fe7031335cc6eaff1",
     "voice": "en-US-GuyNeural"
   },
   "speech-obama-farewell2017-026": {
     "sha1": "32d8420ab92a89b97b75c7022eeaa12dc9d01fed",
     "voice": "en-US-GuyNeural"
   },
+  "speech-obama-farewell2017-026-v1": {
+    "sha1": "f72f401d84b26946b0fbced3c18bd48966c27e79",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-farewell2017-026-v2": {
+    "sha1": "39b7a32896a35ea962c222244d648c06568b7785",
+    "voice": "en-US-GuyNeural"
+  },
   "speech-obama-farewell2017-027": {
     "sha1": "537ba2e340bf74f79d76d418ff23ba02f15ee554",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-farewell2017-027-v1": {
+    "sha1": "4bd176d30e4edad455a05c5aad58150ce0e312d7",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-farewell2017-027-v2": {
+    "sha1": "c819cff1d06d3ba1ee321c22c2295ca9d9e93e0b",
     "voice": "en-US-GuyNeural"
   },
   "speech-obama-farewell2017-028": {
     "sha1": "dc8f9473af11c0c89ed054f5bb487235d67d17ef",
     "voice": "en-US-GuyNeural"
   },
+  "speech-obama-farewell2017-028-v1": {
+    "sha1": "8b99fae78ad359d01db5beff8fa4a3a8466e39ad",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-farewell2017-028-v2": {
+    "sha1": "9444aeae9baff3737679fd2c83b89f4cb84de295",
+    "voice": "en-US-GuyNeural"
+  },
   "speech-obama-farewell2017-029": {
     "sha1": "9118a1d9994c563397eda6949b82e0d7b200f28f",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-farewell2017-029-v1": {
+    "sha1": "3e0eee27bf28817dd8becd1f39937dd08da8f911",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-farewell2017-029-v2": {
+    "sha1": "56c23080afcbb10860080e7063d4160d887d262c",
     "voice": "en-US-GuyNeural"
   },
   "speech-obama-farewell2017-030": {
     "sha1": "98f4cf225b6a794caadfc48b1400b00d0cac093c",
     "voice": "en-US-GuyNeural"
   },
+  "speech-obama-farewell2017-030-v1": {
+    "sha1": "b8f90e355c976cf20fecf3585fdc0a71df5e815e",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-farewell2017-030-v2": {
+    "sha1": "cdbc4cf76d40c86808d90593d7725e5ebf8c24ce",
+    "voice": "en-US-GuyNeural"
+  },
   "speech-obama-farewell2017-031": {
     "sha1": "b852a5893d02eee1b255c6a81b8616a3eeb1fb4c",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-farewell2017-031-v1": {
+    "sha1": "1acac70c930f29d3b5a7fcdb192956a3582b5104",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-farewell2017-031-v2": {
+    "sha1": "6b44e06d6e7f51d12f4a531bb214a59336697c84",
     "voice": "en-US-GuyNeural"
   },
   "speech-obama-farewell2017-032": {
     "sha1": "e96b25a8cc839036ef545416a636b234f64c9029",
     "voice": "en-US-GuyNeural"
   },
+  "speech-obama-farewell2017-032-v1": {
+    "sha1": "14390ee06e4b7e0ad7ffee618cf29ab0d28c1500",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-farewell2017-032-v2": {
+    "sha1": "1edfdfb1ef9a51a02023c3abfd68b5168801ad95",
+    "voice": "en-US-GuyNeural"
+  },
   "speech-obama-farewell2017-033": {
     "sha1": "637a171e5fd547a30c3326453863e6c4d90f4338",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-farewell2017-033-v1": {
+    "sha1": "84933c4362f0043d77c23e542e92ccfea2e68063",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-farewell2017-033-v2": {
+    "sha1": "e090521047a8b8c694fff07371dd1f0a91ecd3af",
     "voice": "en-US-GuyNeural"
   },
   "speech-obama-farewell2017-034": {
     "sha1": "4fa9d61bbdb2b2b545dbacc33f69ba889147b9bf",
     "voice": "en-US-GuyNeural"
   },
+  "speech-obama-farewell2017-034-v1": {
+    "sha1": "afe419261aab34951dbf531721e4068bce7a1d59",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-farewell2017-034-v2": {
+    "sha1": "b792d94f2b007f4d20920eb573854e00f9bc3406",
+    "voice": "en-US-GuyNeural"
+  },
   "speech-obama-farewell2017-035": {
     "sha1": "6d56034f26088280782a832a6369aea62d84fce5",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-farewell2017-035-v1": {
+    "sha1": "41ee2ce79cf6022b0cb6154fe7e61e30441f4f57",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-farewell2017-035-v2": {
+    "sha1": "cf5fb11d73a250fd418f6703109d0a92084e9d01",
     "voice": "en-US-GuyNeural"
   },
   "speech-obama-farewell2017-036": {
     "sha1": "2407291d692f0c8e0aa687e5ff460b9eaaa5a7d4",
     "voice": "en-US-GuyNeural"
   },
+  "speech-obama-farewell2017-036-v1": {
+    "sha1": "ee464ed8137604b50b760df9e16f5c6d4f27e72d",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-farewell2017-036-v2": {
+    "sha1": "e6c58dd1022ece87e0451138d3eb5bc1fd5628a4",
+    "voice": "en-US-GuyNeural"
+  },
   "speech-obama-farewell2017-037": {
     "sha1": "32b5c5fb00a9a47235b4232b313a0580d8a0bc8a",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-farewell2017-037-v1": {
+    "sha1": "dd5008be6dd00caf0637762c59f6ba11439e505e",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-farewell2017-037-v2": {
+    "sha1": "c39c00d017cecc8c72127b6b93e17dac40557724",
     "voice": "en-US-GuyNeural"
   },
   "speech-obama-farewell2017-038": {
     "sha1": "f54e81600b6dfb1aa8e60199cedff391da56994b",
     "voice": "en-US-GuyNeural"
   },
+  "speech-obama-farewell2017-038-v1": {
+    "sha1": "f6be53f8dfa8dd6a6c403d9bee48bb65de49f755",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-farewell2017-038-v2": {
+    "sha1": "a285985dc075390e66668e0738b620df4b9ab9e2",
+    "voice": "en-US-GuyNeural"
+  },
   "speech-queen-covid-001": {
     "sha1": "120aabb7c58441d7bde4f5aaa00faabea14dfe99",
+    "voice": "en-GB-LibbyNeural"
+  },
+  "speech-queen-covid-001-v1": {
+    "sha1": "3ccb7a0a7a7a62cd6e2351835fbc3ceec47d9950",
+    "voice": "en-GB-LibbyNeural"
+  },
+  "speech-queen-covid-001-v2": {
+    "sha1": "8d199b51394b09acd94026aeb3763959b1659397",
     "voice": "en-GB-LibbyNeural"
   },
   "speech-queen-covid-002": {
     "sha1": "ac5b1f34246952977e6b858817bf07f31f296190",
     "voice": "en-GB-LibbyNeural"
   },
+  "speech-queen-covid-002-v1": {
+    "sha1": "e6d5b4f3eb78b049f2a8b1e6504d4610ee10f3c5",
+    "voice": "en-GB-LibbyNeural"
+  },
+  "speech-queen-covid-002-v2": {
+    "sha1": "03fdc6dcf21071e045c98d4b1077fd6b076ed90f",
+    "voice": "en-GB-LibbyNeural"
+  },
   "speech-queen-covid-003": {
     "sha1": "c9b5d570b6d00a14faae8e847bdccacbee0609e2",
+    "voice": "en-GB-LibbyNeural"
+  },
+  "speech-queen-covid-003-v1": {
+    "sha1": "07d20c6ce469673a2c8d56fe1ede195e2a9c143f",
+    "voice": "en-GB-LibbyNeural"
+  },
+  "speech-queen-covid-003-v2": {
+    "sha1": "8ef831bcfd7712c1073640c10c04647869c1c2bf",
     "voice": "en-GB-LibbyNeural"
   },
   "speech-queen-covid-004": {
     "sha1": "cf943333a333c67c31cb349941888a50533f4048",
     "voice": "en-GB-LibbyNeural"
   },
+  "speech-queen-covid-004-v1": {
+    "sha1": "b554e47f46435557e8c1650e9d6bfb2a13cee16a",
+    "voice": "en-GB-LibbyNeural"
+  },
+  "speech-queen-covid-004-v2": {
+    "sha1": "f66c1fd33e7dfa9c0e3c14789d06867b861d8d35",
+    "voice": "en-GB-LibbyNeural"
+  },
   "speech-queen-covid-005": {
     "sha1": "eab0faceb71ec45d24e2c5ce2362cd2f88e552d9",
+    "voice": "en-GB-LibbyNeural"
+  },
+  "speech-queen-covid-005-v1": {
+    "sha1": "715b1d2153ed94948e2185fdd8f7a2212d1d7b47",
+    "voice": "en-GB-LibbyNeural"
+  },
+  "speech-queen-covid-005-v2": {
+    "sha1": "e1c2a0e64fad6b598e2c519fbb37b1507bb167a8",
     "voice": "en-GB-LibbyNeural"
   },
   "speech-queen-covid-006": {
     "sha1": "568cf71d3d166f371def6ee680e56b7bf912c631",
     "voice": "en-GB-LibbyNeural"
   },
+  "speech-queen-covid-006-v1": {
+    "sha1": "7a464693a39c619268efb9b5a3087e1ab4f43741",
+    "voice": "en-GB-LibbyNeural"
+  },
+  "speech-queen-covid-006-v2": {
+    "sha1": "885f7402650a9860670b5755a3963132ce5cbb00",
+    "voice": "en-GB-LibbyNeural"
+  },
   "speech-queen-covid-007": {
     "sha1": "7f43bd97ea527c85773a2e559c449af91b97ec54",
+    "voice": "en-GB-LibbyNeural"
+  },
+  "speech-queen-covid-007-v1": {
+    "sha1": "8ea5ff9e73020649781210814ce18dd9366b21ce",
+    "voice": "en-GB-LibbyNeural"
+  },
+  "speech-queen-covid-007-v2": {
+    "sha1": "3b6331e4a2cfb5a5ab3480a7e30581ffe03c2b87",
     "voice": "en-GB-LibbyNeural"
   },
   "speech-queen-covid-008": {
     "sha1": "1234fd4da5a270af57bfceac625cb63bee8b1b50",
     "voice": "en-GB-LibbyNeural"
   },
+  "speech-queen-covid-008-v1": {
+    "sha1": "b4b5fa6321bbaa007c725f6b819bb8de4a8dfd6f",
+    "voice": "en-GB-LibbyNeural"
+  },
+  "speech-queen-covid-008-v2": {
+    "sha1": "436546cab948d053232e6bfcf2268e0024916cf6",
+    "voice": "en-GB-LibbyNeural"
+  },
   "speech-queen-covid-009": {
     "sha1": "bd47c32d4628fc7796c7f0039a28fa634265b183",
+    "voice": "en-GB-LibbyNeural"
+  },
+  "speech-queen-covid-009-v1": {
+    "sha1": "36fbb6a7ec530d21bf10c22f3c5c2edb2acb44ef",
+    "voice": "en-GB-LibbyNeural"
+  },
+  "speech-queen-covid-009-v2": {
+    "sha1": "49d4f38c3955e81c3338282825d97239ebaed630",
     "voice": "en-GB-LibbyNeural"
   },
   "speech-queen-covid-010": {
     "sha1": "2cd34c455c51007dead7b145ef5b62dc01af1b15",
     "voice": "en-GB-LibbyNeural"
   },
+  "speech-queen-covid-010-v1": {
+    "sha1": "be55c3545acdea1006789976c7e2b90470de5e18",
+    "voice": "en-GB-LibbyNeural"
+  },
+  "speech-queen-covid-010-v2": {
+    "sha1": "71606e699e1e75da1efb0edc24b45fa1d9e886da",
+    "voice": "en-GB-LibbyNeural"
+  },
   "speech-queen-covid-011": {
     "sha1": "28d9cba6206b726d0f6b6835eb50ebb8bbbf5795",
+    "voice": "en-GB-LibbyNeural"
+  },
+  "speech-queen-covid-011-v1": {
+    "sha1": "15862622a99dc1af0df16901ea1b8df43c00173a",
+    "voice": "en-GB-LibbyNeural"
+  },
+  "speech-queen-covid-011-v2": {
+    "sha1": "b27c3d96337addb0759b6b38182b8f1632c68439",
     "voice": "en-GB-LibbyNeural"
   },
   "speech-queen-covid-012": {
     "sha1": "eba01a4a23cb5ae3a2c05e18efa76b830a7b15f1",
     "voice": "en-GB-LibbyNeural"
   },
+  "speech-queen-covid-012-v1": {
+    "sha1": "13464ef5c0f7b838649adc9f1508ef67fb95b3bd",
+    "voice": "en-GB-LibbyNeural"
+  },
+  "speech-queen-covid-012-v2": {
+    "sha1": "ddc689d5cada9c3435ea440eb41b0187ed1f66fb",
+    "voice": "en-GB-LibbyNeural"
+  },
   "speech-queen-covid-013": {
     "sha1": "93e3f9912588b5ef767c516e59907d8c3266dfec",
+    "voice": "en-GB-LibbyNeural"
+  },
+  "speech-queen-covid-013-v1": {
+    "sha1": "878c42317d5f21ccf3164fad390e0f405df1b9f0",
+    "voice": "en-GB-LibbyNeural"
+  },
+  "speech-queen-covid-013-v2": {
+    "sha1": "3671b38be85e2a634ecaa95075352fc050b8155e",
     "voice": "en-GB-LibbyNeural"
   },
   "speech-watson-heforshe-001": {
     "sha1": "b29acf77258f2fb7b41bc8726201293512f81740",
     "voice": "en-GB-SoniaNeural"
   },
+  "speech-watson-heforshe-001-v1": {
+    "sha1": "1da76b5a18634a06b5cbef1f0b64b2fe695acfea",
+    "voice": "en-GB-SoniaNeural"
+  },
+  "speech-watson-heforshe-001-v2": {
+    "sha1": "acae6d181493e52475628d71b9c88444b671323b",
+    "voice": "en-GB-SoniaNeural"
+  },
   "speech-watson-heforshe-002": {
     "sha1": "6e28e4a0c665192a00b50d337e46552da7da221f",
+    "voice": "en-GB-SoniaNeural"
+  },
+  "speech-watson-heforshe-002-v1": {
+    "sha1": "6304d146fd8f9488e1c4ec137f5abc7f99629d26",
+    "voice": "en-GB-SoniaNeural"
+  },
+  "speech-watson-heforshe-002-v2": {
+    "sha1": "51d9d32c4de896080266e3a8a70aa847fc0d0f7f",
     "voice": "en-GB-SoniaNeural"
   },
   "speech-watson-heforshe-003": {
     "sha1": "22faece9f907eb9eadb7e8c7b0550f15ba55fccc",
     "voice": "en-GB-SoniaNeural"
   },
+  "speech-watson-heforshe-003-v1": {
+    "sha1": "ff332d26df7da0952ac43801b765a42d450bd308",
+    "voice": "en-GB-SoniaNeural"
+  },
+  "speech-watson-heforshe-003-v2": {
+    "sha1": "a2e3c20df9d2c2f440564ddb726351b7b86e97b4",
+    "voice": "en-GB-SoniaNeural"
+  },
   "speech-watson-heforshe-004": {
     "sha1": "356abcb02d8e05bcfea5b144ab3fe17f28196b51",
+    "voice": "en-GB-SoniaNeural"
+  },
+  "speech-watson-heforshe-004-v1": {
+    "sha1": "285463b45349f6cc0fdf3add0e169e890dafdd3f",
+    "voice": "en-GB-SoniaNeural"
+  },
+  "speech-watson-heforshe-004-v2": {
+    "sha1": "17bcc1b4e1d2088bd2f29fb8bfd8dddc433dfced",
     "voice": "en-GB-SoniaNeural"
   },
   "speech-watson-heforshe-005": {
     "sha1": "149dab2568fa17ec7fe9cd07d1e13df050c49709",
     "voice": "en-GB-SoniaNeural"
   },
+  "speech-watson-heforshe-005-v1": {
+    "sha1": "55cda0c2935a5683e9dd6606b31f40a9773a5413",
+    "voice": "en-GB-SoniaNeural"
+  },
+  "speech-watson-heforshe-005-v2": {
+    "sha1": "57ac1e71be73749d2e5072ae0f32e02aea755dab",
+    "voice": "en-GB-SoniaNeural"
+  },
   "speech-watson-heforshe-006": {
     "sha1": "83eaa3fc1a49a597917762e94b358723d3b2eadb",
+    "voice": "en-GB-SoniaNeural"
+  },
+  "speech-watson-heforshe-006-v1": {
+    "sha1": "552d4fb8eaa3749bf90dcba7353f1e13af15579b",
+    "voice": "en-GB-SoniaNeural"
+  },
+  "speech-watson-heforshe-006-v2": {
+    "sha1": "8e4ce1ffdd35af718e57268d9bb085a46d69d5a0",
     "voice": "en-GB-SoniaNeural"
   },
   "speech-watson-heforshe-007": {
     "sha1": "fe2dee60745bc549237017ae0cdb1788bde4cc54",
     "voice": "en-GB-SoniaNeural"
   },
+  "speech-watson-heforshe-007-v1": {
+    "sha1": "d503626554db7d30bbeda766dc6d55e98bb52c1d",
+    "voice": "en-GB-SoniaNeural"
+  },
+  "speech-watson-heforshe-007-v2": {
+    "sha1": "1de030bd1af157cfda1c4288e443e0a22be84aa9",
+    "voice": "en-GB-SoniaNeural"
+  },
   "speech-watson-heforshe-008": {
     "sha1": "a018dcc86fe33601837c2235a7a6cb0a223382d6",
+    "voice": "en-GB-SoniaNeural"
+  },
+  "speech-watson-heforshe-008-v1": {
+    "sha1": "3ec7938bf0dcadfcb91f988d94200c7d24938b08",
+    "voice": "en-GB-SoniaNeural"
+  },
+  "speech-watson-heforshe-008-v2": {
+    "sha1": "c9bb2f0817a083aa02f194c97f8674015064a55a",
     "voice": "en-GB-SoniaNeural"
   },
   "speech-watson-heforshe-009": {
     "sha1": "f57ea7331d95bc8c4ff985c81abf3723475b2ac3",
     "voice": "en-GB-SoniaNeural"
   },
+  "speech-watson-heforshe-009-v1": {
+    "sha1": "fc65dcbbd6e3cc6d41d65979b413685dc891245e",
+    "voice": "en-GB-SoniaNeural"
+  },
+  "speech-watson-heforshe-009-v2": {
+    "sha1": "0d582503e0389e34a2f77243c21fba0182fa706d",
+    "voice": "en-GB-SoniaNeural"
+  },
   "speech-watson-heforshe-010": {
     "sha1": "5b64267a98730aaab50f705aa6a38c499812d737",
+    "voice": "en-GB-SoniaNeural"
+  },
+  "speech-watson-heforshe-010-v1": {
+    "sha1": "2760134a42bc74b72c855bc7419948e234afd1c0",
+    "voice": "en-GB-SoniaNeural"
+  },
+  "speech-watson-heforshe-010-v2": {
+    "sha1": "06bb96c834ce79949a85a9f57f5de59f13b09cbe",
     "voice": "en-GB-SoniaNeural"
   },
   "speech-watson-heforshe-011": {
     "sha1": "1e84250c34a8906352e5fb0ead7094847a207138",
     "voice": "en-GB-SoniaNeural"
   },
+  "speech-watson-heforshe-011-v1": {
+    "sha1": "d14b74f6d47613fc7cd2ce7e0981ab63bf53c20f",
+    "voice": "en-GB-SoniaNeural"
+  },
+  "speech-watson-heforshe-011-v2": {
+    "sha1": "271c68896d922859d92f8ef049713f5011e32f2c",
+    "voice": "en-GB-SoniaNeural"
+  },
   "speech-watson-heforshe-012": {
     "sha1": "de67cafae5dfc1e4d8746bab2608c637d7e5747b",
+    "voice": "en-GB-SoniaNeural"
+  },
+  "speech-watson-heforshe-012-v1": {
+    "sha1": "12ff9f662fe9b7a0f0137f9cb427a0eac58e6759",
+    "voice": "en-GB-SoniaNeural"
+  },
+  "speech-watson-heforshe-012-v2": {
+    "sha1": "dc93a556c94fc5ebfdebacb07aa154de312f2078",
     "voice": "en-GB-SoniaNeural"
   },
   "speech-watson-heforshe-013": {
     "sha1": "8be535149894236e87f59fd86db716a6896f8be3",
     "voice": "en-GB-SoniaNeural"
   },
+  "speech-watson-heforshe-013-v1": {
+    "sha1": "3751b5839af6d24826f9dfaebd6856a9c7514002",
+    "voice": "en-GB-SoniaNeural"
+  },
+  "speech-watson-heforshe-013-v2": {
+    "sha1": "04495fb224ab94c3a293f6f17a49f58c32cc6fcc",
+    "voice": "en-GB-SoniaNeural"
+  },
   "speech-watson-heforshe-014": {
     "sha1": "ff9656773daeb7c8359a9bcfda0b3b77bd432f65",
+    "voice": "en-GB-SoniaNeural"
+  },
+  "speech-watson-heforshe-014-v1": {
+    "sha1": "26013fc43ba7f85d6da9a17326a8ca5615a42361",
+    "voice": "en-GB-SoniaNeural"
+  },
+  "speech-watson-heforshe-014-v2": {
+    "sha1": "541a190d9b1c5a3462c61e1ca911282aea4b5b00",
     "voice": "en-GB-SoniaNeural"
   },
   "speech-watson-heforshe-015": {
     "sha1": "c5716c7ddc08f62d972c3ff675af17f6600077dc",
     "voice": "en-GB-SoniaNeural"
   },
+  "speech-watson-heforshe-015-v1": {
+    "sha1": "25425692d21fe1ff5e3d0de8e39112c6357c2251",
+    "voice": "en-GB-SoniaNeural"
+  },
+  "speech-watson-heforshe-015-v2": {
+    "sha1": "0a0a9fb87aaa88bed36d50eafd6028393c52e27f",
+    "voice": "en-GB-SoniaNeural"
+  },
   "speech-watson-heforshe-016": {
     "sha1": "9cf2c69dafbf774daf7e3f0eaf622ebe0b211470",
+    "voice": "en-GB-SoniaNeural"
+  },
+  "speech-watson-heforshe-016-v1": {
+    "sha1": "e5e6c58bc6d6d3971cf6e0a892471e8748102c5d",
+    "voice": "en-GB-SoniaNeural"
+  },
+  "speech-watson-heforshe-016-v2": {
+    "sha1": "edd411f22e0a906ee58759738c701791aab1b998",
     "voice": "en-GB-SoniaNeural"
   },
   "speech-watson-heforshe-017": {
     "sha1": "db9bd58a2b38a70fae7e15f92d3d94fdd7f1f166",
     "voice": "en-GB-SoniaNeural"
   },
+  "speech-watson-heforshe-017-v1": {
+    "sha1": "0cb6a718429374afb3bb1527644492f29111fc8c",
+    "voice": "en-GB-SoniaNeural"
+  },
+  "speech-watson-heforshe-017-v2": {
+    "sha1": "a4d1ee5319dbaad38ae4d41b6ea14fbff0e0816d",
+    "voice": "en-GB-SoniaNeural"
+  },
   "speech-watson-heforshe-018": {
     "sha1": "1f628b2ab85b89bcd92c889406264d999a4fc5ad",
+    "voice": "en-GB-SoniaNeural"
+  },
+  "speech-watson-heforshe-018-v1": {
+    "sha1": "8e9b733d748488fe8388416b8e3dbb376e8fe5f5",
+    "voice": "en-GB-SoniaNeural"
+  },
+  "speech-watson-heforshe-018-v2": {
+    "sha1": "bce0d1326ec2e72d0c4e5d1cbcbb78584e275e97",
     "voice": "en-GB-SoniaNeural"
   },
   "speech-watson-heforshe-019": {
     "sha1": "de1ec5cfc11e26b97235546615c0b2594c0841d3",
     "voice": "en-GB-SoniaNeural"
   },
+  "speech-watson-heforshe-019-v1": {
+    "sha1": "0bd0b1c4165622455bcbf9c33e24d16ce3806d70",
+    "voice": "en-GB-SoniaNeural"
+  },
+  "speech-watson-heforshe-019-v2": {
+    "sha1": "73e9bc63abe64a75d27144a2ca5c03be36877b84",
+    "voice": "en-GB-SoniaNeural"
+  },
   "speech-watson-heforshe-020": {
     "sha1": "2b8a91aefd067b6022fc7f211e26ede739284de8",
+    "voice": "en-GB-SoniaNeural"
+  },
+  "speech-watson-heforshe-020-v1": {
+    "sha1": "23ced31e185b710961e862352dab36f05d982662",
+    "voice": "en-GB-SoniaNeural"
+  },
+  "speech-watson-heforshe-020-v2": {
+    "sha1": "118b0328a058f6e0075a98344b154293859e7775",
     "voice": "en-GB-SoniaNeural"
   },
   "speech-watson-heforshe-021": {
     "sha1": "e27d36b94178f1980dd56dff894ff01b99da693f",
     "voice": "en-GB-SoniaNeural"
   },
+  "speech-watson-heforshe-021-v1": {
+    "sha1": "8f717ba9ef1e30e1f93141bf2fa63e01dd13c317",
+    "voice": "en-GB-SoniaNeural"
+  },
+  "speech-watson-heforshe-021-v2": {
+    "sha1": "59c720ad9cbe1ed6fa4cc1569052d231a02a0e54",
+    "voice": "en-GB-SoniaNeural"
+  },
   "suits-s01e01-001": {
     "sha1": "8b550b8fab9e81ec87f42d4a5e91027fa0f772ce",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e01-001-v1": {
+    "sha1": "d3be6a099de8636d93755a000afa710b91f83b3a",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e01-001-v2": {
+    "sha1": "80f05201318b351e7217a95b35b8ac0324f4ecb3",
     "voice": "en-US-AndrewNeural"
   },
   "suits-s01e01-002": {
     "sha1": "67ea817b4e828694801a8ff351bbde47ce565163",
     "voice": "en-US-AndrewNeural"
   },
+  "suits-s01e01-002-v1": {
+    "sha1": "6ce08301288e01206fcb705dfda7d6839f97600f",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e01-002-v2": {
+    "sha1": "c25adea0f659fd83465fc22dac74956db50bee93",
+    "voice": "en-US-AndrewNeural"
+  },
   "suits-s01e01-003": {
     "sha1": "5083e2fc396ac08999a6f6d5d591aeadb0bd4be8",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e01-003-v1": {
+    "sha1": "011e90ee14ee8c6985596c03640abc46be227eeb",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e01-003-v2": {
+    "sha1": "52ecde3a2f601cb8f925e2da306b9686174f45c9",
     "voice": "en-US-AndrewNeural"
   },
   "suits-s01e01-004": {
     "sha1": "8c9fe298fd931c75383d821804656c922f421f2b",
     "voice": "en-US-AndrewNeural"
   },
+  "suits-s01e01-004-v1": {
+    "sha1": "28bfd489303f90bf3e90c55ffee16038177dfcf4",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e01-004-v2": {
+    "sha1": "4f5b86b0cbec265d17dd6fa59d159735f0ab413f",
+    "voice": "en-US-AndrewNeural"
+  },
   "suits-s01e01-005": {
     "sha1": "251fceac6dc4e8f4c84d4b518539a7a25dd900d1",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e01-005-v1": {
+    "sha1": "dfcd2fe443f42ee74e8c50f18010089e1772068d",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e01-005-v2": {
+    "sha1": "e271221d6ee08a9750f6800d85d8c2e09cc149f6",
     "voice": "en-US-AndrewNeural"
   },
   "suits-s01e01-006": {
     "sha1": "d3442e15f41ae1578124df781a30077ea3312644",
     "voice": "en-US-JennyNeural"
   },
+  "suits-s01e01-006-v1": {
+    "sha1": "c271c7108f990a063fe955715c2dbfce7408ed17",
+    "voice": "en-US-JennyNeural"
+  },
+  "suits-s01e01-006-v2": {
+    "sha1": "e92d17d0b484d49d572a01defb3ba05cfb4d2321",
+    "voice": "en-US-JennyNeural"
+  },
   "suits-s01e01-007": {
     "sha1": "665821ddc5e2863dbd7876fcd5d153c8277a099c",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e01-007-v1": {
+    "sha1": "046911cc2e2dea1c3c95a97e7dcd674499fc5106",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e01-007-v2": {
+    "sha1": "b52523f545ac0e6361794b53dd250f7f85bd2f86",
     "voice": "en-US-AndrewNeural"
   },
   "suits-s01e01-008": {
     "sha1": "3b487546c43829fc11014eb6c0dc0f97b774a83d",
     "voice": "en-US-JennyNeural"
   },
+  "suits-s01e01-008-v1": {
+    "sha1": "de645be36938a77f27c27e7301fc1d2bd6e53400",
+    "voice": "en-US-JennyNeural"
+  },
+  "suits-s01e01-008-v2": {
+    "sha1": "e304be87e017f877e2d4c8253d61773abd1b0153",
+    "voice": "en-US-JennyNeural"
+  },
   "suits-s01e01-009": {
     "sha1": "15255662cb1b8eea5ad39dc97a258a05eecd4312",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e01-009-v1": {
+    "sha1": "3b03dd4110b8cf4ecdb9254a4403a4329aaa0b82",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e01-009-v2": {
+    "sha1": "d1dc041822d2c75112f45b29e82b12930451e2d6",
     "voice": "en-US-AndrewNeural"
   },
   "suits-s01e01-010": {
     "sha1": "90ff01ea542acb4aa810a79d9a67a43c05d3e445",
     "voice": "en-US-AndrewNeural"
   },
+  "suits-s01e01-010-v1": {
+    "sha1": "28f7ac4d0a6fef9f069551a7e9822c7653a4e7e3",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e01-010-v2": {
+    "sha1": "ea85df2f0075feb2d35bf0cb5f0a51b10cd1a724",
+    "voice": "en-US-AndrewNeural"
+  },
   "suits-s01e01-011": {
     "sha1": "eb793d882f30221379c1da33879584466675d47d",
+    "voice": "en-US-JennyNeural"
+  },
+  "suits-s01e01-011-v1": {
+    "sha1": "5541d9444b997a6fcfe45b2d4af536baa4be9844",
+    "voice": "en-US-JennyNeural"
+  },
+  "suits-s01e01-011-v2": {
+    "sha1": "e910ac43638d4dbf11123adbebb72e8dfb0be563",
     "voice": "en-US-JennyNeural"
   },
   "suits-s01e01-012": {
     "sha1": "fb708d244c8f30b734ecee86884220f77f1642d8",
     "voice": "en-US-JennyNeural"
   },
+  "suits-s01e01-012-v1": {
+    "sha1": "9a672b8609a12445502986804550300ee8eabc07",
+    "voice": "en-US-JennyNeural"
+  },
+  "suits-s01e01-012-v2": {
+    "sha1": "11a2f565fe7467442921e6570b6d2a2cd19d57f2",
+    "voice": "en-US-JennyNeural"
+  },
   "suits-s01e01-013": {
     "sha1": "a6cb4cb56dbf69135937256a77e62dee78b04302",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e01-013-v1": {
+    "sha1": "57c8fbb4de11a4f35ae7ce40e0558fef10e537f8",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e01-013-v2": {
+    "sha1": "7bbad285811f079c2651852cc66b2157106dcbdf",
     "voice": "en-US-AndrewNeural"
   },
   "suits-s01e01-014": {
     "sha1": "b84e444e72d7bc96848064257db1fe39881ca79a",
     "voice": "en-US-AndrewNeural"
   },
+  "suits-s01e01-014-v1": {
+    "sha1": "cabb601896f545523460f92305c435fc61e7f45e",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e01-014-v2": {
+    "sha1": "07df6ca234538f079738fc390ebc5a69176c6a8b",
+    "voice": "en-US-AndrewNeural"
+  },
   "suits-s01e01-015": {
     "sha1": "a6447ab0fdbb6a64c79b6392474c3442c346e9fb",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e01-015-v1": {
+    "sha1": "5db42321c3646151b032ec89c1eb0fc3335222c1",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e01-015-v2": {
+    "sha1": "82009b2a863471405d12134893fb83d2f1e95f66",
     "voice": "en-US-AndrewNeural"
   },
   "suits-s01e01-016": {
     "sha1": "9a782f642b140aa28e218a16f0bb3b8cf680d71b",
     "voice": "en-US-AndrewNeural"
   },
+  "suits-s01e01-016-v1": {
+    "sha1": "05462d44cb0373461b6d9bbe313b83b1bf9a4cd6",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e01-016-v2": {
+    "sha1": "149cfc69cfdf76346c621fb4ff7121c2e5e50f8e",
+    "voice": "en-US-AndrewNeural"
+  },
   "suits-s01e01-017": {
     "sha1": "fe05a2d0e58a0569625764fba36b06da18a28878",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e01-017-v1": {
+    "sha1": "c8a41c55d9ee7b8429f002108f4d46e792485f42",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e01-017-v2": {
+    "sha1": "d3d342378f9e2a764e04bd1061b35965b65fa2ab",
     "voice": "en-US-AndrewNeural"
   },
   "suits-s01e01-018": {
     "sha1": "ca822046b177f7a44d3255403aa8ebd8bc0bfd39",
     "voice": "en-US-AndrewNeural"
   },
+  "suits-s01e01-018-v1": {
+    "sha1": "41de715dbb8fb6f126121c6cfcf08875b9fee648",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e01-018-v2": {
+    "sha1": "f46347d55771846cbcede48221b79c6dcde9fd8e",
+    "voice": "en-US-AndrewNeural"
+  },
   "suits-s01e01-019": {
     "sha1": "4066deca3b0384671edf32c151b5c9a4493e8049",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e01-019-v1": {
+    "sha1": "4f9a3ae261f314384bfb9123ef49f43363890fd7",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e01-019-v2": {
+    "sha1": "87d15e7aec5f216bd0678e718bac4e87982c563f",
     "voice": "en-US-AndrewNeural"
   },
   "suits-s01e01-020": {
     "sha1": "ff3ed058d0c95b278c267f0521bf765d97f6644e",
     "voice": "en-US-JennyNeural"
   },
+  "suits-s01e01-020-v1": {
+    "sha1": "fae0996db5462c9dc22931e6ac00eb6770327f59",
+    "voice": "en-US-JennyNeural"
+  },
+  "suits-s01e01-020-v2": {
+    "sha1": "00c39bd24f51435a829e1a6b2fc7d2cb5dc7c252",
+    "voice": "en-US-JennyNeural"
+  },
   "suits-s01e01-021": {
     "sha1": "784dba945f3e7db2b4e318e31e41fefd1b45ec63",
+    "voice": "en-US-JennyNeural"
+  },
+  "suits-s01e01-021-v1": {
+    "sha1": "99f7be2ab9182fc834000b5d73a0d6e31c764807",
+    "voice": "en-US-JennyNeural"
+  },
+  "suits-s01e01-021-v2": {
+    "sha1": "a008c66701d8136e0f62c06fb43d256f0ff503fa",
     "voice": "en-US-JennyNeural"
   },
   "suits-s01e01-022": {
     "sha1": "082ca7abca33bff71a16549eb3eacc03b5b91829",
     "voice": "en-US-AndrewNeural"
   },
+  "suits-s01e01-022-v1": {
+    "sha1": "bd17221f645315ea450229cd004089a091b3bb99",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e01-022-v2": {
+    "sha1": "f35a98233f02378a98d7974aab674db35803f93b",
+    "voice": "en-US-AndrewNeural"
+  },
   "suits-s01e01-023": {
     "sha1": "806d883651071097d0beab7a0573ca5aa110c436",
+    "voice": "en-US-JennyNeural"
+  },
+  "suits-s01e01-023-v1": {
+    "sha1": "4d0165aaa995e5a68e1390bb04efacda905765a4",
+    "voice": "en-US-JennyNeural"
+  },
+  "suits-s01e01-023-v2": {
+    "sha1": "f6a6c586ed362ac02219b1170ce5ae556a974732",
     "voice": "en-US-JennyNeural"
   },
   "suits-s01e01-024": {
     "sha1": "1dddcb266dd30bf3bf583d47bad118a458548a11",
     "voice": "en-US-AndrewNeural"
   },
+  "suits-s01e01-024-v1": {
+    "sha1": "da7cf7b5f04d6d50e740dd8b06446ad2e4298462",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e01-024-v2": {
+    "sha1": "3a420e76056e6b8d9aa22fb9ba04bac53f699afc",
+    "voice": "en-US-AndrewNeural"
+  },
   "suits-s01e01-025": {
     "sha1": "541b5513dea4f9eebc329898639ebda6d1c866a7",
+    "voice": "en-US-JennyNeural"
+  },
+  "suits-s01e01-025-v1": {
+    "sha1": "4c5df95df8f3a615adfd2a531f922f331fd2e1a4",
+    "voice": "en-US-JennyNeural"
+  },
+  "suits-s01e01-025-v2": {
+    "sha1": "730121e6b21f3f2df35efcc13fb387c73e495bdb",
     "voice": "en-US-JennyNeural"
   },
   "suits-s01e01-026": {
     "sha1": "169adecfb05c4581752db4e06bb2f9e63243c64b",
     "voice": "en-US-AndrewNeural"
   },
+  "suits-s01e01-026-v1": {
+    "sha1": "c1bdd32b0f2546328d25ba4e107094af850ca8b0",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e01-026-v2": {
+    "sha1": "ec3d94f3a80fa812d0c5e75fd234c478c2e76cbf",
+    "voice": "en-US-AndrewNeural"
+  },
   "suits-s01e01-027": {
     "sha1": "cd3a9fb33c2ac97843a76e5889e8f98e7e8861c6",
+    "voice": "en-US-JennyNeural"
+  },
+  "suits-s01e01-027-v1": {
+    "sha1": "63d2b2157c6ab03472ddbcde58b6c1726861192c",
+    "voice": "en-US-JennyNeural"
+  },
+  "suits-s01e01-027-v2": {
+    "sha1": "ac7205b4f85bbda6dae287c59dd8ccbaa6b0e6cb",
     "voice": "en-US-JennyNeural"
   },
   "suits-s01e01-028": {
     "sha1": "2646bc8e9c4227d7cf6d54243405a383acc75337",
     "voice": "en-US-JennyNeural"
   },
+  "suits-s01e01-028-v1": {
+    "sha1": "9f89cfc72e94eada7424345378bb4d9c59bb46d8",
+    "voice": "en-US-JennyNeural"
+  },
+  "suits-s01e01-028-v2": {
+    "sha1": "3df9c1e465d2f9a510a3451d6016b3c9db65cf51",
+    "voice": "en-US-JennyNeural"
+  },
   "suits-s01e01-029": {
     "sha1": "eacf6335049d4e14f54f006757afb641f0e16132",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e01-029-v1": {
+    "sha1": "bf52fd2221331849d953cff2d0fd9fa4f1fda68c",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e01-029-v2": {
+    "sha1": "212dd6ffc9d2409ea32f0424a35204b2901007d9",
     "voice": "en-US-AndrewNeural"
   },
   "suits-s01e01-030": {
     "sha1": "984560f9450a1302903344785c09cd98a419cc72",
     "voice": "en-US-JennyNeural"
   },
+  "suits-s01e01-030-v1": {
+    "sha1": "82067fbded65a899091e2135227d7323e65b3d20",
+    "voice": "en-US-JennyNeural"
+  },
+  "suits-s01e01-030-v2": {
+    "sha1": "83450a3d5c2aa2c22a36530f35a284a6707a7d35",
+    "voice": "en-US-JennyNeural"
+  },
   "suits-s01e01-031": {
     "sha1": "9c9f91c11de2bd45abfc2236d617bb020b67da43",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e01-031-v1": {
+    "sha1": "fa11b7a4a5838547922f94e77cac70fe82403b4f",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e01-031-v2": {
+    "sha1": "5e1d981ca1c4068cae442fbb6b0334b493362d04",
     "voice": "en-US-AndrewNeural"
   },
   "suits-s01e01-032": {
     "sha1": "6daa1a2b3e871da876326712a7fbb13bb8f29b44",
     "voice": "en-US-AndrewNeural"
   },
+  "suits-s01e01-032-v1": {
+    "sha1": "960f8ed39b5dd6416417d5a7469404a0947e816f",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e01-032-v2": {
+    "sha1": "1c0b89700f5f3a0e7528f221d9cb9b28bfb7baa8",
+    "voice": "en-US-AndrewNeural"
+  },
   "suits-s01e01-033": {
     "sha1": "122c3e3de69c2e846789e2f07a5414deda35b762",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e01-033-v1": {
+    "sha1": "71ce822ce52cec2cde37db6e61018306a55f229c",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e01-033-v2": {
+    "sha1": "38c3585659136914a7750da635988b738d19ebbb",
     "voice": "en-US-AndrewNeural"
   },
   "suits-s01e01-034": {
     "sha1": "06c629b51abfab79f773a90e3b9ba0d825837bcf",
     "voice": "en-US-AndrewNeural"
   },
+  "suits-s01e01-034-v1": {
+    "sha1": "889bcdd4c8a7e2ece46c97f0bbf286a9b15257eb",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e01-034-v2": {
+    "sha1": "f1a0254dfb2e871808348c2e868773b50ef32c70",
+    "voice": "en-US-AndrewNeural"
+  },
   "suits-s01e01-035": {
     "sha1": "8e708f7f648df0a480fca15c95053b865ec726ba",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e01-035-v1": {
+    "sha1": "8a43682d8032a9d9309d8b2d8bd0de373c8fbd0f",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e01-035-v2": {
+    "sha1": "cbcc501e12ad47093a7cec8b51977f2ac545566e",
     "voice": "en-US-AndrewNeural"
   },
   "suits-s01e01-036": {
     "sha1": "c730ea7a9de3611a0340eabb6d1dfcf28de5a01a",
     "voice": "en-US-AndrewNeural"
   },
+  "suits-s01e01-036-v1": {
+    "sha1": "63ba7921ca26dec7c4c327c4379b16032397822b",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e01-036-v2": {
+    "sha1": "4d1c4ca4aeb38cca6c557cca042f049c299adefe",
+    "voice": "en-US-AndrewNeural"
+  },
   "suits-s01e01-037": {
     "sha1": "b7c083928f8b7671e9ee1d4921af3935b8598640",
+    "voice": "en-US-JennyNeural"
+  },
+  "suits-s01e01-037-v1": {
+    "sha1": "42d187067fdf59c041b318749ef70cbaff4527b5",
+    "voice": "en-US-JennyNeural"
+  },
+  "suits-s01e01-037-v2": {
+    "sha1": "a20cdd4d75025a4d242d94a5beeafa6283608c17",
     "voice": "en-US-JennyNeural"
   },
   "suits-s01e01-038": {
     "sha1": "8ba2dbfe4c7af1d7ca552ae56373bf76669108e9",
     "voice": "en-US-AndrewNeural"
   },
+  "suits-s01e01-038-v1": {
+    "sha1": "0736c40281c6616701ab47e06ea07aa3df4d6577",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e01-038-v2": {
+    "sha1": "e1e2c8da21fb50fa53b085403d79447926d28357",
+    "voice": "en-US-AndrewNeural"
+  },
   "suits-s01e01-039": {
     "sha1": "a90b655f2390cd9aa36976c3ccfe6438435450e5",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e01-039-v1": {
+    "sha1": "63da502066c64c75523f88fb31715f604e4bea3f",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e01-039-v2": {
+    "sha1": "361cbce28cea5f760dcc3688033b8682ae8c3648",
     "voice": "en-US-AndrewNeural"
   },
   "suits-s01e01-040": {
     "sha1": "fe86903cc26374a24bb1889bcf52cff56046d398",
     "voice": "en-US-AndrewNeural"
   },
+  "suits-s01e01-040-v1": {
+    "sha1": "efca5e2ff935245c913d947190db8f59129ec337",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e01-040-v2": {
+    "sha1": "98871d294c5787fa666e4886fa969505a5d8be83",
+    "voice": "en-US-AndrewNeural"
+  },
   "suits-s01e01-041": {
     "sha1": "f717d816c80a2538885460e104133aee82e1e5af",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e01-041-v1": {
+    "sha1": "b46f07f45bdd8f637bf9408b7d3f0bc98d8da60d",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e01-041-v2": {
+    "sha1": "c586d47e92a9c3bb6f04e6735ac6ec045ae7bc93",
     "voice": "en-US-AndrewNeural"
   },
   "suits-s01e01-042": {
     "sha1": "d5a812a09fba46f1b718d5b50beb7b8bf57b70b8",
     "voice": "en-US-AndrewNeural"
   },
+  "suits-s01e01-042-v1": {
+    "sha1": "1dc15db0f24ff6448b2b5fcb2fcff1d1d313845b",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e01-042-v2": {
+    "sha1": "57b862677bbab2db6b0cb35df66b16ae033053f2",
+    "voice": "en-US-AndrewNeural"
+  },
   "suits-s01e01-043": {
     "sha1": "bcb2991ac92ab4a5ef3c20baa24aa5adbcc6c2df",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e01-043-v1": {
+    "sha1": "8c42bf59d055cae0a353e9dc3f426408773756b0",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e01-043-v2": {
+    "sha1": "bdde8c3f35668dd8d447f60b2b3d3131ecaf6fe7",
     "voice": "en-US-AndrewNeural"
   },
   "suits-s01e01-044": {
     "sha1": "a265f2bed73716b940edb4fa2a7b5320662ae988",
     "voice": "en-US-JennyNeural"
   },
+  "suits-s01e01-044-v1": {
+    "sha1": "07c5656d7acec1776de52bd4844077e9885a0188",
+    "voice": "en-US-JennyNeural"
+  },
+  "suits-s01e01-044-v2": {
+    "sha1": "9bcdedeb0139daba777daefacafac09d3da95b71",
+    "voice": "en-US-JennyNeural"
+  },
   "suits-s01e01-045": {
     "sha1": "5d9f9f7d93fb315f23e235cea4dcd1c3391853ad",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e01-045-v1": {
+    "sha1": "313e220f3c6ef6f15d444c373c3d2f58074f30d0",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e01-045-v2": {
+    "sha1": "37f8ab057d8c013ab2bd8edda922620e01432fb4",
     "voice": "en-US-AndrewNeural"
   },
   "suits-s01e01-046": {
     "sha1": "5ef0acb3112d00d3fdafa5a6c78c4978a42c4fe8",
     "voice": "en-US-AndrewNeural"
   },
+  "suits-s01e01-046-v1": {
+    "sha1": "efe9cfaaa8afaafc6617629897da85833e364855",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e01-046-v2": {
+    "sha1": "5c51f6120fc6fe71a3b5f13b1d9c92c92fbbf73f",
+    "voice": "en-US-AndrewNeural"
+  },
   "suits-s01e01-047": {
     "sha1": "5ee0ddc808278289b16352214d45dd31af9b6f96",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e01-047-v1": {
+    "sha1": "f42358ef79b01af0e2c1e89192378bb2b48f06fe",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e01-047-v2": {
+    "sha1": "2b05d12be7ad2b00eb2c87b864ae09666a7a671a",
     "voice": "en-US-AndrewNeural"
   },
   "suits-s01e01-048": {
     "sha1": "8aa9ca4a906f25cce2bd161b14cce3bb051003f4",
     "voice": "en-US-AndrewNeural"
   },
+  "suits-s01e01-048-v1": {
+    "sha1": "3a9315c6860690a100d04d4bf60f3c3a8ad6eadc",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e01-048-v2": {
+    "sha1": "dfd41d4d0b187b58c2627e9f48f1644cf7a107f0",
+    "voice": "en-US-AndrewNeural"
+  },
   "suits-s01e01-049": {
     "sha1": "8cf2ecbb196afdcd454eb1209bcd700b11a69099",
+    "voice": "en-US-JennyNeural"
+  },
+  "suits-s01e01-049-v1": {
+    "sha1": "70ffacc31baca7a13d1c41e526c60caa4a254866",
+    "voice": "en-US-JennyNeural"
+  },
+  "suits-s01e01-049-v2": {
+    "sha1": "0f5def74394fd303580a33a9db9c4b8fb7cb1d9a",
     "voice": "en-US-JennyNeural"
   },
   "suits-s01e01-050": {
     "sha1": "0f2ab02f2420d56959afa92559dce85c49d1c6e3",
     "voice": "en-US-JennyNeural"
   },
+  "suits-s01e01-050-v1": {
+    "sha1": "17a6c19483fc499f4c0469a7ebd023c896d10098",
+    "voice": "en-US-JennyNeural"
+  },
+  "suits-s01e01-050-v2": {
+    "sha1": "e7d52aa223296e1847ecc4076c36778c69f700a6",
+    "voice": "en-US-JennyNeural"
+  },
   "suits-s01e01-051": {
     "sha1": "3a39a2ea764fa38f471829b1149b0817d0df8262",
+    "voice": "en-US-JennyNeural"
+  },
+  "suits-s01e01-051-v1": {
+    "sha1": "8202dcf5f37c91b32d6005f52e761c358fc38d06",
+    "voice": "en-US-JennyNeural"
+  },
+  "suits-s01e01-051-v2": {
+    "sha1": "53e3a4587d641ac9f00d487017e2f98ee0d2c82a",
     "voice": "en-US-JennyNeural"
   },
   "suits-s01e01-052": {
     "sha1": "647063387b425c247b8bafa2957ada1bbcfbcd42",
     "voice": "en-US-AndrewNeural"
   },
+  "suits-s01e01-052-v1": {
+    "sha1": "22f00a4d01a919b7a50e47e99d30986fd2ea0eed",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e01-052-v2": {
+    "sha1": "37e24a847aa242d6257657f40277a136bcbee8fa",
+    "voice": "en-US-AndrewNeural"
+  },
   "suits-s01e01-053": {
     "sha1": "240d03e91a3a1ad4752addbb29bd1f5abd7a14c8",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e01-053-v1": {
+    "sha1": "17692ad76625d3d738173b25f5f1a5ba6cb023cc",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e01-053-v2": {
+    "sha1": "493c10d13858e7de09bc849684f5dc8d6a2ab97a",
     "voice": "en-US-AndrewNeural"
   },
   "suits-s01e01-054": {
     "sha1": "8dba1d83f007ae6570d1dc93befef840e0933ece",
     "voice": "en-US-AndrewNeural"
   },
+  "suits-s01e01-054-v1": {
+    "sha1": "cb7008c90e95379d662b9cc6ea93e2c7dda68c68",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e01-054-v2": {
+    "sha1": "eecc6c7aa7cafb771d12dd4ba62f88e40daabf0f",
+    "voice": "en-US-AndrewNeural"
+  },
   "suits-s01e01-055": {
     "sha1": "b46aed49e7fd0a7839c2f0e904ef60f5aaca17e9",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e01-055-v1": {
+    "sha1": "eb1ea49102aa09df8d76a460b2881c46d2dcccca",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e01-055-v2": {
+    "sha1": "ea55b24b3089e0c50acfa6b757705a9db8cdf387",
     "voice": "en-US-AndrewNeural"
   },
   "suits-s01e01-056": {
     "sha1": "965cfe836bd7403c160a66d836f090d24e9e124e",
     "voice": "en-US-JennyNeural"
   },
+  "suits-s01e01-056-v1": {
+    "sha1": "2d1d4071cb80e7f92facfce3fed892ce1b33ab10",
+    "voice": "en-US-JennyNeural"
+  },
+  "suits-s01e01-056-v2": {
+    "sha1": "9f506489f104d2618e72347706993fa800296172",
+    "voice": "en-US-JennyNeural"
+  },
   "suits-s01e01-057": {
     "sha1": "059b886062b30b9119087945db5faf5de5d3ff21",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e01-057-v1": {
+    "sha1": "0cd0a54bab233666e98dad8a62ed40c33eec325b",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e01-057-v2": {
+    "sha1": "090773534f40cda9da7bd28e934d540be4e0bd7d",
     "voice": "en-US-AndrewNeural"
   },
   "suits-s01e01-058": {
     "sha1": "75a03038c654843b36b8f1080279be39ab2235b9",
     "voice": "en-US-AndrewNeural"
   },
+  "suits-s01e01-058-v1": {
+    "sha1": "c56156a473fa3e6142177822b785398bd112ebb2",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e01-058-v2": {
+    "sha1": "664d18b811541eb3e5cf3d74eae47095c86aa716",
+    "voice": "en-US-AndrewNeural"
+  },
   "suits-s01e02-001": {
     "sha1": "848809435b467436e6dc849b624ff98b0453e4c2",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-001-v1": {
+    "sha1": "7aad050a00926f40ebd2eb693d2ba0085fd51423",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-001-v2": {
+    "sha1": "5288b06c39ff1f422d5a9c1d5b0d4d0f56d6481f",
     "voice": "en-US-AndrewNeural"
   },
   "suits-s01e02-002": {
     "sha1": "09452a38169abd75903702f90c36bbd799679eff",
     "voice": "en-US-AndrewNeural"
   },
+  "suits-s01e02-002-v1": {
+    "sha1": "0dfa4168040ece6d11637337f75d5257f00cd170",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-002-v2": {
+    "sha1": "1de8947459e6e2ce99c98ef0682f388b0d4ae610",
+    "voice": "en-US-AndrewNeural"
+  },
   "suits-s01e02-003": {
     "sha1": "5bb2956f4a7956f4b8343b0617439884b7da6cc4",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-003-v1": {
+    "sha1": "cae3a99b217fe90060cf544710f1f3310e7f4787",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-003-v2": {
+    "sha1": "5c86d9f0613c555980dbe89ca51f6b81ff6d5cd2",
     "voice": "en-US-AndrewNeural"
   },
   "suits-s01e02-004": {
     "sha1": "8ccf1b3c530d7c1526f8f44e5c8cfd14aa2086a4",
     "voice": "en-US-AndrewNeural"
   },
+  "suits-s01e02-004-v1": {
+    "sha1": "714429f99e4db31abdc6492f9df9292b16b72c1e",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-004-v2": {
+    "sha1": "f28f28e9db87b4af2c0e10e789ccfde0f00c0b2e",
+    "voice": "en-US-AndrewNeural"
+  },
   "suits-s01e02-005": {
     "sha1": "0fe3e06d3841edce532275abc018afe257e99642",
+    "voice": "en-US-AriaNeural"
+  },
+  "suits-s01e02-005-v1": {
+    "sha1": "d2533e252c077d04b28391ebba7d60b908cd65d7",
+    "voice": "en-US-AriaNeural"
+  },
+  "suits-s01e02-005-v2": {
+    "sha1": "63b90a2f2a19e3f12d66b959d28dc2afa4993425",
     "voice": "en-US-AriaNeural"
   },
   "suits-s01e02-006": {
     "sha1": "f3a4a814b698e0ab9981bbf794ed827dcae4d15a",
     "voice": "en-US-AndrewNeural"
   },
+  "suits-s01e02-006-v1": {
+    "sha1": "a66c78c5193969ed11772c9a2cdb451d7b5fd798",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-006-v2": {
+    "sha1": "0d3eed8ef9732abacf1b31d4817cfb7ac4a52bd7",
+    "voice": "en-US-AndrewNeural"
+  },
   "suits-s01e02-007": {
     "sha1": "33fcfbd2b82d0d08f61fce167c979550034cd977",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-007-v1": {
+    "sha1": "d1e4609a840a0c2b30d6fcbe904cc02230f806e1",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-007-v2": {
+    "sha1": "76c767117f9a7967491bf4ee26f56f27758c9a28",
     "voice": "en-US-AndrewNeural"
   },
   "suits-s01e02-008": {
     "sha1": "5431ca3b1cc0356275bd7081d6ae24617ea7faa9",
     "voice": "en-US-AndrewNeural"
   },
+  "suits-s01e02-008-v1": {
+    "sha1": "81aeba66770b8fa6e6c4a443e60f47f549bedb1d",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-008-v2": {
+    "sha1": "8ae507befa31932280b52b985ad22dbf65baf623",
+    "voice": "en-US-AndrewNeural"
+  },
   "suits-s01e02-009": {
     "sha1": "40d87fe1c7142d106e302dfaabdf4e7de7255439",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-009-v1": {
+    "sha1": "f54e710d6b6adc814a418fa1272a649722fa4bb7",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-009-v2": {
+    "sha1": "aec20a0bb22d5dd07d04c986c8c0a08d1bd696c4",
     "voice": "en-US-AndrewNeural"
   },
   "suits-s01e02-010": {
     "sha1": "83513854c3f66b84aa641aa33b6cd13a5d0241e5",
     "voice": "en-US-AndrewNeural"
   },
+  "suits-s01e02-010-v1": {
+    "sha1": "f553e777b9e7e33c822a9f1ea6b427b8a203fc85",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-010-v2": {
+    "sha1": "081e76d23b6399629dd2e725523ddcb300582d3b",
+    "voice": "en-US-AndrewNeural"
+  },
   "suits-s01e02-011": {
     "sha1": "ae6d0f27ec6ce41d345d7c3ae13feef5d6527ecd",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-011-v1": {
+    "sha1": "f8f4c1bec9612a44c1830d7f81b930d6eb666751",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-011-v2": {
+    "sha1": "da6ea9350ee7f3909173a1f90ef1bdbc60488c1b",
     "voice": "en-US-AndrewNeural"
   },
   "suits-s01e02-012": {
     "sha1": "c93ef9d07208ae3926b744ea7b72ed3cca0ad1a2",
     "voice": "en-US-AndrewNeural"
   },
+  "suits-s01e02-012-v1": {
+    "sha1": "32a2814127cb380fe6723c6c7c0323cbab358988",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-012-v2": {
+    "sha1": "e036515b920c8fbf919f5da56851948993fe2f4f",
+    "voice": "en-US-AndrewNeural"
+  },
   "suits-s01e02-013": {
     "sha1": "a248ccb89e9e94a2d80782b4f7af8f1648e5a024",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-013-v1": {
+    "sha1": "5b2849df3c1d7b35fca4d3971185cafc33d63c49",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-013-v2": {
+    "sha1": "818affc2f16f137a0ad74784f5461674328889f6",
     "voice": "en-US-AndrewNeural"
   },
   "suits-s01e02-014": {
     "sha1": "c26a3987908beffde07b951b4da11702288233b3",
     "voice": "en-US-AndrewNeural"
   },
+  "suits-s01e02-014-v1": {
+    "sha1": "77013350589a224b6c7056aa8d968a363e30dfcf",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-014-v2": {
+    "sha1": "6d1180e0d0bf5ecf4d7043093f6f0e93a99fb5d1",
+    "voice": "en-US-AndrewNeural"
+  },
   "suits-s01e02-015": {
     "sha1": "342a2abdc63764a9fab8cb99fa1fa8cb2c466ec3",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-015-v1": {
+    "sha1": "d011eb45bc33360d56232b33025acf3b52811332",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-015-v2": {
+    "sha1": "3a2e42cfe6bfc9d88f2e7fec672e926f98aea7f4",
     "voice": "en-US-AndrewNeural"
   },
   "suits-s01e02-016": {
     "sha1": "9363c7089a73257d1f9b84b564f4cb6e6f392236",
     "voice": "en-US-AndrewNeural"
   },
+  "suits-s01e02-016-v1": {
+    "sha1": "87a7fe775ab2c26602290ce232f9e041845ea83a",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-016-v2": {
+    "sha1": "5a7bf877f8899a9480fe4e85593505cf2864a355",
+    "voice": "en-US-AndrewNeural"
+  },
   "suits-s01e02-017": {
     "sha1": "0cecb7ead28fd335f4ff995fe62229de23f02eb4",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-017-v1": {
+    "sha1": "07bc40fa1b928096504899a70b5014b1ae5fe767",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-017-v2": {
+    "sha1": "bb25553033d7e0d9157ae48cd8a4a0dcfe807f01",
     "voice": "en-US-AndrewNeural"
   },
   "suits-s01e02-018": {
     "sha1": "c7235b1803b61de274d1b587dca70ee93f5eef4f",
     "voice": "en-US-AndrewNeural"
   },
+  "suits-s01e02-018-v1": {
+    "sha1": "6be63e4515a317b3005d11444c5a30487bd68654",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-018-v2": {
+    "sha1": "9bfe9915ee0e6aea451b9b1c9dea01a599900345",
+    "voice": "en-US-AndrewNeural"
+  },
   "suits-s01e02-019": {
     "sha1": "abbf8d085f878bda8d07720880046dd9cf7fe9f9",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-019-v1": {
+    "sha1": "f8ee6be91199a792ff2d1ece7f065f4a010125bd",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-019-v2": {
+    "sha1": "70ce7ff938a40dfcc8f4114bec711b9854a0659f",
     "voice": "en-US-AndrewNeural"
   },
   "suits-s01e02-020": {
     "sha1": "7639b835acb29993a646bfd6773017046d14b676",
     "voice": "en-US-AndrewNeural"
   },
+  "suits-s01e02-020-v1": {
+    "sha1": "f9776c78a71fff107d85c222f263c8ff2b854e27",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-020-v2": {
+    "sha1": "0d3ea4b15a6bde9b8c30934e7e6c45aedbc4a593",
+    "voice": "en-US-AndrewNeural"
+  },
   "suits-s01e02-021": {
     "sha1": "1cbc0ec65bc03e220b5fce815f11c6f8f8406081",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-021-v1": {
+    "sha1": "98a2f7afea588019bc738afbaa97713d59c2d8dd",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-021-v2": {
+    "sha1": "05c047e775fbc84444ee8c3c0caaa5d01e04b186",
     "voice": "en-US-AndrewNeural"
   },
   "suits-s01e02-022": {
     "sha1": "53bc499528631e9b2338d7ce3ab138e0b1c397b8",
     "voice": "en-US-AndrewNeural"
   },
+  "suits-s01e02-022-v1": {
+    "sha1": "149b3ec4c2718042050a2838f9ee733a25687718",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-022-v2": {
+    "sha1": "3d2bf3db015a1aed64fb3b75df37935b273524b4",
+    "voice": "en-US-AndrewNeural"
+  },
   "suits-s01e02-023": {
     "sha1": "0b985b569d31900d26b096f906052ea5760f01f9",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-023-v1": {
+    "sha1": "f520073c36787c4d36ebb2ab4a1fdc18cba128f6",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-023-v2": {
+    "sha1": "a6a31312ea74c3f2b29b86c4f328d18d5b583464",
     "voice": "en-US-AndrewNeural"
   },
   "suits-s01e02-024": {
     "sha1": "37cd8c7ccf6c0b12f9688a5d2579966784a2ea8d",
     "voice": "en-US-AndrewNeural"
   },
+  "suits-s01e02-024-v1": {
+    "sha1": "a35eea88b4682828b975890972a0bf91dce9277d",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-024-v2": {
+    "sha1": "8862ffbdf17828b4567438b6f55fddc83bdebc9d",
+    "voice": "en-US-AndrewNeural"
+  },
   "suits-s01e02-025": {
     "sha1": "c2ee3a8a0f256659f48da0487408a927672cfb14",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-025-v1": {
+    "sha1": "446c4a0771e749bd5cea534c0a69bfcd33c6b559",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-025-v2": {
+    "sha1": "b9512f56f7b15ee1c00abf04e984e8f005539735",
     "voice": "en-US-AndrewNeural"
   },
   "suits-s01e02-026": {
     "sha1": "14af2df6b9696233a96917c4806cd263fa112872",
     "voice": "en-US-AndrewNeural"
   },
+  "suits-s01e02-026-v1": {
+    "sha1": "9e271852237d0002331a4a7d951d4996f3ee5ede",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-026-v2": {
+    "sha1": "ba7e59f735c8abcc04fa91b59f33974d2b33a9f4",
+    "voice": "en-US-AndrewNeural"
+  },
   "suits-s01e02-027": {
     "sha1": "7fc04272a9fdf85b404bc8f533c0d41b8f8c0a19",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-027-v1": {
+    "sha1": "bd764d29c4c80342a92a184a1e18661f414ea0b5",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-027-v2": {
+    "sha1": "2a624addbb246f98657a7a83d4af7400b1f3ca23",
     "voice": "en-US-AndrewNeural"
   },
   "suits-s01e02-028": {
     "sha1": "e598edc9c4ce37fa125da59b93d88f8aad7909b1",
     "voice": "en-US-AndrewNeural"
   },
+  "suits-s01e02-028-v1": {
+    "sha1": "44f2642a154941fb1e9ac20bdb6734fa785cbe5c",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-028-v2": {
+    "sha1": "10d539d1b341206eeaf741e98d0c913e5c77f12e",
+    "voice": "en-US-AndrewNeural"
+  },
   "suits-s01e02-029": {
     "sha1": "34fc04b24130f8930e20be88acc4bc4a386b8707",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-029-v1": {
+    "sha1": "4b46b52668df4846c09121943e0f0c585fd3dce8",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-029-v2": {
+    "sha1": "cc3bab700fa93d8a11fed9e21f0346cce475717f",
     "voice": "en-US-AndrewNeural"
   },
   "suits-s01e02-030": {
     "sha1": "44d885e77dcfbc01c058879195fb1ec12fdceb2a",
     "voice": "en-US-AndrewNeural"
   },
+  "suits-s01e02-030-v1": {
+    "sha1": "6c6036efd32a5529cb4216d250bbc7222859b9c9",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-030-v2": {
+    "sha1": "4d78d3030a051873b9ef2b0fb51aef87776b633a",
+    "voice": "en-US-AndrewNeural"
+  },
   "suits-s01e02-031": {
     "sha1": "e76e1c4e72cfde98d71233e02776d25549f2c027",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-031-v1": {
+    "sha1": "c73ea8701c660dffd811bf67395542891344e58e",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-031-v2": {
+    "sha1": "bc7a584ec85bf0facc5e536d3bde05f998b0ef23",
     "voice": "en-US-AndrewNeural"
   },
   "suits-s01e02-032": {
     "sha1": "3b6ead4efa3daed2c0b41b7c09af9f9a00f94018",
     "voice": "en-US-AndrewNeural"
   },
+  "suits-s01e02-032-v1": {
+    "sha1": "5ea236bf35d0f47c585e1a703bfe8da387839a75",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-032-v2": {
+    "sha1": "1fd4307cb688da9657c6cb054ee5d0e9ecbbefd4",
+    "voice": "en-US-AndrewNeural"
+  },
   "suits-s01e02-033": {
     "sha1": "e56a48c0f7e32bc6ca99e6619ca4e03151f7eab4",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-033-v1": {
+    "sha1": "8eac0a48a638e79d3ea5d3bf752dafa745ee3a73",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-033-v2": {
+    "sha1": "c907cf0b49fe04270ee9e3a39331c298733d2c72",
     "voice": "en-US-AndrewNeural"
   },
   "suits-s01e02-034": {
     "sha1": "59dec330bfb915637e4f31639fac1a28215cde41",
     "voice": "en-US-AndrewNeural"
   },
+  "suits-s01e02-034-v1": {
+    "sha1": "4fe809757241ff46a62bc182d3cf859c2629e3d8",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-034-v2": {
+    "sha1": "c7c69319584e9c929d3e8cc9ba51ebb8fad854db",
+    "voice": "en-US-AndrewNeural"
+  },
   "suits-s01e02-035": {
     "sha1": "f94a13c109748915dc1c2df2f1fbaf9bfcfc6b4f",
+    "voice": "en-US-AriaNeural"
+  },
+  "suits-s01e02-035-v1": {
+    "sha1": "4c95fca2c6e3386e611c6d19e69013f80a94357e",
+    "voice": "en-US-AriaNeural"
+  },
+  "suits-s01e02-035-v2": {
+    "sha1": "03b6b4bcccc729306c536bec4db29db00b32e6ed",
     "voice": "en-US-AriaNeural"
   },
   "suits-s01e02-036": {
     "sha1": "3fd12dc280c64ddba5a9703f88ec1720ba08e7f5",
     "voice": "en-US-AriaNeural"
   },
+  "suits-s01e02-036-v1": {
+    "sha1": "55800a1d7afbbc97bd32cc45ebbfb23d9db01ed5",
+    "voice": "en-US-AriaNeural"
+  },
+  "suits-s01e02-036-v2": {
+    "sha1": "9a3a783468e779bbc09d5e342667f2702947e31e",
+    "voice": "en-US-AriaNeural"
+  },
   "suits-s01e02-037": {
     "sha1": "a35c43926eb6410034a29298cb51433895f21a0c",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-037-v1": {
+    "sha1": "a7c4ea18ec25fef68a988322bd48f21a37c39838",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-037-v2": {
+    "sha1": "ea7e682666847aa8326000a7dc6cf95a97e5516d",
     "voice": "en-US-AndrewNeural"
   },
   "suits-s01e02-038": {
     "sha1": "81285e9e7f6085f7c565d500d35189e5620226d9",
     "voice": "en-US-AndrewNeural"
   },
+  "suits-s01e02-038-v1": {
+    "sha1": "805ff02de3b28e71b7ef0f0ae6aeec7af5348ddc",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-038-v2": {
+    "sha1": "97e04d15adc1717bfd730a8158dee163719d9ae0",
+    "voice": "en-US-AndrewNeural"
+  },
   "suits-s01e02-039": {
     "sha1": "dd21245a2c90756382c3491a264cf42a38f29495",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-039-v1": {
+    "sha1": "e44029b2a72a008201a6f82d2fae53064ef1dc14",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-039-v2": {
+    "sha1": "20871abfad668e4631d5cc6eaf0df24a3f9c67aa",
     "voice": "en-US-AndrewNeural"
   },
   "suits-s01e02-040": {
     "sha1": "6bba354ce2e2b39e1e4cdd52f3c71ad70711e8b3",
     "voice": "en-US-AndrewNeural"
   },
+  "suits-s01e02-040-v1": {
+    "sha1": "b76fd700cb321999024b1097a5b8bf0cd6b0cf30",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-040-v2": {
+    "sha1": "95e71fcfcbcdab6566582820b8c8e678e295d661",
+    "voice": "en-US-AndrewNeural"
+  },
   "suits-s01e02-041": {
     "sha1": "2a9e3f72c66fd77e5ceb5154c09ccb7f5a1deb20",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-041-v1": {
+    "sha1": "1c292dba6c75db35551bde6833e5d034c7645eea",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-041-v2": {
+    "sha1": "ca35b5b300c174499c549af8096099c61bd1e21e",
     "voice": "en-US-AndrewNeural"
   },
   "suits-s01e02-042": {
     "sha1": "0fb653172ad45a783d81ef2e4fcf44e629c502ec",
     "voice": "en-US-AndrewNeural"
   },
+  "suits-s01e02-042-v1": {
+    "sha1": "0ad76daa8fce735d79f8272371a5f6e932c54dcb",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-042-v2": {
+    "sha1": "01ffcd6dce827a9266b6271fb9cf768b3c24df62",
+    "voice": "en-US-AndrewNeural"
+  },
   "suits-s01e02-043": {
     "sha1": "0c5a8f3976f3901535469e67194dfb2953d8c810",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-043-v1": {
+    "sha1": "3fb880c843ebe94ed56fe3d1917a1d32bc81f857",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-043-v2": {
+    "sha1": "ea5dc734610e05ea5ae70838bcb9a976bd921c92",
     "voice": "en-US-AndrewNeural"
   },
   "suits-s01e02-044": {
     "sha1": "3fdf42398ccc949d96e418ad7c3274211a00e3ad",
     "voice": "en-US-AndrewNeural"
   },
+  "suits-s01e02-044-v1": {
+    "sha1": "01df4e4f5671c4bbd5f00f31e45c4e0aa4590386",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-044-v2": {
+    "sha1": "2abeaaa1bad0ec638b3ee2173ffea2e0eb85095e",
+    "voice": "en-US-AndrewNeural"
+  },
   "suits-s01e02-045": {
     "sha1": "245e1bf0f9efccf8869f2578f1ae615c7a6a0626",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-045-v1": {
+    "sha1": "9724557d33c0f380494881de6b944eea522282f2",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-045-v2": {
+    "sha1": "f1b83eeb8f0035792983c63f65aa5727e4b500b1",
     "voice": "en-US-AndrewNeural"
   },
   "suits-s01e02-046": {
     "sha1": "12f2345f3b6d7ec9b6f2224d55cb6701cde3695c",
     "voice": "en-US-AndrewNeural"
   },
+  "suits-s01e02-046-v1": {
+    "sha1": "6dbc0e8e050eb69a889386ca2e19c320fd8bae62",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-046-v2": {
+    "sha1": "79106e8bee1f4e58b513a4cf95d086d2864e1eb8",
+    "voice": "en-US-AndrewNeural"
+  },
   "suits-s01e02-047": {
     "sha1": "ec96aae0c795cbc6d7e2b828c3074c216e562ebe",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-047-v1": {
+    "sha1": "8d6450b004eede1592edaab3dc936e9a6330dfac",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-047-v2": {
+    "sha1": "991212ac4b9e6c735662fed14f2165f5e1b64a7a",
     "voice": "en-US-AndrewNeural"
   },
   "suits-s01e02-048": {
     "sha1": "427681076f3fcb7ae7da675133c04d5620e84371",
     "voice": "en-US-AndrewNeural"
   },
+  "suits-s01e02-048-v1": {
+    "sha1": "3f7aacc1d132605fbdc6e2f598937126d7f6585c",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-048-v2": {
+    "sha1": "f2ebc23f584ff436c6ccac3a6e0480cdddef77c1",
+    "voice": "en-US-AndrewNeural"
+  },
   "suits-s01e02-049": {
     "sha1": "ec63b4982becf77b640d09545eec7d61c7184416",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-049-v1": {
+    "sha1": "cb08844581d0c17accd73d671791099a59ee660c",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-049-v2": {
+    "sha1": "1c1aad18663d6859783e7f29ed81b7a367e24e84",
     "voice": "en-US-AndrewNeural"
   },
   "suits-s01e02-050": {
     "sha1": "1f2e3b3679b409332f2905f5a41aa8ff3c2b6f62",
     "voice": "en-US-JennyNeural"
   },
+  "suits-s01e02-050-v1": {
+    "sha1": "23d6f8c827eb4c3a89488c345108aad0cebd2ad5",
+    "voice": "en-US-JennyNeural"
+  },
+  "suits-s01e02-050-v2": {
+    "sha1": "b8972002f62249bde9816c3f89dbe6ee0a17a255",
+    "voice": "en-US-JennyNeural"
+  },
   "suits-s01e02-051": {
     "sha1": "085a0c3678500ae294a02dec3e365ddb975aea21",
+    "voice": "en-US-JennyNeural"
+  },
+  "suits-s01e02-051-v1": {
+    "sha1": "27bfa7ab253b2422508023133302810f3b43df5c",
+    "voice": "en-US-JennyNeural"
+  },
+  "suits-s01e02-051-v2": {
+    "sha1": "e006dc79e268675520f0fc9c1e844c8102c9d1bf",
     "voice": "en-US-JennyNeural"
   },
   "suits-s01e02-052": {
     "sha1": "2baba5697c4db6d0d044b30d50f139def3442552",
     "voice": "en-US-AndrewNeural"
   },
+  "suits-s01e02-052-v1": {
+    "sha1": "278b1c6757df5bc62e69b0428377ef6310907413",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-052-v2": {
+    "sha1": "d0630e51519884675aeb4a210d1ebb48b3f07b95",
+    "voice": "en-US-AndrewNeural"
+  },
   "suits-s01e02-053": {
     "sha1": "872417a7df7f41138b7de754822a50b3f5f1061a",
+    "voice": "en-US-AriaNeural"
+  },
+  "suits-s01e02-053-v1": {
+    "sha1": "d7eb7226da918da4af4f7532cf780fedf784754f",
+    "voice": "en-US-AriaNeural"
+  },
+  "suits-s01e02-053-v2": {
+    "sha1": "2c08f88d99273bf67728a4bf831695da2b8f8197",
     "voice": "en-US-AriaNeural"
   },
   "suits-s01e02-054": {
     "sha1": "746f8348c9f24420d52e48bc483b57bd26815d2f",
     "voice": "en-US-AndrewNeural"
   },
+  "suits-s01e02-054-v1": {
+    "sha1": "64e5ca1d07ed259bd0c6b02ba7ecfb1c9dc615df",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-054-v2": {
+    "sha1": "2d734405d553a247bf079cee936e68e16695fcf1",
+    "voice": "en-US-AndrewNeural"
+  },
   "suits-s01e02-055": {
     "sha1": "a2b87229fe93be2f0a58848929b2304783ae0355",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-055-v1": {
+    "sha1": "6bb5128f0ece5663af1cc616d2460e6958d9de99",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-055-v2": {
+    "sha1": "6e0f3a0e6cab7bdff80bdc71631724bbd2c2f5f5",
     "voice": "en-US-AndrewNeural"
   },
   "suits-s01e02-056": {
     "sha1": "0eda1974c3773bcc7921d7b957038edb829e2523",
     "voice": "en-US-AndrewNeural"
   },
+  "suits-s01e02-056-v1": {
+    "sha1": "e1459aaa7f27058378720993ef6f7fb21a880163",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-056-v2": {
+    "sha1": "8cd164ae618e41131d52dc07dbe9a5b9add1a7d0",
+    "voice": "en-US-AndrewNeural"
+  },
   "suits-s01e02-057": {
     "sha1": "0a25a1cfd8894f5d6f0b8d9f88ed81a49f7ae990",
     "voice": "en-US-AndrewNeural"
   },
+  "suits-s01e02-057-v1": {
+    "sha1": "9904a78cc5030f81c5e610db1e7ffadf0a564a78",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-057-v2": {
+    "sha1": "fe5a032f515c30bd649c61444e5a54810134c85a",
+    "voice": "en-US-AndrewNeural"
+  },
   "suits-s01e02-058": {
     "sha1": "204dabb188fbd7e62c63ecc5c8f796b4a396c395",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-058-v1": {
+    "sha1": "ad02802956d42675f7c058842932f3901662fef7",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-058-v2": {
+    "sha1": "d219104647921333b9c4624b46a7054017f4b7b3",
     "voice": "en-US-AndrewNeural"
   }
 }
