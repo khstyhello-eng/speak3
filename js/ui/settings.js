@@ -42,7 +42,9 @@ export function renderSettings(el, ctx) {
   };
   el.querySelector('#sync-now').onclick = () => autoSync(ctx);
   el.querySelector('#new-per-day').onchange = (e) => {
-    ctx.state.settings.newPerDay = Math.max(1, Number(e.target.value) || 5);
+    const clamped = Math.min(50, Math.max(1, Number(e.target.value) || 5));
+    ctx.state.settings.newPerDay = clamped;
+    e.target.value = String(clamped);
     ctx.save();
   };
   el.querySelector('#export').onclick = () => {

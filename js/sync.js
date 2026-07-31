@@ -26,10 +26,15 @@ function headers(token) {
 }
 
 export async function findGist(token) {
-  const res = await fetch(`${API}/gists?per_page=100`, { headers: headers(token) });
-  if (!res.ok) throw new Error('gist 목록 조회 실패: ' + res.status);
-  const gists = await res.json();
-  return gists.find((g) => g.files && g.files[GIST_FILE])?.id || null;
+  for (let page = 1; page <= 10; page++) {
+    const res = await fetch(`${API}/gists?per_page=100&page=${page}`, { headers: headers(token) });
+    if (!res.ok) throw new Error('gist 목록 조회 실패: ' + res.status);
+    const batch = await res.json();
+    const found = batch.find((g) => g.files && g.files[GIST_FILE]);
+    if (found) return found.id;
+    if (batch.length < 100) break;
+  }
+  return null;
 }
 
 export async function createGist(token, state) {
@@ -54,9 +59,12 @@ function setStatus(text) {
   if (n) n.textContent = text;
 }
 
+let syncing = false;
 export async function autoSync(ctx) {
   const { token, gistId } = loadDevice();
   if (!token || !gistId) { setStatus(''); return; }
+  if (syncing) return;
+  syncing = true;
   setStatus('동기화 중…');
   try {
     const remote = await pull(token, gistId);
@@ -67,6 +75,8 @@ export async function autoSync(ctx) {
     setStatus('☁️ 동기화됨');
   } catch (e) {
     setStatus('⚠️ 오프라인 (로컬 저장됨)');
+  } finally {
+    syncing = false;
   }
 }
 
