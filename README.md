@@ -5,7 +5,7 @@
 
 ## 사용법
 
-- 배포 주소: (Task 10에서 GitHub Pages URL 기입)
+- 배포 주소: https://khstyhello-eng.github.io/speak3/
 - 로컬 실행: `python3 -m http.server 8000` → http://localhost:8000 (마이크 권한 때문에 file:// 로는 열지 말 것)
 - 테스트: `npm test`
 
