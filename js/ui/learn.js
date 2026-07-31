@@ -20,6 +20,9 @@ export function renderLearn(el, ctx) {
       <div class="row"><a class="btn" href="#browser">문장 브라우저</a></div></section>`;
     return;
   }
+  // 커스텀(직접추가) 문장을 먼저 학습하도록 안정 정렬: curated=false가 앞으로,
+  // curated 여부가 같은 항목끼리는 기존 순서를 그대로 유지한다.
+  candidates.sort((a, b) => (a.curated === b.curated) ? 0 : (a.curated ? 1 : -1));
   showCard(el, ctx, candidates[0], remaining);
 }
 

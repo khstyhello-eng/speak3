@@ -10,8 +10,14 @@ const REC_FAILS_TO_SELF_ASSESS = 3;
 // runRecognition은 진입 시점 값을 캡처해 await 이후·onSpeechStart 안에서 비교한다.
 let generation = 0;
 
+// 마이크 권한 거부(not-allowed)/서비스 차단(service-not-allowed) 등 세션 내내 반복될
+// 수밖에 없는 오류를 만나면 이번 드릴 세션 동안만 자기평가로 폴백한다. record.selfAssess와
+// 달리 저장되지 않으며, renderDrill(드릴 화면 재진입)마다 초기화된다.
+let sessionSelfAssess = false;
+
 export function renderDrill(el, ctx) {
   generation += 1;
+  sessionSelfAssess = false;
   const queue = buildQueue(ctx);
   if (!queue.length) {
     el.innerHTML = `<section class="card"><p class="big">오늘 발화할 문장이 없어요 🎉</p><div class="row"><a class="btn" href="#learn">새 문장 학습하기</a></div></section>`;
@@ -43,7 +49,7 @@ function runItem(el, ctx, queue, i) {
   const id = queue[i];
   const record = ctx.state.records[id];
   const sentence = ctx.content.sentenceById[id];
-  if (record.selfAssess || !support.recognition) runSelfAssess(el, ctx, queue, i, sentence, record);
+  if (record.selfAssess || sessionSelfAssess || !support.recognition) runSelfAssess(el, ctx, queue, i, sentence, record);
   else runRecognition(el, ctx, queue, i, sentence, record);
 }
 
@@ -83,6 +89,14 @@ async function runRecognition(el, ctx, queue, i, sentence, record) {
   if (myGen !== generation) return; // 화면 이탈 후 재진입 — 이 recognizeOnce는 더 이상 유효하지 않음
   if (!el.querySelector('#mic-status')) return; // 화면 이탈
   if (result.error && result.error !== 'no-speech') {
+    if (result.error === 'not-allowed' || result.error === 'service-not-allowed') {
+      // 마이크 권한 거부/서비스 차단은 재시도해도 다시 반복될 뿐인 영구적 오류이므로
+      // record.recFails를 늘리거나 record.selfAssess를 영구 저장하지 않고, 이번 세션에
+      // 한해서만 즉시 자기평가로 전환한다.
+      sessionSelfAssess = true;
+      runSelfAssess(el, ctx, queue, i, sentence, record);
+      return;
+    }
     record.recFails += 1;
     record.updatedAt = ctx.nowIso();
     if (record.recFails >= REC_FAILS_TO_SELF_ASSESS) {

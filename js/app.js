@@ -41,7 +41,10 @@ async function boot() {
   ctx.refreshContent();
   window.addEventListener('hashchange', render);
   render();
-  autoSync(ctx).then(() => render()).catch(() => {});
+  autoSync(ctx).then(() => {
+    const route = (location.hash || '#home').slice(1);
+    if (route !== 'drill') render();
+  }).catch(() => {});
 }
 
 boot();

@@ -25,6 +25,13 @@ export function renderSettings(el, ctx) {
       <button id="export" class="ghost">내보내기 (JSON)</button>
       <label class="btn ghost">가져오기<input id="import" type="file" accept=".json" hidden></label>
     </div>
+  </section>
+  <section class="card">
+    <p class="big">음성인식 복구</p>
+    <p class="sub" style="margin:8px 0">자기평가로 전환된 문장을 음성인식 모드로 되돌립니다</p>
+    <div class="row">
+      <button id="reset-selfassess" class="ghost">음성인식 다시 시도</button>
+    </div>
   </section>`;
 
   el.querySelector('#connect').onclick = async () => {
@@ -61,5 +68,18 @@ export function renderSettings(el, ctx) {
       ctx.refreshContent();
       alert('가져오기 완료');
     } catch (err) { alert('가져오기 실패: ' + err.message); }
+  };
+  el.querySelector('#reset-selfassess').onclick = () => {
+    let count = 0;
+    for (const record of Object.values(ctx.state.records)) {
+      if (record.selfAssess) {
+        record.selfAssess = false;
+        record.recFails = 0;
+        record.updatedAt = ctx.nowIso();
+        count += 1;
+      }
+    }
+    ctx.save();
+    alert(`${count}개 문장을 음성인식 모드로 되돌렸어요`);
   };
 }
