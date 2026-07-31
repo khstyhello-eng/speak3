@@ -1,0 +1,875 @@
+{
+  "id": "drama-suits-s01e02",
+  "sectionId": "drama",
+  "title": "Suits S1E2 — Errors and Omissions",
+  "sentences": [
+    {
+      "id": "suits-s01e02-001",
+      "en": "All you've got to do is walk in there, show them how the phone works.",
+      "ko": "들어가서 이 전화기가 어떻게 작동하는지만 보여 주면 됩니다.",
+      "note": "All you've got to do is...는 상대의 부담을 덜어 주며 할 일을 한 가지로 압축하는 표현. 긴장한 사람을 안심시킬 때 특히 잘 통한다.",
+      "contextBefore": "Storm troopers don't write checks.",
+      "contextAfter": "Right.",
+      "situationCue": "발표를 앞두고 잔뜩 긴장한 동료에게, 할 일은 이것뿐이라고 안심시킨다면?",
+      "speaker": "Harvey",
+      "tags": [
+        "설득",
+        "조언"
+      ],
+      "curated": true
+    },
+    {
+      "id": "suits-s01e02-002",
+      "en": "Figure it out.",
+      "ko": "알아서 방법을 찾아요.",
+      "note": "방법을 묻는 사람에게 스스로 해결하라고 돌려보내는 짧은 지시. 냉정하게 들릴 수 있으니 상하 관계와 톤을 반드시 계산해야 한다.",
+      "contextBefore": "A patent? I don't know how to file a patent.",
+      "contextAfter": "Can't we do that after No.",
+      "situationCue": "해 본 적 없다며 난감해하는 후배에게, 스스로 방법을 찾으라고 자를 때?",
+      "speaker": "Harvey",
+      "tags": [
+        "지시",
+        "압박"
+      ],
+      "curated": true
+    },
+    {
+      "id": "suits-s01e02-003",
+      "en": "And you keep talking, I'm going to start billing you.",
+      "ko": "계속 말 늘리시면 시간당 요금 매기기 시작합니다.",
+      "note": "'계속 그러면 이렇게 된다'는 조건부 농담 섞인 압박. bill someone은 '비용을 청구하다'로, 전문직 업무 대화의 핵심 동사다.",
+      "contextBefore": "Can't we do that after No.",
+      "contextAfter": "And my time runs $1,000 an hour.",
+      "situationCue": "말이 길어지는 상대를 농담처럼 끊으면서도 분명히 제지한다면?",
+      "speaker": "Harvey",
+      "tags": [
+        "압박",
+        "거절"
+      ],
+      "curated": true
+    },
+    {
+      "id": "suits-s01e02-004",
+      "en": "I stand corrected.",
+      "ko": "제가 틀렸네요, 정정하겠습니다.",
+      "note": "상대의 지적이 맞았음을 격식 있게 인정하는 세 단어. 회의에서 자기 오류를 깔끔하게 인정할 때 품위가 살아난다.",
+      "contextBefore": "\"But isn't this our time, Mr.",
+      "contextAfter": "Your Fast Times at Ridgemont High quote, that proves you belong at the adult table.",
+      "situationCue": "상대의 반박이 옳았을 때, 구차하지 않게 인정하고 넘어간다면?",
+      "speaker": "Harvey",
+      "tags": [
+        "사과",
+        "반박"
+      ],
+      "curated": true
+    },
+    {
+      "id": "suits-s01e02-005",
+      "en": "Which means the next time you negotiate a deal, I would suggest you get your facts straight.",
+      "ko": "그러니까 다음에 뭔가 합의할 때는 사실관계부터 제대로 확인하시는 게 좋겠어요.",
+      "note": "get your facts straight는 '사실관계를 정확히 파악하다'. I would suggest you + 동사원형은 정중하지만 아프게 꽂히는 충고 형식이다.",
+      "contextBefore": "Plus all this.",
+      "contextAfter": "Ugh! I am a sucker.",
+      "situationCue": "제대로 알아보지 않고 합의했다가 손해 본 사람에게 한마디 조언한다면?",
+      "speaker": "Donna",
+      "tags": [
+        "조언",
+        "협상"
+      ],
+      "curated": true
+    },
+    {
+      "id": "suits-s01e02-006",
+      "en": "The fact that you don't know already concerns me.",
+      "ko": "그걸 모른다는 것 자체가 걱정스럽네요.",
+      "note": "The fact that... concerns me는 상대의 태도나 무지를 직접 비난하지 않고 문제 삼는 고급 압박. 평가·피드백 자리에서 매우 유용하다.",
+      "contextBefore": "That belongs to Okay.",
+      "contextAfter": "Oh, you mean the patent thing? The patent thing is the only piece of paper that's holding up our deal from yesterday.",
+      "situationCue": "당연히 알고 있어야 할 걸 모르는 상대에게, 그 사실 자체를 문제 삼는다면?",
+      "speaker": "Harvey",
+      "tags": [
+        "압박",
+        "반박"
+      ],
+      "curated": true
+    },
+    {
+      "id": "suits-s01e02-007",
+      "en": "A deal's a deal.",
+      "ko": "약속은 약속이죠.",
+      "note": "합의한 조건을 그대로 지키라고 못 박는 관용 표현. 상대가 사정을 봐 달라고 할 때 단호하게 거절하는 근거가 된다.",
+      "contextBefore": "Sorry, Golden Boy.",
+      "contextAfter": "What do you think you're doing? Uh, I'm proofing briefs.",
+      "situationCue": "사정이 생겼으니 봐 달라는 상대에게, 합의는 합의라고 자를 때?",
+      "speaker": "Gregory",
+      "tags": [
+        "거절",
+        "협상"
+      ],
+      "curated": true
+    },
+    {
+      "id": "suits-s01e02-008",
+      "en": "Look, Mike, I know I can come across a bit prickly.",
+      "ko": "내가 좀 까칠하게 보인다는 거 나도 알아요.",
+      "note": "come across (as)는 '~하게 비치다·보이다'. 자기 이미지를 먼저 인정하고 시작하면 상대의 경계가 풀린다.",
+      "contextBefore": "But you see, Mike, that's why you come to see me.",
+      "contextAfter": "But we're a team here.",
+      "situationCue": "평소 인상이 사납다는 걸 스스로 인정하며 관계를 풀어 보려 한다면?",
+      "speaker": "Louis",
+      "tags": [
+        "설득",
+        "스몰토크"
+      ],
+      "curated": true
+    },
+    {
+      "id": "suits-s01e02-009",
+      "en": "Um, out of the 50 associates that are under my purview, not one of them would have caught that.",
+      "ko": "제 관할에 있는 어소시에이트 50명 중에 그걸 잡아낼 사람은 하나도 없었을 겁니다.",
+      "note": "under my purview(내 관할·소관)는 조직 내 권한을 말하는 격식 표현. not one of them would have p.p.로 칭찬의 강도를 극대화한다.",
+      "contextBefore": "Millions.",
+      "contextAfter": "You just have this eye for detail, Mike.",
+      "situationCue": "상대의 성과가 얼마나 예외적인지 비교를 들어 칭찬한다면?",
+      "speaker": "Louis",
+      "tags": [
+        "설득",
+        "스몰토크"
+      ],
+      "curated": true
+    },
+    {
+      "id": "suits-s01e02-010",
+      "en": "I know I just posed that as a question, but I really didn't mean it that way.",
+      "ko": "방금 질문처럼 말하긴 했는데, 사실 물어본 게 아니에요.",
+      "note": "겉으로는 제안, 실제로는 지시임을 밝히는 전형적인 완곡 압박. pose something as a question(질문 형식으로 던지다)이 핵심이다.",
+      "contextBefore": "m.",
+      "contextAfter": "Hey.",
+      "situationCue": "부탁처럼 말했지만 사실은 거절할 수 없는 지시라는 걸 알릴 때?",
+      "speaker": "Louis",
+      "tags": [
+        "압박",
+        "지시"
+      ],
+      "curated": true
+    },
+    {
+      "id": "suits-s01e02-011",
+      "en": "No, someone beat you to it.",
+      "ko": "아니, 자네가 당한 거지.",
+      "note": "beat someone to it은 '먼저 해 버리다·선수 치다'. us를 you로 바꿔 말하며 책임 소재를 정확히 상대에게 돌리는 한 방이다.",
+      "contextBefore": "Wait.",
+      "contextAfter": "They filed less than 24 hours ago, which means you filed a day later than you said you would.",
+      "situationCue": "'우리가 밀린 거냐'는 물음에, 밀린 건 너라고 책임을 분명히 할 때?",
+      "speaker": "Harvey",
+      "tags": [
+        "반박",
+        "압박"
+      ],
+      "curated": true
+    },
+    {
+      "id": "suits-s01e02-012",
+      "en": "They filed less than 24 hours ago, which means you filed a day later than you said you would.",
+      "ko": "저쪽은 24시간도 안 됐어요. 결국 자네는 말한 날보다 하루 늦게 접수했다는 뜻이죠.",
+      "note": "which means로 사실에서 결론을 끌어내는 추궁 방식. later than you said you would(말한 것보다 늦게)는 약속 위반을 지적하는 정확한 표현이다.",
+      "contextBefore": "What do you mean? Somebody beat us to it? No, someone beat you to it.",
+      "contextAfter": "I tried to tell you that I didn't know how to do that.",
+      "situationCue": "일정 지연의 책임을 감정이 아니라 사실 계산으로 짚어 낼 때?",
+      "speaker": "Harvey",
+      "tags": [
+        "압박",
+        "반박"
+      ],
+      "curated": true
+    },
+    {
+      "id": "suits-s01e02-013",
+      "en": "After you lied and said you'd already followed through.",
+      "ko": "게다가 이미 처리했다고 거짓말까지 했잖아요.",
+      "note": "follow through는 '끝까지 처리하다'. 실수보다 은폐가 더 큰 문제라는 점을 짚는 문장으로, 업무 신뢰를 말할 때 핵심 표현이다.",
+      "contextBefore": "And I did and it got filed.",
+      "contextAfter": "Okay.",
+      "situationCue": "일을 못 한 것보다 했다고 둘러댄 걸 더 문제 삼을 때?",
+      "speaker": "Harvey",
+      "tags": [
+        "갈등",
+        "압박"
+      ],
+      "curated": true
+    },
+    {
+      "id": "suits-s01e02-014",
+      "en": "I suggest you get on the phone, call the patent office, and find out who beat us to it.",
+      "ko": "전화 붙잡고 특허청에 연락해서 누가 먼저 냈는지 알아내요.",
+      "note": "I suggest you + 동사원형은 형식만 제안이고 실제로는 지시. 동사 세 개를 나열해 수습 절차를 한 번에 지정하는 방식이 실무적이다.",
+      "contextBefore": "Okay.",
+      "contextAfter": "Then you're going to have Donna find any judge who will listen so we can get an injunction and stop whoever it is from launching their product first.",
+      "situationCue": "사고가 터진 직후, 수습 순서를 조목조목 지시한다면?",
+      "speaker": "Harvey",
+      "tags": [
+        "지시",
+        "요청"
+      ],
+      "curated": true
+    },
+    {
+      "id": "suits-s01e02-015",
+      "en": "You think that's going to be a walk in the park?",
+      "ko": "그게 쉬운 일일 것 같아요?",
+      "note": "a walk in the park는 '식은 죽 먹기'. 반문으로 던지면 상대가 상황을 너무 쉽게 본다는 지적이 된다.",
+      "contextBefore": "Now I've got to call Wyatt and calm him down.",
+      "contextAfter": "Harvey.",
+      "situationCue": "내가 떠안은 뒷수습이 얼마나 힘든지 상대에게 각인시킬 때?",
+      "speaker": "Harvey",
+      "tags": [
+        "압박",
+        "반박"
+      ],
+      "curated": true
+    },
+    {
+      "id": "suits-s01e02-016",
+      "en": "The bigger they are, the harder they fall.",
+      "ko": "덩치가 클수록 넘어질 때 더 크게 넘어지죠.",
+      "note": "the 비교급, the 비교급 구문의 대표 관용구. 상대가 거대 기업이라 겁먹은 팀원을 다잡을 때 쓰는 한마디다.",
+      "contextBefore": "Did you serve them with notice of the hearing? They're a billion dollar company.",
+      "contextAfter": "Did you not see the sign outside? Just putting it away, Your Honor.",
+      "situationCue": "상대가 대기업이라 부담스럽다는 말에, 오히려 유리하다고 받아친다면?",
+      "speaker": "Harvey",
+      "tags": [
+        "자기주장",
+        "설득"
+      ],
+      "curated": true
+    },
+    {
+      "id": "suits-s01e02-017",
+      "en": "And I would have assumed that a lawyer appearing before a judge would come on time, with his mouth shut, and prepared with a courtesy brief.",
+      "ko": "판사 앞에 서는 변호사라면 제시간에, 입은 다물고, 사본까지 준비해 올 거라고 봤는데요.",
+      "note": "I would have assumed that...은 '당연히 그럴 줄 알았다'며 실망을 표하는 고급 질책. 기대치를 나열해 상대를 압박하는 리듬이 인상적이다.",
+      "contextBefore": "That's the exhibit filing? Why wasn't I given a courtesy copy? Given the expedited nature of this hearing, I assumed Hand it to me.",
+      "contextAfter": "My apologies.",
+      "situationCue": "기본도 안 지킨 상대에게, 당연히 그럴 줄 알았다며 정중하게 면박을 줄 때?",
+      "speaker": "Judge",
+      "tags": [
+        "압박",
+        "반박"
+      ],
+      "curated": true
+    },
+    {
+      "id": "suits-s01e02-018",
+      "en": "My apologies.",
+      "ko": "죄송합니다.",
+      "note": "I'm sorry보다 격식 있고 짧게 끝나는 사과. 공식 자리에서 상황을 길게 끌지 않고 넘어갈 때 딱 맞는다.",
+      "contextBefore": "Hand it to me? And I would have assumed that a lawyer appearing before a judge would come on time, with his mouth shut, and prepared with a courtesy brief.",
+      "contextAfter": "Request denied.",
+      "situationCue": "공식 석상에서 지적을 받았을 때, 짧고 격식 있게 사과한다면?",
+      "speaker": "Harvey",
+      "tags": [
+        "사과"
+      ],
+      "curated": true
+    },
+    {
+      "id": "suits-s01e02-019",
+      "en": "Excluding friends, associates, and the clients that I represent, there are very few people that I'm on a first-name basis with.",
+      "ko": "친구, 동료, 제가 맡은 고객을 빼면 이름을 부르며 지내는 사람은 거의 없습니다.",
+      "note": "be on a first-name basis with는 '이름을 부를 만큼 가까운 사이다'. 상대의 무례한 호칭을 지적하기 위해 논리를 먼저 깔아 두는 화법이다.",
+      "contextBefore": "You must have something to say.",
+      "contextAfter": "And I've never had anyone, let alone a judge I've never met, address me as Harvey in open court.",
+      "situationCue": "상대가 갑자기 지나치게 편한 호칭을 쓸 때, 정색하지 않고 선을 그으려면?",
+      "speaker": "Harvey",
+      "tags": [
+        "자기주장",
+        "갈등"
+      ],
+      "curated": true
+    },
+    {
+      "id": "suits-s01e02-020",
+      "en": "I could have you brought up on review for talking to me like that.",
+      "ko": "그런 식으로 말하면 징계 절차에 회부할 수도 있어요.",
+      "note": "I could + 동사원형은 '마음만 먹으면 이렇게 할 수 있다'는 절제된 위협. 실제 실행보다 가능성을 보여 주는 압박 방식이다.",
+      "contextBefore": "But if you're going to screw me, I guess it's only fair that you call me by name.",
+      "contextAfter": "Then we can get it all on record.",
+      "situationCue": "상대의 말투가 도를 넘었을 때, 제재 가능성을 언급하며 누를 때?",
+      "speaker": "Judge",
+      "tags": [
+        "압박",
+        "갈등"
+      ],
+      "curated": true
+    },
+    {
+      "id": "suits-s01e02-021",
+      "en": "I have a solid argument for any reasonable judge to grant my injunction.",
+      "ko": "합리적인 판사라면 누구든 제 가처분을 인용할 만큼 탄탄한 논거가 있습니다.",
+      "note": "solid argument(탄탄한 논거)와 any reasonable + 사람을 결합하면 '나만 그렇게 보는 게 아니다'라는 객관성이 생긴다.",
+      "contextBefore": "Get what? Whatever it is that you seem to have against me for no apparent reason.",
+      "contextAfter": "So solid, it begs the question, why do you have it in for me? And I don't even know your first name.",
+      "situationCue": "내 주장이 특정인의 취향이 아니라 누가 봐도 타당하다고 강조할 때?",
+      "speaker": "Harvey",
+      "tags": [
+        "자기주장",
+        "설득"
+      ],
+      "curated": true
+    },
+    {
+      "id": "suits-s01e02-022",
+      "en": "So solid, it begs the question, why do you have it in for me?",
+      "ko": "너무 탄탄해서 오히려 묻게 되네요. 왜 저를 찍어 누르시는 겁니까?",
+      "note": "have it in for someone은 '누구를 작정하고 미워하다'. it begs the question은 '그래서 이런 의문이 생긴다'로 논점을 전환할 때 쓴다.",
+      "contextBefore": "I have a solid argument for any reasonable judge to grant my injunction.",
+      "contextAfter": "Really? My wife never mentioned it? Your wife? The woman you had an affair with last month? Hey, wait.",
+      "situationCue": "상대가 유독 나에게만 불리하게 구는 이유를 정면으로 물을 때?",
+      "speaker": "Harvey",
+      "tags": [
+        "반박",
+        "갈등"
+      ],
+      "curated": true
+    },
+    {
+      "id": "suits-s01e02-023",
+      "en": "I'm sorry you felt humiliated.",
+      "ko": "모욕감을 느끼셨다니 유감입니다.",
+      "note": "내 행동이 아니라 상대의 감정에만 사과하는 이른바 '비사과 사과'. 책임을 인정하지 않으면서 갈등을 봉합할 때 실제로 자주 쓰이니 뉘앙스를 알아 두자.",
+      "contextBefore": "Okay.",
+      "contextAfter": "But I told you I don't sleep with married women.",
+      "situationCue": "내 잘못은 아니라고 보지만 상대의 감정은 달래야 할 때?",
+      "speaker": "Harvey",
+      "tags": [
+        "사과",
+        "갈등"
+      ],
+      "curated": true
+    },
+    {
+      "id": "suits-s01e02-024",
+      "en": "I need you to tell him the truth.",
+      "ko": "그 사람한테 사실대로 말해 주셔야겠어요.",
+      "note": "I need you to...는 부탁보다 무겁고 명령보다 부드러운 중간 톤. 상대의 협조가 반드시 필요할 때 쓰는 요청 형식이다.",
+      "contextBefore": "As evidenced by my experience in court this morning.",
+      "contextAfter": "I can't.",
+      "situationCue": "곤란한 일이지만 상대가 사실을 밝혀 줘야만 풀릴 때?",
+      "speaker": "Harvey",
+      "tags": [
+        "요청",
+        "설득"
+      ],
+      "curated": true
+    },
+    {
+      "id": "suits-s01e02-025",
+      "en": "And that means when Harvey is not here, you've got to listen to what I say, Mike.",
+      "ko": "그러니까 하비가 없을 땐 내 말을 들어야 한다는 뜻이에요.",
+      "note": "지휘 계통을 상기시키며 복종을 요구하는 문장. you've got to는 have to보다 구어적이면서 강제성이 강하게 들린다.",
+      "contextBefore": "Hello? Hello? You work for me, too.",
+      "contextAfter": "Louis, this claim needs to be filed today.",
+      "situationCue": "직속 상사가 자리를 비운 사이 내 지시를 따르라고 요구한다면?",
+      "speaker": "Louis",
+      "tags": [
+        "지시",
+        "압박"
+      ],
+      "curated": true
+    },
+    {
+      "id": "suits-s01e02-026",
+      "en": "You see, if you don't sign my injunction, there's going to be a lawsuit.",
+      "ko": "제 가처분에 서명하지 않으시면 소송으로 갑니다.",
+      "note": "협박이 아니라 예정된 결과를 알려 주는 형식의 압박. You see로 시작하면 설명하는 톤이 되어 노골적인 위협처럼 들리지 않는다.",
+      "contextBefore": "But I didn't want you to suffer for it.",
+      "contextAfter": "And when the next judge sees all the facts, he's going to overturn your ruling.",
+      "situationCue": "상대가 내 요구를 거부할 경우 벌어질 일을 담담하게 예고한다면?",
+      "speaker": "Harvey",
+      "tags": [
+        "압박",
+        "협상"
+      ],
+      "curated": true
+    },
+    {
+      "id": "suits-s01e02-027",
+      "en": "You may be right.",
+      "ko": "그쪽 말이 맞을 수도 있죠.",
+      "note": "일단 인정하고 뒤에 but으로 뒤집는 양보 화법의 출발점. 정면 충돌을 피하면서 반박의 힘을 키우는 협상 필수 표현이다.",
+      "contextBefore": "And when the next judge sees all the facts, he's going to overturn your ruling.",
+      "contextAfter": "But by then, your clients will have dumped you.",
+      "situationCue": "상대 논리를 한 번 인정해 준 뒤 결정적인 반론을 꺼내려 할 때?",
+      "speaker": "Judge",
+      "tags": [
+        "반박",
+        "협상"
+      ],
+      "curated": true
+    },
+    {
+      "id": "suits-s01e02-028",
+      "en": "Perhaps we could discuss a little quid pro quo before I do.",
+      "ko": "그 전에 서로 주고받을 게 있는지 얘기해 보면 어떨까요.",
+      "note": "quid pro quo는 '대가성 교환'을 뜻하는 라틴어 표현으로 계약·협상 문서에도 등장한다. Perhaps we could...로 감싸면 거래 제안이 훨씬 부드러워진다.",
+      "contextBefore": "You filed for divorce? Soon enough.",
+      "contextAfter": "I'm listening.",
+      "situationCue": "결정을 내리기 전에 서로 조건을 주고받자고 슬쩍 제안한다면?",
+      "speaker": "Judge",
+      "tags": [
+        "협상",
+        "설득"
+      ],
+      "curated": true
+    },
+    {
+      "id": "suits-s01e02-029",
+      "en": "I'm listening.",
+      "ko": "말씀해 보시죠.",
+      "note": "제안을 받아들이겠다는 게 아니라 '일단 들어는 보겠다'는 신호. 협상에서 주도권을 넘기지 않으면서 상대를 말하게 만드는 두 단어다.",
+      "contextBefore": "Perhaps we could discuss a little quid pro quo before I do.",
+      "contextAfter": "You sign a document that says you slept with my wife.",
+      "situationCue": "상대가 거래를 제안하려 할 때, 패를 먼저 보이지 않고 들어 보겠다고 답한다면?",
+      "speaker": "Harvey",
+      "tags": [
+        "협상"
+      ],
+      "curated": true
+    },
+    {
+      "id": "suits-s01e02-030",
+      "en": "So, what you're saying is, you'd like to blackmail me.",
+      "ko": "그러니까 저를 협박하시겠다는 말씀이군요.",
+      "note": "So, what you're saying is...는 상대의 완곡한 말을 직설적으로 되받아 정체를 드러내는 기술. 회의에서 애매한 요구를 정리할 때도 그대로 쓸 수 있다.",
+      "contextBefore": "And why would you want me to do that? To prevent her from taking me for half of everything I own.",
+      "contextAfter": "I'm saying we could both benefit.",
+      "situationCue": "돌려 말하는 상대의 요구를 있는 그대로 이름 붙여 되짚어 줄 때?",
+      "speaker": "Harvey",
+      "tags": [
+        "반박",
+        "협상"
+      ],
+      "curated": true
+    },
+    {
+      "id": "suits-s01e02-031",
+      "en": "Trust me, it's for your own good.",
+      "ko": "믿으세요, 다 당신을 위한 겁니다.",
+      "note": "for your own good은 '너를 위해서'라는 뜻이지만 상대의 반발을 부를 수도 있는 표현. 관계가 확실할 때만 통한다는 점을 기억하자.",
+      "contextBefore": "Okay.",
+      "contextAfter": "Harvey, please don't hang up Hey, Tom.",
+      "situationCue": "상대가 싫어할 결정을 내리면서 그게 오히려 상대를 위한 거라고 설득할 때?",
+      "speaker": "Harvey",
+      "tags": [
+        "설득",
+        "조언"
+      ],
+      "curated": true
+    },
+    {
+      "id": "suits-s01e02-032",
+      "en": "I'm saying you can help me land him as a client.",
+      "ko": "자네가 그 사람을 고객으로 잡는 걸 도와줄 수 있다는 얘기예요.",
+      "note": "land a client는 '고객을 따내다'라는 영업 필수 표현. I'm saying...으로 앞의 오해를 정정하면서 진짜 요구를 드러내는 구조다.",
+      "contextBefore": "Not with me, anyway.",
+      "contextAfter": "That's the only reason I'm here, isn't it? No, Mike.",
+      "situationCue": "상대가 내 의도를 오해했을 때, 진짜 원하는 바를 다시 정리해 말한다면?",
+      "speaker": "Louis",
+      "tags": [
+        "설득",
+        "요청"
+      ],
+      "curated": true
+    },
+    {
+      "id": "suits-s01e02-033",
+      "en": "Ball's in your court.",
+      "ko": "이제 공은 그쪽에 넘어갔어요.",
+      "note": "The ball is in your court는 '결정은 이제 당신 몫'이라는 뜻의 대표 관용구. 압박을 남기고 대화를 끝낼 때 효과적이다.",
+      "contextBefore": "And I really want to see you succeed.",
+      "contextAfter": "Hey, Tom.",
+      "situationCue": "할 말을 다 한 뒤 결정 책임을 상대에게 넘기며 마무리한다면?",
+      "speaker": "Louis",
+      "tags": [
+        "압박",
+        "협상"
+      ],
+      "curated": true
+    },
+    {
+      "id": "suits-s01e02-034",
+      "en": "You don't barge in here when I'm on the phone.",
+      "ko": "통화 중일 땐 이렇게 불쑥 들어오는 거 아니에요.",
+      "note": "barge in은 '노크도 없이 들이닥치다'. You don't + 동사원형은 규칙을 상기시키는 훈계 톤의 현재형 용법이다.",
+      "contextBefore": "Up top.",
+      "contextAfter": "And why are you so flush? Why am I so what? Your face is red.",
+      "situationCue": "예의를 무시하고 불쑥 들어온 상대에게 선을 그을 때?",
+      "speaker": "Harvey",
+      "tags": [
+        "지시",
+        "갈등"
+      ],
+      "curated": true
+    },
+    {
+      "id": "suits-s01e02-035",
+      "en": "The way I see it, he let you down.",
+      "ko": "내가 보기엔 그 사람이 널 실망시킨 거야.",
+      "note": "The way I see it은 '내가 보기엔'으로 주관적 판단임을 밝히면서도 확신을 담는 도입. let someone down은 '기대를 저버리다'라는 필수 구동사다.",
+      "contextBefore": "You let him down? No.",
+      "contextAfter": "What? He's got to know what Louis is capable of.",
+      "situationCue": "자책하는 상대에게, 잘못한 쪽은 오히려 상대편이라고 관점을 뒤집어 줄 때?",
+      "speaker": "Unknown",
+      "tags": [
+        "조언",
+        "설득"
+      ],
+      "curated": true
+    },
+    {
+      "id": "suits-s01e02-036",
+      "en": "But he's also the first person that would tell you never to take no for an answer.",
+      "ko": "그런데 그 사람이야말로 거절을 그냥 받아들이지 말라고 할 사람이잖아.",
+      "note": "take no for an answer는 '거절을 그대로 받아들이다'. 주로 never와 함께 쓰여 물러서지 말라는 조언이 된다.",
+      "contextBefore": "Right.",
+      "contextAfter": "From anyone.",
+      "situationCue": "상대가 안 들어 줄 것 같다고 포기하려는 사람을 다시 밀어 줄 때?",
+      "speaker": "Unknown",
+      "tags": [
+        "조언",
+        "설득"
+      ],
+      "curated": true
+    },
+    {
+      "id": "suits-s01e02-037",
+      "en": "And 10 million more than you'll get, the way the wind is blowing.",
+      "ko": "게다가 지금 흐름대로면 그쪽이 받게 될 금액보다 천만 달러나 많은 거고요.",
+      "note": "the way the wind is blowing은 '지금 판세로 보면'이라는 관용구. 상대 제안을 깎아내리며 우리 쪽 우위를 암시하는 협상 화법이다.",
+      "contextBefore": "That's half what we spent developing the prototype.",
+      "contextAfter": "Yeah, well, winds can change.",
+      "situationCue": "상대의 제안 금액이 오히려 과분하다는 뉘앙스로 받아칠 때?",
+      "speaker": "Harvey",
+      "tags": [
+        "협상",
+        "압박"
+      ],
+      "curated": true
+    },
+    {
+      "id": "suits-s01e02-038",
+      "en": "And you and I both know the injunction will get overturned on appeal.",
+      "ko": "그 가처분은 항소심에서 뒤집힌다는 거, 우리 둘 다 알잖아요.",
+      "note": "you and I both know는 '뻔한 사실을 서로 알고 있다'며 상대의 허세를 무너뜨리는 강력한 협상 표현이다.",
+      "contextBefore": "Yeah, well, winds can change.",
+      "contextAfter": "I don't know anything of the kind.",
+      "situationCue": "상대가 모르는 척할 때, 이미 서로 알고 있는 사실을 꺼내 압박한다면?",
+      "speaker": "George",
+      "tags": [
+        "협상",
+        "압박"
+      ],
+      "curated": true
+    },
+    {
+      "id": "suits-s01e02-039",
+      "en": "That's as high as I'll go.",
+      "ko": "그게 제가 올릴 수 있는 최대치입니다.",
+      "note": "가격 협상에서 상한선을 선언하는 정형 표현. 반대로 살 때는 That's as high as I can go로 예산 한계를 알린다.",
+      "contextBefore": "Then why are you calling with an offer at all? Fifteen.",
+      "contextAfter": "Okay, I'm hanging up now.",
+      "situationCue": "금액 협상에서 더는 올릴 수 없다고 못 박을 때?",
+      "speaker": "George",
+      "tags": [
+        "협상",
+        "거절"
+      ],
+      "curated": true
+    },
+    {
+      "id": "suits-s01e02-040",
+      "en": "Okay, I'm hanging up now.",
+      "ko": "알겠습니다, 그럼 저는 이만 끊죠.",
+      "note": "협상에서 자리를 뜨겠다는 신호를 던져 상대의 최종안을 끌어내는 전형적인 walk-away 전술. 실제로 끊을 각오가 있을 때만 써야 한다.",
+      "contextBefore": "That's as high as I'll go.",
+      "contextAfter": "Twenty million.",
+      "situationCue": "상대의 제시액이 만족스럽지 않아 협상을 접겠다는 신호를 보낼 때?",
+      "speaker": "Harvey",
+      "tags": [
+        "협상",
+        "압박"
+      ],
+      "curated": true
+    },
+    {
+      "id": "suits-s01e02-041",
+      "en": "The offer's good for 24 hours.",
+      "ko": "이 제안은 24시간 동안만 유효합니다.",
+      "note": "be good for + 기간은 '~동안 유효하다'. 시한을 붙여 상대의 결정을 재촉하는 협상 압박의 정석이다.",
+      "contextBefore": "That's it.",
+      "contextAfter": "And I'm sure I don't have to remind you that you're legally required to present this to your client.",
+      "situationCue": "제안에 시한을 걸어 상대가 미루지 못하게 만들 때?",
+      "speaker": "George",
+      "tags": [
+        "협상",
+        "압박"
+      ],
+      "curated": true
+    },
+    {
+      "id": "suits-s01e02-042",
+      "en": "And I'm sure I don't have to remind you that you're legally required to present this to your client.",
+      "ko": "이걸 고객에게 반드시 전달할 의무가 있다는 건 굳이 상기시켜 드릴 필요 없겠죠.",
+      "note": "I don't have to remind you that...은 '당연히 아시겠지만'이라는 형식으로 사실상 경고를 얹는 표현. 정중함과 압박을 동시에 담는다.",
+      "contextBefore": "The offer's good for 24 hours.",
+      "contextAfter": "Is he free? Not for you.",
+      "situationCue": "상대가 모른 척하고 넘어갈 수 없도록 의무를 정중하게 못 박을 때?",
+      "speaker": "George",
+      "tags": [
+        "압박",
+        "협상"
+      ],
+      "curated": true
+    },
+    {
+      "id": "suits-s01e02-043",
+      "en": "I'm not leaving until you hear me out.",
+      "ko": "제 얘기를 끝까지 들어 주실 때까지 안 나갑니다.",
+      "note": "hear someone out은 '말을 끊지 않고 끝까지 듣다'. not ... until 구문과 합쳐져 물러서지 않겠다는 의지를 분명히 전달한다.",
+      "contextBefore": "Harvey.",
+      "contextAfter": "You want to bet? You owe it to me.",
+      "situationCue": "상대가 대화를 피하려 할 때, 끝까지 들어 달라고 버틴다면?",
+      "speaker": "Mike",
+      "tags": [
+        "자기주장",
+        "요청"
+      ],
+      "curated": true
+    },
+    {
+      "id": "suits-s01e02-044",
+      "en": "Or you call their bluff.",
+      "ko": "아니면 그 허풍을 한번 시험해 보든가.",
+      "note": "call someone's bluff는 '엄포인지 확인하려고 맞받아치다'라는 포커 유래 관용구. 협상에서 상대의 위협이 진짜인지 떠볼 때 쓴다.",
+      "contextBefore": "Or you pull out a bigger one.",
+      "contextAfter": "Or you do any one of 146 other things.",
+      "situationCue": "상대의 협박이 엄포일 수도 있으니 물러서지 말라고 조언한다면?",
+      "speaker": "Harvey",
+      "tags": [
+        "조언",
+        "협상"
+      ],
+      "curated": true
+    },
+    {
+      "id": "suits-s01e02-045",
+      "en": "If you can't think for yourself, maybe you aren't cut out for this.",
+      "ko": "스스로 판단하지 못한다면 이 일이 안 맞는 걸 수도 있어요.",
+      "note": "be cut out for는 '~에 적합한 사람이다'. maybe로 감싸도 강한 질책이 되는 문장이라 톤 조절이 필요하다.",
+      "contextBefore": "Or you do any one of 146 other things.",
+      "contextAfter": "No.",
+      "situationCue": "시키는 대로만 하다 사고 친 사람에게, 자기 판단의 책임을 일깨울 때?",
+      "speaker": "Harvey",
+      "tags": [
+        "압박",
+        "조언"
+      ],
+      "curated": true
+    },
+    {
+      "id": "suits-s01e02-046",
+      "en": "So if Louis asks you to do something like that, you come to me first.",
+      "ko": "그러니까 다음에 그런 요구를 받으면 나한테 먼저 와요.",
+      "note": "you come to me first처럼 평서문 형태로 내리는 지시는 명령문보다 오히려 무겁게 들린다. 보고 체계를 정리해 줄 때 그대로 쓸 수 있다.",
+      "contextBefore": "Yeah, I hired you, and I expect your loyalty.",
+      "contextAfter": "Oh, right.",
+      "situationCue": "다른 사람이 무리한 요구를 하면 먼저 나에게 보고하라고 정리해 줄 때?",
+      "speaker": "Harvey",
+      "tags": [
+        "지시",
+        "조언"
+      ],
+      "curated": true
+    },
+    {
+      "id": "suits-s01e02-047",
+      "en": "Maybe it's time you showed me some loyalty.",
+      "ko": "이제는 그쪽이 저한테 의리를 좀 보여 줄 때도 됐죠.",
+      "note": "It's time + 주어 + 과거형은 '진작 그랬어야 한다'는 뉘앙스를 담는 가정법 용법. 요구를 역으로 되돌릴 때 강하게 꽂힌다.",
+      "contextBefore": "Or Or when you told me to go file the patent by myself.",
+      "contextAfter": "Do you know how long it was before I got to sit at the adult table? It was when I brought in my first client.",
+      "situationCue": "충성을 요구하는 상대에게, 이제는 그쪽 차례라고 되받아칠 때?",
+      "speaker": "Mike",
+      "tags": [
+        "반박",
+        "자기주장"
+      ],
+      "curated": true
+    },
+    {
+      "id": "suits-s01e02-048",
+      "en": "And it's your job to do what I say when I say it.",
+      "ko": "자네 일은 내가 말할 때 내가 말한 대로 하는 겁니다.",
+      "note": "it's your job to...로 역할을 못 박는 지시. when I say it까지 붙여 타이밍의 재량까지 없앤 강한 표현이다.",
+      "contextBefore": "Because that's my job.",
+      "contextAfter": "So if you're talking about loyalty, you better goddamn earn it.",
+      "situationCue": "지시를 자기 판단으로 미룬 부하에게 역할을 분명히 규정해 줄 때?",
+      "speaker": "Harvey",
+      "tags": [
+        "지시",
+        "압박"
+      ],
+      "curated": true
+    },
+    {
+      "id": "suits-s01e02-049",
+      "en": "I said I'm sorry, and I meant it.",
+      "ko": "죄송하다고 했고, 진심이었습니다.",
+      "note": "and I meant it을 붙이면 형식적 사과가 아니라는 점이 강조된다. 사과가 가볍게 취급될 때 한 번 더 못 박는 표현이다.",
+      "contextBefore": "You're right.",
+      "contextAfter": "Harvey.",
+      "situationCue": "이미 사과했는데 상대가 계속 몰아붙일 때, 진심이었다고 다시 말한다면?",
+      "speaker": "Mike",
+      "tags": [
+        "사과",
+        "자기주장"
+      ],
+      "curated": true
+    },
+    {
+      "id": "suits-s01e02-050",
+      "en": "People will promise you the world.",
+      "ko": "사람들은 세상 전부를 주겠다는 식으로 약속하죠.",
+      "note": "promise someone the world는 '온갖 걸 다 해 주겠다고 큰소리치다'. 말뿐인 약속을 경계하라는 조언에 자주 등장한다.",
+      "contextBefore": "New business is hard.",
+      "contextAfter": "But until they sign that engagement letter, it means nothing.",
+      "situationCue": "말만 앞서는 상대의 약속을 곧이곧대로 믿지 말라고 조언할 때?",
+      "speaker": "Jessica",
+      "tags": [
+        "조언",
+        "협상"
+      ],
+      "curated": true
+    },
+    {
+      "id": "suits-s01e02-051",
+      "en": "But until they sign that engagement letter, it means nothing.",
+      "ko": "하지만 계약서에 서명하기 전까지는 아무 의미 없어요.",
+      "note": "until they sign...으로 '계약 전 구두 합의는 무의미하다'는 실무 원칙을 표현. 신규 영업 상황을 말할 때 그대로 쓸 수 있다.",
+      "contextBefore": "People will promise you the world.",
+      "contextAfter": "Now, I don't know what you told Tom Keller, but bringing a client in at your age, that reminds me of Harvey.",
+      "situationCue": "아직 서명 전인 거래를 두고 김칫국 마시는 사람에게 찬물을 끼얹을 때?",
+      "speaker": "Jessica",
+      "tags": [
+        "조언",
+        "협상"
+      ],
+      "curated": true
+    },
+    {
+      "id": "suits-s01e02-052",
+      "en": "That's exactly why I insisted that you be my point man.",
+      "ko": "바로 그래서 제가 당신을 담당자로 해 달라고 고집한 겁니다.",
+      "note": "insist that + 주어 + 동사원형(be)은 격식 영어의 가정법 현재 용법. point man은 '실무 총괄·최전선 담당자'를 뜻한다.",
+      "contextBefore": "Well, I had no intention of being that way to get your business.",
+      "contextAfter": "I want someone being devious for me, not to me.",
+      "situationCue": "상대가 의외라고 여기는 선택의 이유를 오히려 장점으로 뒤집어 설명할 때?",
+      "speaker": "Tom Keller",
+      "tags": [
+        "설득",
+        "협상"
+      ],
+      "curated": true
+    },
+    {
+      "id": "suits-s01e02-053",
+      "en": "We came down here because you led us to believe that your client was ready to accept our settlement agreement.",
+      "ko": "고객이 합의안을 받아들일 준비가 됐다고 하셔서 여기까지 온 겁니다.",
+      "note": "lead someone to believe는 '~라고 믿게 만들다'로, 명시적 거짓말이 아니어도 책임을 물을 때 쓰는 표현. 항의 메일에서도 유용하다.",
+      "contextBefore": "Ladies and gentlemen, I'm terribly sorry, but we have a problem.",
+      "contextAfter": "And I thought he would.",
+      "situationCue": "상대의 말만 믿고 움직였는데 상황이 달라졌을 때 항의한다면?",
+      "speaker": "Unknown",
+      "tags": [
+        "갈등",
+        "반박"
+      ],
+      "curated": true
+    },
+    {
+      "id": "suits-s01e02-054",
+      "en": "And once that technology is out there, good luck putting that genie back in the bottle.",
+      "ko": "그 기술이 일단 공개되면, 되돌리는 건 불가능할 겁니다.",
+      "note": "put the genie back in the bottle은 '엎지른 물을 되담다'는 뜻의 관용구. good luck -ing는 '해 봐야 소용없을걸'이라는 비꼬는 압박이다.",
+      "contextBefore": "Not before tomorrow.",
+      "contextAfter": "Well, then we'll sue.",
+      "situationCue": "한번 벌어지면 되돌릴 수 없는 결과라는 걸 경고할 때?",
+      "speaker": "Harvey",
+      "tags": [
+        "압박",
+        "설득"
+      ],
+      "curated": true
+    },
+    {
+      "id": "suits-s01e02-055",
+      "en": "I told him if you were willing to blackmail someone once, chances are, you've done it before.",
+      "ko": "한 번 협박할 사람이면 전에도 했을 가능성이 높다고 말해 뒀습니다.",
+      "note": "chances are (that)...은 '아마 ~일 것이다'라는 확률 표현. 상대의 과거 행적을 추론으로 압박하는 논리 구조를 익혀 두자.",
+      "contextBefore": "We had a nice chat about you.",
+      "contextAfter": "He's very anxious to meet you.",
+      "situationCue": "상대의 행동이 처음이 아닐 거라는 의심을 근거로 역공을 펼 때?",
+      "speaker": "Harvey",
+      "tags": [
+        "압박",
+        "반박"
+      ],
+      "curated": true
+    },
+    {
+      "id": "suits-s01e02-056",
+      "en": "When you're finished down here, I'd like you to come upstairs and start putting together a settlement memorandum.",
+      "ko": "여기 일 끝나면 위로 올라와서 합의서 초안 작성을 시작해 줘요.",
+      "note": "I'd like you to...는 지시를 정중하게 감싸는 표준 형식. put together a document(문서를 작성·정리하다)는 실무에서 매일 쓰는 표현이다.",
+      "contextBefore": "But the Ark of the Covenant is just down the hall on the left.",
+      "contextAfter": "They went for it? Thanks to your idea.",
+      "situationCue": "다음 업무를 순서까지 정해서 정중하게 지시한다면?",
+      "speaker": "Harvey",
+      "tags": [
+        "지시",
+        "요청"
+      ],
+      "curated": true
+    },
+    {
+      "id": "suits-s01e02-057",
+      "en": "Do we have to have a conversation about how you keep interrupting me?",
+      "ko": "자꾸 말 끊는 것에 대해 따로 얘기를 좀 해야 할까요?",
+      "note": "Do we have to have a conversation about...?는 '이걸 굳이 문제 삼아야 하나'라며 행동 교정을 요구하는 완곡 압박이다.",
+      "contextBefore": "So, does this mean I get to keep my job? I want to talk to you about that.",
+      "contextAfter": "Look.",
+      "situationCue": "반복되는 무례를 정색하지 않고 경고로 짚어 줄 때?",
+      "speaker": "Harvey",
+      "tags": [
+        "압박",
+        "지시"
+      ],
+      "curated": true
+    },
+    {
+      "id": "suits-s01e02-058",
+      "en": "Go easy on him.",
+      "ko": "너무 몰아붙이지는 마요.",
+      "note": "go easy on someone은 '누구를 살살 다루다·봐주다'. 질책하러 가는 사람에게 수위를 조절하라고 부탁할 때 쓴다.",
+      "contextBefore": "You know what? Why don't you let me do it? You think you're ready for the adult table? Well, didn't you hear? I just landed my first client.",
+      "contextAfter": "No.",
+      "situationCue": "잘못한 사람을 혼내러 가는 동료에게 적당히 하라고 당부한다면?",
+      "speaker": "Harvey",
+      "tags": [
+        "요청",
+        "조언"
+      ],
+      "curated": true
+    }
+  ]
+}
