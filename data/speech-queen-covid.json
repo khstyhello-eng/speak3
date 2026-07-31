@@ -7,6 +7,8 @@
       "id": "speech-queen-covid-001",
       "en": "I am speaking to you at what I know is an increasingly challenging time.",
       "ko": "저는 지금, 갈수록 힘겨워지는 시기에 여러분께 말씀드리고 있습니다.",
+      "core": "an increasingly challenging time",
+      "coreKo": "갈수록 힘겨워지는 시기",
       "note": "at what I know is ~는 \"제가 알기로 ~인 시점에\"라는 뜻으로, 상황 인식을 청중과 공유하고 있음을 먼저 알린다. 위기 담화의 첫 문장 공식이다.",
       "contextBefore": "",
       "contextAfter": "A time of disruption in the life of our country: a disruption that has brought grief to some, financial difficulties to many, and enormous changes to the daily lives of us all.",
@@ -16,12 +18,24 @@
         "스몰토크",
         "조언"
       ],
+      "variations": [
+        {
+          "en": "I am writing at what I know is an increasingly difficult time for the team.",
+          "ko": "팀에 갈수록 힘겨워지는 시기라는 걸 알기에 이렇게 글을 올립니다."
+        },
+        {
+          "en": "We are opening this meeting at an increasingly challenging time for the industry.",
+          "ko": "업계에 갈수록 힘겨워지는 시기에 이 회의를 엽니다."
+        }
+      ],
       "curated": true
     },
     {
       "id": "speech-queen-covid-002",
       "en": "I want to thank everyone on the NHS front line, as well as care workers and those carrying out essential roles, who selflessly continue their day-to-day duties outside the home in support of us all.",
       "ko": "보건 최전선에 계신 모든 분과, 돌봄 노동자, 그리고 우리 모두를 위해 집 밖에서 묵묵히 일상 업무를 이어 가는 필수 인력 여러분께 감사드립니다.",
+      "core": "carrying out essential roles",
+      "coreKo": "필수 업무를 수행하고 있는",
       "note": "I want to thank A, as well as B and C로 감사 대상을 빠짐없이 넓혀 가는 구조. front line(최전선), carry out duties(임무를 수행하다)는 공식 감사문의 굳은 짝이다.",
       "contextBefore": "A time of disruption in the life of our country: a disruption that has brought grief to some, financial difficulties to many, and enormous changes to the daily lives of us all.",
       "contextAfter": "I am sure the nation will join me in assuring you that what you do is appreciated and every hour of your hard work brings us closer to a return to more normal times.",
@@ -30,12 +44,24 @@
       "tags": [
         "스몰토크"
       ],
+      "variations": [
+        {
+          "en": "I want to thank the support desk, as well as everyone carrying out essential roles.",
+          "ko": "지원 창구 여러분, 그리고 필수 업무를 수행해 주시는 모든 분께 감사드립니다."
+        },
+        {
+          "en": "Those carrying out essential roles this month deserve our thanks first.",
+          "ko": "이번 달 필수 업무를 수행해 주신 분들께 가장 먼저 감사를 드려야 합니다."
+        }
+      ],
       "curated": true
     },
     {
       "id": "speech-queen-covid-003",
       "en": "I am sure the nation will join me in assuring you that what you do is appreciated and every hour of your hard work brings us closer to a return to more normal times.",
       "ko": "여러분이 하는 일이 인정받고 있으며 여러분의 한 시간 한 시간이 일상 회복을 앞당기고 있다는 말에, 온 국민이 저와 함께할 것이라 믿습니다.",
+      "core": "join me in assuring you",
+      "coreKo": "저와 함께 여러분께 이렇게 확언해 주다",
       "note": "join me in ~ing는 \"저와 함께 ~해 주실 것\"이라는 뜻으로, 화자 개인의 말을 공동체의 말로 키운다. what you do is appreciated는 수동태로 감사의 주체를 넓힌 표현.",
       "contextBefore": "I want to thank everyone on the NHS front line, as well as care workers and those carrying out essential roles, who selflessly continue their day-to-day duties outside the home in support of us all.",
       "contextAfter": "I also want to thank those of you who are staying at home, thereby helping to protect the vulnerable and sparing many families the pain already felt by those who have lost loved ones.",
@@ -45,12 +71,24 @@
         "스몰토크",
         "설득"
       ],
+      "variations": [
+        {
+          "en": "I am sure the whole company will join me in thanking the night crew.",
+          "ko": "온 회사가 저와 함께 야간 근무 팀에 감사를 전할 것이라 믿습니다."
+        },
+        {
+          "en": "Please join me in welcoming the two colleagues who started with us this week.",
+          "ko": "이번 주에 합류한 두 동료를 저와 함께 환영해 주시기 바랍니다."
+        }
+      ],
       "curated": true
     },
     {
       "id": "speech-queen-covid-004",
       "en": "Together we are tackling this disease, and I want to reassure you that if we remain united and resolute, then we will overcome it.",
       "ko": "우리는 함께 이 병에 맞서고 있으며, 하나로 굳게 버틴다면 반드시 이겨 내리라는 점을 말씀드리고 싶습니다.",
+      "core": "I want to reassure you that",
+      "coreKo": "이 점은 안심하셔도 된다고 말씀드리고 싶습니다",
       "note": "I want to reassure you that ~는 불안을 다독일 때 쓰는 위기 커뮤니케이션 정형구. united and resolute처럼 형용사를 둘씩 붙여 결의를 무겁게 만든다.",
       "contextBefore": "I also want to thank those of you who are staying at home, thereby helping to protect the vulnerable and sparing many families the pain already felt by those who have lost loved ones.",
       "contextAfter": "I hope in the years to come everyone will be able to take pride in how they responded to this challenge.",
@@ -60,12 +98,24 @@
         "조언",
         "설득"
       ],
+      "variations": [
+        {
+          "en": "I want to reassure you that no one's contract is under review.",
+          "ko": "누구의 계약도 재검토 대상이 아니라는 점, 안심하셔도 된다고 말씀드리고 싶습니다."
+        },
+        {
+          "en": "I want to reassure you that if we stay organised, we will finish on time.",
+          "ko": "질서 있게 해 나간다면 제때 끝낼 수 있다는 점, 안심하셔도 된다고 말씀드리고 싶습니다."
+        }
+      ],
       "curated": true
     },
     {
       "id": "speech-queen-covid-005",
       "en": "I hope in the years to come everyone will be able to take pride in how they responded to this challenge.",
       "ko": "세월이 흐른 뒤, 모두가 이 시련에 어떻게 대응했는지를 자랑스러워할 수 있기를 바랍니다.",
+      "core": "in the years to come",
+      "coreKo": "앞으로 세월이 흐른 뒤에",
       "note": "in the years to come은 지금의 고통을 훗날의 시점에서 돌아보게 하는 장치. 자부심의 근거를 결과가 아니라 how they responded, 즉 대응 방식에 둔 점이 핵심이다.",
       "contextBefore": "Together we are tackling this disease, and I want to reassure you that if we remain united and resolute, then we will overcome it.",
       "contextAfter": "And those who come after us will say that the Britons of this generation were as strong as any.",
@@ -75,12 +125,24 @@
         "조언",
         "설득"
       ],
+      "variations": [
+        {
+          "en": "I hope in the years to come you will take pride in what we built here.",
+          "ko": "세월이 흐른 뒤 여러분이 여기서 만든 것을 자랑스러워하실 수 있기를 바랍니다."
+        },
+        {
+          "en": "In the years to come, nobody will remember the delay, only the result.",
+          "ko": "세월이 흐르면 아무도 그 지연은 기억하지 못하고 결과만 기억할 겁니다."
+        }
+      ],
       "curated": true
     },
     {
       "id": "speech-queen-covid-006",
       "en": "And those who come after us will say that the Britons of this generation were as strong as any.",
       "ko": "그리고 우리 뒤에 오는 이들은 이 세대의 영국인이 그 누구 못지않게 강했다고 말할 것입니다.",
+      "core": "as strong as any",
+      "coreKo": "그 누구 못지않게 강한",
       "note": "those who come after us는 \"후세\"를 가리키는 격식 표현. as strong as any는 비교급 형태지만 \"어느 누구에게도 뒤지지 않는다\"는 최상급 뜻으로 쓴다.",
       "contextBefore": "I hope in the years to come everyone will be able to take pride in how they responded to this challenge.",
       "contextAfter": "That the attributes of self-discipline, of quiet good-humoured resolve and of fellow-feeling still characterise this country.",
@@ -90,12 +152,24 @@
         "조언",
         "설득"
       ],
+      "variations": [
+        {
+          "en": "Those who come after us will say this team was as strong as any.",
+          "ko": "우리 뒤에 오는 이들은 이 팀이 그 누구 못지않게 강했다고 말할 것입니다."
+        },
+        {
+          "en": "Our safety record is as good as any in the industry.",
+          "ko": "저희 안전 기록은 업계 어느 곳 못지않게 좋습니다."
+        }
+      ],
       "curated": true
     },
     {
       "id": "speech-queen-covid-007",
       "en": "The pride in who we are is not a part of our past, it defines our present and our future.",
       "ko": "우리가 누구인가에 대한 자부심은 과거의 유물이 아니라, 우리의 현재와 미래를 규정합니다.",
+      "core": "it defines our present and our future",
+      "coreKo": "그것이 우리의 현재와 미래를 규정합니다",
       "note": "not a part of our past 뒤에 곧바로 it defines ...를 붙여 부정과 긍정을 맞세운 대구. who we are를 명사절 주어로 받는 어법도 함께 익혀 둘 것.",
       "contextBefore": "That the attributes of self-discipline, of quiet good-humoured resolve and of fellow-feeling still characterise this country.",
       "contextAfter": "The moments when the United Kingdom has come together to applaud its care and essential workers will be remembered as an expression of our national spirit; and its symbol will be the rainbows drawn by children.",
@@ -105,12 +179,24 @@
         "자기주장",
         "설득"
       ],
+      "variations": [
+        {
+          "en": "Our founding promise is not a part of our past. It defines what we do today.",
+          "ko": "창업 당시의 약속은 과거의 유물이 아닙니다. 그것이 오늘 우리가 하는 일을 규정합니다."
+        },
+        {
+          "en": "This standard is not a memory. It defines our present and our future.",
+          "ko": "이 기준은 추억이 아닙니다. 그것이 우리의 현재와 미래를 규정합니다."
+        }
+      ],
       "curated": true
     },
     {
       "id": "speech-queen-covid-008",
       "en": "Today, once again, many will feel a painful sense of separation from their loved ones.",
       "ko": "오늘 다시 한번, 많은 분이 사랑하는 이들과 떨어져 있다는 아픔을 느끼실 것입니다.",
+      "core": "a painful sense of separation",
+      "coreKo": "떨어져 있다는 아픈 마음",
       "note": "감정을 a painful sense of separation처럼 명사구로 담으면 격식이 올라간다. 위로문은 상대의 감정을 먼저 정확한 말로 짚어 주는 데서 시작한다.",
       "contextBefore": "We, as children, spoke from here at Windsor to children who had been evacuated from their homes and sent away for their own safety.",
       "contextAfter": "But now, as then, we know, deep down, that it is the right thing to do.",
@@ -120,12 +206,24 @@
         "조언",
         "스몰토크"
       ],
+      "variations": [
+        {
+          "en": "Many of you will feel a painful sense of separation from the colleagues who left.",
+          "ko": "떠난 동료들과 떨어졌다는 아픔을 많은 분이 느끼실 겁니다."
+        },
+        {
+          "en": "Working across three time zones brings a painful sense of separation to any team.",
+          "ko": "세 개 시간대에 흩어져 일하면 어느 팀에나 떨어져 있다는 아픔이 따릅니다."
+        }
+      ],
       "curated": true
     },
     {
       "id": "speech-queen-covid-009",
       "en": "But now, as then, we know, deep down, that it is the right thing to do.",
       "ko": "그러나 그때처럼 지금도, 우리는 마음 깊은 곳에서 이것이 옳은 일임을 압니다.",
+      "core": "we know, deep down",
+      "coreKo": "우리는 마음 깊은 곳에서 압니다",
       "note": "now, as then은 과거의 사례와 지금을 두 단어로 겹쳐 놓는 비교 표현. deep down은 \"겉으로는 힘들어도 속으로는\"이라는 뉘앙스를 더한다.",
       "contextBefore": "Today, once again, many will feel a painful sense of separation from their loved ones.",
       "contextAfter": "While we have faced challenges before, this one is different.",
@@ -135,12 +233,24 @@
         "설득",
         "조언"
       ],
+      "variations": [
+        {
+          "en": "Deep down, we all know this schedule was never going to hold.",
+          "ko": "마음 깊은 곳에서 우리 모두 이 일정이 지켜질 리 없었다는 걸 압니다."
+        },
+        {
+          "en": "It is a hard decision, but deep down we know it is right.",
+          "ko": "힘든 결정입니다만, 마음 깊은 곳에서 우리는 이것이 옳다는 걸 압니다."
+        }
+      ],
       "curated": true
     },
     {
       "id": "speech-queen-covid-010",
       "en": "While we have faced challenges before, this one is different.",
       "ko": "우리가 전에도 시련을 겪어 보긴 했지만, 이번은 다릅니다.",
+      "core": "this one is different",
+      "coreKo": "이번은 다릅니다",
       "note": "While 양보절로 과거 경험을 먼저 인정한 뒤 this one is different로 차별성을 세우는 2단 구조. 위기의 성격을 새로 규정할 때 쓴다.",
       "contextBefore": "But now, as then, we know, deep down, that it is the right thing to do.",
       "contextAfter": "This time we join with all nations across the globe in a common endeavour, using the great advances of science and our instinctive compassion to heal.",
@@ -150,12 +260,24 @@
         "자기주장",
         "반박"
       ],
+      "variations": [
+        {
+          "en": "While we have handled recalls before, this one is different in scale.",
+          "ko": "전에도 회수 조치를 겪어 보긴 했지만, 이번은 규모가 다릅니다."
+        },
+        {
+          "en": "We have missed deadlines before, but this one is different, because the client is new.",
+          "ko": "전에도 마감을 놓친 적은 있지만, 이번은 다릅니다. 고객이 처음이니까요."
+        }
+      ],
       "curated": true
     },
     {
       "id": "speech-queen-covid-011",
       "en": "We will succeed - and that success will belong to every one of us.",
       "ko": "우리는 해낼 것이고, 그 성공은 우리 한 사람 한 사람의 것이 될 것입니다.",
+      "core": "belong to every one of us",
+      "coreKo": "우리 한 사람 한 사람의 것이 되다",
       "note": "belong to every one of us는 공을 전원에게 돌리는 표현. every one을 띄어 써 \"한 사람 한 사람\"을 낱낱이 세는 뉘앙스를 살렸다.",
       "contextBefore": "This time we join with all nations across the globe in a common endeavour, using the great advances of science and our instinctive compassion to heal.",
       "contextAfter": "We should take comfort that while we may have more still to endure, better days will return: we will be with our friends again; we will be with our families again; we will meet again.",
@@ -165,12 +287,24 @@
         "조언",
         "설득"
       ],
+      "variations": [
+        {
+          "en": "If this launch works, the credit will belong to every one of us.",
+          "ko": "이번 출시가 성공한다면 그 공은 우리 한 사람 한 사람의 것이 될 것입니다."
+        },
+        {
+          "en": "The result belongs to every one of you, not to the people who signed it off.",
+          "ko": "그 결과는 결재한 사람들이 아니라 여러분 한 사람 한 사람의 것입니다."
+        }
+      ],
       "curated": true
     },
     {
       "id": "speech-queen-covid-012",
       "en": "We should take comfort that while we may have more still to endure, better days will return: we will be with our friends again; we will be with our families again; we will meet again.",
       "ko": "아직 견뎌야 할 일이 남았지만 더 좋은 날이 돌아오리라는 데서 위안을 얻읍시다. 우리는 다시 친구들과 함께할 것이고, 다시 가족과 함께할 것이며, 다시 만날 것입니다.",
+      "core": "take comfort that",
+      "coreKo": "그 점에서 위안을 얻다",
       "note": "take comfort that ~은 \"~라는 데서 위안을 얻다\"라는 위로의 정형구. 같은 문형을 세 번 반복해 끝을 맺는 리듬이 이 담화의 힘이다.",
       "contextBefore": "We will succeed - and that success will belong to every one of us.",
       "contextAfter": "But for now, I send my thanks and warmest good wishes to you all.",
@@ -180,12 +314,24 @@
         "조언",
         "설득"
       ],
+      "variations": [
+        {
+          "en": "We should take comfort that the hardest month is now behind us.",
+          "ko": "가장 힘든 달이 이제 지나갔다는 데서 위안을 얻읍시다."
+        },
+        {
+          "en": "Take comfort that every hour of this work is making next year easier.",
+          "ko": "이 일에 쏟는 한 시간 한 시간이 내년을 수월하게 만들고 있다는 데서 위안을 얻으세요."
+        }
+      ],
       "curated": true
     },
     {
       "id": "speech-queen-covid-013",
       "en": "But for now, I send my thanks and warmest good wishes to you all.",
       "ko": "그러나 지금으로서는, 여러분 모두에게 감사와 가장 따뜻한 안부를 전합니다.",
+      "core": "I send my thanks and warmest good wishes",
+      "coreKo": "감사와 가장 따뜻한 안부를 전합니다",
       "note": "send my thanks and warmest good wishes to ~는 담화나 서신을 맺을 때 쓰는 최상급 격식 인사. But for now는 \"나머지 말은 접어 두고 우선은\"이라는 뜻으로 마무리 신호가 된다.",
       "contextBefore": "We should take comfort that while we may have more still to endure, better days will return: we will be with our friends again; we will be with our families again; we will meet again.",
       "contextAfter": "",
@@ -193,6 +339,16 @@
       "speaker": "Queen Elizabeth II",
       "tags": [
         "스몰토크"
+      ],
+      "variations": [
+        {
+          "en": "But for now, I send my thanks and warmest good wishes to everyone on the project.",
+          "ko": "우선은 이 프로젝트에 함께한 모든 분께 감사와 가장 따뜻한 안부를 전합니다."
+        },
+        {
+          "en": "I send my thanks and warmest good wishes to you and your family this holiday.",
+          "ko": "이번 명절에 여러분과 가족분들께 감사와 가장 따뜻한 안부를 전합니다."
+        }
       ],
       "curated": true
     }

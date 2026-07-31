@@ -7,6 +7,8 @@
       "id": "speech-watson-heforshe-001",
       "en": "I am reaching out to you because I need your help.",
       "ko": "제가 여러분께 손을 내미는 것은 여러분의 도움이 필요해서입니다.",
+      "core": "I am reaching out to you",
+      "coreKo": "여러분께 이렇게 먼저 손을 내밉니다",
       "note": "reach out to는 \"먼저 연락하다·손을 내밀다\"로, 도움을 청하면서도 비굴하게 들리지 않는다. 요청 뒤에 because로 이유를 바로 붙여 목적을 분명히 했다.",
       "contextBefore": "Today we are launching a campaign called \"HeForShe.\"",
       "contextAfter": "We want to end gender inequality--and to do that we need everyone to be involved.",
@@ -16,12 +18,24 @@
         "요청",
         "설득"
       ],
+      "variations": [
+        {
+          "en": "I am reaching out to you because we need one more reviewer by Friday.",
+          "ko": "금요일까지 검토자가 한 분 더 필요해서 이렇게 먼저 연락드립니다."
+        },
+        {
+          "en": "I reached out to three suppliers, and only one of them answered.",
+          "ko": "공급사 세 곳에 먼저 연락을 넣었는데, 한 곳만 답이 왔습니다."
+        }
+      ],
       "curated": true
     },
     {
       "id": "speech-watson-heforshe-002",
       "en": "And we don't just want to talk about it, but make sure it is tangible.",
       "ko": "그리고 우리는 말만 하고 끝낼 생각이 아니라, 그것이 손에 잡히게 만들려 합니다.",
+      "core": "make sure it is tangible",
+      "coreKo": "그것이 손에 잡히게 만들다",
       "note": "not just talk about it, but make it tangible은 \"말이 아니라 실물로\"라는 실행 강조. tangible은 성과가 눈에 보인다는 뜻으로 보고서에서도 그대로 쓴다.",
       "contextBefore": "This is the first campaign of its kind at the UN: we want to try and galvanize as many men and boys as possible to be advocates for gender equality.",
       "contextAfter": "I was appointed six months ago and the more I have spoken about feminism the more I have realized that fighting for women's rights has too often become synonymous with man-hating.",
@@ -31,12 +45,24 @@
         "자기주장",
         "설득"
       ],
+      "variations": [
+        {
+          "en": "We don't just want to promise better service, but make sure it is tangible to customers.",
+          "ko": "더 나은 서비스를 약속만 하는 게 아니라, 고객이 손에 잡히게 느끼도록 만들려 합니다."
+        },
+        {
+          "en": "Put two numbers on the goal so that the progress stays tangible.",
+          "ko": "진척이 손에 잡히도록 목표에 숫자 두 개를 붙이세요."
+        }
+      ],
       "curated": true
     },
     {
       "id": "speech-watson-heforshe-003",
       "en": "If there is one thing I know for certain, it is that this has to stop.",
       "ko": "제가 확실히 아는 것이 하나 있다면, 이것은 반드시 멈춰야 한다는 사실입니다.",
+      "core": "one thing I know for certain",
+      "coreKo": "제가 확실히 아는 것 하나",
       "note": "If there is one thing I know for certain, it is that ...은 나머지를 다 접어 두고 하나만 세우는 강조 구문. it is that 뒤에 핵심 주장을 넣는다.",
       "contextBefore": "I was appointed six months ago and the more I have spoken about feminism the more I have realized that fighting for women's rights has too often become synonymous with man-hating.",
       "contextAfter": "For the record, feminism by definition is: \"The belief that men and women should have equal rights and opportunities.",
@@ -46,12 +72,24 @@
         "자기주장",
         "설득"
       ],
+      "variations": [
+        {
+          "en": "If there is one thing I know for certain, it is that we cannot ship late.",
+          "ko": "제가 확실히 아는 것이 하나 있다면, 우리가 납기를 넘겨서는 안 된다는 사실입니다."
+        },
+        {
+          "en": "One thing I know for certain is that the client will ask about the price first.",
+          "ko": "제가 확실히 아는 것 하나는, 고객이 가격부터 물어보리라는 겁니다."
+        }
+      ],
       "curated": true
     },
     {
       "id": "speech-watson-heforshe-004",
       "en": "I think it is right that socially I am afforded the same respect as men.",
       "ko": "사회적으로도 제가 남성과 똑같은 존중을 받는 것이 옳다고 생각합니다.",
+      "core": "I am afforded the same respect",
+      "coreKo": "저도 똑같은 존중을 받다",
       "note": "be afforded는 \"(권리·대우를) 받다\"라는 격식 수동태로 be given보다 무게가 있다. I think it is right that ~은 당연한 요구를 부드럽게 눌러 담는 틀.",
       "contextBefore": "I think it is right that women be involved on my behalf in the policies and decision-making of my country.",
       "contextAfter": "But sadly I can say that there is no one country in the world where all women can expect to receive these rights.",
@@ -61,12 +99,24 @@
         "자기주장",
         "설득"
       ],
+      "variations": [
+        {
+          "en": "I think it is right that part-time staff be afforded the same respect as everyone else.",
+          "ko": "시간제로 일하는 분들도 다른 사람과 똑같은 존중을 받는 것이 옳다고 생각합니다."
+        },
+        {
+          "en": "New members should be afforded the same access to the data as the rest of us.",
+          "ko": "새로 온 사람들도 나머지 우리와 똑같이 자료에 접근할 수 있어야 합니다."
+        }
+      ],
       "curated": true
     },
     {
       "id": "speech-watson-heforshe-005",
       "en": "These rights I consider to be human rights but I am one of the lucky ones.",
       "ko": "저는 이 권리들을 인권이라고 봅니다만, 저는 운이 좋은 축에 속합니다.",
+      "core": "I am one of the lucky ones",
+      "coreKo": "저는 운이 좋은 축에 속합니다",
       "note": "목적어 These rights를 문장 맨 앞으로 빼면 \"다른 건 몰라도 이것만은\"이라는 강조가 생긴다. one of the lucky ones는 자기 처지를 낮춰 문제를 남의 일로 돌리지 않게 한다.",
       "contextBefore": "No country in the world can yet say they have achieved gender equality.",
       "contextAfter": "My life is a sheer privilege because my parents didn't love me less because I was born a daughter.",
@@ -75,12 +125,24 @@
       "tags": [
         "자기주장"
       ],
+      "variations": [
+        {
+          "en": "I know I am one of the lucky ones, because my first manager taught me everything.",
+          "ko": "제 첫 상사가 모든 걸 가르쳐 줬으니, 저는 운이 좋은 축에 속한다는 걸 압니다."
+        },
+        {
+          "en": "These conditions I consider normal, but I am one of the lucky ones.",
+          "ko": "저는 이런 조건을 당연한 것으로 여깁니다만, 저는 운이 좋은 축이지요."
+        }
+      ],
       "curated": true
     },
     {
       "id": "speech-watson-heforshe-006",
       "en": "These influencers were the gender equality ambassadors that made me who I am today.",
       "ko": "그분들이 바로 오늘의 저를 만들어 준 성평등의 대사들이었습니다.",
+      "core": "made me who I am today",
+      "coreKo": "오늘의 저를 만들어 주었다",
       "note": "make me who I am today는 \"지금의 나를 만들다\"라는 감사 표현의 정형구. 수상 소감이나 은사에게 드리는 인사에 그대로 옮겨 쓸 수 있다.",
       "contextBefore": "My mentors didn't assume I would go less far because I might give birth to a child one day.",
       "contextAfter": "They may not know it, but they are the inadvertent feminists who are changing the world today.",
@@ -90,12 +152,24 @@
         "스몰토크",
         "설득"
       ],
+      "variations": [
+        {
+          "en": "Those two years on the night shift made me who I am today.",
+          "ko": "야간 근무를 하던 그 이 년이 오늘의 저를 만들었습니다."
+        },
+        {
+          "en": "The people in this room made me who I am today.",
+          "ko": "이 자리에 계신 분들이 오늘의 저를 만들어 주셨습니다."
+        }
+      ],
       "curated": true
     },
     {
       "id": "speech-watson-heforshe-007",
       "en": "They may not know it, but they are the inadvertent feminists who are changing the world today.",
       "ko": "본인들은 모를지 몰라도, 그분들이야말로 오늘 세상을 바꾸고 있는 뜻밖의 페미니스트입니다.",
+      "core": "They may not know it, but",
+      "coreKo": "본인들은 모를지 몰라도",
       "note": "They may not know it, but ~은 상대가 자각하지 못한 공로를 짚어 주는 칭찬 틀. inadvertent는 \"의도치 않은, 본인도 모르게 그렇게 된\"이라는 뜻이다.",
       "contextBefore": "These influencers were the gender equality ambassadors that made me who I am today.",
       "contextAfter": "And we need more of those.",
@@ -105,12 +179,24 @@
         "스몰토크",
         "설득"
       ],
+      "variations": [
+        {
+          "en": "They may not know it, but the support team is what saved this contract.",
+          "ko": "본인들은 모를지 몰라도, 이 계약을 살린 건 지원 팀입니다."
+        },
+        {
+          "en": "She may not know it, but her checklist is now used by every office.",
+          "ko": "본인은 모를지 몰라도, 그분이 만든 점검표를 이제 모든 사무소가 씁니다."
+        }
+      ],
       "curated": true
     },
     {
       "id": "speech-watson-heforshe-008",
       "en": "And if you still hate the word--it is not the word that is important but the idea and the ambition behind it.",
       "ko": "그래도 그 단어가 싫으시다면 말씀드립니다. 중요한 건 단어가 아니라 그 뒤에 있는 생각과 포부입니다.",
+      "core": "not the word that is important",
+      "coreKo": "중요한 건 그 단어가 아니라는 것",
       "note": "It is not A that is important but B는 It is ... that 강조 구문에 대조를 얹은 형태. 용어를 둘러싼 소모적 논쟁을 본질 논의로 되돌릴 때 쓴다.",
       "contextBefore": "And we need more of those.",
       "contextAfter": "Because not all women have been afforded the same rights that I have.",
@@ -120,12 +206,24 @@
         "반박",
         "설득"
       ],
+      "variations": [
+        {
+          "en": "It is not the title that is important but the work behind it.",
+          "ko": "중요한 건 직함이 아니라 그 뒤에 있는 일입니다."
+        },
+        {
+          "en": "It is not the tool that is important but the habit it creates.",
+          "ko": "중요한 건 도구가 아니라 그것이 만들어 내는 습관입니다."
+        }
+      ],
       "curated": true
     },
     {
       "id": "speech-watson-heforshe-009",
       "en": "But what stood out for me the most was that only 30 per cent of her audience were male.",
       "ko": "그런데 제게 가장 인상 깊었던 것은 그 연설의 청중 가운데 30퍼센트만이 남성이었다는 사실입니다.",
+      "core": "what stood out for me the most",
+      "coreKo": "제게 가장 인상 깊었던 것",
       "note": "What stood out for me the most was that ~은 여러 인상 중 하나를 골라 무게를 싣는 강조 구문. 출장 보고나 행사 후기에 바로 쓸 수 있다.",
       "contextBefore": "Sadly many of the things she wanted to change are still a reality today.",
       "contextAfter": "How can we affect change in the world when only half of it is invited or feel welcome to participate in the conversation?",
@@ -135,12 +233,24 @@
         "자기주장",
         "설득"
       ],
+      "variations": [
+        {
+          "en": "What stood out for me the most was how quickly their team answered.",
+          "ko": "제게 가장 인상 깊었던 건 그쪽 팀의 답이 얼마나 빨랐는가였습니다."
+        },
+        {
+          "en": "What stood out for me the most at the fair was the size of the crowd.",
+          "ko": "박람회에서 제게 가장 인상 깊었던 건 몰려든 사람들의 규모였습니다."
+        }
+      ],
       "curated": true
     },
     {
       "id": "speech-watson-heforshe-010",
       "en": "How can we affect change in the world when only half of it is invited or feel welcome to participate in the conversation?",
       "ko": "세상의 절반만이 초대받거나, 대화에 참여해도 환영받는다고 느끼는데, 어떻게 세상에 변화를 이뤄 낼 수 있겠습니까?",
+      "core": "effect change",
+      "coreKo": "변화를 이뤄 내다",
       "note": "How can we ... when ...?은 앞뒤의 모순을 드러내 답을 청중에게 떠넘기는 수사 의문문. 다만 \"변화를 이뤄 내다\"의 표준형은 effect change이고, 원문의 affect change는 흔히 오용으로 지적된다는 점은 알아 둘 것.",
       "contextBefore": "But what stood out for me the most was that only 30 per cent of her audience were male.",
       "contextAfter": "Men--I would like to take this opportunity to extend your formal invitation.",
@@ -150,12 +260,24 @@
         "반박",
         "설득"
       ],
+      "variations": [
+        {
+          "en": "How can we effect change when only half the team is in the room?",
+          "ko": "팀의 절반만 그 자리에 있는데 어떻게 변화를 이뤄 낼 수 있겠습니까?"
+        },
+        {
+          "en": "One department alone cannot effect change across the whole company.",
+          "ko": "한 부서만으로는 회사 전체에 변화를 이뤄 낼 수 없습니다."
+        }
+      ],
       "curated": true
     },
     {
       "id": "speech-watson-heforshe-011",
       "en": "Men--I would like to take this opportunity to extend your formal invitation.",
       "ko": "남성 여러분, 이 자리를 빌려 여러분께 공식적으로 초대의 말씀을 드리고 싶습니다.",
+      "core": "take this opportunity to",
+      "coreKo": "이 자리를 빌려",
       "note": "I would like to take this opportunity to ~는 \"이 자리를 빌려 ~하겠다\"는 격식 표현. 다만 초대는 보통 extend an invitation to you 어순으로 쓴다는 점은 알아 둘 것.",
       "contextBefore": "How can we affect change in the world when only half of it is invited or feel welcome to participate in the conversation?",
       "contextAfter": "Gender equality is your issue too.",
@@ -165,12 +287,24 @@
         "요청",
         "스몰토크"
       ],
+      "variations": [
+        {
+          "en": "I would like to take this opportunity to thank the team that stayed late.",
+          "ko": "이 자리를 빌려 늦게까지 남아 준 팀에 감사드리고 싶습니다."
+        },
+        {
+          "en": "Let me take this opportunity to extend an invitation to all of you.",
+          "ko": "이 자리를 빌려 여러분 모두에게 초대의 말씀을 드리겠습니다."
+        }
+      ],
       "curated": true
     },
     {
       "id": "speech-watson-heforshe-012",
       "en": "Gender equality is your issue too.",
       "ko": "성평등은 여러분의 문제이기도 합니다.",
+      "core": "is your issue too",
+      "coreKo": "그건 여러분의 문제이기도 합니다",
       "note": "X is your issue too는 \"남의 일이 아니다\"라며 선을 지우는 짧은 설득 문장. 문미의 too가 상대를 당사자 안으로 끌어들인다.",
       "contextBefore": "Men--I would like to take this opportunity to extend your formal invitation.",
       "contextAfter": "Because to date, I've seen my father's role as a parent being valued less by society despite my needing his presence as a child as much as my mother's.",
@@ -180,12 +314,24 @@
         "설득",
         "자기주장"
       ],
+      "variations": [
+        {
+          "en": "Quality is your issue too, not just the factory's.",
+          "ko": "품질은 공장만의 문제가 아니라 여러분의 문제이기도 합니다."
+        },
+        {
+          "en": "This deadline is your issue too, even though you didn't set it.",
+          "ko": "이 마감은 여러분이 정한 게 아니어도 여러분의 문제이기도 합니다."
+        }
+      ],
       "curated": true
     },
     {
       "id": "speech-watson-heforshe-013",
       "en": "If men don't have to be aggressive in order to be accepted women won't feel compelled to be submissive.",
       "ko": "남성이 인정받으려고 공격적일 필요가 없어지면, 여성도 순종적이어야 한다는 압박을 느끼지 않게 됩니다.",
+      "core": "feel compelled to",
+      "coreKo": "그렇게 해야 한다는 압박을 느끼다",
       "note": "feel compelled to V는 \"~해야 한다는 압박을 느끼다\"로, 강요한 주체를 굳이 지목하지 않고 상황을 묘사할 때 쓴다. 조건절과 짝을 이루는 대구가 이 문장의 뼈대다.",
       "contextBefore": "We don't often talk about men being imprisoned by gender stereotypes but I can see that that they are and that when they are free, things will change for women as a natural consequence.",
       "contextAfter": "If men don't have to control, women won't have to be controlled.",
@@ -194,12 +340,24 @@
       "tags": [
         "설득"
       ],
+      "variations": [
+        {
+          "en": "If we stop rewarding overtime, nobody will feel compelled to stay late.",
+          "ko": "야근을 보상하지 않으면 아무도 늦게까지 남아야 한다는 압박을 느끼지 않을 겁니다."
+        },
+        {
+          "en": "Nobody should feel compelled to answer emails on a Sunday.",
+          "ko": "일요일에 메일에 답해야 한다는 압박을 느끼는 사람은 없어야 합니다."
+        }
+      ],
       "curated": true
     },
     {
       "id": "speech-watson-heforshe-014",
       "en": "It is time that we all perceive gender on a spectrum not as two opposing sets of ideals.",
       "ko": "이제는 우리 모두가 젠더를 대립하는 두 축이 아니라 하나의 스펙트럼으로 볼 때입니다.",
+      "core": "It is time that we all",
+      "coreKo": "이제는 우리 모두가 그럴 때입니다",
       "note": "It is time that + 주어 + 동사는 \"이제 ~할 때다\"라는 촉구 구문. perceive A as B의 as 자리가 not 뒤로 밀린 어순에 유의할 것.",
       "contextBefore": "Both men and women should feel free to be strong...",
       "contextAfter": "If we stop defining each other by what we are not and start defining ourselves by what we are--we can all be freer and this is what HeForShe is about.",
@@ -209,12 +367,24 @@
         "설득",
         "조언"
       ],
+      "variations": [
+        {
+          "en": "It is time that we all stopped treating the checklist as optional.",
+          "ko": "이제는 우리 모두가 그 점검표를 선택 사항으로 여기는 일을 그만둘 때입니다."
+        },
+        {
+          "en": "It is time that we measured success by what customers keep, not by what we ship.",
+          "ko": "이제는 우리가 내보낸 것이 아니라 고객이 계속 쓰는 것으로 성과를 재야 할 때입니다."
+        }
+      ],
       "curated": true
     },
     {
       "id": "speech-watson-heforshe-015",
       "en": "I want men to take up this mantle.",
       "ko": "저는 남성들이 이 역할을 이어받기를 바랍니다.",
+      "core": "take up this mantle",
+      "coreKo": "그 역할을 이어받다",
       "note": "take up the mantle은 \"앞사람이 지던 역할·책임을 넘겨받다\"라는 관용구. 인수인계나 캠페인 동참을 청할 때 격식 있게 들린다.",
       "contextBefore": "It's about freedom.",
       "contextAfter": "So their daughters, sisters and mothers can be free from prejudice but also so that their sons have permission to be vulnerable and human too--reclaim those parts of themselves they abandoned and in doing so be a more true and complete version of themselves.",
@@ -224,12 +394,24 @@
         "요청",
         "설득"
       ],
+      "variations": [
+        {
+          "en": "I hope someone on the team will take up this mantle when I move on.",
+          "ko": "제가 자리를 옮기면 팀의 누군가가 이 역할을 이어받아 주기를 바랍니다."
+        },
+        {
+          "en": "She took up the mantle after the founder stepped down.",
+          "ko": "창업자가 물러난 뒤에 그분이 그 역할을 이어받았습니다."
+        }
+      ],
       "curated": true
     },
     {
       "id": "speech-watson-heforshe-016",
       "en": "It's a good question and trust me, I have been asking myself the same thing.",
       "ko": "좋은 질문입니다. 그리고 솔직히 저도 스스로에게 같은 질문을 해 왔습니다.",
+      "core": "It's a good question and trust me",
+      "coreKo": "좋은 질문입니다, 그리고 솔직히 말씀드리면",
       "note": "날 선 질문을 방어 대신 공감으로 받아내는 화법. It's a good question으로 한 박자 벌고 trust me로 진심을 얹는 순서를 통째로 익혀 둘 것.",
       "contextBefore": "And what is she doing up on stage at the UN.",
       "contextAfter": "I don't know if I am qualified to be here.",
@@ -239,12 +421,24 @@
         "스몰토크",
         "자기주장"
       ],
+      "variations": [
+        {
+          "en": "It's a good question, and trust me, the team has already asked it twice.",
+          "ko": "좋은 질문입니다. 그리고 솔직히, 팀에서도 이미 두 번이나 나온 질문이에요."
+        },
+        {
+          "en": "It's a good question, and I've been asking myself the same thing all week.",
+          "ko": "좋은 질문입니다. 저도 일주일 내내 스스로에게 같은 질문을 해 왔어요."
+        }
+      ],
       "curated": true
     },
     {
       "id": "speech-watson-heforshe-017",
       "en": "All I know is that I care about this problem.",
       "ko": "제가 아는 건 제가 이 문제에 마음을 쓰고 있다는 것뿐입니다.",
+      "core": "All I know is that",
+      "coreKo": "제가 아는 건 이것뿐입니다",
       "note": "All I know is that ~은 아는 바를 하나로 좁혀 진정성을 드러내는 겸손한 강조. 자격 시비 앞에서 특히 잘 듣는다.",
       "contextBefore": "I don't know if I am qualified to be here.",
       "contextAfter": "And I want to make it better.",
@@ -254,12 +448,24 @@
         "자기주장",
         "설득"
       ],
+      "variations": [
+        {
+          "en": "All I know is that the current process wastes two days every week.",
+          "ko": "제가 아는 건 지금 절차가 매주 이틀을 버리게 한다는 것뿐입니다."
+        },
+        {
+          "en": "I'm not an engineer. All I know is that customers keep calling about it.",
+          "ko": "저는 기술자가 아닙니다. 제가 아는 건 고객들이 계속 그 문제로 전화한다는 것뿐이에요."
+        }
+      ],
       "curated": true
     },
     {
       "id": "speech-watson-heforshe-018",
       "en": "And having seen what I've seen--and given the chance--I feel it is my duty to say something.",
       "ko": "제가 본 것을 본 이상, 그리고 기회를 받은 이상, 무언가 말하는 것이 제 의무라고 느낍니다.",
+      "core": "it is my duty to say something",
+      "coreKo": "무언가 말하는 것이 제 의무입니다",
       "note": "having seen ...은 이유를 나타내는 완료 분사구문. I feel it is my duty to V는 나서는 이유를 의무로 돌려, 주제넘게 들리지 않게 한다.",
       "contextBefore": "And I want to make it better.",
       "contextAfter": "English Statesman Edmund Burke said: \"All that is needed for the forces of evil to triumph is for enough good men and women to do nothing.\"",
@@ -269,12 +475,24 @@
         "자기주장",
         "설득"
       ],
+      "variations": [
+        {
+          "en": "Having seen the figures, I feel it is my duty to say something before the vote.",
+          "ko": "그 수치를 본 이상, 표결 전에 무언가 말하는 것이 제 의무라고 느낍니다."
+        },
+        {
+          "en": "It is my duty to say something when a safety rule is being ignored.",
+          "ko": "안전 규정이 무시되고 있을 때 무언가 말하는 것이 제 의무입니다."
+        }
+      ],
       "curated": true
     },
     {
       "id": "speech-watson-heforshe-019",
       "en": "And for this I applaud you.",
       "ko": "그리고 이 점에 대해 저는 여러분께 박수를 보냅니다.",
+      "core": "for this I applaud you",
+      "coreKo": "바로 이 점에 대해 박수를 보냅니다",
       "note": "for this를 문장 앞으로 빼 \"바로 이 점에 대해\"를 강조한 격식 칭찬. applaud는 실제로 박수를 치지 않아도 \"높이 평가한다\"는 뜻으로 쓴다.",
       "contextBefore": "If you believe in equality, you might be one of those inadvertent feminists I spoke of earlier.",
       "contextAfter": "We are struggling for a uniting word but the good news is we have a uniting movement.",
@@ -283,12 +501,24 @@
       "tags": [
         "스몰토크"
       ],
+      "variations": [
+        {
+          "en": "You told the client about the delay before they asked, and for this I applaud you.",
+          "ko": "고객이 묻기 전에 먼저 지연을 알리셨죠. 바로 이 점에 대해 박수를 보냅니다."
+        },
+        {
+          "en": "The team fixed it over the weekend, and for that I applaud them.",
+          "ko": "팀이 주말 사이에 그걸 고쳐 냈습니다. 바로 그 점에 대해 저는 박수를 보냅니다."
+        }
+      ],
       "curated": true
     },
     {
       "id": "speech-watson-heforshe-020",
       "en": "I am inviting you to step forward, to be seen to speak up, to be the \"he\" for \"she\".",
       "ko": "저는 여러분께 앞으로 나서 달라고, 드러나게 목소리를 내 달라고, 그녀를 위한 그가 되어 달라고 청합니다.",
+      "core": "I am inviting you to step forward",
+      "coreKo": "여러분께 앞으로 나서 달라고 청합니다",
       "note": "to부정사 세 개를 나란히 놓아 요청을 점층시키는 구조. step forward(나서다), speak up(목소리를 내다)은 캠페인·모금 연설의 단골 짝이다.",
       "contextBefore": "It is called HeForShe.",
       "contextAfter": "And to ask yourself if not me, who?",
@@ -298,12 +528,24 @@
         "요청",
         "설득"
       ],
+      "variations": [
+        {
+          "en": "I am inviting you to step forward, to take the lead, to make this your own.",
+          "ko": "여러분께 앞으로 나서 달라고, 앞장서 달라고, 이 일을 여러분의 것으로 만들어 달라고 청합니다."
+        },
+        {
+          "en": "We are inviting every team to step forward and name one thing they will fix.",
+          "ko": "저희는 모든 팀에 앞으로 나서서 고칠 것 한 가지를 말해 달라고 청하고 있습니다."
+        }
+      ],
       "curated": true
     },
     {
       "id": "speech-watson-heforshe-021",
       "en": "If not now, when?",
       "ko": "지금이 아니면 언제겠습니까?",
+      "core": "If not now, when?",
+      "coreKo": "지금이 아니면 언제겠습니까",
       "note": "앞의 If not me, who?와 짝을 이루는 수사 의문문. 생략을 극단까지 밀어붙여 결단을 재촉하는 마무리 화법이다.",
       "contextBefore": "And to ask yourself if not me, who?",
       "contextAfter": "Thank you.",
@@ -312,6 +554,16 @@
       "tags": [
         "압박",
         "설득"
+      ],
+      "variations": [
+        {
+          "en": "We've been putting this off for two years. If not now, when?",
+          "ko": "이 일을 이 년이나 미뤄 왔습니다. 지금이 아니면 언제겠습니까?"
+        },
+        {
+          "en": "If not us, who? If not now, when?",
+          "ko": "우리가 아니면 누가 하겠습니까? 지금이 아니면 언제겠습니까?"
+        }
       ],
       "curated": true
     }
