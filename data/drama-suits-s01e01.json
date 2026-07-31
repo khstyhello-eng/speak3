@@ -7,6 +7,8 @@
       "id": "suits-s01e01-001",
       "en": "And you're telling me I'm going to get screwed?",
       "ko": "그런데 지금 내가 당하게 될 거라는 말씀입니까?",
+      "core": "get screwed",
+      "coreKo": "당하다, 손해를 뒤집어쓰다",
       "note": "돈을 지불한 쪽이 불리한 상황을 통보받았을 때 쓰는 강한 항의. get screwed는 '뒤통수 맞다·당하다'는 뜻의 구어로, 격식 자리에선 get a bad deal로 바꿔 쓸 수 있다.",
       "contextBefore": "I'm paying you millions.",
       "contextAfter": "Jessica, have I come at a bad time?",
@@ -16,12 +18,24 @@
         "압박",
         "갈등"
       ],
+      "variations": [
+        {
+          "en": "If we sign this today, are we going to get screwed on the renewal?",
+          "ko": "오늘 이걸 서명하면 갱신 때 우리가 당하는 거 아닌가요?"
+        },
+        {
+          "en": "Our team got screwed on the delivery date, and nobody warned us.",
+          "ko": "우리 팀이 납기 문제로 당했는데 아무도 미리 알려 주지 않았어요."
+        }
+      ],
       "curated": true
     },
     {
       "id": "suits-s01e01-002",
       "en": "So, I'm just trying to figure out what happened in the interim.",
       "ko": "그래서 그 사이에 무슨 일이 있었는지 파악해 보려는 겁니다.",
+      "core": "what happened in the interim",
+      "coreKo": "그 사이에 무슨 일이 있었는지",
       "note": "책임을 따지기 전에 사실관계부터 확인하겠다는 침착한 태도. in the interim(그 사이에)은 회의·메일에서 바로 쓸 수 있는 격식 표현이다.",
       "contextBefore": "Well, Gerald, I specialize in troubled situations, and when I left here at 7:00 p. m. this deal wasn't in jeopardy.",
       "contextAfter": "We keep offering more money.",
@@ -31,12 +45,24 @@
         "자기주장",
         "협상"
       ],
+      "variations": [
+        {
+          "en": "I was on leave last week, so tell me what happened in the interim.",
+          "ko": "지난주에 자리를 비웠으니, 그 사이에 무슨 일이 있었는지 알려 주세요."
+        },
+        {
+          "en": "The contract was fine on Friday, so what happened in the interim?",
+          "ko": "금요일까지는 계약에 문제가 없었는데, 그 사이에 무슨 일이 있었던 겁니까?"
+        }
+      ],
       "curated": true
     },
     {
       "id": "suits-s01e01-003",
       "en": "Well, I think you do, because that's what's changed since I left, which means it's you who's been dealing in bad faith.",
       "ko": "아니요, 신경 쓰시죠. 제가 나간 뒤에 바뀐 게 바로 그거니까요. 결국 불성실하게 나온 쪽은 그쪽입니다.",
+      "core": "dealing in bad faith",
+      "coreKo": "불성실하게 임하다",
       "note": "상대의 부인을 정면으로 뒤집는 반박. deal in bad faith는 계약·협상에서 '불성실하게 임하다'라는 굳어진 표현이라 그대로 외워 두면 좋다.",
       "contextBefore": "I don't give a shit.",
       "contextAfter": "Well, now that you've got a grasp on what's happened in the goddamn interim, what are you going to do about it? Because he's not getting that title.",
@@ -46,12 +72,24 @@
         "반박",
         "갈등"
       ],
+      "variations": [
+        {
+          "en": "If they keep changing the terms after we agreed, they're dealing in bad faith.",
+          "ko": "합의한 뒤에도 조건을 계속 바꾼다면 그쪽이 불성실하게 임하는 겁니다."
+        },
+        {
+          "en": "I'm not accusing anyone of dealing in bad faith, but these numbers don't match.",
+          "ko": "누구를 불성실하다고 몰려는 건 아닙니다만, 이 숫자들이 맞지 않습니다."
+        }
+      ],
       "curated": true
     },
     {
       "id": "suits-s01e01-004",
       "en": "First of all, Gerald, if you think anyone is going to touch this deal after your bad faith, you're mistaken.",
       "ko": "우선, 그런 식으로 나온 뒤에 이 건을 맡아 줄 사람이 있을 거라고 생각하신다면 오산입니다.",
+      "core": "you're mistaken",
+      "coreKo": "그건 오산입니다",
       "note": "if you think..., you're mistaken은 상대의 착각을 딱 잘라 끊는 정중하면서도 단호한 반박 틀. 반론을 조목조목 낼 때 First of all로 시작하면 구조가 잡힌다.",
       "contextBefore": "Or I'll pay someone else your money to do it for me.",
       "contextAfter": "Second, the way our agreement works is the minute Cooper signed the deal which gave you everything you wanted, our fee was due and payable.",
@@ -61,12 +99,24 @@
         "반박",
         "압박"
       ],
+      "variations": [
+        {
+          "en": "If you think the client will wait another month, you're mistaken.",
+          "ko": "고객이 한 달을 더 기다려 줄 거라고 보신다면 오산입니다."
+        },
+        {
+          "en": "If you think this was an easy call for me, you're mistaken.",
+          "ko": "저한테 이게 쉬운 결정이었다고 생각하신다면 오산입니다."
+        }
+      ],
       "curated": true
     },
     {
       "id": "suits-s01e01-005",
       "en": "Because a charging bull always looks at the red cape, not at the man with the sword.",
       "ko": "돌진하는 소는 칼을 든 사람이 아니라 늘 빨간 천만 보거든요.",
+      "core": "looks at the red cape, not at the man with the sword",
+      "coreKo": "칼 든 사람이 아니라 빨간 천만 본다",
       "note": "상대의 시선을 엉뚱한 곳으로 돌려 놓았다는 비유. 협상에서 '왜 통했냐'는 질문에 원리를 비유로 답하면 설득력이 올라간다.",
       "contextBefore": "How did you know Gerald wouldn't look at that memo?",
       "contextAfter": "By the way, I've set up a meeting for you and John Dockery next week.",
@@ -76,12 +126,24 @@
         "설득",
         "조언"
       ],
+      "variations": [
+        {
+          "en": "An angry customer looks at the refund, not at the fix behind it.",
+          "ko": "화가 난 고객은 뒤에 있는 해결책이 아니라 환불만 봅니다."
+        },
+        {
+          "en": "The board looks at the headline number, not at the assumptions underneath it.",
+          "ko": "이사회는 그 밑에 깔린 가정이 아니라 눈에 띄는 숫자만 봅니다."
+        }
+      ],
       "curated": true
     },
     {
       "id": "suits-s01e01-006",
       "en": "I want you to close him.",
       "ko": "그 사람 계약까지 마무리 지어 줘요.",
+      "core": "close him",
+      "coreKo": "그 사람 계약을 성사시키다",
       "note": "close는 영업·협상에서 '거래를 성사시키다'는 뜻. I want you to는 상사가 부하에게 쓰는 부드럽지만 분명한 지시 형식이다.",
       "contextBefore": "Plays tennis.",
       "contextAfter": "Consider it done.",
@@ -90,12 +152,24 @@
       "tags": [
         "지시"
       ],
+      "variations": [
+        {
+          "en": "Take him to lunch, answer his questions, and close him this week.",
+          "ko": "점심 한번 대접하고 궁금한 것도 풀어 준 다음, 이번 주에 계약을 성사시켜요."
+        },
+        {
+          "en": "She's ready to sign, so go ahead and close her tomorrow.",
+          "ko": "그쪽은 서명할 준비가 됐으니 내일 가서 계약을 마무리 지으세요."
+        }
+      ],
       "curated": true
     },
     {
       "id": "suits-s01e01-007",
       "en": "Consider it done.",
       "ko": "이미 된 거나 마찬가지입니다.",
+      "core": "Consider it done",
+      "coreKo": "이미 된 거나 마찬가지입니다",
       "note": "지시를 받았을 때 '알겠습니다'보다 훨씬 자신감 있게 들리는 세 단어. 실제 업무 메일 답장에도 그대로 쓸 수 있다.",
       "contextBefore": "I want you to close him.",
       "contextAfter": "Then you are officially dismissed for the evening.",
@@ -105,12 +179,24 @@
         "자기주장",
         "요청"
       ],
+      "variations": [
+        {
+          "en": "You need the report by Friday? Consider it done.",
+          "ko": "금요일까지 보고서가 필요하시다고요? 이미 된 거나 마찬가지입니다."
+        },
+        {
+          "en": "Consider it done. I'll send the revised quote before lunch.",
+          "ko": "다 된 거나 마찬가지입니다. 수정 견적서는 점심 전에 보내 드릴게요."
+        }
+      ],
       "curated": true
     },
     {
       "id": "suits-s01e01-008",
       "en": "And I want you to promise you're going to start living up to your potential.",
       "ko": "그리고 이제부터는 네 능력에 걸맞게 살겠다고 약속해 줘.",
+      "core": "living up to your potential",
+      "coreKo": "네 잠재력에 걸맞게 해내다",
       "note": "live up to one's potential은 '가진 잠재력만큼 해내다'라는 관용구. 후배나 팀원에게 기대를 담아 조언할 때 유용하다.",
       "contextBefore": "I know life has been hard for you, but you're not a kid anymore.",
       "contextAfter": "I promise.",
@@ -120,12 +206,24 @@
         "조언",
         "요청"
       ],
+      "variations": [
+        {
+          "en": "I hired you because I knew you would live up to your potential.",
+          "ko": "자네가 잠재력에 걸맞게 해낼 사람이라고 믿었기에 뽑은 거예요."
+        },
+        {
+          "en": "This project is your chance to live up to the potential everyone talks about.",
+          "ko": "이번 프로젝트가 다들 말하는 그 잠재력에 걸맞게 해낼 기회예요."
+        }
+      ],
       "curated": true
     },
     {
       "id": "suits-s01e01-009",
       "en": "Because when you put two bullies in the same room together, things generally don't go so well.",
       "ko": "센 사람 둘을 한 방에 몰아 넣으면 대개 좋게 끝나지 않으니까요.",
+      "core": "things generally don't go so well",
+      "coreKo": "대개 좋게 끝나지 않는다",
       "note": "왜 그 사람을 안 보냈는지를 일반론으로 돌려 설명하는 완곡한 화법. things don't go so well은 '상황이 잘 안 풀리다'의 부드러운 표현이다.",
       "contextBefore": "Why?",
       "contextAfter": "It's 9:30.",
@@ -135,12 +233,24 @@
         "설득",
         "조언"
       ],
+      "variations": [
+        {
+          "en": "When two teams own the same budget, things generally don't go so well.",
+          "ko": "두 팀이 같은 예산을 나눠 맡으면 대개 좋게 끝나지 않아요."
+        },
+        {
+          "en": "If you answer that email while you're still angry, things won't go so well.",
+          "ko": "화가 가라앉기 전에 그 메일에 답장하면 상황이 좋게 흘러가지 않을 거예요."
+        }
+      ],
       "curated": true
     },
     {
       "id": "suits-s01e01-010",
       "en": "Nice of you to show up two hours after we open for business.",
       "ko": "업무 시작하고 두 시간이나 지나서 나타나 주시니 참 고맙네요.",
+      "core": "Nice of you to show up",
+      "coreKo": "이제야 나타나 주시니 고맙네요",
       "note": "Nice of you to...는 칭찬 형식을 빌린 비꼬기. 지각·늑장 대응을 지적할 때 직접 화내지 않고 찌르는 전형적인 오피스 화법이다.",
       "contextBefore": "It's 9:30.",
       "contextAfter": "And I see that you're also trying to look like a pimp.",
@@ -150,12 +260,24 @@
         "압박",
         "갈등"
       ],
+      "variations": [
+        {
+          "en": "Nice of you to join us, now that the hard part is over.",
+          "ko": "힘든 건 다 끝난 마당에 합류해 주시니 고맙네요."
+        },
+        {
+          "en": "Nice of you to answer my email three weeks after I sent it.",
+          "ko": "제가 보낸 지 삼 주 만에 메일에 답을 주시니 참 고맙네요."
+        }
+      ],
       "curated": true
     },
     {
       "id": "suits-s01e01-011",
       "en": "I think if you listen to the phrasing of that question, you'll come up with an answer.",
       "ko": "본인 질문을 그대로 다시 들어 보면 답이 나올 것 같은데요.",
+      "core": "come up with an answer",
+      "coreKo": "스스로 답을 찾아내다",
       "note": "직접 반박하지 않고 상대가 스스로 깨닫게 만드는 고급 대응. 무례한 질문을 받았을 때 품위를 지키며 되돌려 주는 방법이다.",
       "contextBefore": "Why don't we just hire the Harvard summer associate douche?",
       "contextAfter": "We need people who think on their feet, not another clone with a rod up his ass.",
@@ -165,12 +287,24 @@
         "반박",
         "설득"
       ],
+      "variations": [
+        {
+          "en": "Read your own proposal once more and you'll come up with an answer.",
+          "ko": "본인 제안서를 한 번만 더 읽어 보시면 답이 나올 겁니다."
+        },
+        {
+          "en": "Give the team one quiet hour and they'll come up with an answer.",
+          "ko": "팀에 방해 없는 한 시간만 주면 알아서 답을 찾아낼 거예요."
+        }
+      ],
       "curated": true
     },
     {
       "id": "suits-s01e01-012",
       "en": "Well, I would, Harvey, except all senior partners get an associate.",
       "ko": "그러고 싶지만, 시니어 파트너는 전원 어소시에이트를 두게 돼 있어요.",
+      "core": "I would, except",
+      "coreKo": "그러고 싶지만 이런 사정이 있어서요",
       "note": "I would, except...는 '해 주고는 싶은데 이런 사정이 있다'며 부드럽게 거절하는 틀. 규정 때문에 안 된다고 말할 때 쓰기 좋다.",
       "contextBefore": "Can we please skip the recruiting? I work better alone, anyway.",
       "contextAfter": "It's just a rule.",
@@ -180,12 +314,24 @@
         "거절",
         "설득"
       ],
+      "variations": [
+        {
+          "en": "I would move the deadline, except the client already announced the launch date.",
+          "ko": "마감을 미뤄 드리고 싶지만, 고객이 이미 출시일을 발표해 버렸어요."
+        },
+        {
+          "en": "I would approve it myself, except a request this size needs two signatures.",
+          "ko": "제 선에서 승인해 드리고 싶지만, 이 규모의 요청은 서명이 둘 필요합니다."
+        }
+      ],
       "curated": true
     },
     {
       "id": "suits-s01e01-013",
       "en": "And I'm here night and day doing whatever's needed instead of swanning in and out of here whenever I please.",
       "ko": "저는 밤낮없이 필요한 일은 다 하고 있어요. 내키는 대로 들락거리는 사람하고는 다르죠.",
+      "core": "I'm here night and day",
+      "coreKo": "저는 밤낮없이 여기 붙어 있습니다",
       "note": "자기 기여를 내세우며 상대와 대비시키는 전형적인 승진 어필. instead of -ing로 비교 대상을 붙이면 주장이 훨씬 선명해진다.",
       "contextBefore": "My billables destroy his.",
       "contextAfter": "I must admit, he does make me sound very swan-like.",
@@ -195,12 +341,24 @@
         "자기주장",
         "갈등"
       ],
+      "variations": [
+        {
+          "en": "I'm here night and day while he takes long weekends off.",
+          "ko": "그 사람이 주말을 길게 쉬는 동안 저는 밤낮없이 여기 붙어 있어요."
+        },
+        {
+          "en": "She was here night and day the week before the audit.",
+          "ko": "감사 직전 주에 그분은 밤낮없이 자리를 지켰습니다."
+        }
+      ],
       "curated": true
     },
     {
       "id": "suits-s01e01-014",
       "en": "I was out of line.",
       "ko": "제가 선을 넘었습니다.",
+      "core": "I was out of line",
+      "coreKo": "제가 선을 넘었습니다",
       "note": "out of line은 '도를 넘은·부적절한'이라는 뜻. 짧지만 자기 잘못을 정확히 인정하는 사과라 회의 후 수습용으로 매우 실용적이다.",
       "contextBefore": "Louis, I apologize.",
       "contextAfter": "Now, if you'll just let me text your pretend wife that I just made senior partner, I What? Your grandmother's getting worse.",
@@ -209,12 +367,24 @@
       "tags": [
         "사과"
       ],
+      "variations": [
+        {
+          "en": "I was out of line in the meeting, and I owe you an apology.",
+          "ko": "회의에서 제가 선을 넘었습니다. 사과드릴 일이에요."
+        },
+        {
+          "en": "If I was out of line yesterday, tell me and I'll make it right.",
+          "ko": "어제 제가 선을 넘었다면 말씀해 주세요, 바로잡겠습니다."
+        }
+      ],
       "curated": true
     },
     {
       "id": "suits-s01e01-015",
       "en": "Take it or leave it.",
       "ko": "받아들이시든지 말든지 하세요.",
+      "core": "Take it or leave it",
+      "coreKo": "받아들이시든지 말든지 하세요",
       "note": "더 이상 조정은 없다는 최종 제안 선언. 강한 압박이라 정말 물러설 생각이 없을 때만 써야 한다.",
       "contextBefore": "I want 25.",
       "contextAfter": "I'll take it.",
@@ -224,12 +394,24 @@
         "협상",
         "압박"
       ],
+      "variations": [
+        {
+          "en": "That's the best schedule we can offer. Take it or leave it.",
+          "ko": "저희가 드릴 수 있는 최선의 일정입니다. 받아들이시든지 말든지 하세요."
+        },
+        {
+          "en": "I'll take on the extra work, but my fee goes up. Take it or leave it.",
+          "ko": "추가 업무는 맡겠지만 비용은 올라갑니다. 받아들이시든지 마시든지요."
+        }
+      ],
       "curated": true
     },
     {
       "id": "suits-s01e01-016",
       "en": "That's a hell of a lot to ask, man.",
       "ko": "그건 너무 많은 걸 요구하는 거잖아.",
+      "core": "a hell of a lot to ask",
+      "coreKo": "너무 많은 걸 요구하는 것",
       "note": "요구가 과하다고 받아치는 구어 표현. 격식 자리에서는 That's asking a lot으로 순화해서 쓰면 된다.",
       "contextBefore": "So, shave, comb your hair, buy a suit.",
       "contextAfter": "Well, I'm not asking you.",
@@ -239,12 +421,24 @@
         "반박",
         "협상"
       ],
+      "variations": [
+        {
+          "en": "Two days for a full redesign? That's a hell of a lot to ask.",
+          "ko": "전면 재설계를 이틀 만에요? 그건 너무 많은 걸 요구하는 겁니다."
+        },
+        {
+          "en": "Moving cities on one week's notice is a hell of a lot to ask.",
+          "ko": "일주일 통보하고 다른 도시로 옮기라는 건 너무 많은 걸 요구하는 거예요."
+        }
+      ],
       "curated": true
     },
     {
       "id": "suits-s01e01-017",
       "en": "What if I told you that I consume knowledge like no one you've ever met and I've actually passed the bar?",
       "ko": "제가 누구보다 지식을 빨아들이는 사람이고, 실제로 변호사 시험도 붙었다고 하면요?",
+      "core": "What if I told you",
+      "coreKo": "만약 제가 이렇게 말씀드린다면요",
       "note": "What if I told you...?는 상대의 전제를 흔들며 관심을 끌어내는 강력한 오프닝. 면접이나 피칭에서 판을 뒤집을 때 쓴다.",
       "contextBefore": "And you not only did not go to Harvard Law School, you haven't even gone to any law school.",
       "contextAfter": "I'd say you're full of crap.",
@@ -254,12 +448,24 @@
         "설득",
         "자기주장"
       ],
+      "variations": [
+        {
+          "en": "What if I told you we could cut the timeline in half?",
+          "ko": "일정을 절반으로 줄일 수 있다고 말씀드리면 어떻겠습니까?"
+        },
+        {
+          "en": "What if I told you the same vendor quoted us half that price last year?",
+          "ko": "같은 업체가 작년에 그 절반 가격을 불렀다고 하면요?"
+        }
+      ],
       "curated": true
     },
     {
       "id": "suits-s01e01-018",
       "en": "If you want to beat me, you're going to have to do it at something else.",
       "ko": "저를 이기고 싶으시면 다른 걸로 붙으셔야 할 겁니다.",
+      "core": "If you want to beat me",
+      "coreKo": "저를 이기고 싶으시면",
       "note": "실력 대결에서 밀리지 않겠다는 여유 있는 도발. beat me at something(어떤 분야에서 나를 이기다)의 전치사 at을 그대로 익혀 두자.",
       "contextBefore": "Sorry.",
       "contextAfter": "How can you know all that? I told you.",
@@ -269,12 +475,24 @@
         "자기주장",
         "반박"
       ],
+      "variations": [
+        {
+          "en": "If you want to beat me at negotiation, you'll need better numbers than that.",
+          "ko": "협상으로 저를 이기시려면 그것보다 나은 숫자를 들고 오셔야죠."
+        },
+        {
+          "en": "If you want to beat her at presenting, you'll have to practice a lot more.",
+          "ko": "발표로 그분을 이기고 싶으시면 훨씬 더 연습하셔야 할 겁니다."
+        }
+      ],
       "curated": true
     },
     {
       "id": "suits-s01e01-019",
       "en": "I'm inclined to give you a shot but what if I decide to go another way?",
       "ko": "기회를 줄 마음은 있는데, 제가 다른 쪽으로 가기로 하면요?",
+      "core": "I'm inclined to give you a shot",
+      "coreKo": "기회를 줄 마음은 있습니다",
       "note": "be inclined to는 '~하는 쪽으로 마음이 기운다'는 완곡한 긍정, go another way는 '다른 선택을 하다'는 우회 표현. 결정을 미루며 상대를 떠보는 협상 화법이다.",
       "contextBefore": "You give me this, and I will work as hard as it takes to school those Harvard douches and become the best lawyer you have ever seen.",
       "contextAfter": "I'd say that's fair.",
@@ -284,12 +502,24 @@
         "협상",
         "압박"
       ],
+      "variations": [
+        {
+          "en": "I'm inclined to approve the budget, but I want last quarter's numbers first.",
+          "ko": "예산을 승인하는 쪽으로 마음이 기울지만, 지난 분기 숫자부터 보고 싶습니다."
+        },
+        {
+          "en": "We're inclined to renew with you, though the board hasn't decided yet.",
+          "ko": "저희는 재계약 쪽으로 마음이 기울어 있습니다만, 아직 이사회가 정하진 않았어요."
+        }
+      ],
       "curated": true
     },
     {
       "id": "suits-s01e01-020",
       "en": "We can get it out of the way that I am not interested.",
       "ko": "저는 관심 없다는 것부터 먼저 정리하고 가죠.",
+      "core": "get it out of the way",
+      "coreKo": "거추장스러운 얘기를 미리 정리해 두다",
       "note": "get it out of the way는 '거추장스러운 얘기를 미리 처리하다'. 껄끄러운 주제를 먼저 꺼내 정리할 때 쓰면 프로페셔널하게 들린다.",
       "contextBefore": "You've hit on me.",
       "contextAfter": "No.",
@@ -299,12 +529,24 @@
         "거절",
         "자기주장"
       ],
+      "variations": [
+        {
+          "en": "Let's get the budget question out of the way before the demo starts.",
+          "ko": "시연 시작하기 전에 예산 얘기부터 미리 정리하고 가죠."
+        },
+        {
+          "en": "I want to get one thing out of the way: the deadline can't move.",
+          "ko": "한 가지부터 정리하고 가겠습니다. 마감은 옮길 수 없어요."
+        }
+      ],
       "curated": true
     },
     {
       "id": "suits-s01e01-021",
       "en": "I'm not going to repeat myself.",
       "ko": "같은 말 두 번 안 합니다.",
+      "core": "I'm not going to repeat myself",
+      "coreKo": "같은 말 두 번 안 합니다",
       "note": "repeat myself는 '같은 말을 되풀이하다'. 지시를 내리며 집중을 요구할 때 쓰는 짧고 단호한 압박 표현이다.",
       "contextBefore": "Take notes.",
       "contextAfter": "I love you.",
@@ -314,12 +556,24 @@
         "지시",
         "압박"
       ],
+      "variations": [
+        {
+          "en": "Write this down, because I'm not going to repeat myself.",
+          "ko": "받아 적으세요, 같은 말 두 번 안 할 테니까요."
+        },
+        {
+          "en": "I've put it in writing twice, and I'm not going to repeat myself again.",
+          "ko": "서면으로 두 번 말씀드렸고, 더는 같은 말 반복하지 않겠습니다."
+        }
+      ],
       "curated": true
     },
     {
       "id": "suits-s01e01-022",
       "en": "You have been here for five years and just because I outrank you does not mean I have the authority to command your services.",
       "ko": "여기서 5년 일하셨고, 제가 직급이 높다고 해서 그쪽 일을 마음대로 시킬 권한이 있는 건 아니죠.",
+      "core": "just because I outrank you",
+      "coreKo": "제 직급이 높다고 해서",
       "note": "just because A does not mean B는 '~라고 해서 ~인 건 아니다'라는 반박 구문의 정석. 직급과 권한을 구분해 말하는 성숙한 태도를 보여 준다.",
       "contextBefore": "I answer to Harvey and Louis Litt, and judging by the way you responded to my questions, I should admire Harvey and I should fear Louis.",
       "contextAfter": "Oh.",
@@ -329,12 +583,24 @@
         "자기주장",
         "반박"
       ],
+      "variations": [
+        {
+          "en": "Just because we paid for the study doesn't mean we can ignore what it says.",
+          "ko": "우리가 그 조사 비용을 댔다고 해서 결과를 무시해도 되는 건 아니죠."
+        },
+        {
+          "en": "Just because he's the loudest in the room doesn't mean he's right.",
+          "ko": "그 사람 목소리가 제일 크다고 해서 그 말이 옳은 건 아닙니다."
+        }
+      ],
       "curated": true
     },
     {
       "id": "suits-s01e01-023",
       "en": "You know what nobody likes? Nobody likes a show-off.",
       "ko": "다들 뭘 싫어하는지 아세요? 잘난 척하는 사람이요.",
+      "core": "You know what nobody likes",
+      "coreKo": "다들 뭘 싫어하는지 아세요",
       "note": "You know what...? 로 한 박자 끌고 정답을 던지는 리듬이 핵심. 가볍게 상대를 찌를 때 쓰는 사무실 농담 화법이다.",
       "contextBefore": "It's also pretty clear that you think you're too smart to be a paralegal.",
       "contextAfter": "You used the word \"ogling. \" I mean When do I get to see Harvey?",
@@ -344,12 +610,24 @@
         "반박",
         "갈등"
       ],
+      "variations": [
+        {
+          "en": "You know what nobody likes? A meeting that could have been an email.",
+          "ko": "다들 뭘 싫어하는지 아세요? 메일 한 통이면 될 회의요."
+        },
+        {
+          "en": "You know what nobody likes? Hearing the bad news from someone else first.",
+          "ko": "다들 뭘 싫어하는지 아세요? 나쁜 소식을 남한테서 먼저 전해 듣는 거요."
+        }
+      ],
       "curated": true
     },
     {
       "id": "suits-s01e01-024",
       "en": "And you didn't seem to mind so much when you thought I got away with it.",
       "ko": "제가 무사히 넘어간 줄 아셨을 땐 별로 신경 안 쓰시던데요.",
+      "core": "got away with it",
+      "coreKo": "무사히 넘어갔다",
       "note": "결과가 나빠지자 태도를 바꾼 상대의 이중잣대를 짚는 반박. get away with it(무사히 넘어가다)은 회의에서도 자주 쓰인다.",
       "contextBefore": "I lied to him to get him to do the right thing and honor his goddamn contract.",
       "contextAfter": "But you didn't get away with it.",
@@ -359,12 +637,24 @@
         "반박",
         "갈등"
       ],
+      "variations": [
+        {
+          "en": "Don't assume you got away with it just because nobody said anything.",
+          "ko": "아무도 말을 안 했다고 해서 무사히 넘어간 걸로 생각하지 마세요."
+        },
+        {
+          "en": "We got away with it last quarter, but the auditor will catch it this time.",
+          "ko": "지난 분기엔 무사히 넘어갔지만, 이번엔 감사에서 걸릴 겁니다."
+        }
+      ],
       "curated": true
     },
     {
       "id": "suits-s01e01-025",
       "en": "And I can't justify handing you a promotion on the same day that you lose a huge client.",
       "ko": "큰 고객을 잃은 바로 그날 승진을 시켜 줄 명분이 저한테는 없어요.",
+      "core": "I can't justify",
+      "coreKo": "그럴 명분이 저한테는 없습니다",
       "note": "I can't justify -ing는 '~할 명분이 없다'는 거절의 정석. 감정이 아니라 정당화 가능성으로 거절하니 반박하기 어렵다.",
       "contextBefore": "But you didn't get away with it.",
       "contextAfter": "One client doesn't make a firm.",
@@ -374,12 +664,24 @@
         "거절",
         "압박"
       ],
+      "variations": [
+        {
+          "en": "I can't justify another hire while three projects are on hold.",
+          "ko": "프로젝트 세 건이 멈춰 있는데 사람을 더 뽑을 명분이 없어요."
+        },
+        {
+          "en": "I can't justify sending four people abroad for a one-hour meeting.",
+          "ko": "한 시간짜리 회의에 네 명을 해외로 보낼 명분이 없습니다."
+        }
+      ],
       "curated": true
     },
     {
       "id": "suits-s01e01-026",
       "en": "One client doesn't make a firm.",
       "ko": "고객 하나가 회사를 좌우하진 않습니다.",
+      "core": "One client doesn't make a firm",
+      "coreKo": "고객 하나가 회사를 좌우하진 않는다",
       "note": "'A 하나가 B를 결정하진 않는다'는 반박 틀. One bad quarter doesn't make a year처럼 응용 폭이 넓다.",
       "contextBefore": "And I can't justify handing you a promotion on the same day that you lose a huge client.",
       "contextAfter": "I don't know if you've noticed, but we're in the middle of an economic meltdown.",
@@ -389,12 +691,24 @@
         "반박",
         "자기주장"
       ],
+      "variations": [
+        {
+          "en": "One bad quarter doesn't make a bad year.",
+          "ko": "한 분기 부진했다고 한 해가 망하는 건 아닙니다."
+        },
+        {
+          "en": "One complaint doesn't make a pattern, so let's wait for more data.",
+          "ko": "불만 하나가 흐름을 만드는 건 아니니, 자료가 더 쌓일 때까지 기다립시다."
+        }
+      ],
       "curated": true
     },
     {
       "id": "suits-s01e01-027",
       "en": "Companies aren't exactly lining up to spend money on attorneys right now.",
       "ko": "요즘 변호사한테 돈 쓰겠다고 줄 서는 회사는 없어요.",
+      "core": "aren't exactly lining up to",
+      "coreKo": "딱히 줄 서서 하려 들지는 않는다",
       "note": "not exactly는 '딱히 ~은 아니다'라는 완곡한 부정. line up to는 '~하려고 줄을 서다', 즉 수요가 넘친다는 뜻이라 시장 상황을 말할 때 유용하다.",
       "contextBefore": "I don't know if you've noticed, but we're in the middle of an economic meltdown.",
       "contextAfter": "And you know, Gerald might have forgiven the lying had you not humiliated him.",
@@ -404,12 +718,24 @@
         "반박",
         "설득"
       ],
+      "variations": [
+        {
+          "en": "Investors aren't exactly lining up to fund hardware companies this year.",
+          "ko": "올해 하드웨어 회사에 돈을 대겠다고 줄 서는 투자자는 딱히 없습니다."
+        },
+        {
+          "en": "People aren't exactly lining up to take the night shift over the holidays.",
+          "ko": "연휴에 야간 근무를 하겠다고 줄 서는 사람은 딱히 없죠."
+        }
+      ],
       "curated": true
     },
     {
       "id": "suits-s01e01-028",
       "en": "And you know, Gerald might have forgiven the lying had you not humiliated him.",
       "ko": "제럴드도 거짓말은 용서했을지 몰라요. 망신만 주지 않았다면요.",
+      "core": "had you not humiliated him",
+      "coreKo": "망신만 주지 않으셨더라면",
       "note": "had you not humiliated him은 if you hadn't...의 도치형으로 문어체·격식 화법에서 자주 등장한다. 상대의 결정적 실수를 짚는 조언이다.",
       "contextBefore": "Companies aren't exactly lining up to spend money on attorneys right now.",
       "contextAfter": "But you did and you need to accept that.",
@@ -419,12 +745,24 @@
         "조언",
         "반박"
       ],
+      "variations": [
+        {
+          "en": "The client would have signed had we not raised the price at the last minute.",
+          "ko": "막판에 가격만 올리지 않았더라면 고객이 서명했을 겁니다."
+        },
+        {
+          "en": "I would have approved it had you sent the figures on time.",
+          "ko": "숫자를 제때 보내 주셨더라면 제가 승인했을 텐데요."
+        }
+      ],
       "curated": true
     },
     {
       "id": "suits-s01e01-029",
       "en": "Jessica, if you hadn't done as much for me as you have, I'd be heading for the door.",
       "ko": "저한테 그만큼 해 주신 게 아니었다면 저는 벌써 나갔을 겁니다.",
+      "core": "if you hadn't done as much for me",
+      "coreKo": "저한테 그만큼 해 주신 게 아니었다면",
       "note": "가정법 과거완료로 '지금 참고 있는 이유'를 밝히는 고급 압박. 관계를 인정하면서도 불만을 분명히 전달하는 균형이 핵심이다.",
       "contextBefore": "But you did and you need to accept that.",
       "contextAfter": "If I hadn't done as much for you as I have, I'd be throwing you out the window.",
@@ -434,12 +772,24 @@
         "압박",
         "자기주장"
       ],
+      "variations": [
+        {
+          "en": "If you hadn't backed me in that meeting, I would have lost the account.",
+          "ko": "그 회의에서 편들어 주지 않으셨다면 저는 그 거래처를 잃었을 겁니다."
+        },
+        {
+          "en": "If she hadn't caught the error, we'd be apologizing to the client today.",
+          "ko": "그분이 오류를 잡아내지 않았다면 오늘 우리가 고객에게 사과하고 있었을 거예요."
+        }
+      ],
       "curated": true
     },
     {
       "id": "suits-s01e01-030",
       "en": "But, Harvey, no more shenanigans.",
       "ko": "하지만 하비, 이제 잔꾀는 그만해요.",
+      "core": "no more shenanigans",
+      "coreKo": "잔꾀는 이제 그만",
       "note": "shenanigans는 '잔머리·꼼수'를 뜻하는 구어. No more + 명사만으로 강한 금지 지시가 완성된다.",
       "contextBefore": "If I hadn't done as much for you as I have, I'd be throwing you out the window.",
       "contextAfter": "You do one more thing that isn't straight as an arrow, and instead of covering your ass, I will put you in front of the bar myself.",
@@ -449,12 +799,24 @@
         "지시",
         "압박"
       ],
+      "variations": [
+        {
+          "en": "No more shenanigans with the expense reports, please.",
+          "ko": "경비 보고서로 잔꾀 부리는 일은 이제 그만합시다."
+        },
+        {
+          "en": "I want no more shenanigans in front of the client.",
+          "ko": "고객 앞에서 잔꾀 부리는 일은 이제 없었으면 합니다."
+        }
+      ],
       "curated": true
     },
     {
       "id": "suits-s01e01-031",
       "en": "Look, I have to put my own interests above yours.",
       "ko": "미안하지만 제 이해관계를 당신보다 앞에 둘 수밖에 없어요.",
+      "core": "put my own interests above yours",
+      "coreKo": "제 이해관계를 그쪽보다 앞에 두다",
       "note": "put A above B는 '우선순위를 A에 두다'. 냉정한 결정을 통보할 때 감정 대신 이해관계로 설명하는 방식이다.",
       "contextBefore": "You what? Not now, Donna.",
       "contextAfter": "It's nothing personal.",
@@ -464,12 +826,24 @@
         "거절",
         "설득"
       ],
+      "variations": [
+        {
+          "en": "I won't put my own interests above the team's on this one.",
+          "ko": "이번 건에서는 제 이익을 팀보다 앞에 두지 않겠습니다."
+        },
+        {
+          "en": "She put the client's interests above her own bonus.",
+          "ko": "그분은 자기 성과급보다 고객의 이익을 앞에 뒀어요."
+        }
+      ],
       "curated": true
     },
     {
       "id": "suits-s01e01-032",
       "en": "It's nothing personal.",
       "ko": "개인감정은 전혀 없습니다.",
+      "core": "It's nothing personal",
+      "coreKo": "개인감정은 전혀 없습니다",
       "note": "해고·거절·경쟁 상황에서 관계와 판단을 분리해 주는 완충 표현. 뒤에 It's just business를 붙이는 조합도 흔하다.",
       "contextBefore": "Look, I have to put my own interests above yours.",
       "contextAfter": "You're fired.",
@@ -479,12 +853,24 @@
         "거절",
         "사과"
       ],
+      "variations": [
+        {
+          "en": "It's nothing personal, but we're going with another supplier this year.",
+          "ko": "개인감정은 전혀 없습니다만, 올해는 다른 공급업체와 가기로 했습니다."
+        },
+        {
+          "en": "It's nothing personal. The budget simply doesn't cover both teams.",
+          "ko": "감정이 있어서가 아닙니다. 예산이 두 팀을 다 감당하지 못할 뿐이에요."
+        }
+      ],
       "curated": true
     },
     {
       "id": "suits-s01e01-033",
       "en": "Are you telling me that if I throw you under the bus, you're going to drag me with you?",
       "ko": "내가 당신을 버리면, 당신도 나를 같이 끌고 들어가겠다는 겁니까?",
+      "core": "throw you under the bus",
+      "coreKo": "제 살길 찾자고 당신을 희생시키다",
       "note": "throw someone under the bus(제 살길 찾자고 남을 희생시키다)는 오피스 영어 필수 관용구. Are you telling me...?는 상대 발언의 함의를 확인하며 압박하는 틀이다.",
       "contextBefore": "But if you fire me, then I could tell them that you lied about me and you'd definitely lose your license.",
       "contextAfter": "But you put your interests above mine.",
@@ -494,12 +880,24 @@
         "압박",
         "갈등"
       ],
+      "variations": [
+        {
+          "en": "Don't throw the intern under the bus for a decision you approved.",
+          "ko": "본인이 승인한 결정을 두고 인턴을 희생양으로 던지지 마세요."
+        },
+        {
+          "en": "I told them it was my call. I wasn't going to throw you under the bus.",
+          "ko": "제가 내린 결정이라고 말했습니다. 당신을 희생시킬 생각은 없었어요."
+        }
+      ],
       "curated": true
     },
     {
       "id": "suits-s01e01-034",
       "en": "Here's what's going to happen.",
       "ko": "앞으로 이렇게 될 겁니다.",
+      "core": "Here's what's going to happen",
+      "coreKo": "앞으로 이렇게 될 겁니다",
       "note": "협상의 주도권을 가져오는 도입 문장. 뒤에 요구 조건을 바로 붙이면 통보에 가까운 강한 톤이 된다.",
       "contextBefore": "So, should I All right.",
       "contextAfter": "You're going to give me back my promotion, and that's the last we're going to talk about this.",
@@ -509,12 +907,24 @@
         "압박",
         "협상"
       ],
+      "variations": [
+        {
+          "en": "Here's what's going to happen: we ship on Friday and the rest waits.",
+          "ko": "앞으로 이렇게 갑니다. 금요일에 내보내고 나머지는 미룹니다."
+        },
+        {
+          "en": "Here's what's going to happen if we miss this deadline again.",
+          "ko": "이번에도 마감을 놓치면 앞으로 이렇게 됩니다."
+        }
+      ],
       "curated": true
     },
     {
       "id": "suits-s01e01-035",
       "en": "You're going to give me back my promotion, and that's the last we're going to talk about this.",
       "ko": "승진을 돌려주시고, 이 얘기는 여기서 끝내는 겁니다.",
+      "core": "the last we're going to talk about this",
+      "coreKo": "이 얘기는 여기서 끝입니다",
       "note": "that's the last we're going to talk about this는 '이 문제는 더 논의하지 않는다'는 종결 선언. 요구와 마무리를 한 문장에 담는 방식이다.",
       "contextBefore": "Here's what's going to happen.",
       "contextAfter": "And why is that? Because if you don't, I'm going to go across town and join Rick Peterson.",
@@ -524,12 +934,24 @@
         "압박",
         "협상"
       ],
+      "variations": [
+        {
+          "en": "You'll get the revised offer today, and that's the last we're going to talk about it.",
+          "ko": "수정 제안서는 오늘 드립니다. 그리고 이 얘기는 여기서 끝내는 겁니다."
+        },
+        {
+          "en": "I've explained the decision twice. That's the last we're going to talk about this.",
+          "ko": "결정 이유는 두 번 설명드렸습니다. 이 얘기는 여기까지입니다."
+        }
+      ],
       "curated": true
     },
     {
       "id": "suits-s01e01-036",
       "en": "I'm going to approach every client I've ever closed, and I'm going to take them with me.",
       "ko": "제가 성사시킨 고객들을 전부 찾아가서 다 데리고 나갈 겁니다.",
+      "core": "take them with me",
+      "coreKo": "그 사람들을 함께 데리고 나가다",
       "note": "떠날 때 무엇을 함께 가져갈 수 있는지 보여 주는 협상 카드. 위협을 감정이 아니라 구체적 행동 계획으로 말해야 힘이 실린다.",
       "contextBefore": "And why is that? Because if you don't, I'm going to go across town and join Rick Peterson.",
       "contextAfter": "You do that and you'll force me to put you in front of the ethics board.",
@@ -539,12 +961,24 @@
         "압박",
         "협상"
       ],
+      "variations": [
+        {
+          "en": "If I move to the new team, I'd like to take two engineers with me.",
+          "ko": "새 팀으로 옮기게 되면 엔지니어 두 명을 데리고 가고 싶습니다."
+        },
+        {
+          "en": "When she left, she took half the accounts with her.",
+          "ko": "그분이 나갈 때 거래처의 절반을 데리고 나갔어요."
+        }
+      ],
       "curated": true
     },
     {
       "id": "suits-s01e01-037",
       "en": "You do that and you'll force me to put you in front of the ethics board.",
       "ko": "그렇게 하면 저도 어쩔 수 없이 윤리위원회에 넘길 수밖에 없어요.",
+      "core": "you'll force me to",
+      "coreKo": "저도 어쩔 수 없이 그렇게 할 수밖에 없습니다",
       "note": "You do that and...는 '그렇게 하면 이렇게 된다'는 조건부 역공. force me to를 쓰면 '내가 원해서가 아니라 그쪽이 만든 결과'라는 뉘앙스가 생긴다.",
       "contextBefore": "I'm going to approach every client I've ever closed, and I'm going to take them with me.",
       "contextAfter": "I don't think you will.",
@@ -554,12 +988,24 @@
         "압박",
         "갈등"
       ],
+      "variations": [
+        {
+          "en": "Cancel on me again this week and you'll force me to take it to the director.",
+          "ko": "이번 주에 또 약속을 취소하시면 저도 어쩔 수 없이 본부장께 가져가야 합니다."
+        },
+        {
+          "en": "If the payments keep slipping, you'll force us to stop the shipments.",
+          "ko": "대금이 계속 밀리면 저희도 어쩔 수 없이 납품을 멈출 수밖에 없습니다."
+        }
+      ],
       "curated": true
     },
     {
       "id": "suits-s01e01-038",
       "en": "Because you were obligated to notify them the second I lied to Gerald, but you didn't.",
       "ko": "제가 거짓말한 순간 바로 신고할 의무가 있었는데, 안 하셨잖아요.",
+      "core": "you were obligated to notify them",
+      "coreKo": "그들에게 알릴 의무가 있었다",
       "note": "be obligated to(~할 의무가 있다)와 the second(~하는 즉시)를 함께 쓴 압박 논리. 상대도 이미 발을 담갔음을 짚어 반격을 봉쇄한다.",
       "contextBefore": "And why not?",
       "contextAfter": "You put me in front of the board right now, I'll put you right up there with me.",
@@ -569,12 +1015,24 @@
         "반박",
         "압박"
       ],
+      "variations": [
+        {
+          "en": "You were obligated to notify us the second the schedule slipped.",
+          "ko": "일정이 밀린 즉시 저희에게 알릴 의무가 있으셨습니다."
+        },
+        {
+          "en": "We're obligated to notify the client before we change any subcontractor.",
+          "ko": "하도급 업체를 바꾸기 전에 고객에게 알릴 의무가 저희에게 있습니다."
+        }
+      ],
       "curated": true
     },
     {
       "id": "suits-s01e01-039",
       "en": "I'm not saying we shouldn't do them.",
       "ko": "하지 말자는 얘기가 아니에요.",
+      "core": "I'm not saying we shouldn't do them",
+      "coreKo": "그걸 하지 말자는 얘기가 아닙니다",
       "note": "I'm not saying A, I'm saying B는 오해를 차단하며 논점을 좁히는 필수 구문. 뒤에 이어지는 문장과 짝으로 익혀 두자.",
       "contextBefore": "Harvey, pro bono cases are how we as a firm show that we care about more than just ourselves.",
       "contextAfter": "I'm saying I shouldn't do them.",
@@ -584,12 +1042,24 @@
         "반박",
         "설득"
       ],
+      "variations": [
+        {
+          "en": "I'm not saying we shouldn't hire. I'm saying we shouldn't hire this month.",
+          "ko": "채용하지 말자는 얘기가 아니에요. 이번 달에는 하지 말자는 겁니다."
+        },
+        {
+          "en": "I'm not saying the plan is wrong, I'm saying the timing is.",
+          "ko": "계획이 틀렸다는 게 아니라, 시점이 틀렸다는 얘기입니다."
+        }
+      ],
       "curated": true
     },
     {
       "id": "suits-s01e01-040",
       "en": "I'll knock it out of the park.",
       "ko": "제가 홈런 한 방 날려 보이죠.",
+      "core": "knock it out of the park",
+      "coreKo": "홈런을 날리다, 기대 이상으로 해내다",
       "note": "knock it out of the park는 야구에서 타구를 담장 밖으로 날려 버린다는 뜻으로, '기대 이상으로 성공시키다'를 가리킨다. 새 업무를 받고 자신감을 보일 때 쓰는 관용구.",
       "contextBefore": "You can't handle it.",
       "contextAfter": "Easy, Clarence Thomas.",
@@ -598,12 +1068,24 @@
       "tags": [
         "자기주장"
       ],
+      "variations": [
+        {
+          "en": "Give her the keynote and she'll knock it out of the park.",
+          "ko": "기조 발표를 그분께 맡기면 홈런을 날려 줄 겁니다."
+        },
+        {
+          "en": "The team knocked it out of the park with yesterday's pitch.",
+          "ko": "어제 제안 발표에서 팀이 홈런을 쳤어요."
+        }
+      ],
       "curated": true
     },
     {
       "id": "suits-s01e01-041",
       "en": "Nobody does anything as a courtesy.",
       "ko": "호의로 뭘 해 주는 사람은 없어요.",
+      "core": "as a courtesy",
+      "coreKo": "호의로, 관례상",
       "note": "as a courtesy는 '호의로·관례상'. 상대의 선의를 액면 그대로 받지 말라는 실무 조언으로, 협상 훈련용 문장이다.",
       "contextBefore": "No, they didn't.",
       "contextAfter": "They sent those files because that's where they want you to look.",
@@ -613,12 +1095,24 @@
         "조언",
         "협상"
       ],
+      "variations": [
+        {
+          "en": "They didn't send the extra data as a courtesy. They want something back.",
+          "ko": "그쪽이 추가 자료를 호의로 보낸 게 아닙니다. 돌려받고 싶은 게 있는 거예요."
+        },
+        {
+          "en": "I'm telling you early as a courtesy, not because I have to.",
+          "ko": "의무가 있어서가 아니라 호의로 미리 말씀드리는 겁니다."
+        }
+      ],
       "curated": true
     },
     {
       "id": "suits-s01e01-042",
       "en": "I mean, you keep pressing until it hurts, then you know where to look.",
       "ko": "아픈 데가 나올 때까지 계속 눌러 보는 거야. 그러면 어디를 봐야 할지 알게 되거든.",
+      "core": "keep pressing until it hurts",
+      "coreKo": "아픈 데가 나올 때까지 계속 눌러 보다",
       "note": "keep -ing until...(~할 때까지 계속 ~하다) 구조로 방법론을 설명하는 조언. 협상에서 상대의 민감한 지점을 찾는 원리로 자주 인용된다.",
       "contextBefore": "You mean how you don't get emotional about the client? No.",
       "contextAfter": "Forget about impeaching the investigation.",
@@ -628,12 +1122,24 @@
         "조언",
         "협상"
       ],
+      "variations": [
+        {
+          "en": "Keep pressing on the price until they show you their real limit.",
+          "ko": "그쪽의 진짜 한계선이 드러날 때까지 가격을 계속 눌러 보세요."
+        },
+        {
+          "en": "Keep calling until someone gives you a straight answer.",
+          "ko": "누군가 분명한 답을 줄 때까지 계속 전화하세요."
+        }
+      ],
       "curated": true
     },
     {
       "id": "suits-s01e01-043",
       "en": "People respond to how we're dressed.",
       "ko": "사람들은 우리가 어떻게 입었는지에 반응해요.",
+      "core": "People respond to how we're dressed",
+      "coreKo": "사람들은 우리 옷차림에 반응한다",
       "note": "respond to는 '~에 반응하다'. 겉모습에 투자하라는 조언을 감정이 아니라 사실 진술로 전달하는 방식이다.",
       "contextBefore": "What does it matter how much money I spend on suits?",
       "contextAfter": "So, like it or not, this is what you have to do.",
@@ -643,12 +1149,24 @@
         "조언",
         "설득"
       ],
+      "variations": [
+        {
+          "en": "Clients respond to how fast you answer, not how long the answer is.",
+          "ko": "고객은 답장이 얼마나 긴지가 아니라 얼마나 빠른지에 반응합니다."
+        },
+        {
+          "en": "An audience responds to how confident you sound in the first minute.",
+          "ko": "청중은 첫 일 분 동안 얼마나 자신 있게 들리는지에 반응해요."
+        }
+      ],
       "curated": true
     },
     {
       "id": "suits-s01e01-044",
       "en": "If you go home before 9:00 on your first week, you're not going to make it through your first month.",
       "ko": "첫 주에 9시 전에 퇴근하면 첫 달도 못 버텨요.",
+      "core": "make it through your first month",
+      "coreKo": "첫 달을 버텨 내다",
       "note": "make it through는 '~을 버텨 내다'. 경고를 담은 조언을 조건문으로 말하면 잔소리보다 현실적인 충고로 들린다.",
       "contextBefore": "What's so funny? You're a rookie associate.",
       "contextAfter": "Oh.",
@@ -658,12 +1176,24 @@
         "조언",
         "압박"
       ],
+      "variations": [
+        {
+          "en": "Half the new hires don't make it through their first year.",
+          "ko": "신입의 절반은 첫해를 버티지 못합니다."
+        },
+        {
+          "en": "If we make it through this quarter, the rest of the year gets easier.",
+          "ko": "이번 분기만 버텨 내면 남은 한 해는 수월해집니다."
+        }
+      ],
       "curated": true
     },
     {
       "id": "suits-s01e01-045",
       "en": "But in return, we expect results.",
       "ko": "대신 우리는 결과를 기대합니다.",
+      "core": "in return, we expect results",
+      "coreKo": "대신 우리는 결과를 기대합니다",
       "note": "in return(그 대가로)으로 조건을 교환 구조로 제시하는 표현. 보상을 말한 뒤 요구를 붙이는 순서가 설득의 정석이다.",
       "contextBefore": "See, I arranged for you to see that because we pay our associates very well and we provide the opportunity for unlimited advancement.",
       "contextAfter": "Have I made myself clear? Yeah.",
@@ -673,12 +1203,24 @@
         "압박",
         "지시"
       ],
+      "variations": [
+        {
+          "en": "We'll cover the training costs, and in return we expect a two-year commitment.",
+          "ko": "교육비는 저희가 부담합니다. 대신 이 년은 함께해 주시기를 기대합니다."
+        },
+        {
+          "en": "You get full access to the data, and in return we expect a monthly report.",
+          "ko": "자료는 전부 열어 드립니다. 대신 저희는 월별 보고를 기대합니다."
+        }
+      ],
       "curated": true
     },
     {
       "id": "suits-s01e01-046",
       "en": "Have I made myself clear?",
       "ko": "제 말 분명히 전달됐죠?",
+      "core": "Have I made myself clear",
+      "coreKo": "제 말 분명히 전달됐죠",
       "note": "Do you understand?보다 격이 높고 훨씬 위압적인 확인 표현. 지시를 마무리하며 이견 없음을 못 박을 때 쓴다.",
       "contextBefore": "But in return, we expect results.",
       "contextAfter": "Yeah.",
@@ -688,12 +1230,24 @@
         "압박",
         "지시"
       ],
+      "variations": [
+        {
+          "en": "That's the process from now on. Have I made myself clear?",
+          "ko": "앞으로는 이 절차대로 갑니다. 제 말 분명히 전달됐죠?"
+        },
+        {
+          "en": "Nobody talks to the press before we do. Have I made myself clear?",
+          "ko": "우리보다 먼저 언론에 말하는 사람은 없습니다. 분명히 알아들으셨죠?"
+        }
+      ],
       "curated": true
     },
     {
       "id": "suits-s01e01-047",
       "en": "Did you think they wouldn't fight back?",
       "ko": "저쪽이 반격하지 않을 거라고 생각했어요?",
+      "core": "Did you think they wouldn't fight back",
+      "coreKo": "저쪽이 반격하지 않을 거라고 생각했어요",
       "note": "fight back은 '반격하다'. 상대의 반발을 당연한 전개로 받아들이라는 조언을 반문 형태로 던지는 방식이다.",
       "contextBefore": "You're looking in the right place.",
       "contextAfter": "Well, I Now that you mention it.",
@@ -703,12 +1257,24 @@
         "조언",
         "반박"
       ],
+      "variations": [
+        {
+          "en": "You cut their budget in half. Did you think they wouldn't fight back?",
+          "ko": "그쪽 예산을 절반으로 깎았잖아요. 반격하지 않을 거라고 생각했어요?"
+        },
+        {
+          "en": "We took their biggest client, so of course they fought back.",
+          "ko": "우리가 그쪽 최대 고객을 데려왔으니 당연히 반격한 거죠."
+        }
+      ],
       "curated": true
     },
     {
       "id": "suits-s01e01-048",
       "en": "The idea is you make a move, they make a move.",
       "ko": "이쪽이 한 수 두면 저쪽도 한 수 두는 거예요.",
+      "core": "make a move",
+      "coreKo": "한 수를 두다",
       "note": "The idea is (that)...은 '요지는 ~이다'라는 설명 도입. make a move는 협상·전략에서 '한 수를 두다'로 자주 쓰인다.",
       "contextBefore": "I keep forgetting you don't actually know anything.",
       "contextAfter": "You go back and forth until one of you wins.",
@@ -718,12 +1284,24 @@
         "조언",
         "협상"
       ],
+      "variations": [
+        {
+          "en": "We made a move on price, so now it's their turn to make a move.",
+          "ko": "우리가 가격에서 한 수 뒀으니, 이제 저쪽이 한 수 둘 차례입니다."
+        },
+        {
+          "en": "Don't make a move until we hear back from the legal team.",
+          "ko": "법무 팀 회신이 올 때까지는 아무 수도 두지 마세요."
+        }
+      ],
       "curated": true
     },
     {
       "id": "suits-s01e01-049",
       "en": "Because if I were to find out that you weren't putting in your full effort, I would be very upset.",
       "ko": "혹시라도 최선을 다하고 있지 않다는 걸 알게 되면, 저는 무척 언짢을 겁니다.",
+      "core": "if I were to find out",
+      "coreKo": "혹시라도 제가 알게 된다면",
       "note": "if I were to...는 가정을 한층 정중하고 조심스럽게 만드는 형식. 부드러운 문장으로 강한 경고를 전달하는 전형적인 완곡 압박이다.",
       "contextBefore": "That makes me very happy.",
       "contextAfter": "No worries.",
@@ -733,12 +1311,24 @@
         "압박",
         "설득"
       ],
+      "variations": [
+        {
+          "en": "If I were to find out the figures had been adjusted, we'd have a serious problem.",
+          "ko": "혹시라도 숫자가 손질됐다는 걸 알게 되면, 우리 사이에 심각한 문제가 생깁니다."
+        },
+        {
+          "en": "If I were to ask for this by Friday, would that be possible?",
+          "ko": "혹시 제가 금요일까지 해 달라고 하면 가능하시겠습니까?"
+        }
+      ],
       "curated": true
     },
     {
       "id": "suits-s01e01-050",
       "en": "Is this all a joke to you? Because I take my job seriously.",
       "ko": "이게 다 장난 같아요? 저는 제 일을 진지하게 생각하거든요.",
+      "core": "I take my job seriously",
+      "coreKo": "저는 제 일을 진지하게 생각합니다",
       "note": "상대의 가벼운 태도에 선을 긋는 정면 항의. take something seriously는 태도를 문제 삼을 때 쓰는 핵심 표현이다.",
       "contextBefore": "I didn't even have time to talk to Donna.",
       "contextAfter": "No, I'm I'm sorry.",
@@ -748,12 +1338,24 @@
         "갈등",
         "자기주장"
       ],
+      "variations": [
+        {
+          "en": "I take my job seriously, so please don't send changes after the deadline.",
+          "ko": "저는 제 일을 진지하게 생각합니다. 그러니 마감이 지난 뒤에 수정 사항을 보내지 말아 주세요."
+        },
+        {
+          "en": "Is this a joke to you? Because I take these deadlines seriously.",
+          "ko": "이게 장난 같으세요? 저는 이 마감들을 진지하게 생각하거든요."
+        }
+      ],
       "curated": true
     },
     {
       "id": "suits-s01e01-051",
       "en": "They're trying to bury you in paperwork.",
       "ko": "서류로 당신을 파묻어 버리려는 거예요.",
+      "core": "bury you in paperwork",
+      "coreKo": "서류로 파묻어 버리다",
       "note": "bury someone in paperwork는 '자료를 산더미로 던져 상대를 지치게 하다'는 실무 관용구. 상대 전술을 읽어 줄 때 유용하다.",
       "contextBefore": "Why wouldn't they bring them to my cubicle?",
       "contextAfter": "Well, they picked the wrong guy.",
@@ -763,12 +1365,24 @@
         "조언",
         "협상"
       ],
+      "variations": [
+        {
+          "en": "They'll bury us in paperwork so we run out of time before the deadline.",
+          "ko": "저쪽은 마감 전에 우리 시간이 다 가도록 서류로 파묻어 버릴 겁니다."
+        },
+        {
+          "en": "Don't bury the new hire in paperwork on her first day.",
+          "ko": "첫날부터 신입을 서류 더미에 파묻지 마세요."
+        }
+      ],
       "curated": true
     },
     {
       "id": "suits-s01e01-052",
       "en": "What do you think a motivated competitor is going to dig up in a year?",
       "ko": "작정한 경쟁사라면 1년 동안 뭘 캐낼 것 같습니까?",
+      "core": "dig up",
+      "coreKo": "불리한 걸 캐내다",
       "note": "dig up(캐내다)과 motivated(작정한)의 조합으로 위험을 실감하게 만드는 설득. 질문형이라 협박이 아니라 판단 유도로 들린다.",
       "contextBefore": "How do you think your wife's going to vote after she finds out? Who says she has to find out? My investigator got these within a week.",
       "contextAfter": "I have a solution.",
@@ -778,12 +1392,24 @@
         "설득",
         "압박"
       ],
+      "variations": [
+        {
+          "en": "What do you think a reporter is going to dig up in a week?",
+          "ko": "기자라면 일주일 동안 뭘 캐낼 것 같습니까?"
+        },
+        {
+          "en": "Their lawyers dug up an old email everyone had forgotten about.",
+          "ko": "그쪽 변호사들이 다들 잊고 있던 옛날 메일을 캐냈어요."
+        }
+      ],
       "curated": true
     },
     {
       "id": "suits-s01e01-053",
       "en": "I have a solution.",
       "ko": "해결책이 있습니다.",
+      "core": "I have a solution",
+      "coreKo": "해결책이 있습니다",
       "note": "문제를 지적한 뒤 국면을 전환하는 네 단어. 압박 다음에 바로 이 문장을 놓아야 협상이 아니라 협박이 되지 않는다.",
       "contextBefore": "What do you think a motivated competitor is going to dig up in a year?",
       "contextAfter": "Trade her your preferred shares, which have no voting rights, for her common shares, which do.",
@@ -793,12 +1419,24 @@
         "협상",
         "설득"
       ],
+      "variations": [
+        {
+          "en": "Before you decide to cancel, I have a solution.",
+          "ko": "취소를 결정하시기 전에, 저에게 해결책이 있습니다."
+        },
+        {
+          "en": "I have a solution, and I'd like ten minutes to walk you through it.",
+          "ko": "해결책이 있습니다. 십 분만 주시면 설명드리고 싶습니다."
+        }
+      ],
       "curated": true
     },
     {
       "id": "suits-s01e01-054",
       "en": "I'm not interested in getting your business.",
       "ko": "저는 그쪽 일을 따내는 데는 관심 없습니다.",
+      "core": "I'm not interested in getting your business",
+      "coreKo": "그쪽 일을 따내는 데는 관심 없습니다",
       "note": "뒤에 오는 I'm interested in keeping it과 짝을 이루는 반전 화법. get(따내다)과 keep(지켜내다)의 대비로 신뢰를 강조한다.",
       "contextBefore": "Jessica said you were going to charm me to get my business.",
       "contextAfter": "I'm interested in keeping it.",
@@ -808,12 +1446,24 @@
         "설득",
         "자기주장"
       ],
+      "variations": [
+        {
+          "en": "I'm not interested in winning the argument. I'm interested in fixing this.",
+          "ko": "저는 이 논쟁에서 이기는 데는 관심이 없습니다. 이걸 바로잡는 데 관심이 있죠."
+        },
+        {
+          "en": "We're not interested in getting more accounts. We're interested in keeping the ones we have.",
+          "ko": "저희는 거래처를 더 따내는 데는 관심이 없습니다. 지금 있는 곳을 지키는 데 관심이 있어요."
+        }
+      ],
       "curated": true
     },
     {
       "id": "suits-s01e01-055",
       "en": "Threat of sanctions is better than filing for sanctions.",
       "ko": "제재를 신청하는 것보다 제재하겠다고 위협하는 편이 낫습니다.",
+      "core": "Threat of sanctions is better than filing for sanctions",
+      "coreKo": "제재를 신청하는 것보다 제재하겠다는 위협이 낫다",
       "note": "카드는 쓰는 순간 가치가 사라진다는 협상 원리. A is better than B 구조로 전략을 간결하게 정리하는 방식을 배우자.",
       "contextBefore": "If not, we're filing for sanctions.",
       "contextAfter": "That's what I meant.",
@@ -823,12 +1473,24 @@
         "조언",
         "협상"
       ],
+      "variations": [
+        {
+          "en": "The threat of walking away is better than actually walking away.",
+          "ko": "실제로 자리를 뜨는 것보다 뜨겠다는 위협이 낫습니다."
+        },
+        {
+          "en": "A short call today is better than a long email tomorrow.",
+          "ko": "내일 긴 메일을 쓰는 것보다 오늘 짧게 통화하는 편이 낫습니다."
+        }
+      ],
       "curated": true
     },
     {
       "id": "suits-s01e01-056",
       "en": "You broke it, and then you lied to my face.",
       "ko": "약속을 깼고, 그러고는 내 얼굴 보고 거짓말까지 했어요.",
+      "core": "lied to my face",
+      "coreKo": "내 얼굴을 보고 뻔뻔하게 거짓말했다",
       "note": "lie to someone's face는 '뻔뻔하게 면전에서 거짓말하다'. 잘못을 두 단계로 나열해 책임을 무겁게 만드는 화법이다.",
       "contextBefore": "Look, I closed the Dockery case, okay? You made a promise to me.",
       "contextAfter": "So let me be clear.",
@@ -838,12 +1500,24 @@
         "갈등",
         "압박"
       ],
+      "variations": [
+        {
+          "en": "He missed the deadline and then lied to my face about it.",
+          "ko": "그 사람은 마감을 놓치고는 내 얼굴을 보고 거짓말까지 했어요."
+        },
+        {
+          "en": "Don't lie to my face and then expect me to trust your report.",
+          "ko": "면전에서 거짓말해 놓고 그쪽 보고서를 믿어 주기를 바라지는 마세요."
+        }
+      ],
       "curated": true
     },
     {
       "id": "suits-s01e01-057",
       "en": "You've had one foot out the door since you got here.",
       "ko": "여기 온 뒤로 내내 한 발은 밖에 걸치고 있었잖아요.",
+      "core": "one foot out the door",
+      "coreKo": "한 발은 이미 밖에 걸쳐 놓은 상태",
       "note": "have one foot out the door는 '언제든 떠날 준비가 돼 있다'는 관용구. 상대의 어정쩡한 태도를 지적할 때 강하게 꽂힌다.",
       "contextBefore": "Isn't it?",
       "contextAfter": "What are you talking about? I'm talking about that briefcase being locked in your desk.",
@@ -853,12 +1527,24 @@
         "압박",
         "갈등"
       ],
+      "variations": [
+        {
+          "en": "He's had one foot out the door ever since the reorganization.",
+          "ko": "그 사람은 조직 개편 이후로 줄곧 한 발을 밖에 걸치고 있었어요."
+        },
+        {
+          "en": "If half the team has one foot out the door, no plan will work.",
+          "ko": "팀의 절반이 한 발을 밖에 걸치고 있으면 어떤 계획도 통하지 않습니다."
+        }
+      ],
       "curated": true
     },
     {
       "id": "suits-s01e01-058",
       "en": "It's because you're afraid you might have to admit that you're not as smart as you think you are.",
       "ko": "본인이 생각만큼 똑똑하진 않다는 걸 인정해야 할까 봐 두려운 거예요.",
+      "core": "not as smart as you think",
+      "coreKo": "생각만큼 똑똑하지는 않은",
       "note": "not as ... as you think 구문으로 상대의 자기 인식을 흔드는 마지막 한 방. 진짜 이유를 짚어 주는 It's because...와 결합해 설득력이 커진다.",
       "contextBefore": "But this isn't because of Louis and it isn't because of me.",
       "contextAfter": "If you're here in the morning, I'll know I still have an associate.",
@@ -867,6 +1553,16 @@
       "tags": [
         "설득",
         "압박"
+      ],
+      "variations": [
+        {
+          "en": "The plan isn't as safe as you think it is.",
+          "ko": "그 계획은 생각만큼 안전하지 않습니다."
+        },
+        {
+          "en": "You're afraid the numbers aren't as strong as you think they are.",
+          "ko": "그 숫자들이 생각만큼 탄탄하지 않을까 봐 두려운 거죠."
+        }
       ],
       "curated": true
     }

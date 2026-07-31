@@ -5,6 +5,8 @@ import { readFileSync, readdirSync } from 'node:fs';
 const read = (f) => JSON.parse(readFileSync(new URL('../data/' + f, import.meta.url), 'utf8'));
 
 const TAGS = ['협상', '설득', '반박', '지시', '요청', '사과', '압박', '자기주장', '스몰토크', '갈등', '조언', '거절'];
+const LATIN = /[A-Za-z]/;
+const HANGUL = /[가-힣ㄱ-ㅎㅏ-ㅣ]/;
 // 섹션별 문장 수 범위
 const COUNT_RANGE = { drama: [40, 60], speech: [8, 60] };
 
@@ -52,6 +54,29 @@ for (const { id, sectionId } of allSources) {
       assert.equal(s.curated, true);
       assert.ok(!ids.has(s.id), 'id 중복: ' + s.id);
       ids.add(s.id);
+    }
+  });
+
+  test(id + '.json: 핵심표현(core/coreKo)과 변형문장(variations)', () => {
+    for (const s of read(id + '.json').sentences) {
+      for (const k of ['core', 'coreKo']) {
+        assert.ok(typeof s[k] === 'string' && s[k].trim().length > 0, `${s.id} 필드 ${k} 누락`);
+      }
+      assert.ok(!LATIN.test(s.coreKo), `${s.id} coreKo에 로마자 포함: ${s.coreKo}`);
+
+      assert.ok(Array.isArray(s.variations), `${s.id} variations 누락`);
+      assert.ok(s.variations.length >= 2 && s.variations.length <= 3, `${s.id} variations 개수 ${s.variations.length}`);
+      const seenEn = new Set();
+      for (const v of s.variations) {
+        for (const k of ['en', 'ko']) {
+          assert.ok(typeof v[k] === 'string' && v[k].trim().length > 0, `${s.id} variation 필드 ${k} 누락`);
+        }
+        assert.ok(!LATIN.test(v.ko), `${s.id} variation ko에 로마자 포함: ${v.ko}`);
+        assert.ok(!HANGUL.test(v.en), `${s.id} variation en에 한글 포함: ${v.en}`);
+        assert.notEqual(v.en, s.en, `${s.id} variation en이 원문과 동일: ${v.en}`);
+        assert.ok(!seenEn.has(v.en), `${s.id} variation en 중복: ${v.en}`);
+        seenEn.add(v.en);
+      }
     }
   });
 
