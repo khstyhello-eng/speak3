@@ -6,11 +6,22 @@ export const support = {
 };
 
 let voice = null;
+// macOS의 영어 음성 목록은 'Albert' 같은 효과음성이 알파벳순 앞에 있어
+// 단순 첫 번째 선택은 기괴한 소리가 남 — 검증된 자연 음성을 이름으로 우선한다.
+const PREFERRED_VOICES = ['Google US English', 'Samantha', 'Google UK English Female', 'Google UK English Male', 'Karen', 'Daniel'];
+function pickVoice() {
+  const en = speechSynthesis.getVoices().filter((v) => v.lang && v.lang.startsWith('en'));
+  for (const name of PREFERRED_VOICES) {
+    const hit = en.find((v) => v.name === name || v.name.startsWith(name));
+    if (hit) return hit;
+  }
+  return en.find((v) => v.default) || en.find((v) => v.lang === 'en-US') || en[0] || null;
+}
 export function speak(text) {
   if (!support.tts) return;
   speechSynthesis.cancel();
   const u = new SpeechSynthesisUtterance(text);
-  if (!voice) voice = speechSynthesis.getVoices().find((v) => v.lang.startsWith('en') && v.localService) || speechSynthesis.getVoices().find((v) => v.lang.startsWith('en')) || null;
+  if (!voice) voice = pickVoice();
   if (voice) u.voice = voice;
   u.lang = 'en-US';
   u.rate = 0.95;

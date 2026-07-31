@@ -16,6 +16,37 @@
   <a href="#browser">문장</a>
   <a href="#settings">설정</a>
 </nav>
+<script>
+(function () {
+  function show(kind, msg, src, line) {
+    var app = document.getElementById('app');
+    if (!app) return;
+    var box = document.createElement('section');
+    box.className = 'card';
+    box.style.borderLeft = '4px solid #ff6b6b';
+    box.innerHTML = '<p class="sub">앱 시작 중 오류가 발생했어요 (' + kind + ')</p>';
+    var pre = document.createElement('pre');
+    pre.style.whiteSpace = 'pre-wrap';
+    pre.style.fontSize = '12px';
+    pre.textContent = msg + (src ? '\n' + src + ':' + line : '');
+    box.appendChild(pre);
+    app.appendChild(box);
+  }
+  window.addEventListener('error', function (e) {
+    show('error', e.message || String(e.error || e), e.filename || '', e.lineno || '');
+  });
+  window.addEventListener('unhandledrejection', function (e) {
+    var r = e.reason || {};
+    show('promise', (r.message || String(r)) + (r.stack ? '\n' + r.stack.split('\n').slice(0, 4).join('\n') : ''), '', '');
+  });
+  setTimeout(function () {
+    var app = document.getElementById('app');
+    if (app && !app.hasChildNodes()) {
+      show('timeout', '10초 안에 앱이 부팅되지 않았어요. 네트워크 또는 브라우저 호환성 문제일 수 있어요.\nUA: ' + navigator.userAgent, '', '');
+    }
+  }, 10000);
+})();
+</script>
 <script type="module" src="js/app.js"></script>
 </body>
 </html>
