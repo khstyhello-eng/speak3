@@ -35,7 +35,7 @@
     {
       "id": "speech-queen-covid-003",
       "en": "I am sure the nation will join me in assuring you that what you do is appreciated and every hour of your hard work brings us closer to a return to more normal times.",
-      "ko": "여러분이 하는 일이 헛되지 않으며 여러분의 한 시간 한 시간이 일상 회복을 앞당기고 있다는 말에, 온 국민이 저와 함께할 것이라 믿습니다.",
+      "ko": "여러분이 하는 일이 인정받고 있으며 여러분의 한 시간 한 시간이 일상 회복을 앞당기고 있다는 말에, 온 국민이 저와 함께할 것이라 믿습니다.",
       "note": "join me in ~ing는 \"저와 함께 ~해 주실 것\"이라는 뜻으로, 화자 개인의 말을 공동체의 말로 키운다. what you do is appreciated는 수동태로 감사의 주체를 넓힌 표현.",
       "contextBefore": "I want to thank everyone on the NHS front line, as well as care workers and those carrying out essential roles, who selflessly continue their day-to-day duties outside the home in support of us all.",
       "contextAfter": "I also want to thank those of you who are staying at home, thereby helping to protect the vulnerable and sparing many families the pain already felt by those who have lost loved ones.",
@@ -173,12 +173,26 @@
       "ko": "아직 견뎌야 할 일이 남았지만 더 좋은 날이 돌아오리라는 데서 위안을 얻읍시다. 우리는 다시 친구들과 함께할 것이고, 다시 가족과 함께할 것이며, 다시 만날 것입니다.",
       "note": "take comfort that ~은 \"~라는 데서 위안을 얻다\"라는 위로의 정형구. 같은 문형을 세 번 반복해 끝을 맺는 리듬이 이 담화의 힘이다.",
       "contextBefore": "We will succeed - and that success will belong to every one of us.",
-      "contextAfter": "",
+      "contextAfter": "But for now, I send my thanks and warmest good wishes to you all.",
       "situationCue": "긴 고생 끝에 다시 만날 날을 약속하며 담화를 맺을 때?",
       "speaker": "Queen Elizabeth II",
       "tags": [
         "조언",
         "설득"
+      ],
+      "curated": true
+    },
+    {
+      "id": "speech-queen-covid-013",
+      "en": "But for now, I send my thanks and warmest good wishes to you all.",
+      "ko": "그러나 지금으로서는, 여러분 모두에게 감사와 가장 따뜻한 안부를 전합니다.",
+      "note": "send my thanks and warmest good wishes to ~는 담화나 서신을 맺을 때 쓰는 최상급 격식 인사. But for now는 \"나머지 말은 접어 두고 우선은\"이라는 뜻으로 마무리 신호가 된다.",
+      "contextBefore": "We should take comfort that while we may have more still to endure, better days will return: we will be with our friends again; we will be with our families again; we will meet again.",
+      "contextAfter": "",
+      "situationCue": "공식 담화나 서신을 맺으며 상대 모두에게 감사와 안부를 함께 전할 때?",
+      "speaker": "Queen Elizabeth II",
+      "tags": [
+        "스몰토크"
       ],
       "curated": true
     }
