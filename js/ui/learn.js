@@ -1,5 +1,5 @@
 import { newRecord, countIntroducedToday } from '../srs.js';
-import { support, speak } from '../speech.js';
+import { support, speakSentence } from '../speech.js';
 
 export function renderLearn(el, ctx) {
   const today = ctx.todayStr();
@@ -40,8 +40,8 @@ function showCard(el, ctx, s, remaining) {
       <button id="done">학습 완료 → 오늘 발화 목록에 추가</button>
     </div>
   </section>`;
-  if (support.tts) speak(s.en); else el.querySelector('#listen').style.display = 'none';
-  el.querySelector('#listen').onclick = () => speak(s.en);
+  if (support.tts) speakSentence(s); else el.querySelector('#listen').style.display = 'none';
+  el.querySelector('#listen').onclick = () => speakSentence(s);
   el.querySelector('#done').onclick = () => {
     ctx.state.records[s.id] = newRecord(ctx.todayStr(), ctx.nowIso());
     ctx.save();

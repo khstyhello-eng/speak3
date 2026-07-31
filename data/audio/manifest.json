@@ -1,0 +1,850 @@
+{
+  "speech-obama-dnc2004-001": {
+    "sha1": "9fa7dbee86a3aa6240ab8fcc7b12f1eb8f4d6557",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-dnc2004-002": {
+    "sha1": "3006b10ca5866bcde7babbd689dd64ce4f96bf3f",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-dnc2004-003": {
+    "sha1": "1e1fa15a0d4ccdfa4e986a1740df2aaf191ea7e3",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-dnc2004-004": {
+    "sha1": "3fd555f524a1cc6be4bd5a5a1b69c557fb39972c",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-dnc2004-005": {
+    "sha1": "fe06a88b76ff1a89651cbb3b19d3ce6b1a81cad9",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-dnc2004-006": {
+    "sha1": "240505f2e0b83c93c42a40bbe4d67667430d2854",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-dnc2004-007": {
+    "sha1": "9e48cee1afb979d704f875e66803c5e2587e95de",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-dnc2004-008": {
+    "sha1": "80627e4cfdf750f624255fd30b83e68a2d049742",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-dnc2004-009": {
+    "sha1": "3754d7bb2ed9563783ef99e81e68742b631c2ba2",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-dnc2004-010": {
+    "sha1": "087055ee3d07f85d7c7676a720fa27889f2d3a25",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-dnc2004-011": {
+    "sha1": "36fc5fadaafc3c62d0960feeeac9fde59269e589",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-dnc2004-012": {
+    "sha1": "039f520368d9e3e2fa63a8ab74df44bb47554b97",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-dnc2004-013": {
+    "sha1": "ca653c56b0f78918405f37debf02934f51c96141",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-dnc2004-014": {
+    "sha1": "8ccfdb0f7bcccfa36f2a08dd3125c8e01a3f3c84",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-dnc2004-015": {
+    "sha1": "6388a6786997b059d5a0c079a2e4290ec6fcdb9a",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-dnc2004-016": {
+    "sha1": "fcc6c93dea4bf999eb4ce47055b4347ef157ef17",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-dnc2004-017": {
+    "sha1": "d61f70204793d3a23110dce8e8624bf0575a9761",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-dnc2004-018": {
+    "sha1": "2fdefd088bd95e0533d8aaa8fa93906af3c2b695",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-dnc2004-019": {
+    "sha1": "dfe8d37aefe234ff1be9bcced438bc0e536779e8",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-dnc2004-020": {
+    "sha1": "6b2e431050da6260b279f3e486d10b81760ff82e",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-dnc2004-021": {
+    "sha1": "2e41f1f8a8a7d3b87c0ca33e28220284f8d01ddf",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-dnc2004-022": {
+    "sha1": "9dea09715f5f4843ccaa6f8e17df4f04dd8cadad",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-dnc2004-023": {
+    "sha1": "ba48a88a0c5c314b3677fed75aa1e21c9aaa7f5d",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-dnc2004-024": {
+    "sha1": "7efb91e94665fd85eb00eeee56757680baeb95f8",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-farewell2017-001": {
+    "sha1": "0a499e63ade3b9df7769858368e0f41f5b05ea8f",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-farewell2017-002": {
+    "sha1": "dd479bc5e949c424ef8b02bf01eef049069317d8",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-farewell2017-003": {
+    "sha1": "60a823155c66fd6c24e0f13b9a0be11c4302aece",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-farewell2017-004": {
+    "sha1": "492543fa664be6d0d258dae6a08ef3673522ac3f",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-farewell2017-005": {
+    "sha1": "aa4c649d69e8ca3378b7528f52df9435a1f34434",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-farewell2017-006": {
+    "sha1": "67ab9ac3ee4fe84c2d5f1e8291f0e3089dc95e7b",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-farewell2017-007": {
+    "sha1": "28709fbbd179f78dc34da88f7c048076d86fdac3",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-farewell2017-008": {
+    "sha1": "9658c2bd87329bfd66738253a46d8ffa9bdb13f7",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-farewell2017-009": {
+    "sha1": "a8a4878371994c921ecc43d726d12a46d9f0bd24",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-farewell2017-010": {
+    "sha1": "e65baca214c70440d245a9adf519d76828ce3d59",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-farewell2017-011": {
+    "sha1": "be4775ae8f89bb1b3290c35da8d0c72ec639f947",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-farewell2017-012": {
+    "sha1": "85cc846458905a0ddea09dd5d7a312cc333af0f9",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-farewell2017-013": {
+    "sha1": "e6c1ca9f78bb8deec2ff1b34a4dc23db4d97e59b",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-farewell2017-014": {
+    "sha1": "e8eaa287071f309f3d363fb0ba50ccc6b21b0919",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-farewell2017-015": {
+    "sha1": "fca79274a44d46e604beba8e90e1d78cf0135866",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-farewell2017-016": {
+    "sha1": "3face42acdfe5846d1d8fd3ee1ca2e180b692efc",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-farewell2017-017": {
+    "sha1": "d24425c74432bc06905d247ad539027905e3e0f2",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-farewell2017-018": {
+    "sha1": "3d69917fffcde4b1268a4836af2013f220690a0e",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-farewell2017-019": {
+    "sha1": "10a5ae7dd0345e2f77f2be28dff0e5c8aa7a3490",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-farewell2017-020": {
+    "sha1": "64485cbcd05245e53de50ebc3ff5556cbf501122",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-farewell2017-021": {
+    "sha1": "f0fc433ec13e5008c9042bacd6ce57e07e517594",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-farewell2017-022": {
+    "sha1": "3b44df0e5a14719713ef83f01b9052abe50510ff",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-farewell2017-023": {
+    "sha1": "21d563bc892998d0e45b0300395e186cef77a3f6",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-farewell2017-024": {
+    "sha1": "b8ced1189afe93465eaf7182dc3dad24ac5416cb",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-farewell2017-025": {
+    "sha1": "c410ef2f7e695851df37431bcf7ac202bfab52fc",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-farewell2017-026": {
+    "sha1": "32d8420ab92a89b97b75c7022eeaa12dc9d01fed",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-farewell2017-027": {
+    "sha1": "537ba2e340bf74f79d76d418ff23ba02f15ee554",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-farewell2017-028": {
+    "sha1": "dc8f9473af11c0c89ed054f5bb487235d67d17ef",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-farewell2017-029": {
+    "sha1": "9118a1d9994c563397eda6949b82e0d7b200f28f",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-farewell2017-030": {
+    "sha1": "98f4cf225b6a794caadfc48b1400b00d0cac093c",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-farewell2017-031": {
+    "sha1": "b852a5893d02eee1b255c6a81b8616a3eeb1fb4c",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-farewell2017-032": {
+    "sha1": "e96b25a8cc839036ef545416a636b234f64c9029",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-farewell2017-033": {
+    "sha1": "637a171e5fd547a30c3326453863e6c4d90f4338",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-farewell2017-034": {
+    "sha1": "4fa9d61bbdb2b2b545dbacc33f69ba889147b9bf",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-farewell2017-035": {
+    "sha1": "6d56034f26088280782a832a6369aea62d84fce5",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-farewell2017-036": {
+    "sha1": "2407291d692f0c8e0aa687e5ff460b9eaaa5a7d4",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-farewell2017-037": {
+    "sha1": "32b5c5fb00a9a47235b4232b313a0580d8a0bc8a",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-obama-farewell2017-038": {
+    "sha1": "f54e81600b6dfb1aa8e60199cedff391da56994b",
+    "voice": "en-US-GuyNeural"
+  },
+  "speech-queen-covid-001": {
+    "sha1": "120aabb7c58441d7bde4f5aaa00faabea14dfe99",
+    "voice": "en-GB-LibbyNeural"
+  },
+  "speech-queen-covid-002": {
+    "sha1": "ac5b1f34246952977e6b858817bf07f31f296190",
+    "voice": "en-GB-LibbyNeural"
+  },
+  "speech-queen-covid-003": {
+    "sha1": "c9b5d570b6d00a14faae8e847bdccacbee0609e2",
+    "voice": "en-GB-LibbyNeural"
+  },
+  "speech-queen-covid-004": {
+    "sha1": "cf943333a333c67c31cb349941888a50533f4048",
+    "voice": "en-GB-LibbyNeural"
+  },
+  "speech-queen-covid-005": {
+    "sha1": "eab0faceb71ec45d24e2c5ce2362cd2f88e552d9",
+    "voice": "en-GB-LibbyNeural"
+  },
+  "speech-queen-covid-006": {
+    "sha1": "568cf71d3d166f371def6ee680e56b7bf912c631",
+    "voice": "en-GB-LibbyNeural"
+  },
+  "speech-queen-covid-007": {
+    "sha1": "7f43bd97ea527c85773a2e559c449af91b97ec54",
+    "voice": "en-GB-LibbyNeural"
+  },
+  "speech-queen-covid-008": {
+    "sha1": "1234fd4da5a270af57bfceac625cb63bee8b1b50",
+    "voice": "en-GB-LibbyNeural"
+  },
+  "speech-queen-covid-009": {
+    "sha1": "bd47c32d4628fc7796c7f0039a28fa634265b183",
+    "voice": "en-GB-LibbyNeural"
+  },
+  "speech-queen-covid-010": {
+    "sha1": "2cd34c455c51007dead7b145ef5b62dc01af1b15",
+    "voice": "en-GB-LibbyNeural"
+  },
+  "speech-queen-covid-011": {
+    "sha1": "28d9cba6206b726d0f6b6835eb50ebb8bbbf5795",
+    "voice": "en-GB-LibbyNeural"
+  },
+  "speech-queen-covid-012": {
+    "sha1": "eba01a4a23cb5ae3a2c05e18efa76b830a7b15f1",
+    "voice": "en-GB-LibbyNeural"
+  },
+  "speech-queen-covid-013": {
+    "sha1": "93e3f9912588b5ef767c516e59907d8c3266dfec",
+    "voice": "en-GB-LibbyNeural"
+  },
+  "speech-watson-heforshe-001": {
+    "sha1": "b29acf77258f2fb7b41bc8726201293512f81740",
+    "voice": "en-GB-SoniaNeural"
+  },
+  "speech-watson-heforshe-002": {
+    "sha1": "6e28e4a0c665192a00b50d337e46552da7da221f",
+    "voice": "en-GB-SoniaNeural"
+  },
+  "speech-watson-heforshe-003": {
+    "sha1": "22faece9f907eb9eadb7e8c7b0550f15ba55fccc",
+    "voice": "en-GB-SoniaNeural"
+  },
+  "speech-watson-heforshe-004": {
+    "sha1": "356abcb02d8e05bcfea5b144ab3fe17f28196b51",
+    "voice": "en-GB-SoniaNeural"
+  },
+  "speech-watson-heforshe-005": {
+    "sha1": "149dab2568fa17ec7fe9cd07d1e13df050c49709",
+    "voice": "en-GB-SoniaNeural"
+  },
+  "speech-watson-heforshe-006": {
+    "sha1": "83eaa3fc1a49a597917762e94b358723d3b2eadb",
+    "voice": "en-GB-SoniaNeural"
+  },
+  "speech-watson-heforshe-007": {
+    "sha1": "fe2dee60745bc549237017ae0cdb1788bde4cc54",
+    "voice": "en-GB-SoniaNeural"
+  },
+  "speech-watson-heforshe-008": {
+    "sha1": "a018dcc86fe33601837c2235a7a6cb0a223382d6",
+    "voice": "en-GB-SoniaNeural"
+  },
+  "speech-watson-heforshe-009": {
+    "sha1": "f57ea7331d95bc8c4ff985c81abf3723475b2ac3",
+    "voice": "en-GB-SoniaNeural"
+  },
+  "speech-watson-heforshe-010": {
+    "sha1": "5b64267a98730aaab50f705aa6a38c499812d737",
+    "voice": "en-GB-SoniaNeural"
+  },
+  "speech-watson-heforshe-011": {
+    "sha1": "1e84250c34a8906352e5fb0ead7094847a207138",
+    "voice": "en-GB-SoniaNeural"
+  },
+  "speech-watson-heforshe-012": {
+    "sha1": "de67cafae5dfc1e4d8746bab2608c637d7e5747b",
+    "voice": "en-GB-SoniaNeural"
+  },
+  "speech-watson-heforshe-013": {
+    "sha1": "8be535149894236e87f59fd86db716a6896f8be3",
+    "voice": "en-GB-SoniaNeural"
+  },
+  "speech-watson-heforshe-014": {
+    "sha1": "ff9656773daeb7c8359a9bcfda0b3b77bd432f65",
+    "voice": "en-GB-SoniaNeural"
+  },
+  "speech-watson-heforshe-015": {
+    "sha1": "c5716c7ddc08f62d972c3ff675af17f6600077dc",
+    "voice": "en-GB-SoniaNeural"
+  },
+  "speech-watson-heforshe-016": {
+    "sha1": "9cf2c69dafbf774daf7e3f0eaf622ebe0b211470",
+    "voice": "en-GB-SoniaNeural"
+  },
+  "speech-watson-heforshe-017": {
+    "sha1": "db9bd58a2b38a70fae7e15f92d3d94fdd7f1f166",
+    "voice": "en-GB-SoniaNeural"
+  },
+  "speech-watson-heforshe-018": {
+    "sha1": "1f628b2ab85b89bcd92c889406264d999a4fc5ad",
+    "voice": "en-GB-SoniaNeural"
+  },
+  "speech-watson-heforshe-019": {
+    "sha1": "de1ec5cfc11e26b97235546615c0b2594c0841d3",
+    "voice": "en-GB-SoniaNeural"
+  },
+  "speech-watson-heforshe-020": {
+    "sha1": "2b8a91aefd067b6022fc7f211e26ede739284de8",
+    "voice": "en-GB-SoniaNeural"
+  },
+  "speech-watson-heforshe-021": {
+    "sha1": "e27d36b94178f1980dd56dff894ff01b99da693f",
+    "voice": "en-GB-SoniaNeural"
+  },
+  "suits-s01e01-001": {
+    "sha1": "8b550b8fab9e81ec87f42d4a5e91027fa0f772ce",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e01-002": {
+    "sha1": "67ea817b4e828694801a8ff351bbde47ce565163",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e01-003": {
+    "sha1": "5083e2fc396ac08999a6f6d5d591aeadb0bd4be8",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e01-004": {
+    "sha1": "8c9fe298fd931c75383d821804656c922f421f2b",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e01-005": {
+    "sha1": "251fceac6dc4e8f4c84d4b518539a7a25dd900d1",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e01-006": {
+    "sha1": "d3442e15f41ae1578124df781a30077ea3312644",
+    "voice": "en-US-JennyNeural"
+  },
+  "suits-s01e01-007": {
+    "sha1": "665821ddc5e2863dbd7876fcd5d153c8277a099c",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e01-008": {
+    "sha1": "3b487546c43829fc11014eb6c0dc0f97b774a83d",
+    "voice": "en-US-JennyNeural"
+  },
+  "suits-s01e01-009": {
+    "sha1": "15255662cb1b8eea5ad39dc97a258a05eecd4312",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e01-010": {
+    "sha1": "90ff01ea542acb4aa810a79d9a67a43c05d3e445",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e01-011": {
+    "sha1": "eb793d882f30221379c1da33879584466675d47d",
+    "voice": "en-US-JennyNeural"
+  },
+  "suits-s01e01-012": {
+    "sha1": "fb708d244c8f30b734ecee86884220f77f1642d8",
+    "voice": "en-US-JennyNeural"
+  },
+  "suits-s01e01-013": {
+    "sha1": "a6cb4cb56dbf69135937256a77e62dee78b04302",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e01-014": {
+    "sha1": "b84e444e72d7bc96848064257db1fe39881ca79a",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e01-015": {
+    "sha1": "a6447ab0fdbb6a64c79b6392474c3442c346e9fb",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e01-016": {
+    "sha1": "9a782f642b140aa28e218a16f0bb3b8cf680d71b",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e01-017": {
+    "sha1": "fe05a2d0e58a0569625764fba36b06da18a28878",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e01-018": {
+    "sha1": "ca822046b177f7a44d3255403aa8ebd8bc0bfd39",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e01-019": {
+    "sha1": "4066deca3b0384671edf32c151b5c9a4493e8049",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e01-020": {
+    "sha1": "ff3ed058d0c95b278c267f0521bf765d97f6644e",
+    "voice": "en-US-JennyNeural"
+  },
+  "suits-s01e01-021": {
+    "sha1": "784dba945f3e7db2b4e318e31e41fefd1b45ec63",
+    "voice": "en-US-JennyNeural"
+  },
+  "suits-s01e01-022": {
+    "sha1": "082ca7abca33bff71a16549eb3eacc03b5b91829",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e01-023": {
+    "sha1": "806d883651071097d0beab7a0573ca5aa110c436",
+    "voice": "en-US-JennyNeural"
+  },
+  "suits-s01e01-024": {
+    "sha1": "1dddcb266dd30bf3bf583d47bad118a458548a11",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e01-025": {
+    "sha1": "541b5513dea4f9eebc329898639ebda6d1c866a7",
+    "voice": "en-US-JennyNeural"
+  },
+  "suits-s01e01-026": {
+    "sha1": "169adecfb05c4581752db4e06bb2f9e63243c64b",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e01-027": {
+    "sha1": "cd3a9fb33c2ac97843a76e5889e8f98e7e8861c6",
+    "voice": "en-US-JennyNeural"
+  },
+  "suits-s01e01-028": {
+    "sha1": "2646bc8e9c4227d7cf6d54243405a383acc75337",
+    "voice": "en-US-JennyNeural"
+  },
+  "suits-s01e01-029": {
+    "sha1": "eacf6335049d4e14f54f006757afb641f0e16132",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e01-030": {
+    "sha1": "984560f9450a1302903344785c09cd98a419cc72",
+    "voice": "en-US-JennyNeural"
+  },
+  "suits-s01e01-031": {
+    "sha1": "9c9f91c11de2bd45abfc2236d617bb020b67da43",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e01-032": {
+    "sha1": "6daa1a2b3e871da876326712a7fbb13bb8f29b44",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e01-033": {
+    "sha1": "122c3e3de69c2e846789e2f07a5414deda35b762",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e01-034": {
+    "sha1": "06c629b51abfab79f773a90e3b9ba0d825837bcf",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e01-035": {
+    "sha1": "8e708f7f648df0a480fca15c95053b865ec726ba",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e01-036": {
+    "sha1": "c730ea7a9de3611a0340eabb6d1dfcf28de5a01a",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e01-037": {
+    "sha1": "b7c083928f8b7671e9ee1d4921af3935b8598640",
+    "voice": "en-US-JennyNeural"
+  },
+  "suits-s01e01-038": {
+    "sha1": "8ba2dbfe4c7af1d7ca552ae56373bf76669108e9",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e01-039": {
+    "sha1": "a90b655f2390cd9aa36976c3ccfe6438435450e5",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e01-040": {
+    "sha1": "fe86903cc26374a24bb1889bcf52cff56046d398",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e01-041": {
+    "sha1": "f717d816c80a2538885460e104133aee82e1e5af",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e01-042": {
+    "sha1": "d5a812a09fba46f1b718d5b50beb7b8bf57b70b8",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e01-043": {
+    "sha1": "bcb2991ac92ab4a5ef3c20baa24aa5adbcc6c2df",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e01-044": {
+    "sha1": "a265f2bed73716b940edb4fa2a7b5320662ae988",
+    "voice": "en-US-JennyNeural"
+  },
+  "suits-s01e01-045": {
+    "sha1": "5d9f9f7d93fb315f23e235cea4dcd1c3391853ad",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e01-046": {
+    "sha1": "5ef0acb3112d00d3fdafa5a6c78c4978a42c4fe8",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e01-047": {
+    "sha1": "5ee0ddc808278289b16352214d45dd31af9b6f96",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e01-048": {
+    "sha1": "8aa9ca4a906f25cce2bd161b14cce3bb051003f4",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e01-049": {
+    "sha1": "8cf2ecbb196afdcd454eb1209bcd700b11a69099",
+    "voice": "en-US-JennyNeural"
+  },
+  "suits-s01e01-050": {
+    "sha1": "0f2ab02f2420d56959afa92559dce85c49d1c6e3",
+    "voice": "en-US-JennyNeural"
+  },
+  "suits-s01e01-051": {
+    "sha1": "3a39a2ea764fa38f471829b1149b0817d0df8262",
+    "voice": "en-US-JennyNeural"
+  },
+  "suits-s01e01-052": {
+    "sha1": "647063387b425c247b8bafa2957ada1bbcfbcd42",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e01-053": {
+    "sha1": "240d03e91a3a1ad4752addbb29bd1f5abd7a14c8",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e01-054": {
+    "sha1": "8dba1d83f007ae6570d1dc93befef840e0933ece",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e01-055": {
+    "sha1": "b46aed49e7fd0a7839c2f0e904ef60f5aaca17e9",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e01-056": {
+    "sha1": "965cfe836bd7403c160a66d836f090d24e9e124e",
+    "voice": "en-US-JennyNeural"
+  },
+  "suits-s01e01-057": {
+    "sha1": "059b886062b30b9119087945db5faf5de5d3ff21",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e01-058": {
+    "sha1": "75a03038c654843b36b8f1080279be39ab2235b9",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-001": {
+    "sha1": "848809435b467436e6dc849b624ff98b0453e4c2",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-002": {
+    "sha1": "09452a38169abd75903702f90c36bbd799679eff",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-003": {
+    "sha1": "5bb2956f4a7956f4b8343b0617439884b7da6cc4",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-004": {
+    "sha1": "8ccf1b3c530d7c1526f8f44e5c8cfd14aa2086a4",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-005": {
+    "sha1": "0fe3e06d3841edce532275abc018afe257e99642",
+    "voice": "en-US-AriaNeural"
+  },
+  "suits-s01e02-006": {
+    "sha1": "f3a4a814b698e0ab9981bbf794ed827dcae4d15a",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-007": {
+    "sha1": "33fcfbd2b82d0d08f61fce167c979550034cd977",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-008": {
+    "sha1": "5431ca3b1cc0356275bd7081d6ae24617ea7faa9",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-009": {
+    "sha1": "40d87fe1c7142d106e302dfaabdf4e7de7255439",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-010": {
+    "sha1": "83513854c3f66b84aa641aa33b6cd13a5d0241e5",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-011": {
+    "sha1": "ae6d0f27ec6ce41d345d7c3ae13feef5d6527ecd",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-012": {
+    "sha1": "c93ef9d07208ae3926b744ea7b72ed3cca0ad1a2",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-013": {
+    "sha1": "a248ccb89e9e94a2d80782b4f7af8f1648e5a024",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-014": {
+    "sha1": "c26a3987908beffde07b951b4da11702288233b3",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-015": {
+    "sha1": "342a2abdc63764a9fab8cb99fa1fa8cb2c466ec3",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-016": {
+    "sha1": "9363c7089a73257d1f9b84b564f4cb6e6f392236",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-017": {
+    "sha1": "0cecb7ead28fd335f4ff995fe62229de23f02eb4",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-018": {
+    "sha1": "c7235b1803b61de274d1b587dca70ee93f5eef4f",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-019": {
+    "sha1": "abbf8d085f878bda8d07720880046dd9cf7fe9f9",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-020": {
+    "sha1": "7639b835acb29993a646bfd6773017046d14b676",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-021": {
+    "sha1": "1cbc0ec65bc03e220b5fce815f11c6f8f8406081",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-022": {
+    "sha1": "53bc499528631e9b2338d7ce3ab138e0b1c397b8",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-023": {
+    "sha1": "0b985b569d31900d26b096f906052ea5760f01f9",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-024": {
+    "sha1": "37cd8c7ccf6c0b12f9688a5d2579966784a2ea8d",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-025": {
+    "sha1": "c2ee3a8a0f256659f48da0487408a927672cfb14",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-026": {
+    "sha1": "14af2df6b9696233a96917c4806cd263fa112872",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-027": {
+    "sha1": "7fc04272a9fdf85b404bc8f533c0d41b8f8c0a19",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-028": {
+    "sha1": "e598edc9c4ce37fa125da59b93d88f8aad7909b1",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-029": {
+    "sha1": "34fc04b24130f8930e20be88acc4bc4a386b8707",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-030": {
+    "sha1": "44d885e77dcfbc01c058879195fb1ec12fdceb2a",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-031": {
+    "sha1": "e76e1c4e72cfde98d71233e02776d25549f2c027",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-032": {
+    "sha1": "3b6ead4efa3daed2c0b41b7c09af9f9a00f94018",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-033": {
+    "sha1": "e56a48c0f7e32bc6ca99e6619ca4e03151f7eab4",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-034": {
+    "sha1": "59dec330bfb915637e4f31639fac1a28215cde41",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-035": {
+    "sha1": "f94a13c109748915dc1c2df2f1fbaf9bfcfc6b4f",
+    "voice": "en-US-AriaNeural"
+  },
+  "suits-s01e02-036": {
+    "sha1": "3fd12dc280c64ddba5a9703f88ec1720ba08e7f5",
+    "voice": "en-US-AriaNeural"
+  },
+  "suits-s01e02-037": {
+    "sha1": "a35c43926eb6410034a29298cb51433895f21a0c",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-038": {
+    "sha1": "81285e9e7f6085f7c565d500d35189e5620226d9",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-039": {
+    "sha1": "dd21245a2c90756382c3491a264cf42a38f29495",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-040": {
+    "sha1": "6bba354ce2e2b39e1e4cdd52f3c71ad70711e8b3",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-041": {
+    "sha1": "2a9e3f72c66fd77e5ceb5154c09ccb7f5a1deb20",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-042": {
+    "sha1": "0fb653172ad45a783d81ef2e4fcf44e629c502ec",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-043": {
+    "sha1": "0c5a8f3976f3901535469e67194dfb2953d8c810",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-044": {
+    "sha1": "3fdf42398ccc949d96e418ad7c3274211a00e3ad",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-045": {
+    "sha1": "245e1bf0f9efccf8869f2578f1ae615c7a6a0626",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-046": {
+    "sha1": "12f2345f3b6d7ec9b6f2224d55cb6701cde3695c",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-047": {
+    "sha1": "ec96aae0c795cbc6d7e2b828c3074c216e562ebe",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-048": {
+    "sha1": "427681076f3fcb7ae7da675133c04d5620e84371",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-049": {
+    "sha1": "ec63b4982becf77b640d09545eec7d61c7184416",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-050": {
+    "sha1": "1f2e3b3679b409332f2905f5a41aa8ff3c2b6f62",
+    "voice": "en-US-JennyNeural"
+  },
+  "suits-s01e02-051": {
+    "sha1": "085a0c3678500ae294a02dec3e365ddb975aea21",
+    "voice": "en-US-JennyNeural"
+  },
+  "suits-s01e02-052": {
+    "sha1": "2baba5697c4db6d0d044b30d50f139def3442552",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-053": {
+    "sha1": "872417a7df7f41138b7de754822a50b3f5f1061a",
+    "voice": "en-US-AriaNeural"
+  },
+  "suits-s01e02-054": {
+    "sha1": "746f8348c9f24420d52e48bc483b57bd26815d2f",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-055": {
+    "sha1": "a2b87229fe93be2f0a58848929b2304783ae0355",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-056": {
+    "sha1": "0eda1974c3773bcc7921d7b957038edb829e2523",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-057": {
+    "sha1": "0a25a1cfd8894f5d6f0b8d9f88ed81a49f7ae990",
+    "voice": "en-US-AndrewNeural"
+  },
+  "suits-s01e02-058": {
+    "sha1": "204dabb188fbd7e62c63ecc5c8f796b4a396c395",
+    "voice": "en-US-AndrewNeural"
+  }
+}

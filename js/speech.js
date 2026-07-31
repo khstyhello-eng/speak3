@@ -31,6 +31,16 @@ if (typeof window !== 'undefined' && 'speechSynthesis' in window) {
   speechSynthesis.onvoiceschanged = () => { voice = null; };
 }
 
+let currentAudio = null;
+export function speakSentence(sentence) {
+  if (currentAudio) { currentAudio.pause(); currentAudio = null; }
+  if (support.tts) speechSynthesis.cancel();
+  const audio = new Audio(`data/audio/${sentence.id}.mp3`);
+  currentAudio = audio;
+  audio.onerror = () => { if (currentAudio === audio) { currentAudio = null; speak(sentence.en); } };
+  audio.play().catch(() => { if (currentAudio === audio) { currentAudio = null; speak(sentence.en); } });
+}
+
 export function recognizeOnce({ onSpeechStart } = {}) {
   return new Promise((resolve) => {
     if (!SR) { resolve({ alternatives: [], speechStartMs: null, error: 'unsupported' }); return; }

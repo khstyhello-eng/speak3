@@ -1,6 +1,6 @@
 import { review } from '../srs.js';
 import { bestScore, PASS_THRESHOLD } from '../match.js';
-import { support, speak, recognizeOnce } from '../speech.js';
+import { support, speakSentence, recognizeOnce } from '../speech.js';
 
 const START_WINDOW_MS = 3000;
 const REC_FAILS_TO_SELF_ASSESS = 3;
@@ -120,7 +120,7 @@ async function runRecognition(el, ctx, queue, i, sentence, record) {
 }
 
 function showVerdict(el, ctx, queue, i, sentence, record, v) {
-  speak(sentence.en);
+  speakSentence(sentence);
   const reason = v.pass ? '' : (!v.inTime ? '3초 안에 시작하지 못했어요' : '문장이 정답과 달랐어요');
   el.innerHTML = `<section class="card">
     <p class="sub">${v.pass ? '✅ 성공!' : '❌ ' + reason}</p>
@@ -135,7 +135,7 @@ function showVerdict(el, ctx, queue, i, sentence, record, v) {
     </div>
   </section>`;
   if (!support.tts) el.querySelector('#listen').style.display = 'none';
-  el.querySelector('#listen').onclick = () => speak(sentence.en);
+  el.querySelector('#listen').onclick = () => speakSentence(sentence);
   const apply = (res) => {
     ctx.state.records[queue[i]] = review(record, res, ctx.todayStr(), ctx.nowIso());
     ctx.save();
@@ -153,7 +153,7 @@ function runSelfAssess(el, ctx, queue, i, sentence, record) {
   const stop = startCountdown(el);
   el.querySelector('#reveal').onclick = () => {
     stop();
-    speak(sentence.en);
+    speakSentence(sentence);
     el.innerHTML = `<section class="card">
       <p class="big">${sentence.en}</p>
       <p class="sub">${sentence.ko}</p>
