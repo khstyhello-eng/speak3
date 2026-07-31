@@ -5,7 +5,13 @@ import { support, speak, recognizeOnce } from '../speech.js';
 const START_WINDOW_MS = 3000;
 const REC_FAILS_TO_SELF_ASSESS = 3;
 
+// 화면을 벗어났다가 #drill로 돌아왔을 때 이전 recognizeOnce 콜백이 새 아이템을
+// 건드리지 않도록 하는 세대 카운터. renderDrill/runItem 진입마다 증가시키고,
+// runRecognition은 진입 시점 값을 캡처해 await 이후·onSpeechStart 안에서 비교한다.
+let generation = 0;
+
 export function renderDrill(el, ctx) {
+  generation += 1;
   const queue = buildQueue(ctx);
   if (!queue.length) {
     el.innerHTML = `<section class="card"><p class="big">오늘 발화할 문장이 없어요 🎉</p><div class="row"><a class="btn" href="#learn">새 문장 학습하기</a></div></section>`;
@@ -29,6 +35,7 @@ function cueFor(sentence, record) {
 }
 
 function runItem(el, ctx, queue, i) {
+  generation += 1;
   if (i >= queue.length) {
     el.innerHTML = `<section class="card"><p class="big">오늘 세션 끝! ${queue.length}문장 완료 💪</p><div class="row"><a class="btn" href="#home">홈으로</a></div></section>`;
     return;
@@ -62,13 +69,18 @@ function startCountdown(el, onExpire) {
 }
 
 async function runRecognition(el, ctx, queue, i, sentence, record) {
+  const myGen = generation;
   el.innerHTML = cueHtml(sentence, record, i, queue.length) + `<p class="sub" id="mic-status">🎤 듣는 중…</p>`;
   let started = false;
   const stop = startCountdown(el, () => {
     if (!started) el.querySelector('#mic-status').textContent = '⏰ 3초 지남 — 그래도 끝까지 말해보세요';
   });
-  const result = await recognizeOnce({ onSpeechStart: () => { started = true; el.querySelector('#countdown').textContent = '🗣'; } });
+  const result = await recognizeOnce({ onSpeechStart: () => {
+    if (myGen !== generation) return; // 다른 아이템/화면으로 넘어간 뒤 도착한 콜백
+    started = true; el.querySelector('#countdown').textContent = '🗣';
+  } });
   stop();
+  if (myGen !== generation) return; // 화면 이탈 후 재진입 — 이 recognizeOnce는 더 이상 유효하지 않음
   if (!el.querySelector('#mic-status')) return; // 화면 이탈
   if (result.error && result.error !== 'no-speech') {
     record.recFails += 1;

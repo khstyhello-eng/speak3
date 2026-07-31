@@ -48,6 +48,6 @@ export function recognizeOnce({ onSpeechStart } = {}) {
     rec.onerror = (e) => finish(e.error);
     rec.onend = () => finish(null);
     setTimeout(() => { try { rec.stop(); } catch {} }, 15000);
-    rec.start();
+    try { rec.start(); } catch (e) { finish(e && e.name ? e.name : 'start-failed'); }
   });
 }
