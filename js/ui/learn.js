@@ -97,8 +97,11 @@ function showCard(el, ctx, filter, sourceFilter, s, remaining) {
       <button id="done">학습 완료 → 오늘 발화 목록에 추가</button>
       <button id="skip" class="ghost">스킵</button>
     </div>`;
-  const bindDoneSkip = () => {
+  // onBeforeDone: 변형(3단계) 카드에서만 전달되는 훅 — 학습 완료를 누르는 그 순간에만
+  // 체크박스 상태를 읽어 ctx.state.variationSel을 갱신한다(단순 토글로는 저장 안 함).
+  const bindDoneSkip = (onBeforeDone) => {
     el.querySelector('#done').onclick = () => {
+      if (onBeforeDone) onBeforeDone();
       ctx.state.records[s.id] = newRecord(ctx.todayStr(), ctx.nowIso());
       ctx.save();
       renderLearn(el, ctx); // 다음 후보 or 완료 화면(→발화 연습 링크)
@@ -151,20 +154,34 @@ function showCard(el, ctx, filter, sourceFilter, s, remaining) {
   }
 
   function renderVariations() {
+    // 기존 variationSel 항목이 있으면 그 부분집합만 체크된 채로 보여준다(재방문 케이스
+    // 대비 — 보통 흐름에선 학습 완료 즉시 records[s.id]가 생겨 이 카드가 다시 뜨지
+    // 않는다). 항목이 없으면 기본값대로 전부 체크.
+    const existingSel = ctx.state.variationSel[s.id]?.sel;
     el.innerHTML = `${chipsHtml(ctx, filter, sourceFilter)}<section class="card">
       ${header}
       <p class="big" style="margin:8px 0">응용 표현</p>
-      ${s.variations.map((v, idx) => `<div style="margin:12px 0">
+      ${s.variations.map((v, idx) => {
+        const checked = existingSel ? existingSel.includes(idx) : true;
+        return `<div style="margin:12px 0">
         <p>${v.en} <button class="ghost" data-vidx="${idx}">🔊</button></p>
         <p class="sub">${v.ko}</p>
-      </div>`).join('')}
+        <label class="sub"><input type="checkbox" data-vsel="${idx}" ${checked ? 'checked' : ''}> 발화에 포함</label>
+      </div>`;
+      }).join('')}
       ${doneSkipRow()}
     </section>`;
     bindChips(el, ctx);
     el.querySelectorAll('[data-vidx]').forEach((b) => {
       b.onclick = () => speakVariation(s, Number(b.dataset.vidx));
     });
-    bindDoneSkip();
+    bindDoneSkip(() => {
+      const checkedIdx = [...el.querySelectorAll('[data-vsel]')]
+        .filter((cb) => cb.checked)
+        .map((cb) => Number(cb.dataset.vsel));
+      if (checkedIdx.length === s.variations.length) delete ctx.state.variationSel[s.id];
+      else ctx.state.variationSel[s.id] = { sel: checkedIdx, updatedAt: ctx.nowIso() };
+    });
   }
 
   renderStep();

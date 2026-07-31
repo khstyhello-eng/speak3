@@ -65,3 +65,24 @@ test('export/import 왕복: skipped 보존', () => {
   const back = importJson(exportJson(s));
   assert.deepEqual(back, s);
 });
+
+test('defaultState: variationSel은 빈 객체', () => {
+  assert.deepEqual(defaultState().variationSel, {});
+});
+
+test('mergeState: variationSel은 문장별 최신 updatedAt 승리', () => {
+  const local = { ...defaultState(), updatedAt: '2026-07-30T10:00:00Z', variationSel: { s1: { sel: [0], updatedAt: '2026-07-30T09:00:00Z' }, s2: { sel: [1], updatedAt: '2026-07-30T08:00:00Z' } } };
+  const remote = { ...defaultState(), updatedAt: '2026-07-30T11:00:00Z', variationSel: { s1: { sel: [1, 2], updatedAt: '2026-07-30T12:00:00Z' }, s3: { sel: [0], updatedAt: '2026-07-30T07:00:00Z' } } };
+  const m = mergeState(local, remote);
+  assert.deepEqual(m.variationSel, {
+    s1: { sel: [1, 2], updatedAt: '2026-07-30T12:00:00Z' },
+    s2: { sel: [1], updatedAt: '2026-07-30T08:00:00Z' },
+    s3: { sel: [0], updatedAt: '2026-07-30T07:00:00Z' },
+  });
+});
+
+test('export/import 왕복: variationSel 보존', () => {
+  const s = { ...defaultState(), variationSel: { s1: { sel: [0, 2], updatedAt: '2026-07-30T10:00:00Z' } } };
+  const back = importJson(exportJson(s));
+  assert.deepEqual(back, s);
+});

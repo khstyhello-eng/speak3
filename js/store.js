@@ -3,7 +3,7 @@ const DEVICE_KEY = 'speak3.device';
 const LS = typeof localStorage !== 'undefined' ? localStorage : null;
 
 export function defaultState() {
-  return { version: 1, records: {}, custom: {}, settings: { newPerDay: 5, hideCueText: false }, updatedAt: '', skipped: {} };
+  return { version: 1, records: {}, custom: {}, settings: { newPerDay: 5, hideCueText: false }, updatedAt: '', skipped: {}, variationSel: {} };
 }
 
 export function mergeRecords(a, b) {
@@ -35,6 +35,8 @@ export function mergeState(local, remote) {
     const r = remoteSkipped[id];
     if (l && r) skipped[id] = l > r ? l : r;
   }
+  // variationSel도 records와 동일한 모양(문장 id → {..., updatedAt})이라 mergeRecords를
+  // 그대로 재사용해 문장별 최신 updatedAt 승리 규칙을 적용한다.
   return {
     version: 1,
     records: mergeRecords(local.records, remote.records),
@@ -42,6 +44,7 @@ export function mergeState(local, remote) {
     settings: { ...newer.settings },
     updatedAt: newer.updatedAt,
     skipped,
+    variationSel: mergeRecords(local.variationSel || {}, remote.variationSel || {}),
   };
 }
 

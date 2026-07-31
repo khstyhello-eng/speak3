@@ -107,10 +107,22 @@ function startSession(el, ctx, ids) {
 }
 
 // 변형 로테이션 — 순수 함수(node 테스트 가능). record.interval>=15 && sentence.variations
-// 이 있으면 결정적으로 하나를 고른다(reps % 개수). 아니면 null.
-export function pickVariation(record, sentence) {
+// 이 있으면 결정적으로 하나를 고른다. sel(원본 인덱스 배열)로 학습 카드에서 사용자가
+// 고른 부분집합을 반영할 수 있다:
+//  - sel이 null/undefined(기본값) → 기존 동작 그대로, 전체 variations에서 reps % 개수.
+//  - sel이 빈 배열([]) → "발화에 포함" 전부 해제 — 변형 모드 자체를 끈다(null 반환 →
+//    cueFor가 stage-2 큐 경로로 폴백).
+//  - sel이 비어있지 않은 배열 → reps % sel.length로 sel 안에서 로테이션하되, 반환하는
+//    idx는 항상 원본 variations[] 인덱스(sel[...]) — 오디오 키(koVariationKey)와 화면
+//    표시가 원본 인덱스를 기준으로 하기 때문에 이 매핑이 정확성의 핵심이다.
+export function pickVariation(record, sentence, sel = null) {
   const list = sentence && sentence.variations;
   if (!record || record.interval < VARIATION_MIN_INTERVAL || !list || !list.length) return null;
+  if (Array.isArray(sel)) {
+    if (!sel.length) return null;
+    const idx = sel[record.reps % sel.length];
+    return { idx, v: list[idx] };
+  }
   const idx = record.reps % list.length;
   return { idx, v: list[idx] };
 }
@@ -120,8 +132,11 @@ export function pickVariation(record, sentence) {
 // audioKey는 speakKorean에 넘길 data/audio/ko/<audioKey>.mp3 키. contextBefore 분기는 영어
 // 텍스트(스크립트 앞 대사)라 한국어 음성이 존재하지 않으므로 audioKey를 null로 둔다 — 커스텀
 // 문장(situationCue가 항상 '')이 stage 2+ 로 승급했을 때만 실제로 닿는 드문 경로다.
-function cueFor(sentence, record) {
-  const pv = pickVariation(record, sentence);
+// ctx.state.variationSel[sentence.id]?.sel로 학습 카드에서 사용자가 고른 부분집합을
+// pickVariation에 전달한다 — 항목이 없으면 undefined?? null → 전체 포함(기존 동작).
+function cueFor(ctx, sentence, record) {
+  const sel = ctx.state.variationSel[sentence.id]?.sel ?? null;
+  const pv = pickVariation(record, sentence, sel);
   if (pv) return { label: '응용해서 말해보세요', text: pv.v.ko, audioKey: koVariationKey(sentence.id, pv.idx), pv };
   if (record.stage >= 2 && sentence.situationCue) return { label: '이런 상황이라면?', text: sentence.situationCue, audioKey: koCueKey(sentence.id) };
   if (record.stage >= 2 && sentence.contextBefore) return { label: '상대방이 이렇게 말했다:', text: sentence.contextBefore, audioKey: null };
@@ -154,7 +169,7 @@ function runItem(el, ctx, queue, i) {
   const id = queue[i];
   const record = ctx.state.records[id];
   const sentence = ctx.content.sentenceById[id];
-  const cue = cueFor(sentence, record);
+  const cue = cueFor(ctx, sentence, record);
   if (record.selfAssess || sessionSelfAssess || !support.recognition) runSelfAssess(el, ctx, queue, i, sentence, record, cue);
   else runRecognition(el, ctx, queue, i, sentence, record, cue);
 }

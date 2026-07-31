@@ -26,6 +26,35 @@ test('pickVariation: record/sentence 자체가 없어도 안전하게 null', () 
   assert.equal(pickVariation({ interval: 15, reps: 0 }, null), null);
 });
 
+test('pickVariation: sel=null(생략)이면 기존 동작과 동일 — 전체 variations에서 로테이션', () => {
+  assert.deepEqual(pickVariation({ interval: 15, reps: 0 }, sentence, null), { idx: 0, v: sentence.variations[0] });
+  assert.deepEqual(pickVariation({ interval: 15, reps: 1 }, sentence), { idx: 1, v: sentence.variations[1] });
+});
+
+test('pickVariation: sel=[1]이면 reps와 무관하게 항상 원본 인덱스 1', () => {
+  assert.deepEqual(pickVariation({ interval: 15, reps: 0 }, sentence, [1]), { idx: 1, v: sentence.variations[1] });
+  assert.deepEqual(pickVariation({ interval: 33, reps: 5 }, sentence, [1]), { idx: 1, v: sentence.variations[1] });
+});
+
+test('pickVariation: sel=[]이면 (전부 해제) null — 변형 모드 자체를 끈다', () => {
+  assert.equal(pickVariation({ interval: 15, reps: 0 }, sentence, []), null);
+  assert.equal(pickVariation({ interval: 33, reps: 5 }, sentence, []), null);
+});
+
+test('pickVariation: sel=[0,2]면 reps%2로 그 부분집합 안에서만 로테이션하되 원본 인덱스를 반환', () => {
+  const three = { variations: [{ en: 'a', ko: '가' }, { en: 'b', ko: '나' }, { en: 'c', ko: '다' }] };
+  assert.deepEqual(pickVariation({ interval: 15, reps: 0 }, three, [0, 2]), { idx: 0, v: three.variations[0] });
+  assert.deepEqual(pickVariation({ interval: 15, reps: 1 }, three, [0, 2]), { idx: 2, v: three.variations[2] });
+  assert.deepEqual(pickVariation({ interval: 15, reps: 2 }, three, [0, 2]), { idx: 0, v: three.variations[0] });
+  assert.deepEqual(pickVariation({ interval: 15, reps: 3 }, three, [0, 2]), { idx: 2, v: three.variations[2] });
+});
+
+test('pickVariation: interval<15면 sel과 무관하게 항상 null', () => {
+  assert.equal(pickVariation({ interval: 14, reps: 0 }, sentence, [1]), null);
+  assert.equal(pickVariation({ interval: 0, reps: 0 }, sentence, []), null);
+  assert.equal(pickVariation({ interval: 5, reps: 0 }, sentence, null), null);
+});
+
 test('deferInQueue: 큐 중간(i)에서 미루면 해당 항목이 맨 뒤로, i는 원래 i+1 항목을 가리킨다', () => {
   const queue = ['a', 'b', 'c', 'd'];
   const out = deferInQueue(queue, 1); // 'b'를 미룸
