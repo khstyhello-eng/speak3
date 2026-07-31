@@ -1,6 +1,6 @@
 import { review } from '../srs.js';
 import { bestScore, PASS_THRESHOLD } from '../match.js';
-import { support, speakSentence, speakVariation, speakKorean, recognizeOnce } from '../speech.js';
+import { support, speakSentence, speakVariation, speakKorean, recognizeOnce, stopSpeech, abortRecognition } from '../speech.js';
 import { koOriginalKey, koCueKey, koVariationKey } from '../audioKeys.js';
 
 const START_WINDOW_MS = 3000;
@@ -159,14 +159,34 @@ function runItem(el, ctx, queue, i) {
   else runRecognition(el, ctx, queue, i, sentence, record, cue);
 }
 
-// "나중에" — 현재 아이템을 큐 맨 뒤로 미룬다. review()를 적용하지 않고(진도 변화 없음),
-// splice+push로 같은 배열을 제자리에서 재배열한 뒤 같은 인덱스 i로 runItem을 다시 부른다.
-// runItem이 진입 즉시 generation을 올리므로, 이 호출 하나로 직전 아이템의 재생 중이던
-// 오디오 onDone/진행 중이던 recognizeOnce가 화면 이탈 때와 동일하게 무해해진다(아래 cueHtml/
-// bindDefer 주석 참고). 남은 아이템이 1개뿐이면(자기 자신만 미룰 대상) 버튼 자체를 숨긴다.
-function deferCurrent(el, ctx, queue, i) {
+// 큐 재배열의 순수 부분만 분리 — node 테스트 가능. queue[i]를 빼서 배열 맨 뒤로 옮기고
+// (제자리 변형·같은 참조 반환) 같은 인덱스 i에는 원래 i+1에 있던 항목이 오게 된다.
+// splice+push는 배열 길이를 보존하므로(제거 1 + 추가 1 = 순변화 0), 같은 인덱스에서
+// 반복 호출하면 남은 항목 수만큼 돌고 나서 원래 순서로 돌아온다(사이클).
+export function deferInQueue(queue, i) {
   const [id] = queue.splice(i, 1);
   queue.push(id);
+  return queue;
+}
+
+// "나중에" — 현재 아이템을 큐 맨 뒤로 미루고(review() 미적용 — 진도 변화 없음) 같은
+// 인덱스 i로 runItem을 다시 부른다. runItem이 진입 즉시 generation을 올리므로, 직전
+// 아이템에 대해 나가 있던 recognizeOnce의 RESULT/오디오 onDone은 이 한 번으로 화면
+// 이탈 때와 동일하게 "낡은 값"이 되어 상태를 더 건드리지 못한다 — 하지만 그것만으로는
+// 브라우저의 실제 마이크·오디오 재생 자체가 멈추지 않는다(#drill을 벗어나는 게 아니라서
+// speech.js의 hashchange 리스너도 타지 않는다). 그래서 여기서 명시적으로:
+//  - abortRecognition(): 직전 아이템이 recognizeOnce로 듣고 있던 실제 마이크 세션을
+//    끈다 — 이게 없으면 다음 아이템이 새 recognizeOnce를 시작할 때 두 개의
+//    SpeechRecognition이 동시에 떠 있는 이중 마이크 상태가 된다.
+//  - stopSpeech(): 직전 아이템의 한국어 큐 mp3/TTS가 재생 중이었다면 즉시 멈춘다.
+//    보통은 다음 아이템의 playCueAudio→speakKorean이 시작되며 stopSpeech()가 저절로
+//    불리지만, 다음 아이템의 cue가 audioKey null + hideCueText 꺼짐 조합이면 그
+//    호출 자체가 없어(onDone을 즉시 부르고 끝) 이전 오디오가 배경에서 계속 들릴 수
+//    있다 — 그 틈을 여기서 미리 막는다.
+function deferCurrent(el, ctx, queue, i) {
+  abortRecognition();
+  stopSpeech();
+  deferInQueue(queue, i);
   runItem(el, ctx, queue, i);
 }
 

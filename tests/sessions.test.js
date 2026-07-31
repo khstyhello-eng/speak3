@@ -74,6 +74,17 @@ test('buildSessions: chunkSize override', () => {
   assert.deepEqual(sessions[0].chunks.map((c) => c.length), [2, 2, 1]);
 });
 
+test('buildSessions: 같은 섹션 안 두 소스도 sec.sources 선언 순서를 따른다 (due 이른 쪽이 아님)', () => {
+  // src2(t1)의 due가 src1(s1)보다 훨씬 이르지만, 같은 secA 안에서도 선언 순서(src1 → src2)가
+  // 우선한다 — 그룹 순서 규칙이 "섹션 간"뿐 아니라 "섹션 내 소스 간"에도 동일하게 적용됨을 검증.
+  const records = {
+    t1: rec(PAST),
+    s1: rec(TODAY),
+  };
+  const sessions = buildSessions(records, content, TODAY);
+  assert.deepEqual(sessions.map((s) => s.sourceId), ['src1', 'src2']);
+});
+
 test('buildSessions: 소스 내 정렬은 buildQueue와 동일하게 due 오름차순', () => {
   const records = {
     s2: rec('2026-08-01'),

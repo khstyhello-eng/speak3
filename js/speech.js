@@ -43,10 +43,25 @@ export function stopSpeech() {
   if (currentAudio) { currentAudio.pause(); currentAudio = null; }
   if (support.tts) speechSynthesis.cancel();
 }
-// 화면 전환(#drill→#home 등) 시점에 즉시 재생을 끊는다. 위 주석의 "다음 재생 호출 시점"
-// 방어선은 여전히 유효하지만, 그것만으로는 화면을 벗어난 뒤 아무 오디오도 재생되지 않는
-// 화면(예: #home)에 계속 머무는 동안 잔여 오디오가 자연 종료될 때까지 들리는 문제가 남는다.
-if (typeof window !== 'undefined') window.addEventListener('hashchange', stopSpeech);
+
+// 현재 실행 중인 SpeechRecognition 인스턴스(있다면 단 하나). recognizeOnce가 rec을
+// 생성할 때 등록하고, finish()에서(정상 종료·에러·abort 무엇으로 끝나든) 해제한다.
+let currentRec = null;
+
+// 진행 중인 음성인식을 강제 종료한다. drill.js의 generation 카운터는 "낡은 RESULT를
+// 무시"할 뿐 마이크 자체를 끄지는 않으므로(예: 드릴 화면 안에서 "나중에"로 다음 문항으로
+// 넘어가는 경우 — #drill을 벗어나지 않아 hashchange도 안 뜬다), 실제로 rec.abort()를
+// 불러야 브라우저가 듣기를 멈춘다. abort()는 onerror('aborted') 또는 onend를 발화시켜
+// recognizeOnce의 settled 가드를 통해 정상적으로 프라미스를 정리한다.
+export function abortRecognition() {
+  if (currentRec) { try { currentRec.abort(); } catch {} currentRec = null; }
+}
+// 화면 전환(#drill→#home 등) 시점에 즉시 재생/인식을 끊는다. 위 stopSpeech 주석의
+// "다음 재생 호출 시점" 방어선은 여전히 유효하지만, 그것만으로는 화면을 벗어난 뒤
+// 아무 오디오도 재생되지 않는 화면(예: #home)에 계속 머무는 동안 잔여 오디오가 자연
+// 종료될 때까지 들리는 문제, 그리고 화면을 벗어났다 #drill로 재진입했을 때 직전
+// 세션의 마이크가 여전히 듣고 있다가 새 세션의 마이크와 겹치는 문제가 남는다.
+if (typeof window !== 'undefined') window.addEventListener('hashchange', () => { stopSpeech(); abortRecognition(); });
 
 function playAudioOrFallback(path, fallbackText) {
   stopSpeech();
@@ -118,6 +133,7 @@ export function recognizeOnce({ onSpeechStart } = {}) {
     rec.lang = 'en-US';
     rec.interimResults = true;
     rec.maxAlternatives = 5;
+    currentRec = rec;
     const t0 = performance.now();
     let speechStartMs = null;
     let finals = [];
@@ -125,6 +141,7 @@ export function recognizeOnce({ onSpeechStart } = {}) {
     const finish = (error) => {
       if (settled) return;
       settled = true;
+      if (currentRec === rec) currentRec = null;
       resolve({ alternatives: finals, speechStartMs, error: error || null });
     };
     rec.onspeechstart = () => {
